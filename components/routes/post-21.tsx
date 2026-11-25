@@ -16,7 +16,7 @@ export default function Post21Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="450" height="450" src="/img/img-eefaf56321.png" className="attachment-full size-full wp-post-image" alt="BCAM 2025 QRC Landing" decoding="async" srcSet="/img/img-df8b756717.png 450w, /img/img-b9ce2f42ca.png 300w, /img/img-13518a1dea.png 150w" sizes="(max-width: 450px) 100vw, 450px" data-attachment-id="4351" data-permalink="https://lumenwash.com/2025/09/26/we-can-make-a-difference-this-october/bcam-2025-landing/" data-orig-file="/img/img-eefaf56321.png" data-orig-size="450,450" data-comments-opened="1" data-image-title="BCAM 2025 QRC Landing" data-image-description="" data-image-caption="" data-large-file="/img/img-eefaf56321.png" />
+                    <img fetchPriority="high" width="450" height="450" src="/img/img-eefaf56321.png" className="attachment-full size-full wp-post-image" alt="BCAM 2025 QRC Landing" decoding="async" srcSet="/img/img-df8b756717.png 450w, /img/img-b9ce2f42ca.png 300w, /img/img-13518a1dea.png 150w" sizes="(max-width: 450px) 100vw, 450px" data-attachment-id="4351" data-permalink="https://glintingbaywash.com/2025/09/26/we-can-make-a-difference-this-october/bcam-2025-landing/" data-orig-file="/img/img-eefaf56321.png" data-orig-size="450,450" data-comments-opened="1" data-image-title="BCAM 2025 QRC Landing" data-image-description="" data-image-caption="" data-large-file="/img/img-eefaf56321.png" />
                     {" "}
                   </div>
                   {"\n"}
@@ -131,7 +131,7 @@ export default function Post21Page() {
                                   </strong>
                                   {". And yet, the fight isn’t over. That’s why at "}
                                   <a className="decorated-link" href="/" target="_new" rel="noopener" data-start="1289" data-end="1344">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   , we’re proud to stand alongside the South Hills community to continue the mission.
                                 </p>
@@ -166,7 +166,7 @@ export default function Post21Page() {
                                   Together, we can make sure more people find breast cancer in its earliest—and most treatable—stages.
                                 </p>
                                 <p data-start="2029" data-end="2082">
-                                  <img decoding="async" data-attachment-id="4256" data-permalink="https://lumenwash.com/2025/09/26/we-can-make-a-difference-this-october/we-can-wall/" data-orig-file="/img/img-4f2d2b54bd.png" data-orig-size="806,509" data-comments-opened="1" data-image-title="we can wall" data-image-description="" data-image-caption="" data-large-file="/img/img-4f2d2b54bd.png" data-recalc-dims="1" className="wp-image-4256 aligncenter" src="/img/img-a521f20d58.png" alt="we can wall for breast cancer awareness month" width="515" height="325" srcSet="/img/img-71e264e52a.png 806w, /img/img-a8a96d2fc5.png 300w, /img/img-48d990a911.png 768w, /img/img-15856a262c.png 700w" sizes="(max-width: 515px) 100vw, 515px" />
+                                  <img decoding="async" data-attachment-id="4256" data-permalink="https://glintingbaywash.com/2025/09/26/we-can-make-a-difference-this-october/we-can-wall/" data-orig-file="/img/img-4f2d2b54bd.png" data-orig-size="806,509" data-comments-opened="1" data-image-title="we can wall" data-image-description="" data-image-caption="" data-large-file="/img/img-4f2d2b54bd.png" data-recalc-dims="1" className="wp-image-4256 aligncenter" src="/img/img-a521f20d58.png" alt="we can wall for breast cancer awareness month" width="515" height="325" srcSet="/img/img-71e264e52a.png 806w, /img/img-a8a96d2fc5.png 300w, /img/img-48d990a911.png 768w, /img/img-15856a262c.png 700w" sizes="(max-width: 515px) 100vw, 515px" />
                                 </p>
                                 <h2 data-start="2089" data-end="2150">
                                   {"Join Us in October: Free Wash Tuesdays & The WE CAN Wall"}
@@ -204,7 +204,7 @@ export default function Post21Page() {
                                   </strong>
                                   {" For every free wash guest who signs the Virtual WE CAN Wall, "}
                                   <strong data-start="2684" data-end="2724">
-                                    Lumen Car Wash will donate $1
+                                    Glinting Bay Car Wash will donate $1
                                   </strong>
                                   {" to support breast cancer awareness and research."}
                                 </p>
@@ -223,13 +223,13 @@ export default function Post21Page() {
                                 </p>
                                 <h3>
                                   <strong>
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h3>
                                 <p>
                                   {"We guarantee the Best Car Wash Experience at "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   {" or your money back! – Join our "}
                                   <a href="/#pricing">
@@ -244,7 +244,7 @@ export default function Post21Page() {
                                   Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                 </p>
                                 <p>
-                                  {"At Lumen Car Wash, we hold ourselves to the "}
+                                  {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                   <a href="/operating-agreement/">
                                     highest standards of ethical conduct and social responsibility
                                   </a>
@@ -259,7 +259,7 @@ export default function Post21Page() {
                                 <p>
                                   {"Try the rest but then come to the best car wash in town – "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                 </p>
@@ -466,7 +466,7 @@ export default function Post21Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4254,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2025%2F09%2F26%2Fwe-can-make-a-difference-this-october%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4254,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2025%2F09%2F26%2Fwe-can-make-a-difference-this-october%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

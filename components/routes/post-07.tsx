@@ -22,7 +22,7 @@ export default function Post07Page() {
                         {"\n"}
                         <div className="post_image">
                           {"\n"}
-                          <img fetchPriority="high" width="3864" height="2576" src="/img/img-bbcfae5d3b.jpg" className="attachment-full size-full wp-post-image" alt="lumen car wash customers love their shine" decoding="async" srcSet="/img/img-a4b77c71b1.jpg 3864w, /img/img-7ac05833f2.jpg 300w, /img/img-ce3207c724.jpg 1024w, /img/img-462ab30eca.jpg 768w, /img/img-3576f6ca44.jpg 1536w, /img/img-a2b5b1dd1a.jpg 2048w, /img/img-0107f6dbf7.jpg 1200w, /img/img-875a9fb654.jpg 700w, /img/img-22c5e31f07.jpg 600w, /img/img-da28d157d0.jpg 2120w, /img/img-348cbfd77b.jpg 3180w" sizes="(max-width: 3864px) 100vw, 3864px" data-attachment-id="1484" data-permalink="https://lumenwash.com/woman-embracing-car/" data-orig-file="/img/img-bbcfae5d3b.jpg" data-orig-size="3864,2576" data-comments-opened="1" data-image-meta={"{\"aperture\":\"2.8\",\"credit\":\"Getty Images\",\"camera\":\"Canon EOS 5D Mark II\",\"caption\":\"Happy young woman - car owner, embracing car at auto salon, smiling with eyes closed.\",\"created_timestamp\":\"1331482946\",\"copyright\":\"svetikd\",\"focal_length\":\"63\",\"iso\":\"160\",\"shutter_speed\":\"0.008\",\"title\":\"Woman embracing car.\",\"orientation\":\"1\"}"} data-image-title="Woman embracing car." data-image-description="" data-image-caption="" data-large-file="/img/img-a16b8fe488.jpg" />
+                          <img fetchPriority="high" width="3864" height="2576" src="/img/img-bbcfae5d3b.jpg" className="attachment-full size-full wp-post-image" alt="glinting bay car wash customers love their shine" decoding="async" srcSet="/img/img-a4b77c71b1.jpg 3864w, /img/img-7ac05833f2.jpg 300w, /img/img-ce3207c724.jpg 1024w, /img/img-462ab30eca.jpg 768w, /img/img-3576f6ca44.jpg 1536w, /img/img-a2b5b1dd1a.jpg 2048w, /img/img-0107f6dbf7.jpg 1200w, /img/img-875a9fb654.jpg 700w, /img/img-22c5e31f07.jpg 600w, /img/img-da28d157d0.jpg 2120w, /img/img-348cbfd77b.jpg 3180w" sizes="(max-width: 3864px) 100vw, 3864px" data-attachment-id="1484" data-permalink="https://glintingbaywash.com/woman-embracing-car/" data-orig-file="/img/img-bbcfae5d3b.jpg" data-orig-size="3864,2576" data-comments-opened="1" data-image-meta={"{\"aperture\":\"2.8\",\"credit\":\"Getty Images\",\"camera\":\"Canon EOS 5D Mark II\",\"caption\":\"Happy young woman - car owner, embracing car at auto salon, smiling with eyes closed.\",\"created_timestamp\":\"1331482946\",\"copyright\":\"svetikd\",\"focal_length\":\"63\",\"iso\":\"160\",\"shutter_speed\":\"0.008\",\"title\":\"Woman embracing car.\",\"orientation\":\"1\"}"} data-image-title="Woman embracing car." data-image-description="" data-image-caption="" data-large-file="/img/img-a16b8fe488.jpg" />
                           {" "}
                         </div>
                         {"\n"}
@@ -158,13 +158,13 @@ export default function Post07Page() {
                                           {"\n"}
                                           <h5>
                                             <strong>
-                                              Lumen Car Wash – Who we are and what we stand for.
+                                              Glinting Bay Car Wash – Who we are and what we stand for.
                                             </strong>
                                           </h5>
                                           <p>
                                             {"We guarantee the Best Car Wash Experience at "}
                                             <a href="/">
-                                              Lumen Car Wash
+                                              Glinting Bay Car Wash
                                             </a>
                                             {" or your money back! – Join our "}
                                             <a href="/#pricing">
@@ -179,7 +179,7 @@ export default function Post07Page() {
                                             Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                           </p>
                                           <p>
-                                            {"At Lumen Car Wash, we hold ourselves to the "}
+                                            {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                             <a href="/operating-agreement/">
                                               highest standards of ethical conduct and social responsibility
                                             </a>
@@ -194,7 +194,7 @@ export default function Post07Page() {
                                           <p>
                                             {"Try the rest but then come to the best car wash in town – "}
                                             <a href="/">
-                                              Lumen Car Wash
+                                              Glinting Bay Car Wash
                                             </a>
                                             . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                           </p>
@@ -465,7 +465,7 @@ export default function Post07Page() {
                         </small>
                       </h3>
                       <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":72,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2023%2F05%2F18%2Fthe-power-of-clean-spaces-boost-happiness-reduce-stress%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":72,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2023%2F05%2F18%2Fthe-power-of-clean-spaces-boost-happiness-reduce-stress%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                           <div className="jetpack-comments__plain">
                             <p className="comment-form-author">
                               <label htmlFor="author">
@@ -538,7 +538,7 @@ export default function Post07Page() {
                         <li>
                           {"\n"}
                           <a href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                            October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                            October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                           </a>
                           {"\n"}
                         </li>
@@ -553,8 +553,8 @@ export default function Post07Page() {
                         {"\n"}
                         <li>
                           {"\n"}
-                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                            More Power for the Vacuum Stations at Lumen Car Wash
+                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                            More Power for the Vacuum Stations at Glinting Bay Car Wash
                           </a>
                           {"\n"}
                         </li>

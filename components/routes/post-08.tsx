@@ -22,7 +22,7 @@ export default function Post08Page() {
                         {"\n"}
                         <div className="post_image">
                           {"\n"}
-                          <img fetchPriority="high" width="5616" height="3744" src="/img/img-ed60dc4430.jpg" className="attachment-full size-full wp-post-image" alt="perfect shine lumen car wash" decoding="async" srcSet="/img/img-2ed71f074c.jpg 5616w, /img/img-96bc0f057c.jpg 600w, /img/img-583c98d652.jpg 300w, /img/img-ddbb8ce1d0.jpg 1024w, /img/img-4200f327b2.jpg 768w, /img/img-b3ff55325f.jpg 1536w, /img/img-edc1ed9f6d.jpg 2048w, /img/img-761c40b3e7.jpg 1200w, /img/img-0f276c31a7.jpg 700w, /img/img-aea684988d.jpg 2120w, /img/img-4832c04848.jpg 3180w" sizes="(max-width: 5616px) 100vw, 5616px" data-attachment-id="490" data-permalink="https://lumenwash.com/speeding-curve-sports-car/" data-orig-file="/img/img-ed60dc4430.jpg" data-orig-size="5616,3744" data-comments-opened="1" data-image-meta={"{\"aperture\":\"11\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"Canon EOS 5D Mark II\",\"caption\":\"A black sports car turns in to a corner. Autumn leaves are on the road and in the background blur.\",\"created_timestamp\":\"1415381724\",\"copyright\":\"DaveAlan\",\"focal_length\":\"16\",\"iso\":\"200\",\"shutter_speed\":\"1.6\",\"title\":\"Speeding Curve Sports Car.\",\"orientation\":\"1\"}"} data-image-title="Speeding Curve Sports Car." data-image-description="" data-image-caption="" data-large-file="/img/img-ac5682eec5.jpg" />
+                          <img fetchPriority="high" width="5616" height="3744" src="/img/img-ed60dc4430.jpg" className="attachment-full size-full wp-post-image" alt="perfect shine glinting bay car wash" decoding="async" srcSet="/img/img-2ed71f074c.jpg 5616w, /img/img-96bc0f057c.jpg 600w, /img/img-583c98d652.jpg 300w, /img/img-ddbb8ce1d0.jpg 1024w, /img/img-4200f327b2.jpg 768w, /img/img-b3ff55325f.jpg 1536w, /img/img-edc1ed9f6d.jpg 2048w, /img/img-761c40b3e7.jpg 1200w, /img/img-0f276c31a7.jpg 700w, /img/img-aea684988d.jpg 2120w, /img/img-4832c04848.jpg 3180w" sizes="(max-width: 5616px) 100vw, 5616px" data-attachment-id="490" data-permalink="https://glintingbaywash.com/speeding-curve-sports-car/" data-orig-file="/img/img-ed60dc4430.jpg" data-orig-size="5616,3744" data-comments-opened="1" data-image-meta={"{\"aperture\":\"11\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"Canon EOS 5D Mark II\",\"caption\":\"A black sports car turns in to a corner. Autumn leaves are on the road and in the background blur.\",\"created_timestamp\":\"1415381724\",\"copyright\":\"DaveAlan\",\"focal_length\":\"16\",\"iso\":\"200\",\"shutter_speed\":\"1.6\",\"title\":\"Speeding Curve Sports Car.\",\"orientation\":\"1\"}"} data-image-title="Speeding Curve Sports Car." data-image-description="" data-image-caption="" data-large-file="/img/img-ac5682eec5.jpg" />
                           {" "}
                         </div>
                         {"\n"}
@@ -153,7 +153,7 @@ export default function Post08Page() {
                                             <a href="https://www.accuweather.com/">
                                               winter driving conditions
                                             </a>
-                                            {", it is not without its drawbacks. The potential damages caused by road salt buildup on cars can be significant, but with proper care and maintenance, these problems can be easily avoided. By following the tips provided and taking preventative measures, you can keep your car safe from road salt’s harmful effects. And if you want year-round coverage against corrosion and finish damages from road elements and debris, a Lumen Car Wash "}
+                                            {", it is not without its drawbacks. The potential damages caused by road salt buildup on cars can be significant, but with proper care and maintenance, these problems can be easily avoided. By following the tips provided and taking preventative measures, you can keep your car safe from road salt’s harmful effects. And if you want year-round coverage against corrosion and finish damages from road elements and debris, a Glinting Bay Car Wash "}
                                             <a href="/#plan">
                                               membership plan
                                             </a>
@@ -170,13 +170,13 @@ export default function Post08Page() {
                                           {"\n"}
                                           <h5>
                                             <strong>
-                                              Lumen Car Wash – Who we are and what we stand for.
+                                              Glinting Bay Car Wash – Who we are and what we stand for.
                                             </strong>
                                           </h5>
                                           <p>
                                             {"We guarantee the Best Car Wash Experience at "}
                                             <a href="/">
-                                              Lumen Car Wash
+                                              Glinting Bay Car Wash
                                             </a>
                                             {" or your money back! – Join our "}
                                             <a href="/#pricing">
@@ -191,7 +191,7 @@ export default function Post08Page() {
                                             Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                           </p>
                                           <p>
-                                            {"At Lumen Car Wash, we hold ourselves to the "}
+                                            {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                             <a href="/operating-agreement/">
                                               highest standards of ethical conduct and social responsibility
                                             </a>
@@ -206,7 +206,7 @@ export default function Post08Page() {
                                           <p>
                                             {"Try the rest but then come to the best car wash in town – "}
                                             <a href="/">
-                                              Lumen Car Wash
+                                              Glinting Bay Car Wash
                                             </a>
                                             . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                           </p>
@@ -427,7 +427,7 @@ export default function Post08Page() {
                         </small>
                       </h3>
                       <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":81,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2023%2F07%2F18%2Fthe-truth-about-road-salts-effects-on-your-car%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":81,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2023%2F07%2F18%2Fthe-truth-about-road-salts-effects-on-your-car%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                           <div className="jetpack-comments__plain">
                             <p className="comment-form-author">
                               <label htmlFor="author">
@@ -500,7 +500,7 @@ export default function Post08Page() {
                         <li>
                           {"\n"}
                           <a href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                            October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                            October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                           </a>
                           {"\n"}
                         </li>
@@ -515,8 +515,8 @@ export default function Post08Page() {
                         {"\n"}
                         <li>
                           {"\n"}
-                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                            More Power for the Vacuum Stations at Lumen Car Wash
+                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                            More Power for the Vacuum Stations at Glinting Bay Car Wash
                           </a>
                           {"\n"}
                         </li>

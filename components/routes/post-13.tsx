@@ -18,7 +18,7 @@ export default function Post13Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="742" height="558" src="/img/img-75056f6173.png" className="attachment-full size-full wp-post-image" alt="bugs gone wild" decoding="async" srcSet="/img/img-f9223c9ad4.png 742w, /img/img-025008c82f.png 300w, /img/img-4cded6b004.png 600w, /img/img-db7e5b49c5.png 400w, /img/img-bd3e87722a.png 200w, /img/img-e80da594ea.png 700w" sizes="(max-width: 742px) 100vw, 742px" data-attachment-id="3584" data-permalink="https://lumenwash.com/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/bugs-gone-wild/" data-orig-file="/img/img-75056f6173.png" data-orig-size="742,558" data-comments-opened="1" data-image-title="bugs gone wild" data-image-description={"<p>#image_title</p>\n"} data-image-caption={"<p>#image_title</p>\n"} data-large-file="/img/img-75056f6173.png" />
+                    <img fetchPriority="high" width="742" height="558" src="/img/img-75056f6173.png" className="attachment-full size-full wp-post-image" alt="bugs gone wild" decoding="async" srcSet="/img/img-f9223c9ad4.png 742w, /img/img-025008c82f.png 300w, /img/img-4cded6b004.png 600w, /img/img-db7e5b49c5.png 400w, /img/img-bd3e87722a.png 200w, /img/img-e80da594ea.png 700w" sizes="(max-width: 742px) 100vw, 742px" data-attachment-id="3584" data-permalink="https://glintingbaywash.com/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/bugs-gone-wild/" data-orig-file="/img/img-75056f6173.png" data-orig-size="742,558" data-comments-opened="1" data-image-title="bugs gone wild" data-image-description={"<p>#image_title</p>\n"} data-image-caption={"<p>#image_title</p>\n"} data-large-file="/img/img-75056f6173.png" />
                     {" "}
                   </div>
                   {"\n"}
@@ -30,7 +30,7 @@ export default function Post13Page() {
                         <span itemProp="dateCreated" className="date entry_date updated">
                           13 Jul
                         </span>
-                        {" Nothing Bugs Us: Lumen’s Graphene Coating for the Ultimate Vehicle Protection"}
+                        {" Nothing Bugs Us: Glinting Bay’s Graphene Coating for the Ultimate Vehicle Protection"}
                       </h2>
                       {"\n"}
                       <div className="post_info">
@@ -62,7 +62,7 @@ export default function Post13Page() {
                         <span className="dots">
                           <i className="fa fa-square"></i>
                         </span>
-                        <a itemProp="url" className="post_comments" href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/#respond" target="_self">
+                        <a itemProp="url" className="post_comments" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/#respond" target="_self">
                           0 Comments
                         </a>
                         {"\n"}
@@ -143,11 +143,11 @@ export default function Post13Page() {
                                 <h2 className={"font-bold text-h3 leading-[36px] pt-[21px] pb-[2px] [&_a]:underline-offset-[6px] [&_.underline]:underline-offset-[6px]"} dir="ltr">
                                   <span style={sx({ letterSpacing: "-1.3px", textAlign: "var(--text-align)" })}>
                                     <br />
-                                    Experience the Premium Graphene Coating Application at Lumen Car Wash
+                                    Experience the Premium Graphene Coating Application at Glinting Bay Car Wash
                                   </span>
                                 </h2>
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  At Lumen Car Wash, we take every precaution to properly prepare your vehicle before applying the graphene coating. Our meticulous process eliminates dirt, debris, and contaminants, ensuring a flawless bond between the clear coat and the graphene coating. Trust us to provide the best care for your vehicle.
+                                  At Glinting Bay Car Wash, we take every precaution to properly prepare your vehicle before applying the graphene coating. Our meticulous process eliminates dirt, debris, and contaminants, ensuring a flawless bond between the clear coat and the graphene coating. Trust us to provide the best care for your vehicle.
                                 </p>
                                 <h3 className={"font-bold text-h4 leading-[30px] pt-[15px] pb-[2px] [&_a]:underline-offset-[6px] [&_.underline]:underline-offset-[6px]"} dir="ltr">
                                   Our Preparation Process
@@ -196,7 +196,7 @@ export default function Post13Page() {
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
                                   <em>
                                     <strong>
-                                      {"“Lumen’s graphene coating delivers a shine like I’ve never seen; I can see the sky reflection in my hood as plain as looking directly at it, crazy! Thanks guys for making this happen!” "}
+                                      {"“Glinting Bay’s graphene coating delivers a shine like I’ve never seen; I can see the sky reflection in my hood as plain as looking directly at it, crazy! Thanks guys for making this happen!” "}
                                     </strong>
                                   </em>
                                   <strong>
@@ -207,7 +207,7 @@ export default function Post13Page() {
                                   Ready to Experience the Difference?
                                 </h2>
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  Don’t settle for average – unlock the power of graphene coatings for ultimate vehicle protection. Visit Lumen Car Wash for an unparalleled graphene coating experience that will leave your vehicle looking better than ever.
+                                  Don’t settle for average – unlock the power of graphene coatings for ultimate vehicle protection. Visit Glinting Bay Car Wash for an unparalleled graphene coating experience that will leave your vehicle looking better than ever.
                                 </p>
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
                                   Nothing bugs us, and with our revolutionary graphene coatings, nothing will bug you either.
@@ -217,13 +217,13 @@ export default function Post13Page() {
                                 </p>
                                 <h3>
                                   <strong>
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h3>
                                 <p>
                                   {"We guarantee the Best Car Wash Experience at "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   {" or your money back! – Join our "}
                                   <a href="/#pricing">
@@ -238,7 +238,7 @@ export default function Post13Page() {
                                   Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                 </p>
                                 <p>
-                                  {"At Lumen Car Wash, we hold ourselves to the "}
+                                  {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                   <a href="/operating-agreement/">
                                     highest standards of ethical conduct and social responsibility
                                   </a>
@@ -253,7 +253,7 @@ export default function Post13Page() {
                                 <p>
                                   {"Try the rest but then come to the best car wash in town – "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                 </p>
@@ -276,7 +276,7 @@ export default function Post13Page() {
                           <div className="sd-content">
                             <ul>
                               <li className="share-twitter">
-                                <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-3582" className="share-twitter sd-button share-icon" href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/?share=twitter" target="_blank" aria-labelledby="sharing-twitter-3582">
+                                <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-3582" className="share-twitter sd-button share-icon" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/?share=twitter" target="_blank" aria-labelledby="sharing-twitter-3582">
                                   {"\n"}
                                   <span id="sharing-twitter-3582" hidden>
                                     Share on X (Opens in new window)
@@ -289,7 +289,7 @@ export default function Post13Page() {
                                 </a>
                               </li>
                               <li className="share-facebook">
-                                <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-3582" className="share-facebook sd-button share-icon" href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/?share=facebook" target="_blank" aria-labelledby="sharing-facebook-3582">
+                                <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-3582" className="share-facebook sd-button share-icon" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/?share=facebook" target="_blank" aria-labelledby="sharing-facebook-3582">
                                   {"\n"}
                                   <span id="sharing-facebook-3582" hidden>
                                     Share on Facebook (Opens in new window)
@@ -454,13 +454,13 @@ export default function Post13Page() {
                     </h5>
                     {" "}
                     <small>
-                      <a rel="nofollow" id="cancel-comment-reply-link" href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/#respond" style={{ display: "none" }}>
+                      <a rel="nofollow" id="cancel-comment-reply-link" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/#respond" style={{ display: "none" }}>
                         Cancel Reply
                       </a>
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":3582,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2024%2F07%2F13%2Fnothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":3582,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2024%2F07%2F13%2Fnothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

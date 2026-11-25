@@ -16,7 +16,7 @@ export default function Post16Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="600" height="337" src="/img/img-337dd60173.webp" className="attachment-full size-full wp-post-image" alt="sonar-enable car wash tech at lumen car wash" decoding="async" srcSet="/img/img-d2cb07360a.webp 600w, /img/img-aeb9099c8b.webp 300w, /img/img-69007ab143.webp 539w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4795" data-permalink="https://lumenwash.com/2025/02/18/key-trends-in-automated-car-wash-technology-for-2025/istock-1055898650-1/" data-orig-file="/img/img-337dd60173.webp" data-orig-size="600,337" data-comments-opened="1" data-image-title="iStock-1055898650 1" data-image-description="" data-image-caption="" data-large-file="/img/img-337dd60173.webp" />
+                    <img fetchPriority="high" width="600" height="337" src="/img/img-337dd60173.webp" className="attachment-full size-full wp-post-image" alt="sonar-enable car wash tech at glinting bay car wash" decoding="async" srcSet="/img/img-d2cb07360a.webp 600w, /img/img-aeb9099c8b.webp 300w, /img/img-69007ab143.webp 539w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4795" data-permalink="https://glintingbaywash.com/2025/02/18/key-trends-in-automated-car-wash-technology-for-2025/istock-1055898650-1/" data-orig-file="/img/img-337dd60173.webp" data-orig-size="600,337" data-comments-opened="1" data-image-title="iStock-1055898650 1" data-image-description="" data-image-caption="" data-large-file="/img/img-337dd60173.webp" />
                     {" "}
                   </div>
                   {"\n"}
@@ -99,7 +99,7 @@ export default function Post16Page() {
                                   The car wash industry has embraced a wave of innovation, transforming the way services are delivered. With advancements in artificial intelligence (AI), eco-friendly practices, and smart maintenance systems, automated car washes have reached a level of efficiency and sustainability that was once unimaginable.
                                 </p>
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  Here’s a quick look at the trends shaping the future of this industry—and why we’re proud to say Lumen Car Wash has been ahead of the curve for years.
+                                  Here’s a quick look at the trends shaping the future of this industry—and why we’re proud to say Glinting Bay Car Wash has been ahead of the curve for years.
                                 </p>
                                 <h2 className={"font-bold text-h3 leading-[40px] pt-[21px] pb-[2px] [&_a]:underline-offset-[6px] [&_.underline]:underline-offset-[6px]"} dir="ltr">
                                   <b>
@@ -141,7 +141,7 @@ export default function Post16Page() {
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
                                   Here’s the best part—
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   {" has been implementing these cutting-edge advancements FOR MORE THAN 7 YEARS. By staying ahead of industry trends, we’ve been able to offer you superior, reliable, and environmentally responsible car wash services. Not to mention, our commitment to innovation ensures we continue to exceed expectations and set the gold standard in automated car washes."}
                                 </p>
@@ -151,7 +151,7 @@ export default function Post16Page() {
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
                                   <b>
                                     <strong className="font-bold">
-                                      The Lumen Car Wash Team
+                                      The Glinting Bay Car Wash Team
                                     </strong>
                                   </b>
                                 </p>
@@ -160,13 +160,13 @@ export default function Post16Page() {
                                 </p>
                                 <h3>
                                   <strong>
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h3>
                                 <p>
                                   {"We guarantee the Best Car Wash Experience at "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   {" or your money back! – Join our "}
                                   <a href="/#pricing">
@@ -187,7 +187,7 @@ export default function Post16Page() {
                                   Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                 </p>
                                 <p>
-                                  {"At Lumen Car Wash, we hold ourselves to the "}
+                                  {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                   <a href="/operating-agreement/">
                                     highest standards of ethical conduct and social responsibility
                                   </a>
@@ -202,7 +202,7 @@ export default function Post16Page() {
                                 <p>
                                   {"Try the rest but then come to the best car wash in town – "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                 </p>
@@ -409,7 +409,7 @@ export default function Post16Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4024,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2025%2F02%2F18%2Fkey-trends-in-automated-car-wash-technology-for-2025%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4024,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2025%2F02%2F18%2Fkey-trends-in-automated-car-wash-technology-for-2025%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

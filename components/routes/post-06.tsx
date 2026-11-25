@@ -22,7 +22,7 @@ export default function Post06Page() {
                         {"\n"}
                         <div className="post_image">
                           {"\n"}
-                          <img fetchPriority="high" width="1200" height="626" src="/img/img-19e84817fa.png" className="attachment-full size-full wp-post-image" alt="eco-friendly vehicles at lumen car wash" decoding="async" srcSet="/img/img-e23ceb0ad0.png 1200w, /img/img-37d08cac79.png 300w, /img/img-df448b74e2.png 1024w, /img/img-e33e5ab1e1.png 768w, /img/img-cd2cd9a03c.png 700w, /img/img-1e710df4de.png 600w" sizes="(max-width: 1200px) 100vw, 1200px" data-attachment-id="2517" data-permalink="https://lumenwash.com/2023/02/13/we-welcome-and-can-accommodate-your-eco-friendly-ride/tesla/" data-orig-file="/img/img-19e84817fa.png" data-orig-size="1200,626" data-comments-opened="1" data-image-title="tesla" data-image-description="" data-image-caption="" data-large-file="/img/img-65ea779700.png" />
+                          <img fetchPriority="high" width="1200" height="626" src="/img/img-19e84817fa.png" className="attachment-full size-full wp-post-image" alt="eco-friendly vehicles at glinting bay car wash" decoding="async" srcSet="/img/img-e23ceb0ad0.png 1200w, /img/img-37d08cac79.png 300w, /img/img-df448b74e2.png 1024w, /img/img-e33e5ab1e1.png 768w, /img/img-cd2cd9a03c.png 700w, /img/img-1e710df4de.png 600w" sizes="(max-width: 1200px) 100vw, 1200px" data-attachment-id="2517" data-permalink="https://glintingbaywash.com/2023/02/13/we-welcome-and-can-accommodate-your-eco-friendly-ride/tesla/" data-orig-file="/img/img-19e84817fa.png" data-orig-size="1200,626" data-comments-opened="1" data-image-title="tesla" data-image-description="" data-image-caption="" data-large-file="/img/img-65ea779700.png" />
                           {" "}
                         </div>
                         {"\n"}
@@ -93,7 +93,7 @@ export default function Post06Page() {
                                         We welcome and can accommodate your eco-friendly ride!
                                       </p>
                                       <p>
-                                        Looking to wash your Tesla or EV? Lumen Car Wash welcomes all electric and hybrid vehicle owners! We’ve got some handy tips for you, and even a Tesla-specific video to guide you through the process.
+                                        Looking to wash your Tesla or EV? Glinting Bay Car Wash welcomes all electric and hybrid vehicle owners! We’ve got some handy tips for you, and even a Tesla-specific video to guide you through the process.
                                       </p>
                                       <p>
                                         Check out the video on YouTube for a step-by-step demonstration for Tesla owners. Here are some general key tips to keep in mind:
@@ -117,13 +117,13 @@ export default function Post06Page() {
                                       </blockquote>
                                       <h5>
                                         <strong>
-                                          Lumen Car Wash – Who we are and what we stand for.
+                                          Glinting Bay Car Wash – Who we are and what we stand for.
                                         </strong>
                                       </h5>
                                       <p>
                                         {"We guarantee the Best Car Wash Experience at "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         {" or your money back! – Join our "}
                                         <a href="/#pricing">
@@ -138,7 +138,7 @@ export default function Post06Page() {
                                         Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                       </p>
                                       <p>
-                                        {"At Lumen Car Wash, we hold ourselves to the "}
+                                        {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                         <a href="/operating-agreement/">
                                           highest standards of ethical conduct and social responsibility
                                         </a>
@@ -153,7 +153,7 @@ export default function Post06Page() {
                                       <p>
                                         {"Try the rest but then come to the best car wash in town – "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                       </p>
@@ -362,7 +362,7 @@ export default function Post06Page() {
                         </small>
                       </h3>
                       <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2516,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2023%2F02%2F13%2Fwe-welcome-and-can-accommodate-your-eco-friendly-ride%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2516,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2023%2F02%2F13%2Fwe-welcome-and-can-accommodate-your-eco-friendly-ride%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                           <div className="jetpack-comments__plain">
                             <p className="comment-form-author">
                               <label htmlFor="author">
@@ -435,7 +435,7 @@ export default function Post06Page() {
                         <li>
                           {"\n"}
                           <a href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                            October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                            October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                           </a>
                           {"\n"}
                         </li>
@@ -450,8 +450,8 @@ export default function Post06Page() {
                         {"\n"}
                         <li>
                           {"\n"}
-                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                            More Power for the Vacuum Stations at Lumen Car Wash
+                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                            More Power for the Vacuum Stations at Glinting Bay Car Wash
                           </a>
                           {"\n"}
                         </li>

@@ -17,7 +17,7 @@ export default function SiteMapPage() {
                 <ul>
                   <li>
                     <a href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                      October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                      October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                     </a>
                   </li>
                   <li>
@@ -26,8 +26,8 @@ export default function SiteMapPage() {
                     </a>
                   </li>
                   <li>
-                    <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                      More Power for the Vacuum Stations at Lumen Car Wash
+                    <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                      More Power for the Vacuum Stations at Glinting Bay Car Wash
                     </a>
                   </li>
                   <li>
@@ -61,8 +61,8 @@ export default function SiteMapPage() {
                     </a>
                   </li>
                   <li>
-                    <a href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/">
-                      Audit Results Are In—And We’re Lumen Brighter Than Ever
+                    <a href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/">
+                      Audit Results Are In—And We’re Shining Brighter Than Ever
                     </a>
                   </li>
                   <li>
@@ -71,8 +71,8 @@ export default function SiteMapPage() {
                     </a>
                   </li>
                   <li>
-                    <a href="/2025/04/10/choose-your-shine-at-lumen-car-wash/">
-                      Choose Your Shine at Lumen Car Wash
+                    <a href="/2025/04/10/choose-your-shine-at-glinting-bay-car-wash/">
+                      Choose Your Shine at Glinting Bay Car Wash
                     </a>
                   </li>
                   <li>
@@ -96,8 +96,8 @@ export default function SiteMapPage() {
                     </a>
                   </li>
                   <li>
-                    <a href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/">
-                      Nothing Bugs Us: Lumen’s Graphene Coating for the Ultimate Vehicle Protection
+                    <a href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/">
+                      Nothing Bugs Us: Glinting Bay’s Graphene Coating for the Ultimate Vehicle Protection
                     </a>
                   </li>
                   <li>
@@ -141,8 +141,8 @@ export default function SiteMapPage() {
                     </a>
                   </li>
                   <li>
-                    <a href="/2022/12/03/experience-the-future-of-car-wash-technology-at-lumen/">
-                      Experience the Future of Car Wash Technology at Lumen
+                    <a href="/2022/12/03/experience-the-future-of-car-wash-technology-at-glinting-bay/">
+                      Experience the Future of Car Wash Technology at Glinting Bay
                     </a>
                   </li>
                   <li>
@@ -170,7 +170,7 @@ export default function SiteMapPage() {
                 <ul>
                   <li>
                     <a href="/portal-shortcut/">
-                      Lumen Portal Shortcut
+                      Glinting Bay Portal Shortcut
                     </a>
                   </li>
                   <li>

@@ -551,7 +551,7 @@ export const MENU_STATE: Record<string, Record<string, [string, string, string]>
    ""
   ]
  },
- "/2022/12/03/experience-the-future-of-car-wash-technology-at-lumen/": {
+ "/2022/12/03/experience-the-future-of-car-wash-technology-at-glinting-bay/": {
   "nav-menu-item-3848": [
    "menu-item menu-item-type-post_type menu-item-object-page menu-item-home narrow",
    "",
@@ -884,7 +884,7 @@ export const MENU_STATE: Record<string, Record<string, [string, string, string]>
    ""
   ]
  },
- "/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/": {
+ "/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/": {
   "nav-menu-item-3848": [
    "menu-item menu-item-type-post_type menu-item-object-page menu-item-home narrow",
    "",
@@ -1069,7 +1069,7 @@ export const MENU_STATE: Record<string, Record<string, [string, string, string]>
    ""
   ]
  },
- "/2025/04/10/choose-your-shine-at-lumen-car-wash/": {
+ "/2025/04/10/choose-your-shine-at-glinting-bay-car-wash/": {
   "nav-menu-item-3848": [
    "menu-item menu-item-type-post_type menu-item-object-page menu-item-home narrow",
    "",
@@ -1143,7 +1143,7 @@ export const MENU_STATE: Record<string, Record<string, [string, string, string]>
    ""
   ]
  },
- "/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/": {
+ "/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/": {
   "nav-menu-item-3848": [
    "menu-item menu-item-type-post_type menu-item-object-page menu-item-home narrow",
    "",
@@ -1402,7 +1402,7 @@ export const MENU_STATE: Record<string, Record<string, [string, string, string]>
    ""
   ]
  },
- "/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/": {
+ "/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/": {
   "nav-menu-item-3848": [
    "menu-item menu-item-type-post_type menu-item-object-page menu-item-home narrow",
    "",

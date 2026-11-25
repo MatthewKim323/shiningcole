@@ -22,7 +22,7 @@ export default function Post03Page() {
                         {"\n"}
                         <div className="post_image">
                           {"\n"}
-                          <img fetchPriority="high" width="402" height="274" src="/img/img-5d62ea6f20.png" className="attachment-full size-full wp-post-image" alt="big corporate car wash customers are not happy" decoding="async" srcSet="/img/img-633dad571f.png 402w, /img/img-2617d00abf.png 300w, /img/img-57e8fa031f.png 400w" sizes="(max-width: 402px) 100vw, 402px" data-attachment-id="2556" data-permalink="https://lumenwash.com/2022/10/13/big-corporate-vehicle-washes-are-leaving-customers-disappointed-and-wet/man-upset-with-poorly-cleaned-auto/" data-orig-file="/img/img-5d62ea6f20.png" data-orig-size="402,274" data-comments-opened="1" data-image-title="man-upset-with-poorly-cleaned-auto" data-image-description="" data-image-caption="" data-large-file="/img/img-5d62ea6f20.png" />
+                          <img fetchPriority="high" width="402" height="274" src="/img/img-5d62ea6f20.png" className="attachment-full size-full wp-post-image" alt="big corporate car wash customers are not happy" decoding="async" srcSet="/img/img-633dad571f.png 402w, /img/img-2617d00abf.png 300w, /img/img-57e8fa031f.png 400w" sizes="(max-width: 402px) 100vw, 402px" data-attachment-id="2556" data-permalink="https://glintingbaywash.com/2022/10/13/big-corporate-vehicle-washes-are-leaving-customers-disappointed-and-wet/man-upset-with-poorly-cleaned-auto/" data-orig-file="/img/img-5d62ea6f20.png" data-orig-size="402,274" data-comments-opened="1" data-image-title="man-upset-with-poorly-cleaned-auto" data-image-description="" data-image-caption="" data-large-file="/img/img-5d62ea6f20.png" />
                           {" "}
                         </div>
                         {"\n"}
@@ -101,7 +101,7 @@ export default function Post03Page() {
                                         Big corporate car washes are leaving customers disappointed and unsatisfied.
                                       </p>
                                       <p>
-                                        Say goodbye to dirty and wet car wash experiences when you come to Lumen Car Wash! Big corporate car washes are leaving customers disappointed and unsatisfied. It’s a growing trend where large corporations take over small privately owned car washes, resulting in subpar services for top dollar.
+                                        Say goodbye to dirty and wet car wash experiences when you come to Glinting Bay Car Wash! Big corporate car washes are leaving customers disappointed and unsatisfied. It’s a growing trend where large corporations take over small privately owned car washes, resulting in subpar services for top dollar.
                                       </p>
                                       <p>
                                         But what’s behind the rise of these corporate car wash chains? It seems to be driven by corporate investment diversity and customer convenience. People want a quick and easy way to clean their cars without compromising on quality.
@@ -126,13 +126,13 @@ export default function Post03Page() {
                                       </p>
                                       <h5>
                                         <strong>
-                                          Lumen Car Wash – Who we are and what we stand for.
+                                          Glinting Bay Car Wash – Who we are and what we stand for.
                                         </strong>
                                       </h5>
                                       <p>
                                         {"We guarantee the Best Car Wash Experience at "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         {" or your money back! – Join our "}
                                         <a href="/#pricing">
@@ -147,7 +147,7 @@ export default function Post03Page() {
                                         Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                       </p>
                                       <p>
-                                        {"At Lumen Car Wash, we hold ourselves to the "}
+                                        {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                         <a href="/operating-agreement/">
                                           highest standards of ethical conduct and social responsibility
                                         </a>
@@ -162,7 +162,7 @@ export default function Post03Page() {
                                       <p>
                                         {"Try the rest but then come to the best car wash in town – "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                       </p>
@@ -371,7 +371,7 @@ export default function Post03Page() {
                         </small>
                       </h3>
                       <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2555,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2022%2F10%2F13%2Fbig-corporate-vehicle-washes-are-leaving-customers-disappointed-and-wet%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2555,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2022%2F10%2F13%2Fbig-corporate-vehicle-washes-are-leaving-customers-disappointed-and-wet%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                           <div className="jetpack-comments__plain">
                             <p className="comment-form-author">
                               <label htmlFor="author">
@@ -444,7 +444,7 @@ export default function Post03Page() {
                         <li>
                           {"\n"}
                           <a href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                            October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                            October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                           </a>
                           {"\n"}
                         </li>
@@ -459,8 +459,8 @@ export default function Post03Page() {
                         {"\n"}
                         <li>
                           {"\n"}
-                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                            More Power for the Vacuum Stations at Lumen Car Wash
+                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                            More Power for the Vacuum Stations at Glinting Bay Car Wash
                           </a>
                           {"\n"}
                         </li>

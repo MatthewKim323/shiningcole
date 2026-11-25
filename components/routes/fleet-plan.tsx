@@ -21,7 +21,7 @@ export default function FleetPlanPage() {
                       <div className="elementor-widget-container">
                         {"\n"}
                         <h2 className="elementor-heading-title elementor-size-default">
-                          Lumen Fleet Program
+                          Glinting Bay Fleet Program
                         </h2>
                         {" "}
                       </div>
@@ -36,7 +36,7 @@ export default function FleetPlanPage() {
                           Simple. Affordable. Always Clean.
                         </h4>
                         <p data-start="320" data-end="580">
-                          {" "}
+                          {" "}
                         </p>
                         {" "}
                       </div>
@@ -52,7 +52,7 @@ export default function FleetPlanPage() {
                             Keep your vehicles looking their best—without the hassle.
                           </strong>
                           <br data-start="381" data-end="384" />
-                          Our Fleet Program is designed for businesses big and small who want clean vehicles, predictable costs, and zero downtime. Whether you manage 10 vehicles or 500, we’ll keep your fleet lumen bright.
+                          Our Fleet Program is designed for businesses big and small who want clean vehicles, predictable costs, and zero downtime. Whether you manage 10 vehicles or 500, we’ll keep your fleet shining bright.
                         </p>
                         {" "}
                       </div>
@@ -63,7 +63,7 @@ export default function FleetPlanPage() {
                       {"\n"}
                       <div className="elementor-widget-container">
                         {"\n"}
-                        <img fetchPriority="high" decoding="async" width="600" height="400" src="/img/img-5360f993ec.png" className="attachment-large size-large wp-image-2490" alt="happy fleet customer lumen car wash fleet services" srcSet="/img/img-c3be90641f.png 600w, /img/img-55bf2f0ed4.png 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="2490" data-permalink="https://lumenwash.com/unlimited-wash-club-value/dsc_2711_041219100154_lowres/" data-orig-file="/img/img-5360f993ec.png" data-orig-size="600,400" data-comments-opened="1" data-image-title="DSC_2711_041219100154_lowres" data-image-description="" data-image-caption="" data-large-file="/img/img-5360f993ec.png" />
+                        <img fetchPriority="high" decoding="async" width="600" height="400" src="/img/img-5360f993ec.png" className="attachment-large size-large wp-image-2490" alt="happy fleet customer glinting bay car wash fleet services" srcSet="/img/img-c3be90641f.png 600w, /img/img-55bf2f0ed4.png 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="2490" data-permalink="https://glintingbaywash.com/unlimited-wash-club-value/dsc_2711_041219100154_lowres/" data-orig-file="/img/img-5360f993ec.png" data-orig-size="600,400" data-comments-opened="1" data-image-title="DSC_2711_041219100154_lowres" data-image-description="" data-image-caption="" data-large-file="/img/img-5360f993ec.png" />
                         {" "}
                       </div>
                       {"\n"}
@@ -77,7 +77,7 @@ export default function FleetPlanPage() {
                       {"\n"}
                       <div className="elementor-widget-container">
                         {"\n"}
-                        <img decoding="async" width="1024" height="683" src="/img/img-7c3ab58b73.jpg" className="attachment-large size-large wp-image-2433" alt="fleet and dealership services" srcSet="/img/img-77800b0ca7.jpg 2121w, /img/img-05c93330a9.jpg 300w, /img/img-8a98b97ec2.jpg 1024w, /img/img-9f0d322846.jpg 768w, /img/img-799f52efcc.jpg 1536w, /img/img-0978e5f1a8.jpg 2048w, /img/img-4f34bd7125.jpg 1200w, /img/img-b763d75705.jpg 700w, /img/img-b61fdfa3f1.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="2433" data-permalink="https://lumenwash.com/unlimited-wash-club-value/new-cars-at-dealer-showroom/" data-orig-file="/img/img-f7048aae0c.jpg" data-orig-size="2121,1414" data-comments-opened="1" data-image-meta={"{\"aperture\":\"1.4\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"ILCE-6500\",\"caption\":\"New cars at dealer showroom. Blurred background. Fokus is on the handle from the left car\",\"created_timestamp\":\"1642936622\",\"focal_length\":\"56\",\"iso\":\"400\",\"shutter_speed\":\"0.005\",\"title\":\"New cars at dealer showroom.\",\"orientation\":\"1\"}"} data-image-title="New cars at dealer showroom." data-image-description="" data-image-caption={"<p>New cars at dealer showroom. Blurred background. Fokus is on the handle from the left car</p>\n"} data-large-file="/img/img-7c3ab58b73.jpg" />
+                        <img decoding="async" width="1024" height="683" src="/img/img-7c3ab58b73.jpg" className="attachment-large size-large wp-image-2433" alt="fleet and dealership services" srcSet="/img/img-77800b0ca7.jpg 2121w, /img/img-05c93330a9.jpg 300w, /img/img-8a98b97ec2.jpg 1024w, /img/img-9f0d322846.jpg 768w, /img/img-799f52efcc.jpg 1536w, /img/img-0978e5f1a8.jpg 2048w, /img/img-4f34bd7125.jpg 1200w, /img/img-b763d75705.jpg 700w, /img/img-b61fdfa3f1.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="2433" data-permalink="https://glintingbaywash.com/unlimited-wash-club-value/new-cars-at-dealer-showroom/" data-orig-file="/img/img-f7048aae0c.jpg" data-orig-size="2121,1414" data-comments-opened="1" data-image-meta={"{\"aperture\":\"1.4\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"ILCE-6500\",\"caption\":\"New cars at dealer showroom. Blurred background. Fokus is on the handle from the left car\",\"created_timestamp\":\"1642936622\",\"focal_length\":\"56\",\"iso\":\"400\",\"shutter_speed\":\"0.005\",\"title\":\"New cars at dealer showroom.\",\"orientation\":\"1\"}"} data-image-title="New cars at dealer showroom." data-image-description="" data-image-caption={"<p>New cars at dealer showroom. Blurred background. Fokus is on the handle from the left car</p>\n"} data-large-file="/img/img-7c3ab58b73.jpg" />
                         {" "}
                       </div>
                       {"\n"}
@@ -140,7 +140,7 @@ export default function FleetPlanPage() {
                         <div className="elementor-widget-container">
                           {"\n"}
                           <h4>
-                            WHY JOIN THE LUMEN FLEET PLAN
+                            WHY JOIN THE GLINTING BAY FLEET PLAN
                           </h4>
                           {" "}
                         </div>
@@ -264,7 +264,7 @@ export default function FleetPlanPage() {
                           <div className="fl-module fl-module-heading fl-node-jbh0s1ygm9rx" data-node="jbh0s1ygm9rx">
                             <div className="fl-module-content fl-node-content">
                               <p className="fl-heading">
-                                At Lumen Car Wash, we go beyond providing quality washes. We are deeply committed to enriching the communities we call home. By actively engaging and supporting local initiatives, organizations, and causes, we aim to strengthen the bonds within our community and make a lasting difference. That’s why we actively seek opportunities to lend a helping hand and make a positive impact wherever we can!
+                                At Glinting Bay Car Wash, we go beyond providing quality washes. We are deeply committed to enriching the communities we call home. By actively engaging and supporting local initiatives, organizations, and causes, we aim to strengthen the bonds within our community and make a lasting difference. That’s why we actively seek opportunities to lend a helping hand and make a positive impact wherever we can!
                               </p>
                             </div>
                           </div>

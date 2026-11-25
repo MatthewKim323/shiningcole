@@ -21,12 +21,12 @@ export default function TermsAndConditionsPage() {
                       <h1>
                         Terms and Conditions
                         <strong>
-                          {" "}
+                          {" "}
                         </strong>
                       </h1>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
@@ -34,11 +34,11 @@ export default function TermsAndConditionsPage() {
                           OVERVIEW
                         </strong>
                         <br />
-                        By providing Lumen Car Wash, Inc. (“Lumen”) a Payment Method, and either accepting these Terms or utilizing the services, you agree that you have read and understand these Terms. If you do not agree with these Terms, cancel your membership plan.
+                        By providing Glinting Bay Car Wash, Inc. (“Glinting Bay”) a Payment Method, and either accepting these Terms or utilizing the services, you agree that you have read and understand these Terms. If you do not agree with these Terms, cancel your membership plan.
                       </p>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
@@ -49,7 +49,7 @@ export default function TermsAndConditionsPage() {
                         <strong>
                           Services
                         </strong>
-                        . We offer the following Unlimited Club Membership (“UCM”) plans: Quick Wash, Quick Plus, The Works, Lumen Wash, Super Star Wash. We reserve the right to change plans or fees at any time with 30 days posting at the Lumen. Lumen reserves the right to close for any reason and including weather, maintenance, holidays, store upgrades, governmental orders or other force majeure events. A currently paid membership plan allows a car wash per day.
+                        . We offer the following Unlimited Club Membership (“UCM”) plans: Quick Wash, Quick Plus, The Works, Glinting Bay Wash, Super Star Wash. We reserve the right to change plans or fees at any time with 30 days posting at the Glinting Bay. Glinting Bay reserves the right to close for any reason and including weather, maintenance, holidays, store upgrades, governmental orders or other force majeure events. A currently paid membership plan allows a car wash per day.
                       </p>
                       {"\n"}
                       <p>
@@ -63,7 +63,7 @@ export default function TermsAndConditionsPage() {
                         <strong>
                           License Plate Recognition Technology
                         </strong>
-                        {". You agree that Lumen Car Wash, Inc. may use and store your vehicles License plate information. "}
+                        {". You agree that Glinting Bay Car Wash, Inc. may use and store your vehicles License plate information. "}
                         <br />
                         <br />
                         <strong>
@@ -74,7 +74,7 @@ export default function TermsAndConditionsPage() {
                       {"\n"}
                       <p>
                         <strong>
-                          {" "}
+                          {" "}
                         </strong>
                       </p>
                       {"\n"}
@@ -139,7 +139,7 @@ export default function TermsAndConditionsPage() {
                       </p>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <h4>
@@ -155,7 +155,7 @@ export default function TermsAndConditionsPage() {
                       </h4>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
@@ -166,18 +166,18 @@ export default function TermsAndConditionsPage() {
                       </p>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
                         <strong>
                           Cancellation by You
                         </strong>
-                        ; Cancel at any time. Cancel 5 days before your billing date to avoid the next month’s fee. To cancel, go online at lumenwash.com or contact us by email.
+                        ; Cancel at any time. Cancel 5 days before your billing date to avoid the next month’s fee. To cancel, go online at glintingbaywash.com or contact us by email.
                       </p>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
@@ -188,7 +188,7 @@ export default function TermsAndConditionsPage() {
                       </p>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
@@ -199,12 +199,12 @@ export default function TermsAndConditionsPage() {
                       </p>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
                         <strong>
-                          Termination by The Lumen
+                          Termination by The Glinting Bay
                         </strong>
                         . We reserve the right to terminate for any reason and in our sole discretion, your UCM membership, and use of the services, without notice or liability.
                       </p>
@@ -217,11 +217,11 @@ export default function TermsAndConditionsPage() {
                       </p>
                       {"\n"}
                       <p>
-                        {"The Unlimited Club Membership and services are provided to vehicles that meet The Lumen Car Wash, Inc. standards for vehicles. Specifically disclaims liability for damage to vehicle(s) with respect to the following items:  Antennas that are not lowered or removed, electronic and truck mirrors that are not folded in, electronic running boards in the lowered position, aftermarket and non-factory parts including paint, vehicles 10 years or older, moon roofs, sunroofs, bug shields, window shields, vehicle molding, door handles, badging or emblems, wheel covers and caps, pre-existing damage and loose parts, collisions due to braking, steering, or driving in the car wash tunnel."}
+                        {"The Unlimited Club Membership and services are provided to vehicles that meet The Glinting Bay Car Wash, Inc. standards for vehicles. Specifically disclaims liability for damage to vehicle(s) with respect to the following items:  Antennas that are not lowered or removed, electronic and truck mirrors that are not folded in, electronic running boards in the lowered position, aftermarket and non-factory parts including paint, vehicles 10 years or older, moon roofs, sunroofs, bug shields, window shields, vehicle molding, door handles, badging or emblems, wheel covers and caps, pre-existing damage and loose parts, collisions due to braking, steering, or driving in the car wash tunnel."}
                       </p>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
@@ -229,13 +229,13 @@ export default function TermsAndConditionsPage() {
                           Changes to Terms
                           <br />
                         </strong>
-                        Lumen Car Wash, Inc. reserves the right to change these Terms with 30 days’ notice at Lumen’s website lumenwash.com.
+                        Glinting Bay Car Wash, Inc. reserves the right to change these Terms with 30 days’ notice at Glinting Bay’s website glintingbaywash.com.
                         <br />
                         <br />
                       </p>
                       {"\n"}
                       <p>
-                        {"Vehicle must meet Lumen Car Wash, Inc. safety guidelines. Enrollment in Unlimited Club Membership does not guarantee that safety guidelines have been satisfied. "}
+                        {"Vehicle must meet Glinting Bay Car Wash, Inc. safety guidelines. Enrollment in Unlimited Club Membership does not guarantee that safety guidelines have been satisfied. "}
                         <a href="/help-and-support/#3">
                           <span style={{ textDecoration: "underline" }}>
                             <strong>
@@ -247,15 +247,15 @@ export default function TermsAndConditionsPage() {
                       </p>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
-                        Lumen Car Wash, Inc. reserves the right to terminate Unlimited accounts at any time for abuse and /or safety concerns. When flagged for abuse or safety, cancellations may take place with or without notice.
+                        Glinting Bay Car Wash, Inc. reserves the right to terminate Unlimited accounts at any time for abuse and /or safety concerns. When flagged for abuse or safety, cancellations may take place with or without notice.
                       </p>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
@@ -263,11 +263,11 @@ export default function TermsAndConditionsPage() {
                       </p>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
-                        {"By providing your mobile phone number and email address, you agree to be contacted by Lumen Car Wash, Inc. to help manage your Unlimited account and to provide you with important updates regarding services and promotions provided by Lumen Car Wash, Inc. You may opt out at any time by replying “STOP” to a text, or by clicking the “Unsubscribe” link in an email. "}
+                        {"By providing your mobile phone number and email address, you agree to be contacted by Glinting Bay Car Wash, Inc. to help manage your Unlimited account and to provide you with important updates regarding services and promotions provided by Glinting Bay Car Wash, Inc. You may opt out at any time by replying “STOP” to a text, or by clicking the “Unsubscribe” link in an email. "}
                         <span style={{ textDecoration: "underline" }}>
                           <strong>
                             <a href="/privacy-policy/">
@@ -279,7 +279,7 @@ export default function TermsAndConditionsPage() {
                       </p>
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       {"\n"}
                       <p>
@@ -289,7 +289,7 @@ export default function TermsAndConditionsPage() {
                       </p>
                       {"\n"}
                       <p>
-                        {"Lumen Car Wash, Inc. offers the opportunity to subscribe to ongoing, recurring automated personalized alerts and promotions. Your consent is not required to purchase goods or services. We also offer a Refer a Friend program. In addition, we may send push notifications. Please click to view "}
+                        {"Glinting Bay Car Wash, Inc. offers the opportunity to subscribe to ongoing, recurring automated personalized alerts and promotions. Your consent is not required to purchase goods or services. We also offer a Refer a Friend program. In addition, we may send push notifications. Please click to view "}
                         <span style={{ textDecoration: "underline" }}>
                           <strong>
                             <a href="/terms-and-conditions/">

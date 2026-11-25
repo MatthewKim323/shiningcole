@@ -16,7 +16,7 @@ export default function Post15Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="600" height="317" src="/img/img-f60b1ac5eb.webp" className="attachment-full size-full wp-post-image" alt="Happy Holidays and Happy New Year from the Lumen Car Wash family" decoding="async" srcSet="/img/img-2fb2726120.webp 600w, /img/img-abcfea7960.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4798" data-permalink="https://lumenwash.com/2024/12/13/tis-the-season-thank-you-for-your-patronage/happy-holidays_lumen-car-wash/" data-orig-file="/img/img-f60b1ac5eb.webp" data-orig-size="600,317" data-comments-opened="1" data-image-title="happy-holidays_lumen-car-wash" data-image-description="" data-image-caption="" data-large-file="/img/img-f60b1ac5eb.webp" />
+                    <img fetchPriority="high" width="600" height="317" src="/img/img-f60b1ac5eb.webp" className="attachment-full size-full wp-post-image" alt="Happy Holidays and Happy New Year from the Glinting Bay Car Wash family" decoding="async" srcSet="/img/img-2fb2726120.webp 600w, /img/img-abcfea7960.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4798" data-permalink="https://glintingbaywash.com/2024/12/13/tis-the-season-thank-you-for-your-patronage/happy-holidays_glinting-bay-car-wash/" data-orig-file="/img/img-f60b1ac5eb.webp" data-orig-size="600,317" data-comments-opened="1" data-image-title="happy-holidays_glinting-bay-car-wash" data-image-description="" data-image-caption="" data-large-file="/img/img-f60b1ac5eb.webp" />
                     {" "}
                   </div>
                   {"\n"}
@@ -136,7 +136,7 @@ export default function Post15Page() {
                                   From our family to yours, Happy Holidays and Happy New Year!
                                 </p>
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  Lumen Car Wash Team
+                                  Glinting Bay Car Wash Team
                                 </p>
                                 {" "}
                               </div>
@@ -341,7 +341,7 @@ export default function Post15Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":3986,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2024%2F12%2F13%2Ftis-the-season-thank-you-for-your-patronage%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":3986,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2024%2F12%2F13%2Ftis-the-season-thank-you-for-your-patronage%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

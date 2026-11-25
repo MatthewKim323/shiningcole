@@ -16,7 +16,7 @@ export default function Post22Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="744" height="473" src="/img/img-aa99805f5c.webp" className="attachment-full size-full wp-post-image" alt="lumen car wash gift card" decoding="async" srcSet="/img/img-3b8e1abc96.webp 744w, /img/img-787c0f22ae.webp 300w, /img/img-e18ad9d176.webp 700w" sizes="(max-width: 744px) 100vw, 744px" data-attachment-id="4675" data-permalink="https://lumenwash.com/2025/12/03/the-shine-sip-holiday-100-a-thank-you-to-our-community/gift-card-2/" data-orig-file="/img/img-aa99805f5c.webp" data-orig-size="744,473" data-comments-opened="1" data-image-title="gift-card" data-image-description="" data-image-caption="" data-large-file="/img/img-aa99805f5c.webp" />
+                    <img fetchPriority="high" width="744" height="473" src="/img/img-aa99805f5c.webp" className="attachment-full size-full wp-post-image" alt="glinting bay car wash gift card" decoding="async" srcSet="/img/img-3b8e1abc96.webp 744w, /img/img-787c0f22ae.webp 300w, /img/img-e18ad9d176.webp 700w" sizes="(max-width: 744px) 100vw, 744px" data-attachment-id="4675" data-permalink="https://glintingbaywash.com/2025/12/03/the-shine-sip-holiday-100-a-thank-you-to-our-community/gift-card-2/" data-orig-file="/img/img-aa99805f5c.webp" data-orig-size="744,473" data-comments-opened="1" data-image-title="gift-card" data-image-description="" data-image-caption="" data-large-file="/img/img-aa99805f5c.webp" />
                     {" "}
                   </div>
                   {"\n"}
@@ -116,7 +116,7 @@ export default function Post22Page() {
                                   </strong>
                                 </p>
                                 <p>
-                                  {"At Lumen Car Wash, the holidays always remind us of something important: "}
+                                  {"At Glinting Bay Car Wash, the holidays always remind us of something important: "}
                                   <strong>
                                     we wouldn’t be here without you.
                                   </strong>
@@ -285,7 +285,7 @@ export default function Post22Page() {
                                   </strong>
                                 </p>
                                 <p>
-                                  From our family to yours, thank you for choosing Lumen Car Wash.
+                                  From our family to yours, thank you for choosing Glinting Bay Car Wash.
                                 </p>
                                 <p>
                                   Thank you for trusting us with your vehicle.
@@ -508,7 +508,7 @@ export default function Post22Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4631,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2025%2F12%2F03%2Fthe-shine-sip-holiday-100-a-thank-you-to-our-community%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4631,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2025%2F12%2F03%2Fthe-shine-sip-holiday-100-a-thank-you-to-our-community%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

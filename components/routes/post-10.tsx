@@ -22,7 +22,7 @@ export default function Post10Page() {
                         {"\n"}
                         <div className="post_image">
                           {"\n"}
-                          <img fetchPriority="high" width="2121" height="1414" src="/img/img-bb454765b9.jpg" className="attachment-full size-full wp-post-image" alt="happy graphene customer at lumen car wash" decoding="async" srcSet="/img/img-78a36b2a6d.jpg 2121w, /img/img-308a660d9d.jpg 300w, /img/img-b20a87954e.jpg 1024w, /img/img-ab2b315a99.jpg 768w, /img/img-dcd860beac.jpg 1536w, /img/img-c7fb73f157.jpg 2048w, /img/img-ad0eff7401.jpg 1200w, /img/img-c3fca370fe.jpg 700w, /img/img-cc235e6ce2.jpg 600w" sizes="(max-width: 2121px) 100vw, 2121px" data-attachment-id="2331" data-permalink="https://lumenwash.com/2023/12/12/unlock-the-power-of-graphene-coatings-for-ultimate-vehicle-protection/satisfied-driver-with-thumbs-up-in-a-car/" data-orig-file="/img/img-bb454765b9.jpg" data-orig-size="2121,1414" data-comments-opened="1" data-image-meta={"{\"aperture\":\"4\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"Canon EOS-1D X Mark II\",\"caption\":\"Portrait of a satisfied driver gesturing thumbs up sitting inside a car\",\"created_timestamp\":\"1516721260\",\"focal_length\":\"70\",\"iso\":\"200\",\"shutter_speed\":\"0.00625\",\"title\":\"Satisfied driver with thumbs up in a car\",\"orientation\":\"1\"}"} data-image-title="Satisfied driver with thumbs up in a car" data-image-description={"<p>happy graphene customer at lumen car wash</p>\n"} data-image-caption={"<p>Portrait of a satisfied driver gesturing thumbs up sitting inside a car</p>\n"} data-large-file="/img/img-2f705ce5e3.jpg" />
+                          <img fetchPriority="high" width="2121" height="1414" src="/img/img-bb454765b9.jpg" className="attachment-full size-full wp-post-image" alt="happy graphene customer at glinting bay car wash" decoding="async" srcSet="/img/img-78a36b2a6d.jpg 2121w, /img/img-308a660d9d.jpg 300w, /img/img-b20a87954e.jpg 1024w, /img/img-ab2b315a99.jpg 768w, /img/img-dcd860beac.jpg 1536w, /img/img-c7fb73f157.jpg 2048w, /img/img-ad0eff7401.jpg 1200w, /img/img-c3fca370fe.jpg 700w, /img/img-cc235e6ce2.jpg 600w" sizes="(max-width: 2121px) 100vw, 2121px" data-attachment-id="2331" data-permalink="https://glintingbaywash.com/2023/12/12/unlock-the-power-of-graphene-coatings-for-ultimate-vehicle-protection/satisfied-driver-with-thumbs-up-in-a-car/" data-orig-file="/img/img-bb454765b9.jpg" data-orig-size="2121,1414" data-comments-opened="1" data-image-meta={"{\"aperture\":\"4\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"Canon EOS-1D X Mark II\",\"caption\":\"Portrait of a satisfied driver gesturing thumbs up sitting inside a car\",\"created_timestamp\":\"1516721260\",\"focal_length\":\"70\",\"iso\":\"200\",\"shutter_speed\":\"0.00625\",\"title\":\"Satisfied driver with thumbs up in a car\",\"orientation\":\"1\"}"} data-image-title="Satisfied driver with thumbs up in a car" data-image-description={"<p>happy graphene customer at glinting bay car wash</p>\n"} data-image-caption={"<p>Portrait of a satisfied driver gesturing thumbs up sitting inside a car</p>\n"} data-large-file="/img/img-2f705ce5e3.jpg" />
                           {" "}
                         </div>
                         {"\n"}
@@ -112,7 +112,7 @@ export default function Post10Page() {
                                         Revolutionary graphene coatings have arrived as the next level of ceramic coatings for your vehicle. These cutting-edge coatings offer unrivaled durability and longevity, making them a must-have for all vehicle enthusiasts. But what exactly is a graphene coating and why is it the best option available?
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         <a href="https://www.thegraphenecouncil.org/page/Automotive#:~:text=This%20potential%20role%20of%20graphene,parts%2C%20drive%20train%20and%20other">
@@ -121,31 +121,31 @@ export default function Post10Page() {
                                         , a single layer of carbon, is stronger and lighter than steel, boasting limitless potential applications. Its remarkable flexibility allows it to take any shape imaginable. In fact, companies like Boeing and Airbus are now exploring its use to reinforce their airplanes due to its unparalleled durability.
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         Graphene coatings take graphene – just one atom thick – and transform it into a more practical form called graphene oxide. When mixed with a ceramic base, this coating offers superior protection, extended durability, and remarkable longevity compared to traditional ceramic coatings.
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         While sharing many characteristics with ceramic coatings, graphene coatings take it a step further. They chemically bond with your vehicle’s paint, forming a semi-permanent barrier through solvent-based carrier fluids. This ensures a lasting and effective shield against the elements.
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <h4>
                                         Say Goodbye to Waxes and Sealants – Unlock the Power of Graphene
                                       </h4>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         Yes, waxes and sealants have been around for decades and are inexpensive and easy to use. But they pale in comparison to the proven strength and longevity of graphene coatings. While waxes and sealants last mere weeks to months, graphene coatings can endure for up to 4 years or even longer. They provide unmatched scratch resistance and boast superior hydrophobic and water-repellant properties.
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         Unlike waxes and sealants, which can soften and attract contaminants in heat, Graphene is resistant to environmental heat and sunlight. Its natural conductivity repels dust, keeping your vehicle cleaner for longer.
@@ -159,43 +159,43 @@ export default function Post10Page() {
                                         Graphene vs. Traditional Ceramic Coating – A Clear Winner
                                       </h4>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         You might wonder, why not just stick to traditional ceramic coatings? The answer is simple – graphene coatings surpass ceramic coatings in every way. They enhance all the desirable characteristics of ceramics while minimizing drawbacks, such as water and soap spots.
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         With a graphene coating, water not only beads on the surface of your vehicle, it effortlessly rolls off, taking dirt with it. The added strength of graphene makes these coatings more resistant to water etching and debris picked up during washing.
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         And let’s not forget about the stunning finish. A properly applied graphene coating results in an unmatched sheen, leaving your vehicle looking smooth and glossy.
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <h4>
-                                        Experience the Premium Graphene Coating Application at Lumen Car Wash
+                                        Experience the Premium Graphene Coating Application at Glinting Bay Car Wash
                                       </h4>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         Before we apply the graphene coating, we take every precaution to properly prepare your vehicle. Our meticulous process eliminates dirt, debris, and contaminants, ensuring a flawless bond between the clear coat and the graphene coating. Trust us to provide the best care for your vehicle.
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         Here’s how we prepare your vehicle for a graphene coating application
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         We thoroughly remove all dirt, debris, and contaminants from your vehicle’s surface.
@@ -204,29 +204,29 @@ export default function Post10Page() {
                                         Wash and decontaminate with car shampoo without protective additives. Decontaminators and iron removers will activate if necessary within our eco-friendly cleaning solutions.
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
                                         We then apply the graphene coating evenly and finish with a tunnel dryer and professional hand towel drying with a microfiber towel. We recommend that you maintain your vehicle by regular washing and cleaning as needed.
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <div>
-                                        Don’t settle for average – unlock the power of graphene coatings for ultimate vehicle protection. Contact Lumen Car Wash for an unparalleled graphene coating experience that will leave your vehicle looking better than ever.
+                                        Don’t settle for average – unlock the power of graphene coatings for ultimate vehicle protection. Contact Glinting Bay Car Wash for an unparalleled graphene coating experience that will leave your vehicle looking better than ever.
                                       </div>
                                       <div>
-                                        {" "}
+                                        {" "}
                                       </div>
                                       <h5>
                                         <strong>
-                                          Lumen Car Wash – Who we are and what we stand for.
+                                          Glinting Bay Car Wash – Who we are and what we stand for.
                                         </strong>
                                       </h5>
                                       <p>
                                         {"We guarantee the Best Car Wash Experience at "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         {" or your money back! – Join our "}
                                         <a href="/#pricing">
@@ -241,7 +241,7 @@ export default function Post10Page() {
                                         Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                       </p>
                                       <p>
-                                        {"At Lumen Car Wash, we hold ourselves to the "}
+                                        {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                         <a href="/operating-agreement/">
                                           highest standards of ethical conduct and social responsibility
                                         </a>
@@ -256,7 +256,7 @@ export default function Post10Page() {
                                       <p>
                                         {"Try the rest but then come to the best car wash in town – "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                       </p>
@@ -471,7 +471,7 @@ export default function Post10Page() {
                         </small>
                       </h3>
                       <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2329,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2023%2F12%2F12%2Funlock-the-power-of-graphene-coatings-for-ultimate-vehicle-protection%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2329,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2023%2F12%2F12%2Funlock-the-power-of-graphene-coatings-for-ultimate-vehicle-protection%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                           <div className="jetpack-comments__plain">
                             <p className="comment-form-author">
                               <label htmlFor="author">
@@ -544,7 +544,7 @@ export default function Post10Page() {
                         <li>
                           {"\n"}
                           <a href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                            October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                            October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                           </a>
                           {"\n"}
                         </li>
@@ -559,8 +559,8 @@ export default function Post10Page() {
                         {"\n"}
                         <li>
                           {"\n"}
-                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                            More Power for the Vacuum Stations at Lumen Car Wash
+                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                            More Power for the Vacuum Stations at Glinting Bay Car Wash
                           </a>
                           {"\n"}
                         </li>

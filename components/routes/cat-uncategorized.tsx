@@ -20,7 +20,7 @@ export default function CatUncategorizedPage() {
                     {"\n"}
                     <a itemProp="url" href="/2026/02/03/customer-story-winter-proof-with-graphene/" title="Customer Story: Winter Proof with Graphene">
                       {"\n"}
-                      <img width="2122" height="1412" src="/img/img-dfcf032b20.jpg" className="attachment-full size-full wp-post-image" alt="professional towel dry service at lumen car wash" decoding="async" srcSet="/img/img-1a1ced00a1.jpg 2122w, /img/img-ec7a91fa87.jpg 600w, /img/img-9b0ac6815d.jpg 300w, /img/img-904261a5b4.jpg 1024w, /img/img-7d0d5c6be0.jpg 768w, /img/img-b1c23e23c4.jpg 1536w, /img/img-e2465a92a9.jpg 2048w, /img/img-60a6814748.jpg 1200w, /img/img-8a4cfc3882.jpg 700w" sizes="(max-width: 2122px) 100vw, 2122px" data-attachment-id="491" data-permalink="https://lumenwash.com/car-washing/" data-orig-file="/img/img-dfcf032b20.jpg" data-orig-size="2122,1412" data-comments-opened="1" data-image-meta={"{\"aperture\":\"2.8\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"NIKON D700\",\"caption\":\"waterless car wash\",\"created_timestamp\":\"1379607645\",\"copyright\":\"baranozdemir\",\"focal_length\":\"70\",\"iso\":\"200\",\"shutter_speed\":\"0.1\",\"title\":\"car washing\",\"orientation\":\"1\"}"} data-image-title="car washing" data-image-description="" data-image-caption="" data-large-file="/img/img-f6593d4b96.jpg" />
+                      <img width="2122" height="1412" src="/img/img-dfcf032b20.jpg" className="attachment-full size-full wp-post-image" alt="professional towel dry service at glinting bay car wash" decoding="async" srcSet="/img/img-1a1ced00a1.jpg 2122w, /img/img-ec7a91fa87.jpg 600w, /img/img-9b0ac6815d.jpg 300w, /img/img-904261a5b4.jpg 1024w, /img/img-7d0d5c6be0.jpg 768w, /img/img-b1c23e23c4.jpg 1536w, /img/img-e2465a92a9.jpg 2048w, /img/img-60a6814748.jpg 1200w, /img/img-8a4cfc3882.jpg 700w" sizes="(max-width: 2122px) 100vw, 2122px" data-attachment-id="491" data-permalink="https://glintingbaywash.com/car-washing/" data-orig-file="/img/img-dfcf032b20.jpg" data-orig-size="2122,1412" data-comments-opened="1" data-image-meta={"{\"aperture\":\"2.8\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"NIKON D700\",\"caption\":\"waterless car wash\",\"created_timestamp\":\"1379607645\",\"copyright\":\"baranozdemir\",\"focal_length\":\"70\",\"iso\":\"200\",\"shutter_speed\":\"0.1\",\"title\":\"car washing\",\"orientation\":\"1\"}"} data-image-title="car washing" data-image-description="" data-image-caption="" data-large-file="/img/img-f6593d4b96.jpg" />
                       {" "}
                     </a>
                     {"\n"}
@@ -94,7 +94,7 @@ export default function CatUncategorizedPage() {
                       </div>
                       {"\n"}
                       <p itemProp="description" className="post_excerpt">
-                        After months of choosing the graphene option at Lumen, I finally saw the proof during a deep freeze....
+                        After months of choosing the graphene option at Glinting Bay, I finally saw the proof during a deep freeze....
                       </p>
                       {" "}
                       <div className="post_more">
@@ -121,7 +121,7 @@ export default function CatUncategorizedPage() {
                     {"\n"}
                     <a itemProp="url" href="/2025/09/26/we-can-make-a-difference-this-october/" title="WE CAN Make A Difference This October">
                       {"\n"}
-                      <img width="450" height="450" src="/img/img-eefaf56321.png" className="attachment-full size-full wp-post-image" alt="BCAM 2025 QRC Landing" decoding="async" srcSet="/img/img-df8b756717.png 450w, /img/img-b9ce2f42ca.png 300w, /img/img-13518a1dea.png 150w" sizes="(max-width: 450px) 100vw, 450px" data-attachment-id="4351" data-permalink="https://lumenwash.com/2025/09/26/we-can-make-a-difference-this-october/bcam-2025-landing/" data-orig-file="/img/img-eefaf56321.png" data-orig-size="450,450" data-comments-opened="1" data-image-title="BCAM 2025 QRC Landing" data-image-description="" data-image-caption="" data-large-file="/img/img-eefaf56321.png" />
+                      <img width="450" height="450" src="/img/img-eefaf56321.png" className="attachment-full size-full wp-post-image" alt="BCAM 2025 QRC Landing" decoding="async" srcSet="/img/img-df8b756717.png 450w, /img/img-b9ce2f42ca.png 300w, /img/img-13518a1dea.png 150w" sizes="(max-width: 450px) 100vw, 450px" data-attachment-id="4351" data-permalink="https://glintingbaywash.com/2025/09/26/we-can-make-a-difference-this-october/bcam-2025-landing/" data-orig-file="/img/img-eefaf56321.png" data-orig-size="450,450" data-comments-opened="1" data-image-title="BCAM 2025 QRC Landing" data-image-description="" data-image-caption="" data-large-file="/img/img-eefaf56321.png" />
                       {" "}
                     </a>
                     {"\n"}
@@ -224,9 +224,9 @@ export default function CatUncategorizedPage() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/" title="Audit Results Are In—And We’re Lumen Brighter Than Ever">
+                    <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/" title="Audit Results Are In—And We’re Shining Brighter Than Ever">
                       {"\n"}
-                      <img loading="lazy" width="600" height="314" src="/img/img-74cc4c90ce.webp" className="attachment-full size-full wp-post-image" alt="a lumen car wash exquisite shine" decoding="async" srcSet="/img/img-c6c23a2197.webp 600w, /img/img-301ccc06f8.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4692" data-permalink="https://lumenwash.com/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/web-home-page-pic/" data-orig-file="/img/img-74cc4c90ce.webp" data-orig-size="600,314" data-comments-opened="1" data-image-title="web-home-page-pic" data-image-description="" data-image-caption="" data-large-file="/img/img-74cc4c90ce.webp" />
+                      <img loading="lazy" width="600" height="314" src="/img/img-74cc4c90ce.webp" className="attachment-full size-full wp-post-image" alt="a glinting bay car wash exquisite shine" decoding="async" srcSet="/img/img-c6c23a2197.webp 600w, /img/img-301ccc06f8.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4692" data-permalink="https://glintingbaywash.com/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/web-home-page-pic/" data-orig-file="/img/img-74cc4c90ce.webp" data-orig-size="600,314" data-comments-opened="1" data-image-title="web-home-page-pic" data-image-description="" data-image-caption="" data-large-file="/img/img-74cc4c90ce.webp" />
                       {" "}
                     </a>
                     {"\n"}
@@ -241,8 +241,8 @@ export default function CatUncategorizedPage() {
                           01 Jul
                         </span>
                         {" "}
-                        <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/" title="Audit Results Are In—And We’re Lumen Brighter Than Ever">
-                          Audit Results Are In—And We’re Lumen Brighter Than Ever
+                        <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/" title="Audit Results Are In—And We’re Shining Brighter Than Ever">
+                          Audit Results Are In—And We’re Shining Brighter Than Ever
                         </a>
                       </h2>
                       {"\n"}
@@ -287,7 +287,7 @@ export default function CatUncategorizedPage() {
                         <span className="dots">
                           <i className="fa fa-square"></i>
                         </span>
-                        <a itemProp="url" className="post_comments" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/#respond" target="_self">
+                        <a itemProp="url" className="post_comments" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/#respond" target="_self">
                           0 Comments
                         </a>
                         {"\n"}
@@ -313,7 +313,7 @@ export default function CatUncategorizedPage() {
                       {" "}
                       <div className="post_more">
                         {"\n"}
-                        <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/" className="qbutton small">
+                        <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/" className="qbutton small">
                           Read More
                         </a>
                         {"\n"}
@@ -335,7 +335,7 @@ export default function CatUncategorizedPage() {
                     {"\n"}
                     <a itemProp="url" href="/2024/12/13/tis-the-season-thank-you-for-your-patronage/" title="‘Tis The Season – Thank You For Your Patronage!">
                       {"\n"}
-                      <img loading="lazy" width="600" height="317" src="/img/img-f60b1ac5eb.webp" className="attachment-full size-full wp-post-image" alt="Happy Holidays and Happy New Year from the Lumen Car Wash family" decoding="async" srcSet="/img/img-2fb2726120.webp 600w, /img/img-abcfea7960.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4798" data-permalink="https://lumenwash.com/2024/12/13/tis-the-season-thank-you-for-your-patronage/happy-holidays_lumen-car-wash/" data-orig-file="/img/img-f60b1ac5eb.webp" data-orig-size="600,317" data-comments-opened="1" data-image-title="happy-holidays_lumen-car-wash" data-image-description="" data-image-caption="" data-large-file="/img/img-f60b1ac5eb.webp" />
+                      <img loading="lazy" width="600" height="317" src="/img/img-f60b1ac5eb.webp" className="attachment-full size-full wp-post-image" alt="Happy Holidays and Happy New Year from the Glinting Bay Car Wash family" decoding="async" srcSet="/img/img-2fb2726120.webp 600w, /img/img-abcfea7960.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4798" data-permalink="https://glintingbaywash.com/2024/12/13/tis-the-season-thank-you-for-your-patronage/happy-holidays_glinting-bay-car-wash/" data-orig-file="/img/img-f60b1ac5eb.webp" data-orig-size="600,317" data-comments-opened="1" data-image-title="happy-holidays_glinting-bay-car-wash" data-image-description="" data-image-caption="" data-large-file="/img/img-f60b1ac5eb.webp" />
                       {" "}
                     </a>
                     {"\n"}
@@ -428,7 +428,7 @@ export default function CatUncategorizedPage() {
                     {"\n"}
                     <a itemProp="url" href="/2024/11/04/unleashing-the-power-of-a-car-wash/" title="Unleashing the Power of a Car Wash">
                       {"\n"}
-                      <img loading="lazy" width="600" height="399" src="/img/img-9a0adeaae7.webp" className="attachment-full size-full wp-post-image" alt="professional towel dry service at lumen car wash" decoding="async" srcSet="/img/img-7614120fd7.webp 600w, /img/img-fdf3efa9b6.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4800" data-permalink="https://lumenwash.com/2024/11/04/unleashing-the-power-of-a-car-wash/istock-451803261_smm-ad-copy/" data-orig-file="/img/img-9a0adeaae7.webp" data-orig-size="600,399" data-comments-opened="1" data-image-title="professional towel dry service at lumen car wash" data-image-description="" data-image-caption="" data-large-file="/img/img-9a0adeaae7.webp" />
+                      <img loading="lazy" width="600" height="399" src="/img/img-9a0adeaae7.webp" className="attachment-full size-full wp-post-image" alt="professional towel dry service at glinting bay car wash" decoding="async" srcSet="/img/img-7614120fd7.webp 600w, /img/img-fdf3efa9b6.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4800" data-permalink="https://glintingbaywash.com/2024/11/04/unleashing-the-power-of-a-car-wash/istock-451803261_smm-ad-copy/" data-orig-file="/img/img-9a0adeaae7.webp" data-orig-size="600,399" data-comments-opened="1" data-image-title="professional towel dry service at glinting bay car wash" data-image-description="" data-image-caption="" data-large-file="/img/img-9a0adeaae7.webp" />
                       {" "}
                     </a>
                     {"\n"}
@@ -531,9 +531,9 @@ export default function CatUncategorizedPage() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <a itemProp="url" href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/" title="Nothing Bugs Us: Lumen’s Graphene Coating for the Ultimate Vehicle Protection">
+                    <a itemProp="url" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/" title="Nothing Bugs Us: Glinting Bay’s Graphene Coating for the Ultimate Vehicle Protection">
                       {"\n"}
-                      <img loading="lazy" width="742" height="558" src="/img/img-75056f6173.png" className="attachment-full size-full wp-post-image" alt="bugs gone wild" decoding="async" srcSet="/img/img-f9223c9ad4.png 742w, /img/img-025008c82f.png 300w, /img/img-4cded6b004.png 600w, /img/img-db7e5b49c5.png 400w, /img/img-bd3e87722a.png 200w, /img/img-e80da594ea.png 700w" sizes="(max-width: 742px) 100vw, 742px" data-attachment-id="3584" data-permalink="https://lumenwash.com/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/bugs-gone-wild/" data-orig-file="/img/img-75056f6173.png" data-orig-size="742,558" data-comments-opened="1" data-image-title="bugs gone wild" data-image-description={"<p>#image_title</p>\n"} data-image-caption={"<p>#image_title</p>\n"} data-large-file="/img/img-75056f6173.png" />
+                      <img loading="lazy" width="742" height="558" src="/img/img-75056f6173.png" className="attachment-full size-full wp-post-image" alt="bugs gone wild" decoding="async" srcSet="/img/img-f9223c9ad4.png 742w, /img/img-025008c82f.png 300w, /img/img-4cded6b004.png 600w, /img/img-db7e5b49c5.png 400w, /img/img-bd3e87722a.png 200w, /img/img-e80da594ea.png 700w" sizes="(max-width: 742px) 100vw, 742px" data-attachment-id="3584" data-permalink="https://glintingbaywash.com/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/bugs-gone-wild/" data-orig-file="/img/img-75056f6173.png" data-orig-size="742,558" data-comments-opened="1" data-image-title="bugs gone wild" data-image-description={"<p>#image_title</p>\n"} data-image-caption={"<p>#image_title</p>\n"} data-large-file="/img/img-75056f6173.png" />
                       {" "}
                     </a>
                     {"\n"}
@@ -548,8 +548,8 @@ export default function CatUncategorizedPage() {
                           13 Jul
                         </span>
                         {" "}
-                        <a itemProp="url" href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/" title="Nothing Bugs Us: Lumen’s Graphene Coating for the Ultimate Vehicle Protection">
-                          Nothing Bugs Us: Lumen’s Graphene Coating for the Ultimate Vehicle Protection
+                        <a itemProp="url" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/" title="Nothing Bugs Us: Glinting Bay’s Graphene Coating for the Ultimate Vehicle Protection">
+                          Nothing Bugs Us: Glinting Bay’s Graphene Coating for the Ultimate Vehicle Protection
                         </a>
                       </h2>
                       {"\n"}
@@ -582,7 +582,7 @@ export default function CatUncategorizedPage() {
                         <span className="dots">
                           <i className="fa fa-square"></i>
                         </span>
-                        <a itemProp="url" className="post_comments" href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/#respond" target="_self">
+                        <a itemProp="url" className="post_comments" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/#respond" target="_self">
                           0 Comments
                         </a>
                         {"\n"}
@@ -608,7 +608,7 @@ export default function CatUncategorizedPage() {
                       {" "}
                       <div className="post_more">
                         {"\n"}
-                        <a itemProp="url" href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/" className="qbutton small">
+                        <a itemProp="url" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/" className="qbutton small">
                           Read More
                         </a>
                         {"\n"}

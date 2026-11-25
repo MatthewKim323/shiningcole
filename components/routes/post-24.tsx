@@ -16,7 +16,7 @@ export default function Post24Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="1536" height="1024" src="/img/img-98b2e8cd21.png" className="attachment-full size-full wp-post-image" alt="ice hacks" decoding="async" srcSet="/img/img-a5edc55b2b.png 1536w, /img/img-16d99742a2.png 300w, /img/img-7cdc7dea28.png 1024w, /img/img-a39dc18650.png 768w, /img/img-6f6657d057.png 700w" sizes="(max-width: 1536px) 100vw, 1536px" data-attachment-id="4913" data-permalink="https://lumenwash.com/2026/03/13/snow-removal-mistakes-that-can-damage-your-car/ice-hacks/" data-orig-file="/img/img-98b2e8cd21.png" data-orig-size="1536,1024" data-comments-opened="1" data-image-title="ice hacks" data-image-description="" data-image-caption="" data-large-file="/img/img-4665ee18a2.png" />
+                    <img fetchPriority="high" width="1536" height="1024" src="/img/img-98b2e8cd21.png" className="attachment-full size-full wp-post-image" alt="ice hacks" decoding="async" srcSet="/img/img-a5edc55b2b.png 1536w, /img/img-16d99742a2.png 300w, /img/img-7cdc7dea28.png 1024w, /img/img-a39dc18650.png 768w, /img/img-6f6657d057.png 700w" sizes="(max-width: 1536px) 100vw, 1536px" data-attachment-id="4913" data-permalink="https://glintingbaywash.com/2026/03/13/snow-removal-mistakes-that-can-damage-your-car/ice-hacks/" data-orig-file="/img/img-98b2e8cd21.png" data-orig-size="1536,1024" data-comments-opened="1" data-image-title="ice hacks" data-image-description="" data-image-caption="" data-large-file="/img/img-4665ee18a2.png" />
                     {" "}
                   </div>
                   {"\n"}
@@ -126,7 +126,7 @@ export default function Post24Page() {
                                 <p data-start="1374" data-end="1545">
                                   {"At "}
                                   <strong data-start="1377" data-end="1402">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </strong>
                                   , we want drivers to protect their vehicles through every season. Here are some of the most common snow-removal mistakes and how to avoid them.
                                 </p>
@@ -265,12 +265,12 @@ export default function Post24Page() {
                                   {" before starting your vehicle, especially after heavy snowfall."}
                                 </p>
                                 <h3 data-section-id="znu0ji" data-start="5921" data-end="5965">
-                                  Why Care Matters at Lumen Car Wash
+                                  Why Care Matters at Glinting Bay Car Wash
                                 </h3>
                                 <p data-start="5967" data-end="6078">
                                   {"At "}
                                   <strong data-start="5970" data-end="5995">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </strong>
                                   , being careful with vehicles is not just a talking point—it is part of who we are.
                                 </p>
@@ -293,7 +293,7 @@ export default function Post24Page() {
                                 <p data-start="6845" data-end="7072">
                                   {"At "}
                                   <strong data-start="6848" data-end="6873">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </strong>
                                   , we know your vehicle is an investment. Taking the right approach to snow and ice removal can help keep it looking better, working better, and lasting longer through the toughest months of the year.
                                 </p>
@@ -302,17 +302,17 @@ export default function Post24Page() {
                                 </p>
                                 <h5 data-start="74" data-end="105">
                                   <strong data-start="74" data-end="105">
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h5>
                                 <p data-start="107" data-end="395">
-                                  Lumen Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
+                                  Glinting Bay Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
                                 </p>
                                 <p data-start="397" data-end="649">
                                   In just 3 minutes, you’ll enjoy a thorough clean plus FREE wheel cleaner, wax, and vacuuming. Whether you choose a single wash or join our membership, we’re committed to excellence, integrity, and doing what’s right for our customers and our community.
                                 </p>
                                 <p data-start="651" data-end="709" data-is-last-node="" data-is-only-node="">
-                                  Try the rest—then come to the best. Lumen Car Wash.
+                                  Try the rest—then come to the best. Glinting Bay Car Wash.
                                 </p>
                                 {" "}
                               </div>
@@ -517,7 +517,7 @@ export default function Post24Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4911,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2026%2F03%2F13%2Fsnow-removal-mistakes-that-can-damage-your-car%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4911,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2026%2F03%2F13%2Fsnow-removal-mistakes-that-can-damage-your-car%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

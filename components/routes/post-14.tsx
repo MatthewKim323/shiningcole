@@ -18,7 +18,7 @@ export default function Post14Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="600" height="399" src="/img/img-9a0adeaae7.webp" className="attachment-full size-full wp-post-image" alt="professional towel dry service at lumen car wash" decoding="async" srcSet="/img/img-7614120fd7.webp 600w, /img/img-fdf3efa9b6.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4800" data-permalink="https://lumenwash.com/2024/11/04/unleashing-the-power-of-a-car-wash/istock-451803261_smm-ad-copy/" data-orig-file="/img/img-9a0adeaae7.webp" data-orig-size="600,399" data-comments-opened="1" data-image-title="professional towel dry service at lumen car wash" data-image-description="" data-image-caption="" data-large-file="/img/img-9a0adeaae7.webp" />
+                    <img fetchPriority="high" width="600" height="399" src="/img/img-9a0adeaae7.webp" className="attachment-full size-full wp-post-image" alt="professional towel dry service at glinting bay car wash" decoding="async" srcSet="/img/img-7614120fd7.webp 600w, /img/img-fdf3efa9b6.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4800" data-permalink="https://glintingbaywash.com/2024/11/04/unleashing-the-power-of-a-car-wash/istock-451803261_smm-ad-copy/" data-orig-file="/img/img-9a0adeaae7.webp" data-orig-size="600,399" data-comments-opened="1" data-image-title="professional towel dry service at glinting bay car wash" data-image-description="" data-image-caption="" data-large-file="/img/img-9a0adeaae7.webp" />
                     {" "}
                   </div>
                   {"\n"}
@@ -134,7 +134,7 @@ export default function Post14Page() {
                                   </li>
                                 </ul>
                                 <h2>
-                                  {" "}
+                                  {" "}
                                 </h2>
                                 <h2>
                                   Shine Like It’s Brand New
@@ -149,7 +149,7 @@ export default function Post14Page() {
                                         Cutting-Edge Technology
                                       </strong>
                                     </b>
-                                    : Lumen Car Wash uses innovative technology to deliver precise cleaning without causing harm to your car’s paintwork.
+                                    : Glinting Bay Car Wash uses innovative technology to deliver precise cleaning without causing harm to your car’s paintwork.
                                   </li>
                                   <li className={"text-body font-regular leading-[24px] my-[5px] [&>ol]:!pt-0 [&>ol]:!pb-0 [&>ul]:!pt-0 [&>ul]:!pb-0"} value="2">
                                     <b>
@@ -161,7 +161,7 @@ export default function Post14Page() {
                                   </li>
                                 </ul>
                                 <h2>
-                                  {" "}
+                                  {" "}
                                 </h2>
                                 <h2>
                                   Amazing Benefits of Regular Car Washes
@@ -190,13 +190,13 @@ export default function Post14Page() {
                                   </li>
                                 </ul>
                                 <h2>
-                                  {" "}
+                                  {" "}
                                 </h2>
                                 <h2>
                                   Specialized Protection Services
                                 </h2>
                                 <p>
-                                  At Lumen Car Wash, we provide a wide range of specialized protection services designed to keep your vehicle looking its best throughout the year. Whether you’re tackling wash-away pollen in the spring or winterizing your car against road salt and road grind, our cutting-edge solutions ensure your vehicle remains in pristine condition.
+                                  At Glinting Bay Car Wash, we provide a wide range of specialized protection services designed to keep your vehicle looking its best throughout the year. Whether you’re tackling wash-away pollen in the spring or winterizing your car against road salt and road grind, our cutting-edge solutions ensure your vehicle remains in pristine condition.
                                 </p>
                                 <h4>
                                   Key Protection Features:
@@ -222,16 +222,16 @@ export default function Post14Page() {
                                   </li>
                                 </ul>
                                 <p>
-                                  With these specialized services, you can trust that your car’s auto finish will not only endure but thrive against environmental challenges. Elevate your vehicle care routine with Lumen Car Wash’s professional-grade solutions.
+                                  With these specialized services, you can trust that your car’s auto finish will not only endure but thrive against environmental challenges. Elevate your vehicle care routine with Glinting Bay Car Wash’s professional-grade solutions.
                                 </p>
                                 <h2>
-                                  Why Choose Lumen Car Wash?
+                                  Why Choose Glinting Bay Car Wash?
                                 </h2>
                                 <p>
-                                  At Lumen Car Wash, we emphasize excellence by using the latest car care technology to provide unmatched service quality. Our tech-driven approach ensures that each wash and protection service is optimized for eco-efficiency and superior results, delivered by our highly trained technicians.
+                                  At Glinting Bay Car Wash, we emphasize excellence by using the latest car care technology to provide unmatched service quality. Our tech-driven approach ensures that each wash and protection service is optimized for eco-efficiency and superior results, delivered by our highly trained technicians.
                                 </p>
                                 <p>
-                                  We offer more than just a wash; our protective treatments are designed to extend the lifespan of your vehicle’s exterior, keeping it immaculate and resilient. Experience the Lumen difference, where expert care and innovative solutions prioritize your vehicle’s needs.
+                                  We offer more than just a wash; our protective treatments are designed to extend the lifespan of your vehicle’s exterior, keeping it immaculate and resilient. Experience the Glinting Bay difference, where expert care and innovative solutions prioritize your vehicle’s needs.
                                 </p>
                                 <h4>
                                   Exceptional Service Highlights:
@@ -250,7 +250,7 @@ export default function Post14Page() {
                                 </ul>
                                 <p>
                                   <span style={sx({ textAlign: "var(--text-align)" })}>
-                                    {" "}
+                                    {" "}
                                   </span>
                                 </p>
                                 <p>
@@ -269,7 +269,7 @@ export default function Post14Page() {
                                   Your satisfaction is our top priority, and we strive to create a welcoming environment where you feel valued and respected. Our goal is to foster a long-lasting relationship built on trust, transparency, and mutual respect.
                                 </p>
                                 <p>
-                                  {"As an independently owned and operated facility, we guarantee personalized attention and exceptional service. Our commitment to auto finish excellence establishes Lumen "}
+                                  {"As an independently owned and operated facility, we guarantee personalized attention and exceptional service. Our commitment to auto finish excellence establishes Shining "}
                                   <a href="/">
                                     Star Car Wash
                                   </a>
@@ -485,7 +485,7 @@ export default function Post14Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":3867,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2024%2F11%2F04%2Funleashing-the-power-of-a-car-wash%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":3867,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2024%2F11%2F04%2Funleashing-the-power-of-a-car-wash%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

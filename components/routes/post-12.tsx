@@ -16,7 +16,7 @@ export default function Post12Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="2569" height="1347" src="/img/img-c2f93fa50f.jpg" className="attachment-full size-full wp-post-image" alt="a lumen car wash exquisite shine" decoding="async" srcSet="/img/img-5b8540be59.jpg 2569w, /img/img-f7a313ebe7.jpg 300w, /img/img-ba3c7b2e2e.jpg 1024w, /img/img-5aeec6b0d8.jpg 768w, /img/img-cdf932e892.jpg 1536w, /img/img-854a0ad969.jpg 2048w, /img/img-5c1a98475a.jpg 1200w, /img/img-b529a7e58f.jpg 700w, /img/img-f1fd67ee47.jpg 600w, /img/img-46d9c4b4fb.jpg 2120w" sizes="(max-width: 2569px) 100vw, 2569px" data-attachment-id="1428" data-permalink="https://lumenwash.com/web-home-page-pic-jpg/" data-orig-file="/img/img-c2f93fa50f.jpg" data-orig-size="2569,1347" data-comments-opened="1" data-image-meta={"{\"aperture\":\"1.8\",\"camera\":\"iPhone XR\",\"created_timestamp\":\"1633014047\",\"focal_length\":\"4.25\",\"iso\":\"25\",\"shutter_speed\":\"0.0015151515151515\",\"orientation\":\"1\"}"} data-image-title="web-home-page-pic.jpg" data-image-description="" data-image-caption="" data-large-file="/img/img-434090055c.jpg" />
+                    <img fetchPriority="high" width="2569" height="1347" src="/img/img-c2f93fa50f.jpg" className="attachment-full size-full wp-post-image" alt="a glinting bay car wash exquisite shine" decoding="async" srcSet="/img/img-5b8540be59.jpg 2569w, /img/img-f7a313ebe7.jpg 300w, /img/img-ba3c7b2e2e.jpg 1024w, /img/img-5aeec6b0d8.jpg 768w, /img/img-cdf932e892.jpg 1536w, /img/img-854a0ad969.jpg 2048w, /img/img-5c1a98475a.jpg 1200w, /img/img-b529a7e58f.jpg 700w, /img/img-f1fd67ee47.jpg 600w, /img/img-46d9c4b4fb.jpg 2120w" sizes="(max-width: 2569px) 100vw, 2569px" data-attachment-id="1428" data-permalink="https://glintingbaywash.com/web-home-page-pic-jpg/" data-orig-file="/img/img-c2f93fa50f.jpg" data-orig-size="2569,1347" data-comments-opened="1" data-image-meta={"{\"aperture\":\"1.8\",\"camera\":\"iPhone XR\",\"created_timestamp\":\"1633014047\",\"focal_length\":\"4.25\",\"iso\":\"25\",\"shutter_speed\":\"0.0015151515151515\",\"orientation\":\"1\"}"} data-image-title="web-home-page-pic.jpg" data-image-description="" data-image-caption="" data-large-file="/img/img-434090055c.jpg" />
                     {" "}
                   </div>
                   {"\n"}
@@ -115,10 +115,10 @@ export default function Post12Page() {
                                   Technological Carwash Renaissance
                                 </h3>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  Carwashing is not just a chore; it’s an important line of defense against environmental damage. Lumen Car Wash stands at the forefront of this technological renaissance, pioneering smart carwash systems that provide deeper, faster, and tailored washing and waxing experiences for each vehicle that passes through.
+                                  Carwashing is not just a chore; it’s an important line of defense against environmental damage. Glinting Bay Car Wash stands at the forefront of this technological renaissance, pioneering smart carwash systems that provide deeper, faster, and tailored washing and waxing experiences for each vehicle that passes through.
                                 </p>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  Our sonar-based, AI-equipped tunnels are more than just about convenience—they’re about delivering precision in vehicle cleaning and maintenance. The Lumen AI automatically adjusts the water pressure, soap distribution, and usage of protective waxes, ensuring a methodical application that covers every inch of your car.
+                                  Our sonar-based, AI-equipped tunnels are more than just about convenience—they’re about delivering precision in vehicle cleaning and maintenance. The Glinting Bay AI automatically adjusts the water pressure, soap distribution, and usage of protective waxes, ensuring a methodical application that covers every inch of your car.
                                 </p>
                                 <h3 className={"font-bold text-gray-800 text-h4 leading-[30px] pt-[15px] pb-[2px] [&_a]:underline-offset-[6px] [&_.underline]:underline-offset-[6px]"} dir="ltr">
                                   The Power of Ceramic Wax and Beyond
@@ -133,13 +133,13 @@ export default function Post12Page() {
                                   The Lasting Luster: Conclusion
                                 </h2>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  For the automotive aficionado or the everyday driver, recognizing the threat of acid rain and UV light on one’s vehicle is the first step towards defending against them. Lumen Car Wash presents a new paradigm in car care, highlighting the symbiosis between cutting-edge technology and timeless vehicle maintenance. The applications of sonar-based, AI-enabled carwash technologies and the fortitude of ceramic waxes fused with groundbreaking materials like graphene herald an era where our vehicles stand a chance against environmental detriments, showcasing an enduring luster that reflects pride and value in our personal conveyances.
+                                  For the automotive aficionado or the everyday driver, recognizing the threat of acid rain and UV light on one’s vehicle is the first step towards defending against them. Glinting Bay Car Wash presents a new paradigm in car care, highlighting the symbiosis between cutting-edge technology and timeless vehicle maintenance. The applications of sonar-based, AI-enabled carwash technologies and the fortitude of ceramic waxes fused with groundbreaking materials like graphene herald an era where our vehicles stand a chance against environmental detriments, showcasing an enduring luster that reflects pride and value in our personal conveyances.
                                 </p>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
                                   It’s time to drive into the future—literally—with an assurance of protection that doesn’t just repel rain and sunlight but also embodies your vehicle’s finest in a glistening coat of resilience that refuses to fade away with time.
                                 </p>
                                 <p dir="ltr">
-                                  Lumen Car Wash
+                                  Glinting Bay Car Wash
                                 </p>
                                 <p dir="ltr">
                                   3626 Washington Rd., McMurray, PA 15317
@@ -153,18 +153,18 @@ export default function Post12Page() {
                                 <p dir="ltr">
                                   {"Website: "}
                                   <a href="/" rel="nofollow">
-                                    https://lumenwash.com
+                                    https://glintingbaywash.com
                                   </a>
                                 </p>
                                 <h3>
                                   <strong>
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h3>
                                 <p>
                                   {"We guarantee the Best Car Wash Experience at "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   {" or your money back! – Join our "}
                                   <a href="/#pricing">
@@ -179,7 +179,7 @@ export default function Post12Page() {
                                   Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                 </p>
                                 <p>
-                                  {"At Lumen Car Wash, we hold ourselves to the "}
+                                  {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                   <a href="/operating-agreement/">
                                     highest standards of ethical conduct and social responsibility
                                   </a>
@@ -194,7 +194,7 @@ export default function Post12Page() {
                                 <p>
                                   {"Try the rest but then come to the best car wash in town – "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                 </p>
@@ -407,7 +407,7 @@ export default function Post12Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":3570,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2024%2F05%2F20%2Fprotecting-your-vehicle-from-acid-rain-and-uv-damage%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":3570,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2024%2F05%2F20%2Fprotecting-your-vehicle-from-acid-rain-and-uv-damage%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

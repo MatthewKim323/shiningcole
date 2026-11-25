@@ -16,7 +16,7 @@ export default function Post17Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="600" height="400" src="/img/img-d10e137a9d.webp" className="attachment-full size-full wp-post-image" alt="lumen car wash customers love their shine" decoding="async" srcSet="/img/img-0c2c3f8f59.webp 600w, /img/img-eb35168ca6.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4796" data-permalink="https://lumenwash.com/2025/03/20/the-value-of-family-owned-and-operated-businesses-in-the-care-care-world/istock-471467735-1/" data-orig-file="/img/img-d10e137a9d.webp" data-orig-size="600,400" data-comments-opened="1" data-image-title="iStock-471467735 1" data-image-description="" data-image-caption="" data-large-file="/img/img-d10e137a9d.webp" />
+                    <img fetchPriority="high" width="600" height="400" src="/img/img-d10e137a9d.webp" className="attachment-full size-full wp-post-image" alt="glinting bay car wash customers love their shine" decoding="async" srcSet="/img/img-0c2c3f8f59.webp 600w, /img/img-eb35168ca6.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4796" data-permalink="https://glintingbaywash.com/2025/03/20/the-value-of-family-owned-and-operated-businesses-in-the-care-care-world/istock-471467735-1/" data-orig-file="/img/img-d10e137a9d.webp" data-orig-size="600,400" data-comments-opened="1" data-image-title="iStock-471467735 1" data-image-description="" data-image-caption="" data-large-file="/img/img-d10e137a9d.webp" />
                     {" "}
                   </div>
                   {"\n"}
@@ -105,7 +105,7 @@ export default function Post17Page() {
                                   {"At "}
                                   <i>
                                     <em className="italic">
-                                      Lumen Car Wash
+                                      Glinting Bay Car Wash
                                     </em>
                                   </i>
                                   , we pride ourselves on operating as a multi-generational, family-owned business dedicated to the care of your vehicles.
@@ -117,7 +117,7 @@ export default function Post17Page() {
                                   A family-owned and operated business includes two or more family members actively engaged in day-to-day operations, holding majority ownership stakes, and sharing one key mission—to provide exceptional service while maintaining deep community ties.
                                 </p>
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  “Our father, Jim, founded Lumen Car Wash with cutting-edge technology like the ‘SmartWash’ system to ensure both quality and safety,” says Luke, co-owner of Lumen Car Wash. “Today, my brother Jake and I build on that vision by continuing to invest in the latest systems, offering our customers the cleanest, most efficient automatic car wash experience possible.”
+                                  “Our father, Jim, founded Glinting Bay Car Wash with cutting-edge technology like the ‘SmartWash’ system to ensure both quality and safety,” says Luke, co-owner of Glinting Bay Car Wash. “Today, my brother Jake and I build on that vision by continuing to invest in the latest systems, offering our customers the cleanest, most efficient automatic car wash experience possible.”
                                 </p>
                                 <h4 className={"font-bold text-body leading-[24px] pt-[12px] pb-[2px] [&_a]:underline-offset-[6px] [&_.underline]:underline-offset-[6px]"} dir="ltr">
                                   Key Advantages of Family-Owned Businesses in the Automatic Car Wash Industry
@@ -133,7 +133,7 @@ export default function Post17Page() {
                                   Authenticity is a hallmark of family-owned businesses. Within the car wash sector, authenticity transforms customer relationships, creating loyalty that larger chains struggle to replicate.
                                 </p>
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  When customers walk into Lumen Car Wash, they recognize the care and passion a family business puts into every detail. This sense of trust drives customers to return—not just for clean, shiny vehicles but for the human connection to a business they value.
+                                  When customers walk into Glinting Bay Car Wash, they recognize the care and passion a family business puts into every detail. This sense of trust drives customers to return—not just for clean, shiny vehicles but for the human connection to a business they value.
                                 </p>
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
                                   Did you know? A study revealed that 64% of customers trust family-operated businesses more than large corporations. This trust translates to repeat business and word-of-mouth referrals, cementing long-term relationships in an industry where service speaks volumes.
@@ -149,7 +149,7 @@ export default function Post17Page() {
                                   Family operations go hand in hand with local roots. Family-owned car washes build strong connections with their communities by staying invested in local well-being.
                                 </p>
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  At Lumen Car Wash, we’ve been fortunate to serve generations of customers. “It’s been amazing to see children of customers from 20 years ago now coming to our wash. It shows that what we’re doing resonates across families,” says Jake, co-owner.
+                                  At Glinting Bay Car Wash, we’ve been fortunate to serve generations of customers. “It’s been amazing to see children of customers from 20 years ago now coming to our wash. It shows that what we’re doing resonates across families,” says Jake, co-owner.
                                 </p>
                                 <p className="text-body font-regular leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
                                   By reinvesting in community engagement and offering services tailored to local customers, family-run businesses like ours go beyond delivering services—we create experiences.
@@ -177,7 +177,7 @@ export default function Post17Page() {
                                   {"At "}
                                   <i>
                                     <em className="italic">
-                                      Lumen Car Wash
+                                      Glinting Bay Car Wash
                                     </em>
                                   </i>
                                   , our family is committed to your car’s care and cleanliness. Here’s what you can expect as part of our family-oriented approach to automatic car washes:
@@ -232,7 +232,7 @@ export default function Post17Page() {
                                   {"When you choose a family-operated business like "}
                                   <i>
                                     <em className="italic">
-                                      Lumen Car Wash
+                                      Glinting Bay Car Wash
                                     </em>
                                   </i>
                                   , you’re not just getting a spotless vehicle. You’re joining a legacy built on trust, innovation, and a genuine commitment to quality.
@@ -244,26 +244,26 @@ export default function Post17Page() {
                                   {"Drive by "}
                                   <i>
                                     <em className="italic">
-                                      Lumen Car Wash
+                                      Glinting Bay Car Wash
                                     </em>
                                   </i>
-                                  {" today, where every wash is handled with passion, precision, and a lumen smile!"}
+                                  {" today, where every wash is handled with passion, precision, and a shining smile!"}
                                 </p>
                                 <p dir="ltr">
-                                  {" "}
+                                  {" "}
                                 </p>
                                 <p dir="ltr">
                                   ___
                                 </p>
                                 <h3>
                                   <strong>
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h3>
                                 <p>
                                   {"We guarantee the Best Car Wash Experience at "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   {" or your money back! – Join our "}
                                   <a href="/#pricing">
@@ -284,7 +284,7 @@ export default function Post17Page() {
                                   Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                 </p>
                                 <p>
-                                  {"At Lumen Car Wash, we hold ourselves to the "}
+                                  {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                   <a href="/operating-agreement/">
                                     highest standards of ethical conduct and social responsibility
                                   </a>
@@ -299,7 +299,7 @@ export default function Post17Page() {
                                 <p>
                                   {"Try the rest but then come to the best car wash in town – "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                 </p>
@@ -506,7 +506,7 @@ export default function Post17Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4045,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2025%2F03%2F20%2Fthe-value-of-family-owned-and-operated-businesses-in-the-care-care-world%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4045,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2025%2F03%2F20%2Fthe-value-of-family-owned-and-operated-businesses-in-the-care-care-world%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

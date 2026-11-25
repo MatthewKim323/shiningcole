@@ -44,7 +44,7 @@ export default function UnlimitedWashClubValuePage() {
                       {"\n"}
                       <div className="elementor-widget-container">
                         {"\n"}
-                        <img fetchPriority="high" decoding="async" width="600" height="400" src="/img/img-bf11dfe70d.webp" className="attachment-large size-large wp-image-4785" alt="happy graphene customer at lumen car wash" srcSet="/img/img-1c3766df47.webp 600w, /img/img-c142ebe450.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4785" data-permalink="https://lumenwash.com/unlimited-wash-club-value/happy-graphene-customer_lumen-car-wash/" data-orig-file="/img/img-bf11dfe70d.webp" data-orig-size="600,400" data-comments-opened="1" data-image-title="happy-graphene-customer_lumen-car-wash" data-image-description="" data-image-caption="" data-large-file="/img/img-bf11dfe70d.webp" />
+                        <img fetchPriority="high" decoding="async" width="600" height="400" src="/img/img-bf11dfe70d.webp" className="attachment-large size-large wp-image-4785" alt="happy graphene customer at glinting bay car wash" srcSet="/img/img-1c3766df47.webp 600w, /img/img-c142ebe450.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4785" data-permalink="https://glintingbaywash.com/unlimited-wash-club-value/happy-graphene-customer_glinting-bay-car-wash/" data-orig-file="/img/img-bf11dfe70d.webp" data-orig-size="600,400" data-comments-opened="1" data-image-title="happy-graphene-customer_glinting-bay-car-wash" data-image-description="" data-image-caption="" data-large-file="/img/img-bf11dfe70d.webp" />
                         {" "}
                       </div>
                       {"\n"}
@@ -58,7 +58,7 @@ export default function UnlimitedWashClubValuePage() {
                       {"\n"}
                       <div className="elementor-widget-container">
                         {"\n"}
-                        <img decoding="async" width="1024" height="689" src="/img/img-f06da8ac1a.webp" className="attachment-large size-large wp-image-4781" alt="" srcSet="/img/img-4e51cba875.webp 1248w, /img/img-19a111ed16.webp 300w, /img/img-0e9620d6e4.webp 1024w, /img/img-bf1c88a2ea.webp 768w, /img/img-e0a3628ed4.webp 700w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="4781" data-permalink="https://lumenwash.com/unlimited-wash-club-value/lower-side-board-shine_graphene_lumen_star_car_wash/" data-orig-file="/img/img-f23d0c2224.webp" data-orig-size="1248,840" data-comments-opened="1" data-image-title="lower-side-board-shine_graphene_lumen_star_car_wash" data-image-description={"<p>#image_title</p>\n"} data-image-caption="" data-large-file="/img/img-f06da8ac1a.webp" />
+                        <img decoding="async" width="1024" height="689" src="/img/img-f06da8ac1a.webp" className="attachment-large size-large wp-image-4781" alt="" srcSet="/img/img-4e51cba875.webp 1248w, /img/img-19a111ed16.webp 300w, /img/img-0e9620d6e4.webp 1024w, /img/img-bf1c88a2ea.webp 768w, /img/img-e0a3628ed4.webp 700w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="4781" data-permalink="https://glintingbaywash.com/unlimited-wash-club-value/lower-side-board-shine_graphene_glinting_bay_car_wash/" data-orig-file="/img/img-f23d0c2224.webp" data-orig-size="1248,840" data-comments-opened="1" data-image-title="lower-side-board-shine_graphene_glinting_bay_car_wash" data-image-description={"<p>#image_title</p>\n"} data-image-caption="" data-large-file="/img/img-f06da8ac1a.webp" />
                         {" "}
                       </div>
                       {"\n"}
@@ -97,7 +97,7 @@ export default function UnlimitedWashClubValuePage() {
                         <div className="elementor-widget-container">
                           {"\n"}
                           <h4>
-                            Here are eight compelling reasons why joining the Lumen Car Wash GO UNLIMITED Wash Club is a FANTASTIC decision:
+                            Here are eight compelling reasons why joining the Glinting Bay Car Wash GO UNLIMITED Wash Club is a FANTASTIC decision:
                           </h4>
                           {" "}
                         </div>
@@ -135,7 +135,7 @@ export default function UnlimitedWashClubValuePage() {
                           <div className="q_icon_list">
                             <i className="qode_icon_font_awesome fa fa-circle qode-ili-icon-holder transparent" style={{ fontSize: "10px", color: "#FF0099" }}></i>
                             <p style={{ color: "#6F6F6F", fontWeight: "400", marginBottom: "5px" }}>
-                              Unlimited Premium Washes – Enjoy unrestricted access to top-tier cleaning packages like Super Star and Lumen for a fixed monthly fee
+                              Unlimited Premium Washes – Enjoy unrestricted access to top-tier cleaning packages like Super Star and Glinting Bay for a fixed monthly fee
                             </p>
                           </div>
                           {" "}
@@ -195,7 +195,7 @@ export default function UnlimitedWashClubValuePage() {
                           <div className="q_icon_list">
                             <i className="qode_icon_font_awesome fa fa-circle qode-ili-icon-holder transparent" style={{ fontSize: "10px", color: "#FF0099" }}></i>
                             <p style={{ color: "#6F6F6F", fontWeight: "400", marginBottom: "5px" }}>
-                              {"Eco‑Friendly & Socially Responsible – Committed to sustainable practices, Lumen blends high performance with environmental stewardship"}
+                              {"Eco‑Friendly & Socially Responsible – Committed to sustainable practices, Glinting Bay blends high performance with environmental stewardship"}
                             </p>
                           </div>
                           {" "}
@@ -406,7 +406,7 @@ export default function UnlimitedWashClubValuePage() {
                         {"\n"}
                         <div className="elementor-widget-container">
                           {"\n"}
-                          <img decoding="async" width="600" height="600" src="/img/img-4488ef2c7f.webp" className="attachment-large size-large wp-image-4775" alt="SAVE BIG with Unlimited Wash Club" srcSet="/img/img-994864a478.webp 600w, /img/img-9d002a68fc.webp 300w, /img/img-2f529181c4.webp 150w, /img/img-f0b0347234.webp 570w, /img/img-95cfaf499a.webp 500w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4775" data-permalink="https://lumenwash.com/unlimited-wash-club-value/save-big-with-unlimited-wash-club-2/" data-orig-file="/img/img-4488ef2c7f.webp" data-orig-size="600,600" data-comments-opened="1" data-image-title="SAVE-BIG-with-Unlimited-Wash-Club" data-image-description="" data-image-caption="" data-large-file="/img/img-4488ef2c7f.webp" />
+                          <img decoding="async" width="600" height="600" src="/img/img-4488ef2c7f.webp" className="attachment-large size-large wp-image-4775" alt="SAVE BIG with Unlimited Wash Club" srcSet="/img/img-994864a478.webp 600w, /img/img-9d002a68fc.webp 300w, /img/img-2f529181c4.webp 150w, /img/img-f0b0347234.webp 570w, /img/img-95cfaf499a.webp 500w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4775" data-permalink="https://glintingbaywash.com/unlimited-wash-club-value/save-big-with-unlimited-wash-club-2/" data-orig-file="/img/img-4488ef2c7f.webp" data-orig-size="600,600" data-comments-opened="1" data-image-title="SAVE-BIG-with-Unlimited-Wash-Club" data-image-description="" data-image-caption="" data-large-file="/img/img-4488ef2c7f.webp" />
                           {" "}
                         </div>
                         {"\n"}
@@ -490,9 +490,9 @@ export default function UnlimitedWashClubValuePage() {
                               <span style={{ fontFamily: "'Arial',sans-serif", color: "#666666" }}>
                                 {"It’s quick and easy to sign up at "}
                                 <a href="/">
-                                  lumenwash.com
+                                  www.glintingbaywash.com
                                 </a>
-                                {" or stop by The Lumen Car Wash and ask one of our Customer Service Advisors. "}
+                                {" or stop by The Glinting Bay Car Wash and ask one of our Customer Service Advisors. "}
                               </span>
                             </p>
                             {" "}
@@ -1086,7 +1086,7 @@ export default function UnlimitedWashClubValuePage() {
                                 The safety of our customers and your vehicle is our top priority. We safely wash thousands of vehicles every week but there are some vehicles that we cannot wash and certain vehicle design issues that we cannot be responsible for.
                               </p>
                               <p>
-                                {" "}
+                                {" "}
                               </p>
                               <h4>
                                 RESTRICTIONS
@@ -1136,7 +1136,7 @@ export default function UnlimitedWashClubValuePage() {
                                 </li>
                               </ul>
                               <h4>
-                                {" "}
+                                {" "}
                               </h4>
                               <h4>
                                 OUR WASH IS VERY SAFE; HOWEVER, WE CANNOT BE RESPONSIBLE FOR:

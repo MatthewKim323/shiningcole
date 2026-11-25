@@ -16,7 +16,7 @@ export default function Post27Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="1254" height="1254" src="/img/img-066c4239db.png" className="attachment-full size-full wp-post-image" alt="more vacuum power happy 4th 2026 - lumen car wash south hills pittsburgh pa" decoding="async" srcSet="/img/img-621240f554.png 1254w, /img/img-45ca08ff19.png 300w, /img/img-65c80050b1.png 1024w, /img/img-752feb7933.png 150w, /img/img-3af640f9b3.png 768w, /img/img-f8f55a27d1.png 570w, /img/img-9af400da84.png 500w, /img/img-d6ecb5f3d3.png 1000w, /img/img-dc04e65620.png 700w, /img/img-b0c4b7eb2e.png 650w" sizes="(max-width: 1254px) 100vw, 1254px" data-attachment-id="5301" data-permalink="https://lumenwash.com/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/more-vacuum-power-happy-4th-2026/" data-orig-file="/img/img-066c4239db.png" data-orig-size="1254,1254" data-comments-opened="1" data-image-title="more vacuum power happy 4th 2026" data-image-description="" data-image-caption="" data-large-file="/img/img-1b12e12d92.png" />
+                    <img fetchPriority="high" width="1254" height="1254" src="/img/img-066c4239db.png" className="attachment-full size-full wp-post-image" alt="more vacuum power happy 4th 2026 - glinting bay car wash south hills pittsburgh pa" decoding="async" srcSet="/img/img-621240f554.png 1254w, /img/img-45ca08ff19.png 300w, /img/img-65c80050b1.png 1024w, /img/img-752feb7933.png 150w, /img/img-3af640f9b3.png 768w, /img/img-f8f55a27d1.png 570w, /img/img-9af400da84.png 500w, /img/img-d6ecb5f3d3.png 1000w, /img/img-dc04e65620.png 700w, /img/img-b0c4b7eb2e.png 650w" sizes="(max-width: 1254px) 100vw, 1254px" data-attachment-id="5301" data-permalink="https://glintingbaywash.com/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/more-vacuum-power-happy-4th-2026/" data-orig-file="/img/img-066c4239db.png" data-orig-size="1254,1254" data-comments-opened="1" data-image-title="more vacuum power happy 4th 2026" data-image-description="" data-image-caption="" data-large-file="/img/img-1b12e12d92.png" />
                     {" "}
                   </div>
                   {"\n"}
@@ -28,7 +28,7 @@ export default function Post27Page() {
                         <span itemProp="dateCreated" className="date entry_date updated">
                           25 Jun
                         </span>
-                        {" More Power for the Vacuum Stations at Lumen Car Wash"}
+                        {" More Power for the Vacuum Stations at Glinting Bay Car Wash"}
                       </h2>
                       {"\n"}
                       <div className="post_info">
@@ -64,7 +64,7 @@ export default function Post27Page() {
                         <span className="dots">
                           <i className="fa fa-square"></i>
                         </span>
-                        <a itemProp="url" className="post_comments" href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/#respond" target="_self">
+                        <a itemProp="url" className="post_comments" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/#respond" target="_self">
                           0 Comments
                         </a>
                         {"\n"}
@@ -99,7 +99,7 @@ export default function Post27Page() {
                                   Summer is here, July 4th is around the corner, and we decided to treat ourselves — and our customers — to a little birthday-season upgrade.
                                 </p>
                                 <p data-start="211" data-end="500">
-                                  Lumen Car Wash has added more vacuum stations and more power. Whether you are heading out for a road trip, cleaning up after the beach, or just trying to keep the snack crumbs under control, our improved vacuum system is ready to help.
+                                  Glinting Bay Car Wash has added more vacuum stations and more power. Whether you are heading out for a road trip, cleaning up after the beach, or just trying to keep the snack crumbs under control, our improved vacuum system is ready to help.
                                 </p>
                                 <p data-start="502" data-end="767">
                                   {"This upgrade is part of our ongoing commitment to our SmartWash principles: "}
@@ -115,24 +115,24 @@ export default function Post27Page() {
                                   {"See you soon at "}
                                   <a href="/">
                                     <strong data-start="1022" data-end="1047">
-                                      Lumen Car Wash
+                                      Glinting Bay Car Wash
                                     </strong>
                                   </a>
                                   .
                                 </p>
                                 <h5 data-start="74" data-end="105">
                                   <strong data-start="74" data-end="105">
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h5>
                                 <p data-start="107" data-end="395">
-                                  Lumen Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
+                                  Glinting Bay Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
                                 </p>
                                 <p data-start="397" data-end="649">
                                   In just 3 minutes, you’ll enjoy a thorough clean plus FREE wheel cleaner, wax, and vacuuming. Whether you choose a single wash or join our membership, we’re committed to excellence, integrity, and doing what’s right for our customers and our community.
                                 </p>
                                 <p data-start="651" data-end="709" data-is-last-node="" data-is-only-node="">
-                                  Try the rest—then come to the best. Lumen Car Wash.
+                                  Try the rest—then come to the best. Glinting Bay Car Wash.
                                 </p>
                                 {" "}
                               </div>
@@ -153,25 +153,25 @@ export default function Post27Page() {
                                 {"\n"}
                                 <div className="elementor-gallery__container">
                                   {"\n"}
-                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-c78646351e.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="lumen car wash vacuum updates 1" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NTI5MSwidXJsIjoiaHR0cHM6XC9cL3NoaW5pbmdzdGFyd2FzaC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzA2XC9zaGluaW5nLXN0YXItY2FyLXdhc2gtdmFjdXVtLXVwZGF0ZXMtMS5qcGciLCJzbGlkZXNob3ciOiJmN2Q4OTE2In0%3D">
+                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-c78646351e.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="glinting bay car wash vacuum updates 1" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NTI5MSwidXJsIjoiaHR0cHM6XC9cL3NoaW5pbmdzdGFyd2FzaC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzA2XC9zaGluaW5nLXN0YXItY2FyLXdhc2gtdmFjdXVtLXVwZGF0ZXMtMS5qcGciLCJzbGlkZXNob3ciOiJmN2Q4OTE2In0%3D">
                                     {"\n"}
-                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail={"https://i0.wp.com/lumenwash.com/wp-content/uploads/2026/06/lumen-car-wash-vacuum-updates-1.jpg?fit=960%2C1280&ssl=1"} data-width="960" data-height="1280" aria-label="lumen car wash vacuum updates 1" role="img"></div>
-                                    {"\n"}
-                                    <div className="elementor-gallery-item__overlay"></div>
-                                    {"\n"}
-                                  </a>
-                                  {"\n"}
-                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-b00dfbfef5.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="lumen car wash vacuum updates 2" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NTI5MiwidXJsIjoiaHR0cHM6XC9cL3NoaW5pbmdzdGFyd2FzaC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzA2XC9zaGluaW5nLXN0YXItY2FyLXdhc2gtdmFjdXVtLXVwZGF0ZXMtMi5qcGciLCJzbGlkZXNob3ciOiJmN2Q4OTE2In0%3D">
-                                    {"\n"}
-                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail={"https://i0.wp.com/lumenwash.com/wp-content/uploads/2026/06/lumen-car-wash-vacuum-updates-2.jpg?fit=960%2C1280&ssl=1"} data-width="960" data-height="1280" aria-label="lumen car wash vacuum updates 2" role="img"></div>
+                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail={"https://i0.wp.com/glintingbaywash.com/wp-content/uploads/2026/06/glinting-bay-car-wash-vacuum-updates-1.jpg?fit=960%2C1280&ssl=1"} data-width="960" data-height="1280" aria-label="glinting bay car wash vacuum updates 1" role="img"></div>
                                     {"\n"}
                                     <div className="elementor-gallery-item__overlay"></div>
                                     {"\n"}
                                   </a>
                                   {"\n"}
-                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-3922fa2cb4.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="lumen car wash vacuum updates 3" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NTI5MywidXJsIjoiaHR0cHM6XC9cL3NoaW5pbmdzdGFyd2FzaC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzA2XC9zaGluaW5nLXN0YXItY2FyLXdhc2gtdmFjdXVtLXVwZGF0ZXMtMy5qcGciLCJzbGlkZXNob3ciOiJmN2Q4OTE2In0%3D">
+                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-b00dfbfef5.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="glinting bay car wash vacuum updates 2" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NTI5MiwidXJsIjoiaHR0cHM6XC9cL3NoaW5pbmdzdGFyd2FzaC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzA2XC9zaGluaW5nLXN0YXItY2FyLXdhc2gtdmFjdXVtLXVwZGF0ZXMtMi5qcGciLCJzbGlkZXNob3ciOiJmN2Q4OTE2In0%3D">
                                     {"\n"}
-                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail={"https://i0.wp.com/lumenwash.com/wp-content/uploads/2026/06/lumen-car-wash-vacuum-updates-3.jpg?fit=960%2C1280&ssl=1"} data-width="960" data-height="1280" aria-label="lumen car wash vacuum updates 3" role="img"></div>
+                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail={"https://i0.wp.com/glintingbaywash.com/wp-content/uploads/2026/06/glinting-bay-car-wash-vacuum-updates-2.jpg?fit=960%2C1280&ssl=1"} data-width="960" data-height="1280" aria-label="glinting bay car wash vacuum updates 2" role="img"></div>
+                                    {"\n"}
+                                    <div className="elementor-gallery-item__overlay"></div>
+                                    {"\n"}
+                                  </a>
+                                  {"\n"}
+                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-3922fa2cb4.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="glinting bay car wash vacuum updates 3" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NTI5MywidXJsIjoiaHR0cHM6XC9cL3NoaW5pbmdzdGFyd2FzaC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzA2XC9zaGluaW5nLXN0YXItY2FyLXdhc2gtdmFjdXVtLXVwZGF0ZXMtMy5qcGciLCJzbGlkZXNob3ciOiJmN2Q4OTE2In0%3D">
+                                    {"\n"}
+                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail={"https://i0.wp.com/glintingbaywash.com/wp-content/uploads/2026/06/glinting-bay-car-wash-vacuum-updates-3.jpg?fit=960%2C1280&ssl=1"} data-width="960" data-height="1280" aria-label="glinting bay car wash vacuum updates 3" role="img"></div>
                                     {"\n"}
                                     <div className="elementor-gallery-item__overlay"></div>
                                     {"\n"}
@@ -197,7 +197,7 @@ export default function Post27Page() {
                           <div className="sd-content">
                             <ul>
                               <li className="share-twitter">
-                                <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-5282" className="share-twitter sd-button share-icon" href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/?share=twitter" target="_blank" aria-labelledby="sharing-twitter-5282">
+                                <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-5282" className="share-twitter sd-button share-icon" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/?share=twitter" target="_blank" aria-labelledby="sharing-twitter-5282">
                                   {"\n"}
                                   <span id="sharing-twitter-5282" hidden>
                                     Share on X (Opens in new window)
@@ -210,7 +210,7 @@ export default function Post27Page() {
                                 </a>
                               </li>
                               <li className="share-facebook">
-                                <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-5282" className="share-facebook sd-button share-icon" href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/?share=facebook" target="_blank" aria-labelledby="sharing-facebook-5282">
+                                <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-5282" className="share-facebook sd-button share-icon" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/?share=facebook" target="_blank" aria-labelledby="sharing-facebook-5282">
                                   {"\n"}
                                   <span id="sharing-facebook-5282" hidden>
                                     Share on Facebook (Opens in new window)
@@ -375,13 +375,13 @@ export default function Post27Page() {
                     </h5>
                     {" "}
                     <small>
-                      <a rel="nofollow" id="cancel-comment-reply-link" href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/#respond" style={{ display: "none" }}>
+                      <a rel="nofollow" id="cancel-comment-reply-link" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/#respond" style={{ display: "none" }}>
                         Cancel Reply
                       </a>
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":5282,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2026%2F06%2F25%2Fmore-power-for-the-vacuum-stations-at-lumen-car-wash%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":5282,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2026%2F06%2F25%2Fmore-power-for-the-vacuum-stations-at-glinting-bay-car-wash%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

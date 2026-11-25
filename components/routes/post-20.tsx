@@ -16,7 +16,7 @@ export default function Post20Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="600" height="314" src="/img/img-74cc4c90ce.webp" className="attachment-full size-full wp-post-image" alt="a lumen car wash exquisite shine" decoding="async" srcSet="/img/img-c6c23a2197.webp 600w, /img/img-301ccc06f8.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4692" data-permalink="https://lumenwash.com/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/web-home-page-pic/" data-orig-file="/img/img-74cc4c90ce.webp" data-orig-size="600,314" data-comments-opened="1" data-image-title="web-home-page-pic" data-image-description="" data-image-caption="" data-large-file="/img/img-74cc4c90ce.webp" />
+                    <img fetchPriority="high" width="600" height="314" src="/img/img-74cc4c90ce.webp" className="attachment-full size-full wp-post-image" alt="a glinting bay car wash exquisite shine" decoding="async" srcSet="/img/img-c6c23a2197.webp 600w, /img/img-301ccc06f8.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4692" data-permalink="https://glintingbaywash.com/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/web-home-page-pic/" data-orig-file="/img/img-74cc4c90ce.webp" data-orig-size="600,314" data-comments-opened="1" data-image-title="web-home-page-pic" data-image-description="" data-image-caption="" data-large-file="/img/img-74cc4c90ce.webp" />
                     {" "}
                   </div>
                   {"\n"}
@@ -28,7 +28,7 @@ export default function Post20Page() {
                         <span itemProp="dateCreated" className="date entry_date updated">
                           01 Jul
                         </span>
-                        {" Audit Results Are In—And We’re Lumen Brighter Than Ever"}
+                        {" Audit Results Are In—And We’re Shining Brighter Than Ever"}
                       </h2>
                       {"\n"}
                       <div className="post_info">
@@ -72,7 +72,7 @@ export default function Post20Page() {
                         <span className="dots">
                           <i className="fa fa-square"></i>
                         </span>
-                        <a itemProp="url" className="post_comments" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/#respond" target="_self">
+                        <a itemProp="url" className="post_comments" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/#respond" target="_self">
                           0 Comments
                         </a>
                         {"\n"}
@@ -185,7 +185,7 @@ export default function Post20Page() {
                                   . That’s why we’ve created a sensory journey worth talking about.
                                 </p>
                                 <p data-start="2651" data-end="2882">
-                                  {"When a you select our SUPER STAR and LUMEN premium packages, you know it. Specialty lighting cues, signature shines, and separate application arches make it clear: "}
+                                  {"When a you select our SUPER STAR and GLINTING BAY premium packages, you know it. Specialty lighting cues, signature shines, and separate application arches make it clear: "}
                                   <strong data-start="2853" data-end="2881">
                                     this is next-level clean
                                   </strong>
@@ -247,13 +247,13 @@ export default function Post20Page() {
                                 </p>
                                 <h3>
                                   <strong>
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h3>
                                 <p>
                                   {"We guarantee the Best Car Wash Experience at "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   {" or your money back! – Join our "}
                                   <a href="/#pricing">
@@ -268,7 +268,7 @@ export default function Post20Page() {
                                   Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                 </p>
                                 <p>
-                                  {"At Lumen Car Wash, we hold ourselves to the "}
+                                  {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                   <a href="/operating-agreement/">
                                     highest standards of ethical conduct and social responsibility
                                   </a>
@@ -283,7 +283,7 @@ export default function Post20Page() {
                                 <p>
                                   {"Try the rest but then come to the best car wash in town – "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                 </p>
@@ -306,7 +306,7 @@ export default function Post20Page() {
                           <div className="sd-content">
                             <ul>
                               <li className="share-twitter">
-                                <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-4116" className="share-twitter sd-button share-icon" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/?share=twitter" target="_blank" aria-labelledby="sharing-twitter-4116">
+                                <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-4116" className="share-twitter sd-button share-icon" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/?share=twitter" target="_blank" aria-labelledby="sharing-twitter-4116">
                                   {"\n"}
                                   <span id="sharing-twitter-4116" hidden>
                                     Share on X (Opens in new window)
@@ -319,7 +319,7 @@ export default function Post20Page() {
                                 </a>
                               </li>
                               <li className="share-facebook">
-                                <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-4116" className="share-facebook sd-button share-icon" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/?share=facebook" target="_blank" aria-labelledby="sharing-facebook-4116">
+                                <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-4116" className="share-facebook sd-button share-icon" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/?share=facebook" target="_blank" aria-labelledby="sharing-facebook-4116">
                                   {"\n"}
                                   <span id="sharing-facebook-4116" hidden>
                                     Share on Facebook (Opens in new window)
@@ -484,13 +484,13 @@ export default function Post20Page() {
                     </h5>
                     {" "}
                     <small>
-                      <a rel="nofollow" id="cancel-comment-reply-link" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/#respond" style={{ display: "none" }}>
+                      <a rel="nofollow" id="cancel-comment-reply-link" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/#respond" style={{ display: "none" }}>
                         Cancel Reply
                       </a>
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4116,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2025%2F07%2F01%2Faudit-results-are-in-and-were-lumen-brighter-than-ever%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4116,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2025%2F07%2F01%2Faudit-results-are-in-and-were-shining-brighter-than-ever%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

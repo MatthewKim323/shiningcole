@@ -16,7 +16,7 @@ export default function Post11Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="1248" height="840" src="/img/img-374ab66db2.jpg" className="attachment-full size-full wp-post-image" alt="high gloss graphene protectant from lumen car wash" decoding="async" srcSet="/img/img-94717e30e8.jpg 1248w, /img/img-f8b05b4b10.jpg 300w, /img/img-e1ad6c1c6d.jpg 1024w, /img/img-0081eff45f.jpg 768w, /img/img-b0f8a62053.jpg 1200w, /img/img-243fd8e6cf.jpg 700w" sizes="(max-width: 1248px) 100vw, 1248px" data-attachment-id="3548" data-permalink="https://lumenwash.com/2024/04/15/phase-iv-modernization-is-completed/nissan-gtr-black-edition-2/" data-orig-file="/img/img-374ab66db2.jpg" data-orig-size="1248,840" data-comments-opened="1" data-image-meta={"{\"aperture\":\"3.2\",\"credit\":\"Getty Images\",\"camera\":\"Canon EOS 5D Mark II\",\"caption\":\"Sistiana, Italy - December 6, 2013: Photo shooting of a Nissan GT-R Black Edition. The Nissan GT-R is a 2-door 2+2 sports car produced by Nissan and unveiled in 2007.\",\"created_timestamp\":\"1386347147\",\"copyright\":\"bluebeat76\",\"focal_length\":\"100\",\"iso\":\"320\",\"shutter_speed\":\"0.004\",\"title\":\"Nissan GTR Black Edition\",\"orientation\":\"1\"}"} data-image-title="high gloss graphene protectant from lumen car wash" data-image-description={"<p>#image_title</p>\n"} data-image-caption={"<p>#image_title</p>\n"} data-large-file="/img/img-1b2500b4a6.jpg" />
+                    <img fetchPriority="high" width="1248" height="840" src="/img/img-374ab66db2.jpg" className="attachment-full size-full wp-post-image" alt="high gloss graphene protectant from glinting bay car wash" decoding="async" srcSet="/img/img-94717e30e8.jpg 1248w, /img/img-f8b05b4b10.jpg 300w, /img/img-e1ad6c1c6d.jpg 1024w, /img/img-0081eff45f.jpg 768w, /img/img-b0f8a62053.jpg 1200w, /img/img-243fd8e6cf.jpg 700w" sizes="(max-width: 1248px) 100vw, 1248px" data-attachment-id="3548" data-permalink="https://glintingbaywash.com/2024/04/15/phase-iv-modernization-is-completed/nissan-gtr-black-edition-2/" data-orig-file="/img/img-374ab66db2.jpg" data-orig-size="1248,840" data-comments-opened="1" data-image-meta={"{\"aperture\":\"3.2\",\"credit\":\"Getty Images\",\"camera\":\"Canon EOS 5D Mark II\",\"caption\":\"Sistiana, Italy - December 6, 2013: Photo shooting of a Nissan GT-R Black Edition. The Nissan GT-R is a 2-door 2+2 sports car produced by Nissan and unveiled in 2007.\",\"created_timestamp\":\"1386347147\",\"copyright\":\"bluebeat76\",\"focal_length\":\"100\",\"iso\":\"320\",\"shutter_speed\":\"0.004\",\"title\":\"Nissan GTR Black Edition\",\"orientation\":\"1\"}"} data-image-title="high gloss graphene protectant from glinting bay car wash" data-image-description={"<p>#image_title</p>\n"} data-image-caption={"<p>#image_title</p>\n"} data-large-file="/img/img-1b2500b4a6.jpg" />
                     {" "}
                   </div>
                   {"\n"}
@@ -93,10 +93,10 @@ export default function Post11Page() {
                                       McMurray, PA, April 15, 2024
                                     </strong>
                                   </b>
-                                  {" – Lumen Car Wash, a pioneering figure in the automatic car wash industry and the only provider of personalized hand towel drying in the South Hills area of Pittsburgh, PA, proudly announces the completion of its Phase IV modernization program. The recent enhancements signal a new era in car care, equipping the facility with cutting-edge “smart” technology, and introducing an exclusive Graphene finish for outstanding vehicle shine and protection."}
+                                  {" – Glinting Bay Car Wash, a pioneering figure in the automatic car wash industry and the only provider of personalized hand towel drying in the South Hills area of Pittsburgh, PA, proudly announces the completion of its Phase IV modernization program. The recent enhancements signal a new era in car care, equipping the facility with cutting-edge “smart” technology, and introducing an exclusive Graphene finish for outstanding vehicle shine and protection."}
                                 </p>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  James Platz, Founder, and CEO of Lumen Car Wash, expresses his enthusiasm about the recent upgrades, “With this modernization, our commitment to growth and excellence takes on a new form. We’re leveraging the latest in smart technology to provide exceptional service quality that our customers have come to expect from us.”
+                                  James Platz, Founder, and CEO of Glinting Bay Car Wash, expresses his enthusiasm about the recent upgrades, “With this modernization, our commitment to growth and excellence takes on a new form. We’re leveraging the latest in smart technology to provide exceptional service quality that our customers have come to expect from us.”
                                 </p>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
                                   Key features of the modernization include:
@@ -136,15 +136,15 @@ export default function Post11Page() {
                                   </li>
                                 </ul>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  Platz reflects on the vision of Lumen Car Wash, “In a world where consumer expectations are constantly evolving, our pursuit of excellence through technology investment ensures we add continual value. We measure our success by the satisfaction and loyalty of our customers who view us as the gold standard in car care automation.”
+                                  Platz reflects on the vision of Glinting Bay Car Wash, “In a world where consumer expectations are constantly evolving, our pursuit of excellence through technology investment ensures we add continual value. We measure our success by the satisfaction and loyalty of our customers who view us as the gold standard in car care automation.”
                                 </p>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  Lumen Car Wash carries the torch of innovation passed down through almost 25 years of family-operated business. Its legacy is characterized by an unyielding dedication to quality and a promise to offer only the best to the residents of the Pittsburgh South Hills area.
+                                  Glinting Bay Car Wash carries the torch of innovation passed down through almost 25 years of family-operated business. Its legacy is characterized by an unyielding dedication to quality and a promise to offer only the best to the residents of the Pittsburgh South Hills area.
                                 </p>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  {"For more information about Lumen Car Wash and its services, visit "}
+                                  {"For more information about Glinting Bay Car Wash and its services, visit "}
                                   <a href="/" rel="nofollow">
-                                    https://lumenwash.com
+                                    https://glintingbaywash.com
                                   </a>
                                   {" or contact the wash at (724) 941-9888."}
                                 </p>
@@ -155,7 +155,7 @@ export default function Post11Page() {
                                   Family Management
                                 </p>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  Lumen Car Wash
+                                  Glinting Bay Car Wash
                                 </p>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
                                   3626 Washington Rd., McMurray, PA 15317
@@ -169,18 +169,18 @@ export default function Post11Page() {
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
                                   {"Website: "}
                                   <a href="/" rel="nofollow">
-                                    https://lumenwash.com
+                                    https://glintingbaywash.com
                                   </a>
                                 </p>
                                 <h3>
                                   <strong>
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h3>
                                 <p>
                                   {"We guarantee the Best Car Wash Experience at "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   {" or your money back! – Join our "}
                                   <a href="/#pricing">
@@ -195,7 +195,7 @@ export default function Post11Page() {
                                   Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                 </p>
                                 <p>
-                                  {"At Lumen Car Wash, we hold ourselves to the "}
+                                  {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                   <a href="/operating-agreement/">
                                     highest standards of ethical conduct and social responsibility
                                   </a>
@@ -210,7 +210,7 @@ export default function Post11Page() {
                                 <p>
                                   {"Try the rest but then come to the best car wash in town – "}
                                   <a href="/">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                 </p>
@@ -423,7 +423,7 @@ export default function Post11Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":3546,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2024%2F04%2F15%2Fphase-iv-modernization-is-completed%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":3546,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2024%2F04%2F15%2Fphase-iv-modernization-is-completed%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

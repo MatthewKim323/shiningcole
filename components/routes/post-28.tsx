@@ -16,7 +16,7 @@ export default function Post28Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="3892" height="2340" src="/img/img-73e5546386.png" className="attachment-full size-full wp-post-image" alt="Lumen Car Wash Towel Dry Hero 1" decoding="async" srcSet="/img/img-a6c48359dc.png 3892w, /img/img-7e4759ed7f.png 300w, /img/img-8dbd0000b9.png 1024w, /img/img-05c4133d87.png 768w, /img/img-9d47ea90e2.png 1536w, /img/img-0e5319cddb.png 2048w, /img/img-6847e2e31c.png 700w, /img/img-d54fc29e93.png 2120w, /img/img-fd3914075e.png 3180w" sizes="(max-width: 3892px) 100vw, 3892px" data-attachment-id="5138" data-permalink="https://lumenwash.com/smart/car_2/" data-orig-file="/img/img-73e5546386.png" data-orig-size="3892,2340" data-comments-opened="1" data-image-title="Lumen Car Wash Towel Dry Hero 1" data-image-description="" data-image-caption="" data-large-file="/img/img-1d36d87ba9.png" />
+                    <img fetchPriority="high" width="3892" height="2340" src="/img/img-73e5546386.png" className="attachment-full size-full wp-post-image" alt="Glinting Bay Car Wash Towel Dry Hero 1" decoding="async" srcSet="/img/img-a6c48359dc.png 3892w, /img/img-7e4759ed7f.png 300w, /img/img-8dbd0000b9.png 1024w, /img/img-05c4133d87.png 768w, /img/img-9d47ea90e2.png 1536w, /img/img-0e5319cddb.png 2048w, /img/img-6847e2e31c.png 700w, /img/img-d54fc29e93.png 2120w, /img/img-fd3914075e.png 3180w" sizes="(max-width: 3892px) 100vw, 3892px" data-attachment-id="5138" data-permalink="https://glintingbaywash.com/smart/car_2/" data-orig-file="/img/img-73e5546386.png" data-orig-size="3892,2340" data-comments-opened="1" data-image-title="Glinting Bay Car Wash Towel Dry Hero 1" data-image-description="" data-image-caption="" data-large-file="/img/img-1d36d87ba9.png" />
                     {" "}
                   </div>
                   {"\n"}
@@ -123,7 +123,7 @@ export default function Post28Page() {
                                 <p className="isSelectedEnd">
                                   {"At "}
                                   <strong>
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </strong>
                                   {", we have spent years developing something more thoughtful: a fast, locally operated "}
                                   <strong>
@@ -144,7 +144,7 @@ export default function Post28Page() {
                                   Not a towel you have to grab and use yourself.
                                 </p>
                                 <p className="isSelectedEnd">
-                                  {"At Lumen, "}
+                                  {"At Glinting Bay, "}
                                   <strong>
                                     personalized hand towel drying is available at the exit
                                   </strong>
@@ -171,7 +171,7 @@ export default function Post28Page() {
                               {"\n"}
                               <div className="elementor-widget-container">
                                 {"\n"}
-                                <img decoding="async" width="842" height="1024" src="/img/img-fe3c545d15.png" className="attachment-large size-large wp-image-5442" alt="Lumen Car Wash comparison summer 2026" srcSet="/img/img-88a6ec40fa.png 1137w, /img/img-9afa35a4c3.png 247w, /img/img-6a88a734ba.png 842w, /img/img-2aa60c1357.png 768w, /img/img-f2854279b3.png 700w" sizes="(max-width: 842px) 100vw, 842px" data-attachment-id="5442" data-permalink="https://lumenwash.com/2026/07/22/how-we-shine-against-your-other-car-wash-options/lumen-car-wash-comparison-summer-2026/" data-orig-file="/img/img-5264534c2f.png" data-orig-size="1137,1383" data-comments-opened="1" data-image-title="Lumen Car Wash comparison summer 2026" data-image-description="" data-image-caption="" data-large-file="/img/img-fe3c545d15.png" />
+                                <img decoding="async" width="842" height="1024" src="/img/img-fe3c545d15.png" className="attachment-large size-large wp-image-5442" alt="Glinting Bay Car Wash comparison summer 2026" srcSet="/img/img-88a6ec40fa.png 1137w, /img/img-9afa35a4c3.png 247w, /img/img-6a88a734ba.png 842w, /img/img-2aa60c1357.png 768w, /img/img-f2854279b3.png 700w" sizes="(max-width: 842px) 100vw, 842px" data-attachment-id="5442" data-permalink="https://glintingbaywash.com/2026/07/22/how-we-shine-against-your-other-car-wash-options/glinting-bay-car-wash-comparison-summer-2026/" data-orig-file="/img/img-5264534c2f.png" data-orig-size="1137,1383" data-comments-opened="1" data-image-title="Glinting Bay Car Wash comparison summer 2026" data-image-description="" data-image-caption="" data-large-file="/img/img-fe3c545d15.png" />
                                 {" "}
                               </div>
                               {"\n"}
@@ -182,7 +182,7 @@ export default function Post28Page() {
                               <div className="elementor-widget-container">
                                 {"\n"}
                                 <p className="isSelectedEnd">
-                                  *Competitor services, equipment and guarantees can differ by location. This comparison reflects services prominently communicated through public company websites as of July 2026. A dash means the specific Lumen feature was not clearly advertised as a standard service—not necessarily that no location has ever offered something similar.
+                                  *Competitor services, equipment and guarantees can differ by location. This comparison reflects services prominently communicated through public company websites as of July 2026. A dash means the specific Glinting Bay feature was not clearly advertised as a standard service—not necessarily that no location has ever offered something similar.
                                 </p>
                                 <h2>
                                   A Smart Wash That Recognizes Your Vehicle
@@ -191,7 +191,7 @@ export default function Post28Page() {
                                   Many automatic washes are designed primarily around volume: move vehicles into the tunnel, move them through and send them on their way.
                                 </p>
                                 <p className="isSelectedEnd">
-                                  Lumen takes a more intelligent approach.
+                                  Glinting Bay takes a more intelligent approach.
                                 </p>
                                 <p className="isSelectedEnd">
                                   {"Our tunnel uses "}
@@ -217,7 +217,7 @@ export default function Post28Page() {
                                   Your vehicle is a major investment. Our tunnel, equipment and reputation are investments too.
                                 </p>
                                 <p className="isSelectedEnd">
-                                  {"Lumen uses "}
+                                  {"Glinting Bay uses "}
                                   <strong>
                                     high-definition AI-supported camera technology
                                   </strong>
@@ -236,7 +236,7 @@ export default function Post28Page() {
                                   A powerful wash does not have to be careless with the environment.
                                 </p>
                                 <p className="isSelectedEnd">
-                                  Lumen’s green-wash approach combines:
+                                  Glinting Bay’s green-wash approach combines:
                                 </p>
                                 <ul data-spread="false">
                                   <li>
@@ -278,7 +278,7 @@ export default function Post28Page() {
                                   “Tsunami Wave,” “Sod Wash,” “No Go” and “Mr. Tragic” operate as large regional or national brands. Scale can provide convenience and multiple locations.
                                 </p>
                                 <p className="isSelectedEnd">
-                                  Lumen offers something different.
+                                  Glinting Bay offers something different.
                                 </p>
                                 <p className="isSelectedEnd">
                                   {"We are an "}
@@ -297,7 +297,7 @@ export default function Post28Page() {
                                   Dryers Blow. People Finish.
                                 </h2>
                                 <p className="isSelectedEnd">
-                                  Modern tunnel dryers are fast and effective, and Lumen uses them as an important part of the wash process.
+                                  Modern tunnel dryers are fast and effective, and Glinting Bay uses them as an important part of the wash process.
                                 </p>
                                 <p className="isSelectedEnd">
                                   But anyone who has driven away from an automatic wash with droplets around the mirrors, rear window, trim or license plate knows that blowers do not always reach everything.
@@ -312,7 +312,7 @@ export default function Post28Page() {
                                   It is not an afterthought.
                                 </p>
                                 <p className="isSelectedEnd">
-                                  It is one of the most important reasons Lumen stands apart.
+                                  It is one of the most important reasons Glinting Bay stands apart.
                                 </p>
                                 <h2>
                                   Try the Rest—Then Come to the Best
@@ -321,7 +321,7 @@ export default function Post28Page() {
                                   The South Hills has several car wash options. Some emphasize the number of locations. Some promote speed. Others connect the wash to a gas station, convenience store or national membership network.
                                 </p>
                                 <p className="isSelectedEnd">
-                                  Lumen focuses on the complete result:
+                                  Glinting Bay focuses on the complete result:
                                 </p>
                                 <p className="isSelectedEnd">
                                   <strong>
@@ -350,7 +350,7 @@ export default function Post28Page() {
                                 <p className="isSelectedEnd">
                                   {"Bring it to "}
                                   <strong>
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </strong>
                                   {" and experience how Pittsburgh’s South Hills Smart Wash combines intelligent technology with something increasingly difficult to find:"}
                                 </p>
@@ -360,7 +360,7 @@ export default function Post28Page() {
                                   </strong>
                                 </p>
                                 <h3>
-                                  Lumen Car Wash
+                                  Glinting Bay Car Wash
                                 </h3>
                                 <p className="isSelectedEnd">
                                   <strong>
@@ -368,7 +368,7 @@ export default function Post28Page() {
                                   </strong>
                                 </p>
                                 <p className="isSelectedEnd">
-                                  Join the Go Unlimited Wash Club or visit us for a single wash—and do not leave wet when you can leave lumen.
+                                  Join the Go Unlimited Wash Club or visit us for a single wash—and do not leave wet when you can leave shining.
                                 </p>
                                 <p>
                                   <em>
@@ -377,17 +377,17 @@ export default function Post28Page() {
                                 </p>
                                 <h5 data-start="74" data-end="105">
                                   <strong data-start="74" data-end="105">
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h5>
                                 <p data-start="107" data-end="395">
-                                  Lumen Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
+                                  Glinting Bay Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
                                 </p>
                                 <p data-start="397" data-end="649">
                                   In just 3 minutes, you’ll enjoy a thorough clean plus FREE wheel cleaner, wax, and vacuuming. Whether you choose a single wash or join our membership, we’re committed to excellence, integrity, and doing what’s right for our customers and our community.
                                 </p>
                                 <p data-start="651" data-end="709" data-is-last-node="" data-is-only-node="">
-                                  Try the rest—then come to the best. Lumen Car Wash.
+                                  Try the rest—then come to the best. Glinting Bay Car Wash.
                                 </p>
                                 {" "}
                               </div>
@@ -592,7 +592,7 @@ export default function Post28Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":5439,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2026%2F07%2F22%2Fhow-we-shine-against-your-other-car-wash-options%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":5439,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2026%2F07%2F22%2Fhow-we-shine-against-your-other-car-wash-options%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

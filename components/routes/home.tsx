@@ -44,15 +44,15 @@ export default function HomePage() {
                 {"\n"}
                 <div className="elementor-widget-container">
                   {"\n"}
-                  <style dangerouslySetInnerHTML={{ __html: "\n\n\n#lumen-freewash-mini,\n#lumen-freewash-mini * {\n    box-sizing: border-box;\n}\n\n#lumen-freewash-mini {\n    display: flex;\n    flex-direction: column;\n    align-items: flex-start;\n    gap: 14px;\n    position: relative;\n    z-index: 2;\n    margin: 0;\n    padding: 0;\n    font-family: inherit;\n}\n\n\n.elementor-element.elementor-element-127bc3d > .e-con-inner {\n    max-width: 100%;\n}\n\n.elementor-element-127bc3d #lumen-freewash-mini {\n    margin: 0 0 8px 80px;\n}\n\n\n.elementor-element-602bfc6 #lumen-freewash-mini {\n    margin: 8px 0 0 40px;\n}\n\n\n#lumen-freewash-mini .lumen-freewash-mini-title {\n    display: flex;\n    align-items: center;\n    margin: 0;\n    padding: 3px 0 3px 16px;\n    border-left: 2px solid #ff0099;\n    color: #000000;\n    font-family: inherit;\n    font-size: 22px;\n    font-weight: 800;\n    line-height: 1.2;\n    letter-spacing: -0.5px;\n    text-transform: none;\n    white-space: nowrap;\n}\n\n\n#lumen-freewash-mini .lumen-freewash-mini-button {\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    gap: 10px;\n    flex: 0 0 auto;\n    min-height: 50px;\n    padding: 0 24px 0 26px;\n    border-radius: 999px;\n    background: #0b1a4a;\n    color: #ffffff;\n    font-family: inherit;\n    font-size: 17px;\n    font-weight: 800;\n    line-height: 1;\n    letter-spacing: 0;\n    text-transform: none;\n    text-decoration: none;\n    white-space: nowrap;\n    transition: background-color 0.2s ease;\n}\n\n#lumen-freewash-mini .lumen-freewash-mini-button svg {\n    flex: 0 0 auto;\n    width: 16px;\n    height: 16px;\n    color: #00ffff;\n    transition: transform 0.2s ease;\n}\n\n#lumen-freewash-mini .lumen-freewash-mini-button:hover,\n#lumen-freewash-mini .lumen-freewash-mini-button:focus {\n    background: #1b2f7d;\n    color: #ffffff;\n    text-decoration: none;\n}\n\n#lumen-freewash-mini .lumen-freewash-mini-button:hover svg,\n#lumen-freewash-mini .lumen-freewash-mini-button:focus svg {\n    transform: translateX(4px);\n}\n\n#lumen-freewash-mini .lumen-freewash-mini-button:focus-visible {\n    outline: 2px solid #0b1a4a;\n    outline-offset: 3px;\n}\n\n\n@media (min-width: 1400px) {\n    #lumen-freewash-mini {\n        flex-direction: row;\n        align-items: center;\n        gap: 22px;\n    }\n\n    #lumen-freewash-mini .lumen-freewash-mini-title {\n        order: 2;\n        align-self: stretch;\n        padding-left: 20px;\n    }\n}\n\n\n@media (max-width: 1024px) {\n    .elementor-element-602bfc6 #lumen-freewash-mini {\n        margin-bottom: 22px;\n    }\n}\n\n\n@media (max-width: 767px) {\n    .elementor-element-127bc3d #lumen-freewash-mini {\n        margin: 0 0 8px 10px;\n    }\n\n    .elementor-element-602bfc6 #lumen-freewash-mini {\n        margin: 4px 30px 22px -30px;\n    }\n\n    #lumen-freewash-mini .lumen-freewash-mini-button {\n        min-height: 52px;\n    }\n}\n\n@media (prefers-reduced-motion: reduce) {\n    #lumen-freewash-mini .lumen-freewash-mini-button,\n    #lumen-freewash-mini .lumen-freewash-mini-button svg {\n        transition: none;\n    }\n}\n" }} />
+                  <style dangerouslySetInnerHTML={{ __html: "\n\n\n#gbcw-freewash-mini,\n#gbcw-freewash-mini * {\n    box-sizing: border-box;\n}\n\n#gbcw-freewash-mini {\n    display: flex;\n    flex-direction: column;\n    align-items: flex-start;\n    gap: 14px;\n    position: relative;\n    z-index: 2;\n    margin: 0;\n    padding: 0;\n    font-family: inherit;\n}\n\n\n.elementor-element.elementor-element-127bc3d > .e-con-inner {\n    max-width: 100%;\n}\n\n.elementor-element-127bc3d #gbcw-freewash-mini {\n    margin: 0 0 8px 80px;\n}\n\n\n.elementor-element-602bfc6 #gbcw-freewash-mini {\n    margin: 8px 0 0 40px;\n}\n\n\n#gbcw-freewash-mini .gbcw-freewash-mini-title {\n    display: flex;\n    align-items: center;\n    margin: 0;\n    padding: 3px 0 3px 16px;\n    border-left: 2px solid #ff0099;\n    color: #000000;\n    font-family: inherit;\n    font-size: 22px;\n    font-weight: 800;\n    line-height: 1.2;\n    letter-spacing: -0.5px;\n    text-transform: none;\n    white-space: nowrap;\n}\n\n\n#gbcw-freewash-mini .gbcw-freewash-mini-button {\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    gap: 10px;\n    flex: 0 0 auto;\n    min-height: 50px;\n    padding: 0 24px 0 26px;\n    border-radius: 999px;\n    background: #0b1a4a;\n    color: #ffffff;\n    font-family: inherit;\n    font-size: 17px;\n    font-weight: 800;\n    line-height: 1;\n    letter-spacing: 0;\n    text-transform: none;\n    text-decoration: none;\n    white-space: nowrap;\n    transition: background-color 0.2s ease;\n}\n\n#gbcw-freewash-mini .gbcw-freewash-mini-button svg {\n    flex: 0 0 auto;\n    width: 16px;\n    height: 16px;\n    color: #00ffff;\n    transition: transform 0.2s ease;\n}\n\n#gbcw-freewash-mini .gbcw-freewash-mini-button:hover,\n#gbcw-freewash-mini .gbcw-freewash-mini-button:focus {\n    background: #1b2f7d;\n    color: #ffffff;\n    text-decoration: none;\n}\n\n#gbcw-freewash-mini .gbcw-freewash-mini-button:hover svg,\n#gbcw-freewash-mini .gbcw-freewash-mini-button:focus svg {\n    transform: translateX(4px);\n}\n\n#gbcw-freewash-mini .gbcw-freewash-mini-button:focus-visible {\n    outline: 2px solid #0b1a4a;\n    outline-offset: 3px;\n}\n\n\n@media (min-width: 1400px) {\n    #gbcw-freewash-mini {\n        flex-direction: row;\n        align-items: center;\n        gap: 22px;\n    }\n\n    #gbcw-freewash-mini .gbcw-freewash-mini-title {\n        order: 2;\n        align-self: stretch;\n        padding-left: 20px;\n    }\n}\n\n\n@media (max-width: 1024px) {\n    .elementor-element-602bfc6 #gbcw-freewash-mini {\n        margin-bottom: 22px;\n    }\n}\n\n\n@media (max-width: 767px) {\n    .elementor-element-127bc3d #gbcw-freewash-mini {\n        margin: 0 0 8px 10px;\n    }\n\n    .elementor-element-602bfc6 #gbcw-freewash-mini {\n        margin: 4px 30px 22px -30px;\n    }\n\n    #gbcw-freewash-mini .gbcw-freewash-mini-button {\n        min-height: 52px;\n    }\n}\n\n@media (prefers-reduced-motion: reduce) {\n    #gbcw-freewash-mini .gbcw-freewash-mini-button,\n    #gbcw-freewash-mini .gbcw-freewash-mini-button svg {\n        transition: none;\n    }\n}\n" }} />
                   {"\n"}
-                  <div id="lumen-freewash-mini">
+                  <div id="gbcw-freewash-mini">
                     {"\n"}
-                    <p className="lumen-freewash-mini-title">
+                    <p className="gbcw-freewash-mini-title">
                       First wash is on us.
                     </p>
                     {"\n"}
-                    <a className="lumen-freewash-mini-button" href="/freewash/">
+                    <a className="gbcw-freewash-mini-button" href="/freewash/">
                       {"\n        Get a Free Wash\n        "}
                       <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" focusable="false">
                         {"\n"}
@@ -94,7 +94,7 @@ export default function HomePage() {
                   {"\n"}
                   <div className="elementor-button-wrapper">
                     {"\n"}
-                    <a className="elementor-button elementor-button-link elementor-size-sm" href={"https://customerportal.nxtwash.com/lumen/?phone=%20%5BPHONENUMBER-HERE%5D&page=updateprofile"}>
+                    <a className="elementor-button elementor-button-link elementor-size-sm" href={"https://customerportal.nxtwash.com/glintingbaycarwash/?phone=%20%5BPHONENUMBER-HERE%5D&page=updateprofile"}>
                       {"\n"}
                       <span className="elementor-button-content-wrapper">
                         {"\n"}
@@ -133,7 +133,7 @@ export default function HomePage() {
               {"\n"}
               <div className="elementor-widget-container">
                 {"\n"}
-                <img data-jp-lcp-optimized="true" loading="eager" fetchPriority="high" decoding="async" width="1024" height="350" src="/img/img-f389ee6b45.png" className="attachment-large size-large wp-image-5137" alt="Lumen Car Wash Towel Dry Hero 2" srcSet="/img/img-e377792d17.png 2048w, /img/img-52344fe569.png 2028w, /img/img-b2dfdaca62.png 1862w, /img/img-2637a29563.png 1778w, /img/img-a86bf6d489.png 1024w, /img/img-889bf8913c.png 931w, /img/img-20828993f5.png 889w, /img/img-42d38439a9.png 824w, /img/img-7976f2a8cf.png 758w, /img/img-385bc5a43b.png 720w, /img/img-4a8efa1054.png 678w, /img/img-7ae2e5d340.png 651w, /img/img-edc35f8152.png 624w, /img/img-998b48bc17.png 603w, /img/img-5d3ca93af6.png 505w, /img/img-c18b56ff08.png 480w, /img/img-232a65312a.png 452w, /img/img-430ffceb16.png 416w, /img/img-aa65a91f8f.png 396w, /img/img-45b79ea20f.png 240w, /img/img-e1b7d61532.png 217w" sizes="(min-width: 1537px) 1024px, (min-width: 1367px) 1014px, (min-width: 1281px) 931px, (min-width: 1025px) 889px, (min-width: 835px) 505px, (min-width: 769px) 412px, (min-width: 441px) 379px, (min-width: 413px) 240px, (min-width: 394px) 226px, (min-width: 376px) 217px, (min-width: 361px) 208px, 201px" data-attachment-id="5137" data-permalink="https://lumenwash.com/smart/car_1/" data-orig-file="/img/img-65606095b7.png" data-orig-size="3814,1302" data-comments-opened="1" data-image-title="Lumen Car Wash Towel Dry Hero 2" data-image-description="" data-image-caption="" data-large-file="/img/img-f389ee6b45.png" />
+                <img data-jp-lcp-optimized="true" loading="eager" fetchPriority="high" decoding="async" width="1024" height="350" src="/img/img-f389ee6b45.png" className="attachment-large size-large wp-image-5137" alt="Glinting Bay Car Wash Towel Dry Hero 2" srcSet="/img/img-e377792d17.png 2048w, /img/img-52344fe569.png 2028w, /img/img-b2dfdaca62.png 1862w, /img/img-2637a29563.png 1778w, /img/img-a86bf6d489.png 1024w, /img/img-889bf8913c.png 931w, /img/img-20828993f5.png 889w, /img/img-42d38439a9.png 824w, /img/img-7976f2a8cf.png 758w, /img/img-385bc5a43b.png 720w, /img/img-4a8efa1054.png 678w, /img/img-7ae2e5d340.png 651w, /img/img-edc35f8152.png 624w, /img/img-998b48bc17.png 603w, /img/img-5d3ca93af6.png 505w, /img/img-c18b56ff08.png 480w, /img/img-232a65312a.png 452w, /img/img-430ffceb16.png 416w, /img/img-aa65a91f8f.png 396w, /img/img-45b79ea20f.png 240w, /img/img-e1b7d61532.png 217w" sizes="(min-width: 1537px) 1024px, (min-width: 1367px) 1014px, (min-width: 1281px) 931px, (min-width: 1025px) 889px, (min-width: 835px) 505px, (min-width: 769px) 412px, (min-width: 441px) 379px, (min-width: 413px) 240px, (min-width: 394px) 226px, (min-width: 376px) 217px, (min-width: 361px) 208px, 201px" data-attachment-id="5137" data-permalink="https://glintingbaywash.com/smart/car_1/" data-orig-file="/img/img-65606095b7.png" data-orig-size="3814,1302" data-comments-opened="1" data-image-title="Glinting Bay Car Wash Towel Dry Hero 2" data-image-description="" data-image-caption="" data-large-file="/img/img-f389ee6b45.png" />
                 {" "}
               </div>
               {"\n"}
@@ -161,20 +161,20 @@ export default function HomePage() {
               {"\n"}
               <div className="elementor-widget-container">
                 {"\n"}
-                <section className="lumen-app-install-box" id="lumenAppInstallBox">
+                <section className="gbcw-app-install-box" id="gbcwAppInstallBox">
                   {"\n"}
-                  <div className="lumen-app-install-content">
+                  <div className="gbcw-app-install-content">
                     {"\n"}
-                    <div className="lumen-app-install-icon">
+                    <div className="gbcw-app-install-icon">
                       {"\n"}
-                      <img data-recalc-dims="1" decoding="async" src="/img/img-1f210f0f7a.webp" alt="Add Lumen customer portal to phone" />
+                      <img data-recalc-dims="1" decoding="async" src="/img/img-1f210f0f7a.webp" alt="Add Glinting Bay customer portal to phone" />
                       {"\n"}
                     </div>
                     {"\n"}
-                    <div className="lumen-app-install-copy">
+                    <div className="gbcw-app-install-copy">
                       {"\n"}
                       <h3>
-                        Add Lumen to Your Phone
+                        Add Glinting Bay to Your Phone
                       </h3>
                       {"\n"}
                       <p>
@@ -183,19 +183,19 @@ export default function HomePage() {
                       {"\n"}
                     </div>
                     {"\n"}
-                    <a id="lumenInstallButton" className="lumen-app-install-button" href="/portal-shortcut/?setup=1">
+                    <a id="gbcwInstallButton" className="gbcw-app-install-button" href="/portal-shortcut/?setup=1">
                       {"\n      Set Up Phone Shortcut\n    "}
                     </a>
                     {"\n"}
                   </div>
                   {"\n"}
-                  <div className="lumen-app-install-note">
-                    {"\n    Quick access to your Lumen profile, account updates, and membership tools — right from your phone.\n  "}
+                  <div className="gbcw-app-install-note">
+                    {"\n    Quick access to your Glinting Bay profile, account updates, and membership tools — right from your phone.\n  "}
                   </div>
                   {"\n"}
                 </section>
                 {"\n"}
-                <style dangerouslySetInnerHTML={{ __html: "\n  .lumen-app-install-box {\n    max-width: 1040px;\n    margin: 28px auto;\n    padding: 22px;\n    border-radius: 24px;\n    background: linear-gradient(135deg, #061d45 0%, #0b63c7 55%, #18c7ff 100%);\n    color: #ffffff;\n    box-shadow: 0 18px 42px rgba(0, 34, 84, 0.22);\n    font-family: inherit;\n  }\n\n  .lumen-app-install-content {\n    display: flex;\n    align-items: center;\n    gap: 18px;\n  }\n\n  .lumen-app-install-icon {\n    width: 72px;\n    height: 72px;\n    min-width: 72px;\n    border-radius: 18px;\n    overflow: hidden;\n    background: #ffffff;\n    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);\n  }\n\n  .lumen-app-install-icon img {\n    width: 100%;\n    height: 100%;\n    display: block;\n    object-fit: cover;\n  }\n\n  .lumen-app-install-copy {\n    flex: 1;\n  }\n\n  .lumen-app-install-copy h3 {\n    margin: 0 0 6px;\n    color: #ffffff;\n    font-size: 25px;\n    line-height: 1.15;\n    font-weight: 800;\n  }\n\n  .lumen-app-install-copy p {\n    margin: 0;\n    color: rgba(255, 255, 255, 0.94);\n    font-size: 16px;\n    line-height: 1.45;\n  }\n\n  .lumen-app-install-button {\n    display: inline-block;\n    appearance: none;\n    border: 0;\n    border-radius: 999px;\n    padding: 15px 24px;\n    background: #ff0099;\n    color: #ffffff !important;\n    font-weight: 800;\n    font-size: 16px;\n    line-height: 1;\n    cursor: pointer;\n    white-space: nowrap;\n    text-decoration: none !important;\n    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.22);\n    transition: transform 0.18s ease, box-shadow 0.18s ease, opacity 0.18s ease;\n  }\n\n  .lumen-app-install-button:hover,\n  .lumen-app-install-button:focus {\n    transform: translateY(-1px);\n    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.28);\n    color: #ffffff !important;\n    text-decoration: none !important;\n  }\n\n  .lumen-app-install-note {\n    margin-top: 16px;\n    padding: 14px 16px;\n    border-radius: 16px;\n    background: rgba(255, 255, 255, 0.15);\n    color: rgba(255, 255, 255, 0.96);\n    font-size: 15px;\n    line-height: 1.45;\n  }\n\n  .lumen-app-install-note strong {\n    color: #ffffff;\n    font-weight: 800;\n  }\n\n  @media (max-width: 720px) {\n    .lumen-app-install-box {\n      margin: 22px 14px;\n      padding: 20px;\n      border-radius: 22px;\n    }\n\n    .lumen-app-install-content {\n      flex-direction: column;\n      text-align: center;\n      align-items: stretch;\n    }\n\n    .lumen-app-install-icon {\n      margin: 0 auto;\n    }\n\n    .lumen-app-install-copy h3 {\n      font-size: 22px;\n    }\n\n    .lumen-app-install-button {\n      width: 100%;\n      padding: 16px 20px;\n      font-size: 17px;\n      text-align: center;\n    }\n\n    .lumen-app-install-note {\n      text-align: center;\n    }\n  }\n" }} />
+                <style dangerouslySetInnerHTML={{ __html: "\n  .gbcw-app-install-box {\n    max-width: 1040px;\n    margin: 28px auto;\n    padding: 22px;\n    border-radius: 24px;\n    background: linear-gradient(135deg, #061d45 0%, #0b63c7 55%, #18c7ff 100%);\n    color: #ffffff;\n    box-shadow: 0 18px 42px rgba(0, 34, 84, 0.22);\n    font-family: inherit;\n  }\n\n  .gbcw-app-install-content {\n    display: flex;\n    align-items: center;\n    gap: 18px;\n  }\n\n  .gbcw-app-install-icon {\n    width: 72px;\n    height: 72px;\n    min-width: 72px;\n    border-radius: 18px;\n    overflow: hidden;\n    background: #ffffff;\n    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);\n  }\n\n  .gbcw-app-install-icon img {\n    width: 100%;\n    height: 100%;\n    display: block;\n    object-fit: cover;\n  }\n\n  .gbcw-app-install-copy {\n    flex: 1;\n  }\n\n  .gbcw-app-install-copy h3 {\n    margin: 0 0 6px;\n    color: #ffffff;\n    font-size: 25px;\n    line-height: 1.15;\n    font-weight: 800;\n  }\n\n  .gbcw-app-install-copy p {\n    margin: 0;\n    color: rgba(255, 255, 255, 0.94);\n    font-size: 16px;\n    line-height: 1.45;\n  }\n\n  .gbcw-app-install-button {\n    display: inline-block;\n    appearance: none;\n    border: 0;\n    border-radius: 999px;\n    padding: 15px 24px;\n    background: #ff0099;\n    color: #ffffff !important;\n    font-weight: 800;\n    font-size: 16px;\n    line-height: 1;\n    cursor: pointer;\n    white-space: nowrap;\n    text-decoration: none !important;\n    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.22);\n    transition: transform 0.18s ease, box-shadow 0.18s ease, opacity 0.18s ease;\n  }\n\n  .gbcw-app-install-button:hover,\n  .gbcw-app-install-button:focus {\n    transform: translateY(-1px);\n    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.28);\n    color: #ffffff !important;\n    text-decoration: none !important;\n  }\n\n  .gbcw-app-install-note {\n    margin-top: 16px;\n    padding: 14px 16px;\n    border-radius: 16px;\n    background: rgba(255, 255, 255, 0.15);\n    color: rgba(255, 255, 255, 0.96);\n    font-size: 15px;\n    line-height: 1.45;\n  }\n\n  .gbcw-app-install-note strong {\n    color: #ffffff;\n    font-weight: 800;\n  }\n\n  @media (max-width: 720px) {\n    .gbcw-app-install-box {\n      margin: 22px 14px;\n      padding: 20px;\n      border-radius: 22px;\n    }\n\n    .gbcw-app-install-content {\n      flex-direction: column;\n      text-align: center;\n      align-items: stretch;\n    }\n\n    .gbcw-app-install-icon {\n      margin: 0 auto;\n    }\n\n    .gbcw-app-install-copy h3 {\n      font-size: 22px;\n    }\n\n    .gbcw-app-install-button {\n      width: 100%;\n      padding: 16px 20px;\n      font-size: 17px;\n      text-align: center;\n    }\n\n    .gbcw-app-install-note {\n      text-align: center;\n    }\n  }\n" }} />
                 {" "}
               </div>
               {"\n"}
@@ -203,7 +203,7 @@ export default function HomePage() {
             {"\n"}
           </div>
           {"\n"}
-          <section style={{ backgroundImage: "url(/img/img-cabfa71058.webp)" }} className="parallax_section_holder elementor-section elementor-top-section elementor-element elementor-element-2d77fc5 elementor-section-full_width parallax_section_holder elementor-hidden-mobile elementor-section-height-default elementor-section-height-default qode_elementor_container_no" data-speed="0" data-id="2d77fc5" data-element_type="section" data-e-type="section" data-settings={"{\"qode_parallax_image\":{\"url\":\"https://lumenwash.com\\/wp-content\\/uploads\\/2025\\/12\\/iStock-519590315_SMM-ad-copy.webp\",\"id\":4655,\"size\":\"\",\"alt\":\"lumen car wash happy customer\",\"source\":\"library\"},\"background_background\":\"gradient\"}"}>
+          <section style={{ backgroundImage: "url(/img/img-cabfa71058.webp)" }} className="parallax_section_holder elementor-section elementor-top-section elementor-element elementor-element-2d77fc5 elementor-section-full_width parallax_section_holder elementor-hidden-mobile elementor-section-height-default elementor-section-height-default qode_elementor_container_no" data-speed="0" data-id="2d77fc5" data-element_type="section" data-e-type="section" data-settings={"{\"qode_parallax_image\":{\"url\":\"https://glintingbaywash.com\\/wp-content\\/uploads\\/2025\\/12\\/iStock-519590315_SMM-ad-copy.webp\",\"id\":4655,\"size\":\"\",\"alt\":\"glinting bay car wash happy customer\",\"source\":\"library\"},\"background_background\":\"gradient\"}"}>
             {"\n"}
             <div className="elementor-background-overlay"></div>
             {"\n"}
@@ -251,7 +251,7 @@ export default function HomePage() {
             {"\n"}
           </section>
           {"\n"}
-          <section style={{ backgroundImage: "url(/img/img-3cd9531f6d.webp)" }} className="parallax_section_holder elementor-section elementor-top-section elementor-element elementor-element-9311da3 elementor-section-full_width parallax_section_holder elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-height-default qode_elementor_container_no" data-speed="0" data-id="9311da3" data-element_type="section" data-e-type="section" data-settings={"{\"qode_parallax_image\":{\"url\":\"https://lumenwash.com\\/wp-content\\/uploads\\/2025\\/12\\/high-gloss-graphene-modernization.webp\",\"id\":4688,\"size\":\"\",\"alt\":\"high gloss graphene protectant from lumen car wash\",\"source\":\"library\"},\"background_background\":\"video\"}"}>
+          <section style={{ backgroundImage: "url(/img/img-3cd9531f6d.webp)" }} className="parallax_section_holder elementor-section elementor-top-section elementor-element elementor-element-9311da3 elementor-section-full_width parallax_section_holder elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-height-default qode_elementor_container_no" data-speed="0" data-id="9311da3" data-element_type="section" data-e-type="section" data-settings={"{\"qode_parallax_image\":{\"url\":\"https://glintingbaywash.com\\/wp-content\\/uploads\\/2025\\/12\\/high-gloss-graphene-modernization.webp\",\"id\":4688,\"size\":\"\",\"alt\":\"high gloss graphene protectant from glinting bay car wash\",\"source\":\"library\"},\"background_background\":\"video\"}"}>
             {"\n"}
             <div className="elementor-background-overlay"></div>
             {"\n"}
@@ -375,20 +375,20 @@ export default function HomePage() {
                       {"\n"}
                       <h3>
                         <strong>
-                          <a href="https://customerportal.nxtwash.com/lumen/signup/SuperS5Unl">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SuperS5Unl">
                             <span style={{ color: "#434343" }}>
                               {"BUY! "}
                             </span>
                           </a>
                         </strong>
                         <br />
-                        <a href="https://customerportal.nxtwash.com/lumen/signup/SuperS5Unl">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SuperS5Unl">
                           <span style={{ color: "#434343" }}>
                             SUPER
                           </span>
                         </a>
                         <strong>
-                          <a href="https://customerportal.nxtwash.com/lumen/signup/SuperS5Unl">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SuperS5Unl">
                             <span style={{ color: "#434343" }}>
                               {" STAR"}
                             </span>
@@ -406,7 +406,7 @@ export default function HomePage() {
                       {"\n"}
                       <div className="q_icon_with_title tiny normal_icon">
                         <div className="icon_holder">
-                          <a href="https://customerportal.nxtwash.com/lumen/signup/SuperS5Unl" target="_blank" className="q_icon_link">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SuperS5Unl" target="_blank" className="q_icon_link">
                             <span data-icon-type="normal" data-icon-hover-color="#FFFFFF" style={{ fontSize: "32px" }} className="qode_iwt_icon_holder q_font_awsome_icon fa-lg">
                               <i className="qode_icon_font_awesome fa qode_iwt_icon_element" style={{ color: "#FFFFFF" }}></i>
                             </span>
@@ -420,7 +420,7 @@ export default function HomePage() {
                             <p style={{ color: "#000000" }}>
                               Single Wash $30
                             </p>
-                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/lumen/signup/SuperS5Unl" target="_blank" style={{ color: "#FF0099" }}>
+                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SuperS5Unl" target="_blank" style={{ color: "#FF0099" }}>
                               Read More
                             </a>
                           </div>
@@ -436,18 +436,18 @@ export default function HomePage() {
                     <div className="elementor-widget-container">
                       {"\n"}
                       <h5>
-                        <a href="https://customerportal.nxtwash.com/lumen/signup/SuperS5Unl">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SuperS5Unl">
                           {" "}
                           <span style={{ color: "#0b1a4a" }}>
                             {" "}
-                            <img decoding="async" data-attachment-id="1235" data-permalink="https://lumenwash.com/towel-dry/" data-orig-file="/img/img-ae9f3e5f20.png" data-orig-size="611,434" data-comments-opened="1" data-image-title="towel dry" data-image-description="" data-image-caption="" data-large-file="/img/img-ae9f3e5f20.png" data-recalc-dims="1" className="alignleft wp-image-1235" title="towel dry" src="/img/img-1454c5d1db.png" alt="towel dry" width="112" height="79" srcSet="/img/img-29d2adcee2.png 611w, /img/img-fe4337fbe9.png 300w, /img/img-7f4529c0aa.png 600w" sizes="(max-width: 112px) 100vw, 112px" />
+                            <img decoding="async" data-attachment-id="1235" data-permalink="https://glintingbaywash.com/towel-dry/" data-orig-file="/img/img-ae9f3e5f20.png" data-orig-size="611,434" data-comments-opened="1" data-image-title="towel dry" data-image-description="" data-image-caption="" data-large-file="/img/img-ae9f3e5f20.png" data-recalc-dims="1" className="alignleft wp-image-1235" title="towel dry" src="/img/img-1454c5d1db.png" alt="towel dry" width="112" height="79" srcSet="/img/img-29d2adcee2.png 611w, /img/img-fe4337fbe9.png 300w, /img/img-7f4529c0aa.png 600w" sizes="(max-width: 112px) 100vw, 112px" />
                             {" "}
                           </span>
                           {" "}
                         </a>
                       </h5>
                       <h5>
-                        <a href="https://customerportal.nxtwash.com/lumen/signup/SuperS5Unl">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SuperS5Unl">
                           <em>
                             <strong>
                               <span style={{ color: "#151515", letterSpacing: "-0.3px" }}>
@@ -470,7 +470,7 @@ export default function HomePage() {
                     <div className="elementor-widget-container">
                       {"\n"}
                       <h5>
-                        <a href="https://customerportal.nxtwash.com/lumen/signup/SuperS5Unl">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SuperS5Unl">
                           Infused deep shine protection built to shield your finish from bugs, road salt and harsh Pennsylvania weather. Towel dried.
                         </a>
                       </h5>
@@ -507,11 +507,11 @@ export default function HomePage() {
                       {"\n"}
                       <h3>
                         <strong>
-                          <a href="https://customerportal.nxtwash.com/lumen/signup/SS5Unl">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SS5Unl">
                             <span style={{ color: "#434343" }}>
                               {"BUY! "}
                               <br />
-                              LUMEN
+                              GLINTING BAY
                             </span>
                           </a>
                         </strong>
@@ -527,7 +527,7 @@ export default function HomePage() {
                       {"\n"}
                       <div className="q_icon_with_title tiny normal_icon">
                         <div className="icon_holder">
-                          <a href="https://customerportal.nxtwash.com/lumen/signup/SS5Unl" target="_blank" className="q_icon_link">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SS5Unl" target="_blank" className="q_icon_link">
                             <span data-icon-type="normal" data-icon-hover-color="#FFFFFF" style={{ fontSize: "32px" }} className="qode_iwt_icon_holder q_font_awsome_icon fa-lg">
                               <i className="qode_icon_font_awesome fa qode_iwt_icon_element" style={{ color: "#FFFFFF" }}></i>
                             </span>
@@ -541,7 +541,7 @@ export default function HomePage() {
                             <p style={{ color: "#000000" }}>
                               Single Wash $25
                             </p>
-                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/lumen/signup/SS5Unl" target="_blank" style={{ color: "#FF0099" }}>
+                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SS5Unl" target="_blank" style={{ color: "#FF0099" }}>
                               Read More
                             </a>
                           </div>
@@ -557,14 +557,14 @@ export default function HomePage() {
                     <div className="elementor-widget-container">
                       {"\n"}
                       <h5>
-                        <a href="https://customerportal.nxtwash.com/lumen/signup/SS5Unl">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SS5Unl">
                           <span style={{ color: "#0b1a4a" }}>
-                            <img decoding="async" data-attachment-id="1235" data-permalink="https://lumenwash.com/towel-dry/" data-orig-file="/img/img-ae9f3e5f20.png" data-orig-size="611,434" data-comments-opened="1" data-image-title="towel dry" data-image-description="" data-image-caption="" data-large-file="/img/img-ae9f3e5f20.png" data-recalc-dims="1" className="alignleft wp-image-1235" title="towel dry" src="/img/img-1454c5d1db.png" alt="towel dry" width="112" height="79" srcSet="/img/img-29d2adcee2.png 611w, /img/img-fe4337fbe9.png 300w, /img/img-7f4529c0aa.png 600w" sizes="(max-width: 112px) 100vw, 112px" />
+                            <img decoding="async" data-attachment-id="1235" data-permalink="https://glintingbaywash.com/towel-dry/" data-orig-file="/img/img-ae9f3e5f20.png" data-orig-size="611,434" data-comments-opened="1" data-image-title="towel dry" data-image-description="" data-image-caption="" data-large-file="/img/img-ae9f3e5f20.png" data-recalc-dims="1" className="alignleft wp-image-1235" title="towel dry" src="/img/img-1454c5d1db.png" alt="towel dry" width="112" height="79" srcSet="/img/img-29d2adcee2.png 611w, /img/img-fe4337fbe9.png 300w, /img/img-7f4529c0aa.png 600w" sizes="(max-width: 112px) 100vw, 112px" />
                           </span>
                         </a>
                       </h5>
                       <h5>
-                        <a href="https://customerportal.nxtwash.com/lumen/signup/SS5Unl">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SS5Unl">
                           <em>
                             <strong>
                               <span style={{ color: "#151515", letterSpacing: "-0.3px" }}>
@@ -584,7 +584,7 @@ export default function HomePage() {
                     <div className="elementor-widget-container">
                       {"\n"}
                       <h5>
-                        <a href="https://customerportal.nxtwash.com/lumen/signup/SS5Unl">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/SS5Unl">
                           Glassy mirror shine that replaces paste waxing. Towel dried.
                         </a>
                       </h5>
@@ -620,7 +620,7 @@ export default function HomePage() {
                     <div className="elementor-widget-container">
                       {"\n"}
                       <p>
-                        {" "}
+                        {" "}
                       </p>
                       <h5 style={{ display: "inline-block", background: "#2d7aff", color: "#ffffff", fontSize: "10px", fontWeight: "bold", padding: "6px 14px", transform: "rotate(-10deg)", clipPath: "polygon(10% 0%,90% 0%,100% 50%,90% 100%,10% 100%,0% 50%)", boxShadow: "0 3px 0 #ffffff, 0 5px 8px rgba(0,0,0,0.25)", letterSpacing: "0.6px", fontFamily: "Arial,sans-serif", cursor: "pointer" }}>
                         <strong>
@@ -638,7 +638,7 @@ export default function HomePage() {
                       {"\n"}
                       <h3>
                         <strong>
-                          <a href="https://customerportal.nxtwash.com/lumen/signup/Works5Unl">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/Works5Unl">
                             <span style={{ color: "#434343" }}>
                               {"BUY! "}
                               <br />
@@ -658,7 +658,7 @@ export default function HomePage() {
                       {"\n"}
                       <div className="q_icon_with_title tiny normal_icon">
                         <div className="icon_holder">
-                          <a href="https://customerportal.nxtwash.com/lumen/signup/Works5Unl" target="_blank" className="q_icon_link">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/Works5Unl" target="_blank" className="q_icon_link">
                             <span data-icon-type="normal" data-icon-hover-color="#FFFFFF" style={{ fontSize: "32px" }} className="qode_iwt_icon_holder q_font_awsome_icon fa-lg">
                               <i className="qode_icon_font_awesome fa qode_iwt_icon_element" style={{ color: "#FFFFFF" }}></i>
                             </span>
@@ -672,7 +672,7 @@ export default function HomePage() {
                             <p style={{ color: "#000000" }}>
                               Single Wash $20
                             </p>
-                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/lumen/signup/Works5Unl" target="_blank" style={{ color: "#FF0099" }}>
+                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/Works5Unl" target="_blank" style={{ color: "#FF0099" }}>
                               Read More
                             </a>
                           </div>
@@ -688,14 +688,14 @@ export default function HomePage() {
                     <div className="elementor-widget-container">
                       {"\n"}
                       <h5>
-                        <a href="https://customerportal.nxtwash.com/lumen/signup/Works5Unl">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/Works5Unl">
                           <span style={{ color: "#0b1a4a" }}>
-                            <img decoding="async" data-attachment-id="1235" data-permalink="https://lumenwash.com/towel-dry/" data-orig-file="/img/img-ae9f3e5f20.png" data-orig-size="611,434" data-comments-opened="1" data-image-title="towel dry" data-image-description="" data-image-caption="" data-large-file="/img/img-ae9f3e5f20.png" data-recalc-dims="1" className="alignleft wp-image-1235" title="towel dry" src="/img/img-1454c5d1db.png" alt="towel dry" width="112" height="79" srcSet="/img/img-29d2adcee2.png 611w, /img/img-fe4337fbe9.png 300w, /img/img-7f4529c0aa.png 600w" sizes="(max-width: 112px) 100vw, 112px" />
+                            <img decoding="async" data-attachment-id="1235" data-permalink="https://glintingbaywash.com/towel-dry/" data-orig-file="/img/img-ae9f3e5f20.png" data-orig-size="611,434" data-comments-opened="1" data-image-title="towel dry" data-image-description="" data-image-caption="" data-large-file="/img/img-ae9f3e5f20.png" data-recalc-dims="1" className="alignleft wp-image-1235" title="towel dry" src="/img/img-1454c5d1db.png" alt="towel dry" width="112" height="79" srcSet="/img/img-29d2adcee2.png 611w, /img/img-fe4337fbe9.png 300w, /img/img-7f4529c0aa.png 600w" sizes="(max-width: 112px) 100vw, 112px" />
                           </span>
                         </a>
                       </h5>
                       <h5>
-                        <a href="https://customerportal.nxtwash.com/lumen/signup/Works5Unl">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/Works5Unl">
                           <em>
                             <strong>
                               <span style={{ color: "#151515", letterSpacing: "-0.3px" }}>
@@ -715,7 +715,7 @@ export default function HomePage() {
                     <div className="elementor-widget-container">
                       {"\n"}
                       <h5>
-                        <a href="https://customerportal.nxtwash.com/lumen/signup/Works5Unl">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/Works5Unl">
                           Premium deep cleaning that leaves your vehicle and tires sparkling. Towel dried.
                         </a>
                       </h5>
@@ -752,7 +752,7 @@ export default function HomePage() {
                       {"\n"}
                       <h3>
                         <strong>
-                          <a href="https://customerportal.nxtwash.com/lumen/signup/Quick5Unl">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/Quick5Unl">
                             <span style={{ color: "#434343" }}>
                               {"BUY! "}
                               <br />
@@ -772,7 +772,7 @@ export default function HomePage() {
                       {"\n"}
                       <div className="q_icon_with_title tiny normal_icon">
                         <div className="icon_holder">
-                          <a href="https://customerportal.nxtwash.com/lumen/signup/Quick5Unl" target="_blank" className="q_icon_link">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/Quick5Unl" target="_blank" className="q_icon_link">
                             <span data-icon-type="normal" data-icon-hover-color="#FFFFFF" style={{ fontSize: "32px" }} className="qode_iwt_icon_holder q_font_awsome_icon fa-lg">
                               <i className="qode_icon_font_awesome fa qode_iwt_icon_element" style={{ color: "#FFFFFF" }}></i>
                             </span>
@@ -786,7 +786,7 @@ export default function HomePage() {
                             <p style={{ color: "#000000" }}>
                               Single Wash $13
                             </p>
-                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/lumen/signup/Quick5Unl" target="_blank" style={{ color: "#FF0099" }}>
+                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/Quick5Unl" target="_blank" style={{ color: "#FF0099" }}>
                               Read More
                             </a>
                           </div>
@@ -802,7 +802,7 @@ export default function HomePage() {
                     <div className="elementor-widget-container">
                       {"\n"}
                       <h5>
-                        <a href="https://customerportal.nxtwash.com/lumen/signup/Quick5Unl">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/signup/Quick5Unl">
                           Wash, wax and wheels with our power air dry finish.
                         </a>
                       </h5>
@@ -927,7 +927,7 @@ export default function HomePage() {
                     <div className="elementor-widget-container">
                       {"\n"}
                       <h4>
-                        <a href="https://customerportal.nxtwash.com/lumen/giftcard/GC75">
+                        <a href="https://customerportal.nxtwash.com/glintingbaycarwash/giftcard/GC75">
                           <span style={{ color: "#434343" }}>
                             {"BUY! "}
                             <br />
@@ -946,7 +946,7 @@ export default function HomePage() {
                       {"\n"}
                       <div className="q_icon_with_title tiny normal_icon">
                         <div className="icon_holder">
-                          <a href="https://customerportal.nxtwash.com/lumen/giftcard/GC75" target="_blank" className="q_icon_link">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/giftcard/GC75" target="_blank" className="q_icon_link">
                             <span data-icon-type="normal" data-icon-hover-color="#FFFFFF" style={{ fontSize: "32px" }} className="qode_iwt_icon_holder q_font_awsome_icon fa-lg">
                               <i className="qode_icon_font_awesome fa qode_iwt_icon_element" style={{ color: "#FFFFFF" }}></i>
                             </span>
@@ -960,7 +960,7 @@ export default function HomePage() {
                             <p style={{ color: "#000000" }}>
                               Give a GIFT they can actually USE!
                             </p>
-                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/lumen/giftcard/GC75" target="_blank" style={{ color: "#FF0099" }}>
+                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/glintingbaycarwash/giftcard/GC75" target="_blank" style={{ color: "#FF0099" }}>
                               Read More
                             </a>
                           </div>
@@ -985,7 +985,7 @@ export default function HomePage() {
                       {"\n"}
                       <h4>
                         <strong>
-                          <a href="https://customerportal.nxtwash.com/lumen/giftcard/GC50">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/giftcard/GC50">
                             <span style={{ color: "#434343" }}>
                               {"BUY! "}
                               <br />
@@ -1005,7 +1005,7 @@ export default function HomePage() {
                       {"\n"}
                       <div className="q_icon_with_title tiny normal_icon">
                         <div className="icon_holder">
-                          <a href="https://customerportal.nxtwash.com/lumen/giftcard/GC50" target="_blank" className="q_icon_link">
+                          <a href="https://customerportal.nxtwash.com/glintingbaycarwash/giftcard/GC50" target="_blank" className="q_icon_link">
                             <span data-icon-type="normal" data-icon-hover-color="#FFFFFF" style={{ fontSize: "32px" }} className="qode_iwt_icon_holder q_font_awsome_icon fa-lg">
                               <i className="qode_icon_font_awesome fa qode_iwt_icon_element" style={{ color: "#FFFFFF" }}></i>
                             </span>
@@ -1019,7 +1019,7 @@ export default function HomePage() {
                             <p style={{ color: "#000000" }}>
                               They'll LOVE you forever!
                             </p>
-                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/lumen/giftcard/GC50" target="_blank" style={{ color: "#FF0099" }}>
+                            <a itemProp="url" className="icon_with_title_link" href="https://customerportal.nxtwash.com/glintingbaycarwash/giftcard/GC50" target="_blank" style={{ color: "#FF0099" }}>
                               Read More
                             </a>
                           </div>
@@ -1080,7 +1080,7 @@ export default function HomePage() {
                           {"\n"}
                           <div className="elementor-testimonial-image">
                             {"\n"}
-                            <img decoding="async" width="1048" height="791" src="/img/img-c95a7c0f96.png" className="attachment-full size-full wp-image-5482" alt="5 star testimonials for lumen car wash south hills pittsburgh" data-attachment-id="5482" data-permalink="https://lumenwash.com/smart/testimonials/" data-orig-file="/img/img-c95a7c0f96.png" data-orig-size="1048,791" data-comments-opened="1" data-image-title="testimonials" data-image-description="" data-image-caption="" data-large-file="/img/img-3cc887e685.png" srcSet="/img/img-1ce8cd737a.png 1048w, /img/img-dfde850811.png 300w, /img/img-bae60810dc.png 1024w, /img/img-97211788ad.png 768w, /img/img-a8e8767373.png 700w" sizes="(max-width: 1048px) 100vw, 1048px" />
+                            <img decoding="async" width="1048" height="791" src="/img/img-c95a7c0f96.png" className="attachment-full size-full wp-image-5482" alt="5 star testimonials for glinting bay car wash south hills pittsburgh" data-attachment-id="5482" data-permalink="https://glintingbaywash.com/smart/testimonials/" data-orig-file="/img/img-c95a7c0f96.png" data-orig-size="1048,791" data-comments-opened="1" data-image-title="testimonials" data-image-description="" data-image-caption="" data-large-file="/img/img-3cc887e685.png" srcSet="/img/img-1ce8cd737a.png 1048w, /img/img-dfde850811.png 300w, /img/img-bae60810dc.png 1024w, /img/img-97211788ad.png 768w, /img/img-a8e8767373.png 700w" sizes="(max-width: 1048px) 100vw, 1048px" />
                             {" "}
                           </div>
                           {"\n"}
@@ -1122,7 +1122,7 @@ export default function HomePage() {
                           {"\n"}
                           <div className="elementor-testimonial-image">
                             {"\n"}
-                            <img decoding="async" width="1048" height="791" src="/img/img-c95a7c0f96.png" className="attachment-full size-full wp-image-5482" alt="5 star testimonials for lumen car wash south hills pittsburgh" data-attachment-id="5482" data-permalink="https://lumenwash.com/smart/testimonials/" data-orig-file="/img/img-c95a7c0f96.png" data-orig-size="1048,791" data-comments-opened="1" data-image-title="testimonials" data-image-description="" data-image-caption="" data-large-file="/img/img-3cc887e685.png" srcSet="/img/img-1ce8cd737a.png 1048w, /img/img-dfde850811.png 300w, /img/img-bae60810dc.png 1024w, /img/img-97211788ad.png 768w, /img/img-a8e8767373.png 700w" sizes="(max-width: 1048px) 100vw, 1048px" />
+                            <img decoding="async" width="1048" height="791" src="/img/img-c95a7c0f96.png" className="attachment-full size-full wp-image-5482" alt="5 star testimonials for glinting bay car wash south hills pittsburgh" data-attachment-id="5482" data-permalink="https://glintingbaywash.com/smart/testimonials/" data-orig-file="/img/img-c95a7c0f96.png" data-orig-size="1048,791" data-comments-opened="1" data-image-title="testimonials" data-image-description="" data-image-caption="" data-large-file="/img/img-3cc887e685.png" srcSet="/img/img-1ce8cd737a.png 1048w, /img/img-dfde850811.png 300w, /img/img-bae60810dc.png 1024w, /img/img-97211788ad.png 768w, /img/img-a8e8767373.png 700w" sizes="(max-width: 1048px) 100vw, 1048px" />
                             {" "}
                           </div>
                           {"\n"}
@@ -1164,7 +1164,7 @@ export default function HomePage() {
                           {"\n"}
                           <div className="elementor-testimonial-image">
                             {"\n"}
-                            <img decoding="async" width="1048" height="791" src="/img/img-c95a7c0f96.png" className="attachment-full size-full wp-image-5482" alt="5 star testimonials for lumen car wash south hills pittsburgh" data-attachment-id="5482" data-permalink="https://lumenwash.com/smart/testimonials/" data-orig-file="/img/img-c95a7c0f96.png" data-orig-size="1048,791" data-comments-opened="1" data-image-title="testimonials" data-image-description="" data-image-caption="" data-large-file="/img/img-3cc887e685.png" srcSet="/img/img-1ce8cd737a.png 1048w, /img/img-dfde850811.png 300w, /img/img-bae60810dc.png 1024w, /img/img-97211788ad.png 768w, /img/img-a8e8767373.png 700w" sizes="(max-width: 1048px) 100vw, 1048px" />
+                            <img decoding="async" width="1048" height="791" src="/img/img-c95a7c0f96.png" className="attachment-full size-full wp-image-5482" alt="5 star testimonials for glinting bay car wash south hills pittsburgh" data-attachment-id="5482" data-permalink="https://glintingbaywash.com/smart/testimonials/" data-orig-file="/img/img-c95a7c0f96.png" data-orig-size="1048,791" data-comments-opened="1" data-image-title="testimonials" data-image-description="" data-image-caption="" data-large-file="/img/img-3cc887e685.png" srcSet="/img/img-1ce8cd737a.png 1048w, /img/img-dfde850811.png 300w, /img/img-bae60810dc.png 1024w, /img/img-97211788ad.png 768w, /img/img-a8e8767373.png 700w" sizes="(max-width: 1048px) 100vw, 1048px" />
                             {" "}
                           </div>
                           {"\n"}
@@ -1276,7 +1276,7 @@ export default function HomePage() {
                             <div className="boxes_image">
                               {"\n"}
                               <a itemProp="url" href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                                <img loading="lazy" decoding="async" width="1774" height="887" src="/img/img-b14fe24c06.png" className="attachment-full size-full wp-post-image" alt="October 2026 at Lumen Car Wash" srcSet="/img/img-7b36c1fb74.png 1774w, /img/img-7c833fb78e.png 300w, /img/img-67fb5ed454.png 1024w, /img/img-794ed79fba.png 768w, /img/img-8730ca5309.png 1536w, /img/img-c4c6ab0f6b.png 1000w, /img/img-83ed7c6abf.png 700w, /img/img-82337c3972.png 1300w" sizes="(max-width: 1060px) 100vw, 1060px" data-attachment-id="5618" data-permalink="https://lumenwash.com/2026/09/28/breast-cancer-awareness-month-free-car-wash/october-2026-at-lumen-car-wash/" data-orig-file="/img/img-b14fe24c06.png" data-orig-size="1774,887" data-comments-opened="1" data-image-title="October 2026 at Lumen Car Wash" data-image-description="" data-image-caption="" data-large-file="/img/img-c837a1fa00.png" />
+                                <img loading="lazy" decoding="async" width="1774" height="887" src="/img/img-b14fe24c06.png" className="attachment-full size-full wp-post-image" alt="October 2026 at Glinting Bay Car Wash" srcSet="/img/img-7b36c1fb74.png 1774w, /img/img-7c833fb78e.png 300w, /img/img-67fb5ed454.png 1024w, /img/img-794ed79fba.png 768w, /img/img-8730ca5309.png 1536w, /img/img-c4c6ab0f6b.png 1000w, /img/img-83ed7c6abf.png 700w, /img/img-82337c3972.png 1300w" sizes="(max-width: 1060px) 100vw, 1060px" data-attachment-id="5618" data-permalink="https://glintingbaywash.com/2026/09/28/breast-cancer-awareness-month-free-car-wash/october-2026-at-glinting-bay-car-wash/" data-orig-file="/img/img-b14fe24c06.png" data-orig-size="1774,887" data-comments-opened="1" data-image-title="October 2026 at Glinting Bay Car Wash" data-image-description="" data-image-caption="" data-large-file="/img/img-c837a1fa00.png" />
                               </a>
                               {"\n"}
                             </div>
@@ -1291,7 +1291,7 @@ export default function HomePage() {
                                     {"\n"}
                                     <h4 itemProp="name" className="latest_post_title entry_title">
                                       <a itemProp="url" href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                                        October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                                        October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                                       </a>
                                     </h4>
                                     {"\n"}
@@ -1318,7 +1318,7 @@ export default function HomePage() {
                             <div className="boxes_image">
                               {"\n"}
                               <a itemProp="url" href="/2026/07/22/how-we-shine-against-your-other-car-wash-options/">
-                                <img loading="lazy" decoding="async" width="3892" height="2340" src="/img/img-73e5546386.png" className="attachment-full size-full wp-post-image" alt="Lumen Car Wash Towel Dry Hero 1" srcSet="/img/img-a6c48359dc.png 3892w, /img/img-7e4759ed7f.png 300w, /img/img-8dbd0000b9.png 1024w, /img/img-05c4133d87.png 768w, /img/img-9d47ea90e2.png 1536w, /img/img-0e5319cddb.png 2048w, /img/img-6847e2e31c.png 700w, /img/img-d54fc29e93.png 2120w, /img/img-fd3914075e.png 3180w" sizes="(max-width: 1060px) 100vw, 1060px" data-attachment-id="5138" data-permalink="https://lumenwash.com/smart/car_2/" data-orig-file="/img/img-73e5546386.png" data-orig-size="3892,2340" data-comments-opened="1" data-image-title="Lumen Car Wash Towel Dry Hero 1" data-image-description="" data-image-caption="" data-large-file="/img/img-1d36d87ba9.png" />
+                                <img loading="lazy" decoding="async" width="3892" height="2340" src="/img/img-73e5546386.png" className="attachment-full size-full wp-post-image" alt="Glinting Bay Car Wash Towel Dry Hero 1" srcSet="/img/img-a6c48359dc.png 3892w, /img/img-7e4759ed7f.png 300w, /img/img-8dbd0000b9.png 1024w, /img/img-05c4133d87.png 768w, /img/img-9d47ea90e2.png 1536w, /img/img-0e5319cddb.png 2048w, /img/img-6847e2e31c.png 700w, /img/img-d54fc29e93.png 2120w, /img/img-fd3914075e.png 3180w" sizes="(max-width: 1060px) 100vw, 1060px" data-attachment-id="5138" data-permalink="https://glintingbaywash.com/smart/car_2/" data-orig-file="/img/img-73e5546386.png" data-orig-size="3892,2340" data-comments-opened="1" data-image-title="Glinting Bay Car Wash Towel Dry Hero 1" data-image-description="" data-image-caption="" data-large-file="/img/img-1d36d87ba9.png" />
                               </a>
                               {"\n"}
                             </div>
@@ -1338,7 +1338,7 @@ export default function HomePage() {
                                     </h4>
                                     {"\n"}
                                     <p className="excerpt">
-                                      Compare Lumen with other South Hills car washes and see why Smart Wash technology, green chemistry and hand towel dryi...
+                                      Compare Glinting Bay with other South Hills car washes and see why Smart Wash technology, green chemistry and hand towel dryi...
                                     </p>
                                     {"\n"}
                                     <span className="post_infos">
@@ -1359,8 +1359,8 @@ export default function HomePage() {
                             {"\n"}
                             <div className="boxes_image">
                               {"\n"}
-                              <a itemProp="url" href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                                <img loading="lazy" decoding="async" width="1254" height="1254" src="/img/img-066c4239db.png" className="attachment-full size-full wp-post-image" alt="more vacuum power happy 4th 2026 - lumen car wash south hills pittsburgh pa" srcSet="/img/img-621240f554.png 1254w, /img/img-45ca08ff19.png 300w, /img/img-65c80050b1.png 1024w, /img/img-752feb7933.png 150w, /img/img-3af640f9b3.png 768w, /img/img-f8f55a27d1.png 570w, /img/img-9af400da84.png 500w, /img/img-d6ecb5f3d3.png 1000w, /img/img-dc04e65620.png 700w, /img/img-b0c4b7eb2e.png 650w" sizes="(max-width: 1060px) 100vw, 1060px" data-attachment-id="5301" data-permalink="https://lumenwash.com/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/more-vacuum-power-happy-4th-2026/" data-orig-file="/img/img-066c4239db.png" data-orig-size="1254,1254" data-comments-opened="1" data-image-title="more vacuum power happy 4th 2026" data-image-description="" data-image-caption="" data-large-file="/img/img-1b12e12d92.png" />
+                              <a itemProp="url" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                                <img loading="lazy" decoding="async" width="1254" height="1254" src="/img/img-066c4239db.png" className="attachment-full size-full wp-post-image" alt="more vacuum power happy 4th 2026 - glinting bay car wash south hills pittsburgh pa" srcSet="/img/img-621240f554.png 1254w, /img/img-45ca08ff19.png 300w, /img/img-65c80050b1.png 1024w, /img/img-752feb7933.png 150w, /img/img-3af640f9b3.png 768w, /img/img-f8f55a27d1.png 570w, /img/img-9af400da84.png 500w, /img/img-d6ecb5f3d3.png 1000w, /img/img-dc04e65620.png 700w, /img/img-b0c4b7eb2e.png 650w" sizes="(max-width: 1060px) 100vw, 1060px" data-attachment-id="5301" data-permalink="https://glintingbaywash.com/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/more-vacuum-power-happy-4th-2026/" data-orig-file="/img/img-066c4239db.png" data-orig-size="1254,1254" data-comments-opened="1" data-image-title="more vacuum power happy 4th 2026" data-image-description="" data-image-caption="" data-large-file="/img/img-1b12e12d92.png" />
                               </a>
                               {"\n"}
                             </div>
@@ -1374,8 +1374,8 @@ export default function HomePage() {
                                   <div className="latest_post_text_inner">
                                     {"\n"}
                                     <h4 itemProp="name" className="latest_post_title entry_title">
-                                      <a itemProp="url" href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                                        More Power for the Vacuum Stations at Lumen Car Wash
+                                      <a itemProp="url" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                                        More Power for the Vacuum Stations at Glinting Bay Car Wash
                                       </a>
                                     </h4>
                                     {"\n"}
@@ -1402,7 +1402,7 @@ export default function HomePage() {
                             <div className="boxes_image">
                               {"\n"}
                               <a itemProp="url" href="/2026/05/22/best-summer-day-trips-from-pittsburgh-and-how-to-keep-your-car-looking-sharp/">
-                                <img loading="lazy" decoding="async" width="1672" height="941" src="/img/img-1519136aff.png" className="attachment-full size-full wp-post-image" alt="summer day trips Pittsburgh - lumen car wash in south hills" srcSet="/img/img-d814ffb815.png 1672w, /img/img-4c33ccc37a.png 300w, /img/img-9a33c6bb8e.png 1024w, /img/img-06796ecc24.png 768w, /img/img-ac8a1417e8.png 1536w, /img/img-d89fea07e6.png 700w, /img/img-9c47b19975.png 539w" sizes="(max-width: 1060px) 100vw, 1060px" data-attachment-id="5270" data-permalink="https://lumenwash.com/2026/05/22/best-summer-day-trips-from-pittsburgh-and-how-to-keep-your-car-looking-sharp/summer-day-trips-pittsburgh/" data-orig-file="/img/img-1519136aff.png" data-orig-size="1672,941" data-comments-opened="1" data-image-title="summer day trips Pittsburgh" data-image-description="" data-image-caption="" data-large-file="/img/img-07163e43f2.png" />
+                                <img loading="lazy" decoding="async" width="1672" height="941" src="/img/img-1519136aff.png" className="attachment-full size-full wp-post-image" alt="summer day trips Pittsburgh - glinting bay car wash in south hills" srcSet="/img/img-d814ffb815.png 1672w, /img/img-4c33ccc37a.png 300w, /img/img-9a33c6bb8e.png 1024w, /img/img-06796ecc24.png 768w, /img/img-ac8a1417e8.png 1536w, /img/img-d89fea07e6.png 700w, /img/img-9c47b19975.png 539w" sizes="(max-width: 1060px) 100vw, 1060px" data-attachment-id="5270" data-permalink="https://glintingbaywash.com/2026/05/22/best-summer-day-trips-from-pittsburgh-and-how-to-keep-your-car-looking-sharp/summer-day-trips-pittsburgh/" data-orig-file="/img/img-1519136aff.png" data-orig-size="1672,941" data-comments-opened="1" data-image-title="summer day trips Pittsburgh" data-image-description="" data-image-caption="" data-large-file="/img/img-07163e43f2.png" />
                               </a>
                               {"\n"}
                             </div>
@@ -1561,7 +1561,7 @@ export default function HomePage() {
                       {"\n"}
                       <h5>
                         <span style={{ color: "#151515" }}>
-                          Lumen Car Wash
+                          Glinting Bay Car Wash
                         </span>
                       </h5>
                       {" "}
@@ -1620,7 +1620,7 @@ export default function HomePage() {
                         <div className="icon_text_holder">
                           <div className="icon_text_inner">
                             <h5 className="icon_title">
-                              clubmember@lumenwash.com
+                              clubmember@glintingbaywash.com
                             </h5>
                             <p></p>
                           </div>

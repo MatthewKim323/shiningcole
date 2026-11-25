@@ -16,7 +16,7 @@ export default function Post26Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="1672" height="941" src="/img/img-1519136aff.png" className="attachment-full size-full wp-post-image" alt="summer day trips Pittsburgh - lumen car wash in south hills" decoding="async" srcSet="/img/img-d814ffb815.png 1672w, /img/img-4c33ccc37a.png 300w, /img/img-9a33c6bb8e.png 1024w, /img/img-06796ecc24.png 768w, /img/img-ac8a1417e8.png 1536w, /img/img-d89fea07e6.png 700w, /img/img-9c47b19975.png 539w" sizes="(max-width: 1672px) 100vw, 1672px" data-attachment-id="5270" data-permalink="https://lumenwash.com/2026/05/22/best-summer-day-trips-from-pittsburgh-and-how-to-keep-your-car-looking-sharp/summer-day-trips-pittsburgh/" data-orig-file="/img/img-1519136aff.png" data-orig-size="1672,941" data-comments-opened="1" data-image-title="summer day trips Pittsburgh" data-image-description="" data-image-caption="" data-large-file="/img/img-07163e43f2.png" />
+                    <img fetchPriority="high" width="1672" height="941" src="/img/img-1519136aff.png" className="attachment-full size-full wp-post-image" alt="summer day trips Pittsburgh - glinting bay car wash in south hills" decoding="async" srcSet="/img/img-d814ffb815.png 1672w, /img/img-4c33ccc37a.png 300w, /img/img-9a33c6bb8e.png 1024w, /img/img-06796ecc24.png 768w, /img/img-ac8a1417e8.png 1536w, /img/img-d89fea07e6.png 700w, /img/img-9c47b19975.png 539w" sizes="(max-width: 1672px) 100vw, 1672px" data-attachment-id="5270" data-permalink="https://glintingbaywash.com/2026/05/22/best-summer-day-trips-from-pittsburgh-and-how-to-keep-your-car-looking-sharp/summer-day-trips-pittsburgh/" data-orig-file="/img/img-1519136aff.png" data-orig-size="1672,941" data-comments-opened="1" data-image-title="summer day trips Pittsburgh" data-image-description="" data-image-caption="" data-large-file="/img/img-07163e43f2.png" />
                     {" "}
                   </div>
                   {"\n"}
@@ -144,19 +144,19 @@ export default function Post26Page() {
                                   .
                                 </p>
                                 <p data-start="1900" data-end="2385">
-                                  {"These kinds of trips are fun for drivers, but not always easy on a vehicle’s finish. Summer driving means more bug impacts on the front bumper and windshield, more dust and grit in lots and shoulder areas, and more pollen and road film sticking to the paint. Lumen already emphasizes graphene in its top-tier protection lineup, describing it as part of its "}
+                                  {"These kinds of trips are fun for drivers, but not always easy on a vehicle’s finish. Summer driving means more bug impacts on the front bumper and windshield, more dust and grit in lots and shoulder areas, and more pollen and road film sticking to the paint. Glinting Bay already emphasizes graphene in its top-tier protection lineup, describing it as part of its "}
                                   <a href="/?utm_source=chatgpt.com">
                                     maximum-protection offering against scratches, corrosion, road salt, and oxidation
                                   </a>
                                   .
                                 </p>
                                 <p data-start="2387" data-end="2958">
-                                  {"That is why a pre-trip or post-trip wash makes sense. A clean, protected surface is easier to maintain, and graphene helps contaminants release more easily before they sit too long on the paint and clear coat. Lumen has already covered this in its related post, "}
-                                  <a className="decorated-link" href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="2656" data-end="2866">
-                                    Nothing Bugs Us: Lumen’s Graphene Coating for the Ultimate Vehicle Protection
+                                  {"That is why a pre-trip or post-trip wash makes sense. A clean, protected surface is easier to maintain, and graphene helps contaminants release more easily before they sit too long on the paint and clear coat. Glinting Bay has already covered this in its related post, "}
+                                  <a className="decorated-link" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="2656" data-end="2866">
+                                    Nothing Bugs Us: Glinting Bay’s Graphene Coating for the Ultimate Vehicle Protection
                                   </a>
                                   {", which is a natural internal companion to "}
-                                  <a href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/">
+                                  <a href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/">
                                     this topic
                                   </a>
                                   .
@@ -164,11 +164,11 @@ export default function Post26Page() {
                                 <p data-start="2960" data-end="3343">
                                   {"If you want to build the blog’s link structure for SEO, link readers to the "}
                                   <a className="decorated-link" href="/?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="3036" data-end="3089">
-                                    Lumen homepage
+                                    Glinting Bay homepage
                                   </a>
                                   {" and also to "}
-                                  <a className="decorated-link" href="/2025/04/10/choose-your-shine-at-lumen-car-wash/?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="3102" data-end="3230">
-                                    Choose Your Shine at Lumen Car Wash
+                                  <a className="decorated-link" href="/2025/04/10/choose-your-shine-at-glinting-bay-car-wash/?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="3102" data-end="3230">
+                                    Choose Your Shine at Glinting Bay Car Wash
                                   </a>
                                   {" for a practical explanation of graphene, ceramic, and premium wax options."}
                                 </p>
@@ -196,25 +196,25 @@ export default function Post26Page() {
                                     Closing CTA:
                                   </strong>
                                   <br data-start="3691" data-end="3694" />
-                                  {"Before your next summer escape, start clean. And when you get back, let Lumen help you wash away the bugs, dust, pollen, and road grime so your vehicle keeps looking as good as the trip felt. Visit "}
+                                  {"Before your next summer escape, start clean. And when you get back, let Glinting Bay help you wash away the bugs, dust, pollen, and road grime so your vehicle keeps looking as good as the trip felt. Visit "}
                                   <a className="decorated-link" href="/?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="3899" data-end="3954">
-                                    lumenwash.com
+                                    www.glintingbaywash.com
                                   </a>
                                   {" to learn more."}
                                 </p>
                                 <h5 data-start="74" data-end="105">
                                   <strong data-start="74" data-end="105">
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h5>
                                 <p data-start="107" data-end="395">
-                                  Lumen Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
+                                  Glinting Bay Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
                                 </p>
                                 <p data-start="397" data-end="649">
                                   In just 3 minutes, you’ll enjoy a thorough clean plus FREE wheel cleaner, wax, and vacuuming. Whether you choose a single wash or join our membership, we’re committed to excellence, integrity, and doing what’s right for our customers and our community.
                                 </p>
                                 <p data-start="651" data-end="709" data-is-last-node="" data-is-only-node="">
-                                  Try the rest—then come to the best. Lumen Car Wash.
+                                  Try the rest—then come to the best. Glinting Bay Car Wash.
                                 </p>
                                 {" "}
                               </div>
@@ -419,7 +419,7 @@ export default function Post26Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":5268,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2026%2F05%2F22%2Fbest-summer-day-trips-from-pittsburgh-and-how-to-keep-your-car-looking-sharp%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":5268,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2026%2F05%2F22%2Fbest-summer-day-trips-from-pittsburgh-and-how-to-keep-your-car-looking-sharp%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

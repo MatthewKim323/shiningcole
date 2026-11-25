@@ -42,7 +42,7 @@ export default function Footer({ path }: { path: string }) {
                             {"\n"}
                             <li id="menu-item-386" className={li("menu-item-386")}>
                               <a href="/#pricing" {...a("menu-item-386")}>
-                                Lumen Plan
+                                Glinting Bay Plan
                               </a>
                             </li>
                             {"\n"}
@@ -181,17 +181,17 @@ export default function Footer({ path }: { path: string }) {
                     <div className="column_inner">
                       {"\n"}
                       <div className="widget qode_button_widget">
-                        <a itemProp="url" href={"https://customerportal.nxtwash.com/lumen/?phone=%20%5BPHONENUMBER-HERE%5D&page=updateprofile"} target="_self" data-hover-background-color="#ff0099" data-hover-color="#ffffff" className="qbutton default" style={{ color: "#ffffff", backgroundColor: "#ff0099" }}>
+                        <a itemProp="url" href={"https://customerportal.nxtwash.com/glintingbaycarwash/?phone=%20%5BPHONENUMBER-HERE%5D&page=updateprofile"} target="_self" data-hover-background-color="#ff0099" data-hover-color="#ffffff" className="qbutton default" style={{ color: "#ffffff", backgroundColor: "#ff0099" }}>
                           MANAGE ACCOUNT
                         </a>
                       </div>
                       <span className="q_social_icon_holder normal_social" data-color="#ffffff" data-hover-color="#ff0099">
-                        <a itemProp="url" href="https://www.facebook.com/lumen" target="_blank">
+                        <a itemProp="url" href="https://www.facebook.com/glintingbaywash" target="_blank">
                           <i className="qode_icon_font_awesome fa fa-facebook simple_social" style={{ color: "#ffffff", margin: "0 15px 0 15px", fontSize: "22px" }}></i>
                         </a>
                       </span>
                       <span className="q_social_icon_holder normal_social" data-color="#ffffff" data-hover-color="#ff0099">
-                        <a itemProp="url" href="https://www.instagram.com/lumen/" target="_blank">
+                        <a itemProp="url" href="https://www.instagram.com/glintingbay/" target="_blank">
                           <i className="qode_icon_font_awesome fa fa-instagram simple_social" style={{ color: "#ffffff", margin: "0 0px 0 0", fontSize: "22px" }}></i>
                         </a>
                       </span>
@@ -245,13 +245,13 @@ export default function Footer({ path }: { path: string }) {
                 <div className="wp-block-image">
                   {"\n"}
                   <figure className="aligncenter size-large is-resized">
-                    <img loading="lazy" decoding="async" width="1000" height="703" src="/img/img-cecb00be3a.webp" alt="lumen logo" className="wp-image-4789" style={{ width: "462px", height: "auto" }} srcSet="/img/img-b7d71d9ebd.webp 1000w, /img/img-fe8f6d534b.webp 300w, /img/img-912f7ac750.webp 768w, /img/img-8ab3f5eaf3.webp 700w" sizes="(max-width: 1000px) 100vw, 1000px" />
+                    <img loading="lazy" decoding="async" width="1000" height="703" src="/img/img-cecb00be3a.webp" alt="glinting bay logo" className="wp-image-4789" style={{ width: "462px", height: "auto" }} srcSet="/img/img-b7d71d9ebd.webp 1000w, /img/img-fe8f6d534b.webp 300w, /img/img-912f7ac750.webp 768w, /img/img-8ab3f5eaf3.webp 700w" sizes="(max-width: 1000px) 100vw, 1000px" />
                   </figure>
                   {"\n"}
                 </div>
                 <p style={{ marginLeft: "10px", marginTop: "-2px" }}>
                   <a href="/">
-                    © 2026 Lumen Car Wash, LLC.
+                    © 2026 Glinting Bay Car Wash, LLC.
                   </a>
                 </p>
                 {"\n"}

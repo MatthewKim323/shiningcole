@@ -50,7 +50,7 @@ export default function HelpAndSupportPage() {
                           {"\n"}
                           <div className="elementor-widget-container">
                             {"\n"}
-                            <img fetchPriority="high" decoding="async" width="768" height="511" src="/img/img-6719f62f12.webp" className="attachment-medium_large size-medium_large wp-image-4790" alt="sonar-enabled technology drives lumen car wash smart wash systems" srcSet="/img/img-6567f22f50.webp 1000w, /img/img-45566d844f.webp 300w, /img/img-9573bad8f0.webp 768w, /img/img-20d507a052.webp 700w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="4790" data-permalink="https://lumenwash.com/help-and-support/istock-105944443_transparent-2/" data-orig-file="/img/img-771d47acd8.webp" data-orig-size="1000,666" data-comments-opened="1" data-image-title="sonar-enabled technology drives lumen car wash smart wash systems" data-image-description="" data-image-caption="" data-large-file="/img/img-771d47acd8.webp" />
+                            <img fetchPriority="high" decoding="async" width="768" height="511" src="/img/img-6719f62f12.webp" className="attachment-medium_large size-medium_large wp-image-4790" alt="sonar-enabled technology drives glinting bay car wash smart wash systems" srcSet="/img/img-6567f22f50.webp 1000w, /img/img-45566d844f.webp 300w, /img/img-9573bad8f0.webp 768w, /img/img-20d507a052.webp 700w" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="4790" data-permalink="https://glintingbaywash.com/help-and-support/istock-105944443_transparent-2/" data-orig-file="/img/img-771d47acd8.webp" data-orig-size="1000,666" data-comments-opened="1" data-image-title="sonar-enabled technology drives glinting bay car wash smart wash systems" data-image-description="" data-image-caption="" data-large-file="/img/img-771d47acd8.webp" />
                             {" "}
                           </div>
                           {"\n"}
@@ -84,7 +84,7 @@ export default function HelpAndSupportPage() {
                               <br />
                               Call: (724) 941-9888
                               <br />
-                              Email: clubmember@lumenwash.com
+                              Email: clubmember@glintingbaywash.com
                               <br />
                               Stop in: 3626 Washington Road, McMurray, PA 15317
                               <br />
@@ -475,10 +475,10 @@ export default function HelpAndSupportPage() {
                             <p style={{ margin: "0in", background: "white", verticalAlign: "baseline" }}>
                               <span style={{ fontFamily: "'Arial',sans-serif", color: "#666666" }}>
                                 {"It’s quick and easy to sign up on our  "}
-                                <a href="https://www.carwashlogin.com/lumen/customerportal/signupforunlimited.aspx">
+                                <a href="https://www.carwashlogin.com/glintingbaycarwash/customerportal/signupforunlimited.aspx">
                                   membership-portal
                                 </a>
-                                {" or stop by The Lumen Car Wash and ask one of our Customer Service Advisors. "}
+                                {" or stop by The Glinting Bay Car Wash and ask one of our Customer Service Advisors. "}
                               </span>
                             </p>
                             {" "}
@@ -1137,7 +1137,7 @@ export default function HelpAndSupportPage() {
                               </li>
                             </ul>
                             <h4>
-                              {" "}
+                              {" "}
                             </h4>
                             <h4>
                               OUR WASH IS VERY SAFE; HOWEVER, WE CANNOT BE RESPONSIBLE FOR:
@@ -1778,7 +1778,7 @@ export default function HelpAndSupportPage() {
                           <div className="qodef-e-content-inner">
                             {"\n"}
                             <p>
-                              Our wash is not touchless. As you're concerned about getting a safe and thorough cleaning that leaves your car looking its best, you'll not experience a safer, cleaner, and shinier producing car wash than at the Lumen Car Wash. Our smart wash technology has been trusted by thousands of BMW, Mercedes, and Bentley owners every week. We know how to safely wash these high-end vehicles, and we guarantee the same level of care for yours.
+                              Our wash is not touchless. As you're concerned about getting a safe and thorough cleaning that leaves your car looking its best, you'll not experience a safer, cleaner, and shinier producing car wash than at the Glinting Bay Car Wash. Our smart wash technology has been trusted by thousands of BMW, Mercedes, and Bentley owners every week. We know how to safely wash these high-end vehicles, and we guarantee the same level of care for yours.
                             </p>
                             {" "}
                           </div>

@@ -22,7 +22,7 @@ export default function Post05Page() {
                         {"\n"}
                         <div className="post_image">
                           {"\n"}
-                          <img fetchPriority="high" width="501" height="340" src="/img/img-154fdb3c6b.png" className="attachment-full size-full wp-post-image" alt="happy realtor at lumen car wash" decoding="async" srcSet="/img/img-bf64eb9d96.png 501w, /img/img-83a3b776c1.png 300w" sizes="(max-width: 501px) 100vw, 501px" data-attachment-id="2532" data-permalink="https://lumenwash.com/2023/01/13/realtors-on-the-move-making-a-lasting-first-impression/screen-shot-2022-08-22-at-1-50-06-pm/" data-orig-file="/img/img-154fdb3c6b.png" data-orig-size="501,340" data-comments-opened="1" data-image-title="Screen-Shot-2022-08-22-at-1.50.06-PM" data-image-description="" data-image-caption="" data-large-file="/img/img-154fdb3c6b.png" />
+                          <img fetchPriority="high" width="501" height="340" src="/img/img-154fdb3c6b.png" className="attachment-full size-full wp-post-image" alt="happy realtor at glinting bay car wash" decoding="async" srcSet="/img/img-bf64eb9d96.png 501w, /img/img-83a3b776c1.png 300w" sizes="(max-width: 501px) 100vw, 501px" data-attachment-id="2532" data-permalink="https://glintingbaywash.com/2023/01/13/realtors-on-the-move-making-a-lasting-first-impression/screen-shot-2022-08-22-at-1-50-06-pm/" data-orig-file="/img/img-154fdb3c6b.png" data-orig-size="501,340" data-comments-opened="1" data-image-title="Screen-Shot-2022-08-22-at-1.50.06-PM" data-image-description="" data-image-caption="" data-large-file="/img/img-154fdb3c6b.png" />
                           {" "}
                         </div>
                         {"\n"}
@@ -106,7 +106,7 @@ export default function Post05Page() {
                                         Come rain or shine, realtors make sure their cars are washed daily. Whether they opt for a convenient automatic car wash or a fun hand-washing experience with their kids, they prioritize quality and personal care.
                                       </p>
                                       <p>
-                                        Jim Platz, owner of Lumen Car Wash, understands the value of curb appeal in the real estate business. His family-owned wash experience goes the extra mile to cater to realtors, investing in their customers beyond the bottom line.
+                                        Jim Platz, owner of Glinting Bay Car Wash, understands the value of curb appeal in the real estate business. His family-owned wash experience goes the extra mile to cater to realtors, investing in their customers beyond the bottom line.
                                       </p>
                                       <blockquote>
                                         <h5>
@@ -125,13 +125,13 @@ export default function Post05Page() {
                                       </p>
                                       <h5>
                                         <strong>
-                                          Lumen Car Wash – Who we are and what we stand for.
+                                          Glinting Bay Car Wash – Who we are and what we stand for.
                                         </strong>
                                       </h5>
                                       <p>
                                         {"We guarantee the Best Car Wash Experience at "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         {" or your money back! – Join our "}
                                         <a href="/#pricing">
@@ -146,7 +146,7 @@ export default function Post05Page() {
                                         Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                       </p>
                                       <p>
-                                        {"At Lumen Car Wash, we hold ourselves to the "}
+                                        {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                         <a href="/operating-agreement/">
                                           highest standards of ethical conduct and social responsibility
                                         </a>
@@ -161,7 +161,7 @@ export default function Post05Page() {
                                       <p>
                                         {"Try the rest but then come to the best car wash in town – "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                       </p>
@@ -370,7 +370,7 @@ export default function Post05Page() {
                         </small>
                       </h3>
                       <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2531,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2023%2F01%2F13%2Frealtors-on-the-move-making-a-lasting-first-impression%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2531,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2023%2F01%2F13%2Frealtors-on-the-move-making-a-lasting-first-impression%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                           <div className="jetpack-comments__plain">
                             <p className="comment-form-author">
                               <label htmlFor="author">
@@ -443,7 +443,7 @@ export default function Post05Page() {
                         <li>
                           {"\n"}
                           <a href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                            October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                            October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                           </a>
                           {"\n"}
                         </li>
@@ -458,8 +458,8 @@ export default function Post05Page() {
                         {"\n"}
                         <li>
                           {"\n"}
-                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                            More Power for the Vacuum Stations at Lumen Car Wash
+                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                            More Power for the Vacuum Stations at Glinting Bay Car Wash
                           </a>
                           {"\n"}
                         </li>

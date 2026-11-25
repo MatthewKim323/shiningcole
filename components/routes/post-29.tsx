@@ -16,7 +16,7 @@ export default function Post29Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="1774" height="887" src="/img/img-b14fe24c06.png" className="attachment-full size-full wp-post-image" alt="October 2026 at Lumen Car Wash" decoding="async" srcSet="/img/img-7b36c1fb74.png 1774w, /img/img-7c833fb78e.png 300w, /img/img-67fb5ed454.png 1024w, /img/img-794ed79fba.png 768w, /img/img-8730ca5309.png 1536w, /img/img-c4c6ab0f6b.png 1000w, /img/img-83ed7c6abf.png 700w, /img/img-82337c3972.png 1300w" sizes="(max-width: 1774px) 100vw, 1774px" data-attachment-id="5618" data-permalink="https://lumenwash.com/2026/09/28/breast-cancer-awareness-month-free-car-wash/october-2026-at-lumen-car-wash/" data-orig-file="/img/img-b14fe24c06.png" data-orig-size="1774,887" data-comments-opened="1" data-image-title="October 2026 at Lumen Car Wash" data-image-description="" data-image-caption="" data-large-file="/img/img-c837a1fa00.png" />
+                    <img fetchPriority="high" width="1774" height="887" src="/img/img-b14fe24c06.png" className="attachment-full size-full wp-post-image" alt="October 2026 at Glinting Bay Car Wash" decoding="async" srcSet="/img/img-7b36c1fb74.png 1774w, /img/img-7c833fb78e.png 300w, /img/img-67fb5ed454.png 1024w, /img/img-794ed79fba.png 768w, /img/img-8730ca5309.png 1536w, /img/img-c4c6ab0f6b.png 1000w, /img/img-83ed7c6abf.png 700w, /img/img-82337c3972.png 1300w" sizes="(max-width: 1774px) 100vw, 1774px" data-attachment-id="5618" data-permalink="https://glintingbaywash.com/2026/09/28/breast-cancer-awareness-month-free-car-wash/october-2026-at-glinting-bay-car-wash/" data-orig-file="/img/img-b14fe24c06.png" data-orig-size="1774,887" data-comments-opened="1" data-image-title="October 2026 at Glinting Bay Car Wash" data-image-description="" data-image-caption="" data-large-file="/img/img-c837a1fa00.png" />
                     {" "}
                   </div>
                   {"\n"}
@@ -28,7 +28,7 @@ export default function Post29Page() {
                         <span itemProp="dateCreated" className="date entry_date updated">
                           28 Sep
                         </span>
-                        {" October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen"}
+                        {" October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining"}
                       </h2>
                       {"\n"}
                       <div className="post_info">
@@ -106,7 +106,7 @@ export default function Post29Page() {
                                 <p>
                                   {"October is always a meaningful month at "}
                                   <strong>
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </strong>
                                   {", and this year marks our "}
                                   <strong>
@@ -140,9 +140,9 @@ export default function Post29Page() {
                                   <strong>
                                     WE CAN
                                   </strong>
-                                  {" signs at Lumen. Scan the QR code—or use the link below—to sign up and receive your "}
+                                  {" signs at Glinting Bay. Scan the QR code—or use the link below—to sign up and receive your "}
                                   <strong>
-                                    FREE Lumen wash
+                                    FREE Glinting Bay wash
                                   </strong>
                                   :
                                 </p>
@@ -159,7 +159,7 @@ export default function Post29Page() {
                                 <p>
                                   {"While you’re here, take advantage of everything available at "}
                                   <a href="/?utm_source=chatgpt.com">
-                                    Lumen Car Wash
+                                    Glinting Bay Car Wash
                                   </a>
                                   {"—including our Smart Wash technology, premium protection options, personalized towel-dry service and our "}
                                   <strong>
@@ -208,17 +208,17 @@ export default function Post29Page() {
                                 </p>
                                 <h5 data-start="74" data-end="105">
                                   <strong data-start="74" data-end="105">
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h5>
                                 <p data-start="107" data-end="395">
-                                  Lumen Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
+                                  Glinting Bay Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
                                 </p>
                                 <p data-start="397" data-end="649">
                                   In just 3 minutes, you’ll enjoy a thorough clean plus FREE wheel cleaner, wax, and vacuuming. Whether you choose a single wash or join our membership, we’re committed to excellence, integrity, and doing what’s right for our customers and our community.
                                 </p>
                                 <p data-start="651" data-end="709" data-is-last-node="" data-is-only-node="">
-                                  Try the rest—then come to the best. Lumen Car Wash.
+                                  Try the rest—then come to the best. Glinting Bay Car Wash.
                                 </p>
                                 {" "}
                               </div>
@@ -423,7 +423,7 @@ export default function Post29Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":5613,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2026%2F09%2F28%2Fbreast-cancer-awareness-month-free-car-wash%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":5613,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2026%2F09%2F28%2Fbreast-cancer-awareness-month-free-car-wash%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

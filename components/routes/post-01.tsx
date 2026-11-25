@@ -22,7 +22,7 @@ export default function Post01Page() {
                         {"\n"}
                         <div className="post_image">
                           {"\n"}
-                          <img fetchPriority="high" width="3024" height="4032" src="/img/img-65a830098d.jpg" className="attachment-full size-full wp-post-image" alt="lumen-car-wash-south-hills-mcmurray-pittsburgh" decoding="async" srcSet="/img/img-a6c9715cbc.jpg 3024w, /img/img-a581f364d0.jpg 225w, /img/img-3a3fc1a9c1.jpg 768w, /img/img-6515215ab3.jpg 1152w, /img/img-aed4e2fd33.jpg 1536w, /img/img-13a2b6ef01.jpg 900w, /img/img-4c9a5ea19e.jpg 600w, /img/img-03a65dcec2.jpg 450w, /img/img-e35ed49b20.jpg 300w, /img/img-dc8d2801d9.jpg 150w, /img/img-f320e35982.jpg 1200w, /img/img-82665ec4c0.jpg 700w, /img/img-4be44bc311.jpg 2120w" sizes="(max-width: 3024px) 100vw, 3024px" data-attachment-id="2760" data-permalink="https://lumenwash.com/2022/08/14/family-serviced-businesses-create-community-benefits/lumen-car-wash-south-hills-mcmurray-pittsburgh/" data-orig-file="/img/img-65a830098d.jpg" data-orig-size="3024,4032" data-comments-opened="1" data-image-meta={"{\"aperture\":\"1.8\",\"camera\":\"iPhone XR\",\"created_timestamp\":\"1633014021\",\"focal_length\":\"4.25\",\"iso\":\"25\",\"shutter_speed\":\"0.0016638935108153\",\"orientation\":\"1\"}"} data-image-title="lumen car wash south hills mcmurray pittsburgh" data-image-description="" data-image-caption="" data-large-file="/img/img-1ea2459aeb.jpg" />
+                          <img fetchPriority="high" width="3024" height="4032" src="/img/img-65a830098d.jpg" className="attachment-full size-full wp-post-image" alt="glinting-bay-car-wash-south-hills-mcmurray-pittsburgh" decoding="async" srcSet="/img/img-a6c9715cbc.jpg 3024w, /img/img-a581f364d0.jpg 225w, /img/img-3a3fc1a9c1.jpg 768w, /img/img-6515215ab3.jpg 1152w, /img/img-aed4e2fd33.jpg 1536w, /img/img-13a2b6ef01.jpg 900w, /img/img-4c9a5ea19e.jpg 600w, /img/img-03a65dcec2.jpg 450w, /img/img-e35ed49b20.jpg 300w, /img/img-dc8d2801d9.jpg 150w, /img/img-f320e35982.jpg 1200w, /img/img-82665ec4c0.jpg 700w, /img/img-4be44bc311.jpg 2120w" sizes="(max-width: 3024px) 100vw, 3024px" data-attachment-id="2760" data-permalink="https://glintingbaywash.com/2022/08/14/family-serviced-businesses-create-community-benefits/glinting-bay-car-wash-south-hills-mcmurray-pittsburgh/" data-orig-file="/img/img-65a830098d.jpg" data-orig-size="3024,4032" data-comments-opened="1" data-image-meta={"{\"aperture\":\"1.8\",\"camera\":\"iPhone XR\",\"created_timestamp\":\"1633014021\",\"focal_length\":\"4.25\",\"iso\":\"25\",\"shutter_speed\":\"0.0016638935108153\",\"orientation\":\"1\"}"} data-image-title="glinting bay car wash south hills mcmurray pittsburgh" data-image-description="" data-image-caption="" data-large-file="/img/img-1ea2459aeb.jpg" />
                           {" "}
                         </div>
                         {"\n"}
@@ -185,13 +185,13 @@ export default function Post01Page() {
                                       </p>
                                       <h5>
                                         <strong>
-                                          Lumen Car Wash – Who we are and what we stand for.
+                                          Glinting Bay Car Wash – Who we are and what we stand for.
                                         </strong>
                                       </h5>
                                       <p>
                                         {"We guarantee the Best Car Wash Experience at "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         {" or your money back! – Join our "}
                                         <a href="/#pricing">
@@ -206,7 +206,7 @@ export default function Post01Page() {
                                         Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                       </p>
                                       <p>
-                                        {"At Lumen Car Wash, we hold ourselves to the "}
+                                        {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                         <a href="/operating-agreement/">
                                           highest standards of ethical conduct and social responsibility
                                         </a>
@@ -221,7 +221,7 @@ export default function Post01Page() {
                                       <p>
                                         {"Try the rest but then come to the best car wash in town – "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                       </p>
@@ -430,7 +430,7 @@ export default function Post01Page() {
                         </small>
                       </h3>
                       <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2759,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2022%2F08%2F14%2Ffamily-serviced-businesses-create-community-benefits%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2759,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2022%2F08%2F14%2Ffamily-serviced-businesses-create-community-benefits%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                           <div className="jetpack-comments__plain">
                             <p className="comment-form-author">
                               <label htmlFor="author">
@@ -503,7 +503,7 @@ export default function Post01Page() {
                         <li>
                           {"\n"}
                           <a href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                            October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                            October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                           </a>
                           {"\n"}
                         </li>
@@ -518,8 +518,8 @@ export default function Post01Page() {
                         {"\n"}
                         <li>
                           {"\n"}
-                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                            More Power for the Vacuum Stations at Lumen Car Wash
+                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                            More Power for the Vacuum Stations at Glinting Bay Car Wash
                           </a>
                           {"\n"}
                         </li>

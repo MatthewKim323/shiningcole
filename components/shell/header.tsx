@@ -29,12 +29,12 @@ export default function Header({ path }: { path: string }) {
                   <div className="inner">
                     {"\n"}
                     <span className="q_social_icon_holder normal_social" data-color="#ffffff" data-hover-color="#ff0099">
-                      <a itemProp="url" href="https://www.facebook.com/lumen" target="_blank">
+                      <a itemProp="url" href="https://www.facebook.com/glintingbaywash" target="_blank">
                         <i className="qode_icon_font_awesome fa fa-facebook simple_social" style={{ color: "#ffffff", margin: "0 15px 0 0", fontSize: "22px" }}></i>
                       </a>
                     </span>
                     <span className="q_social_icon_holder normal_social" data-color="#ffffff" data-hover-color="#ff0099">
-                      <a itemProp="url" href="https://www.instagram.com/lumen/" target="_blank">
+                      <a itemProp="url" href="https://www.instagram.com/glintingbay/" target="_blank">
                         <i className="qode_icon_font_awesome fa fa-instagram simple_social" style={{ color: "#ffffff", margin: "0 0px 0 0", fontSize: "22px" }}></i>
                       </a>
                     </span>
@@ -97,7 +97,7 @@ export default function Header({ path }: { path: string }) {
                     {"\n"}
                     <div className="header_bottom_right_widget_holder">
                       <div className="widget qode_button_widget">
-                        <a itemProp="url" href={"https://customerportal.nxtwash.com/lumen/?phone=%20%5BPHONENUMBER-HERE%5D&page=updateprofile"} target="_self" data-hover-background-color="#00ffff" data-hover-color="#0b1a4a" className="qbutton default" style={{ color: "#ffffff", backgroundColor: "#ff0099" }}>
+                        <a itemProp="url" href={"https://customerportal.nxtwash.com/glintingbaycarwash/?phone=%20%5BPHONENUMBER-HERE%5D&page=updateprofile"} target="_self" data-hover-background-color="#00ffff" data-hover-color="#0b1a4a" className="qbutton default" style={{ color: "#ffffff", backgroundColor: "#ff0099" }}>
                           MANAGE ACCOUNT
                         </a>
                       </div>

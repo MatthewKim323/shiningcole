@@ -16,7 +16,7 @@ export default function Post25Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="1621" height="970" src="/img/img-d86283bb3c.png" className="attachment-full size-full wp-post-image" alt="Cartoon creature splashes yellow slime across a car windshield, shouting 'I REGRET NOTHING!' on a highway drive-by scene" decoding="async" srcSet="/img/img-871d04a6d0.png 1621w, /img/img-e43efce42f.png 300w, /img/img-cfce6c25c6.png 1024w, /img/img-6c13406915.png 768w, /img/img-9f5199934a.png 1536w, /img/img-5f8e78ea4f.png 700w" sizes="(max-width: 1621px) 100vw, 1621px" data-attachment-id="5263" data-permalink="https://lumenwash.com/2026/04/22/protect-from-bird-poop-bugs-and-grime-with-graphene/no-regrets-bug/" data-orig-file="/img/img-d86283bb3c.png" data-orig-size="1621,970" data-comments-opened="1" data-image-title="no regrets bug" data-image-description="" data-image-caption="" data-large-file="/img/img-d3c13f869c.png" />
+                    <img fetchPriority="high" width="1621" height="970" src="/img/img-d86283bb3c.png" className="attachment-full size-full wp-post-image" alt="Cartoon creature splashes yellow slime across a car windshield, shouting 'I REGRET NOTHING!' on a highway drive-by scene" decoding="async" srcSet="/img/img-871d04a6d0.png 1621w, /img/img-e43efce42f.png 300w, /img/img-cfce6c25c6.png 1024w, /img/img-6c13406915.png 768w, /img/img-9f5199934a.png 1536w, /img/img-5f8e78ea4f.png 700w" sizes="(max-width: 1621px) 100vw, 1621px" data-attachment-id="5263" data-permalink="https://glintingbaywash.com/2026/04/22/protect-from-bird-poop-bugs-and-grime-with-graphene/no-regrets-bug/" data-orig-file="/img/img-d86283bb3c.png" data-orig-size="1621,970" data-comments-opened="1" data-image-title="no regrets bug" data-image-description="" data-image-caption="" data-large-file="/img/img-d3c13f869c.png" />
                     {" "}
                   </div>
                   {"\n"}
@@ -106,20 +106,20 @@ export default function Post25Page() {
                                   Then add in spring pollen, road oils, and the grime that comes with Pennsylvania road work, and your vehicle can end up wearing a sticky film that is harder to rinse away with a basic wash. PennDOT’s project activity across the state is one more reason spring driving often means more dust, residue, and dirty road spray on your finish.
                                 </p>
                                 <p data-start="1051" data-end="1534">
-                                  That is where graphene protection makes a difference. Lumen already positions graphene as part of its top-tier shine and protect offering, with features like bug shield/rain repel and advanced surface protection. A graphene-based finish helps create a slicker barrier on your vehicle, making it easier for contaminants like bug residue, pollen, and oily road film to release before they have a chance to bond as stubbornly to the surface.
+                                  That is where graphene protection makes a difference. Glinting Bay already positions graphene as part of its top-tier shine and protect offering, with features like bug shield/rain repel and advanced surface protection. A graphene-based finish helps create a slicker barrier on your vehicle, making it easier for contaminants like bug residue, pollen, and oily road film to release before they have a chance to bond as stubbornly to the surface.
                                 </p>
                                 <p data-start="1536" data-end="2229">
-                                  {"If your car has been taking a beating from spring driving, now is a smart time to step up your protection. Explore Lumen’s "}
-                                  <a className="decorated-link" href="/2025/04/10/choose-your-shine-at-lumen-car-wash/?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="1666" data-end="1783">
+                                  {"If your car has been taking a beating from spring driving, now is a smart time to step up your protection. Explore Glinting Bay’s "}
+                                  <a className="decorated-link" href="/2025/04/10/choose-your-shine-at-glinting-bay-car-wash/?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="1666" data-end="1783">
                                     Graphene and protection options
                                   </a>
                                   {", check out the full "}
                                   <a className="decorated-link" href="/?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="1804" data-end="1866">
-                                    Lumen Car Wash homepage
+                                    Glinting Bay Car Wash homepage
                                   </a>
                                   {" for current services, and read their related post, "}
-                                  <a className="decorated-link" href="/2024/07/13/nothing-bugs-us-lumen-stars-graphene-coating-for-the-ultimate-vehicle-protection/?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="1918" data-end="2128">
-                                    Nothing Bugs Us: Lumen’s Graphene Coating for the Ultimate Vehicle Protection
+                                  <a className="decorated-link" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/?utm_source=chatgpt.com" target="_new" rel="noopener" data-start="1918" data-end="2128">
+                                    Nothing Bugs Us: Glinting Bay’s Graphene Coating for the Ultimate Vehicle Protection
                                   </a>
                                   , for more on keeping your finish cleaner and better protected.
                                 </p>
@@ -135,21 +135,21 @@ export default function Post25Page() {
                                   .
                                   <br />
                                   <br />
-                                  Protect your shine before spring grime sets in. Visit Lumen Car Wash and give your paint the defense it deserves.
+                                  Protect your shine before spring grime sets in. Visit Glinting Bay Car Wash and give your paint the defense it deserves.
                                 </p>
                                 <h5 data-start="74" data-end="105">
                                   <strong data-start="74" data-end="105">
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </h5>
                                 <p data-start="107" data-end="395">
-                                  Lumen Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
+                                  Glinting Bay Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
                                 </p>
                                 <p data-start="397" data-end="649">
                                   In just 3 minutes, you’ll enjoy a thorough clean plus FREE wheel cleaner, wax, and vacuuming. Whether you choose a single wash or join our membership, we’re committed to excellence, integrity, and doing what’s right for our customers and our community.
                                 </p>
                                 <p data-start="651" data-end="709" data-is-last-node="" data-is-only-node="">
-                                  Try the rest—then come to the best. Lumen Car Wash.
+                                  Try the rest—then come to the best. Glinting Bay Car Wash.
                                 </p>
                                 {" "}
                               </div>
@@ -354,7 +354,7 @@ export default function Post25Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":5255,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2026%2F04%2F22%2Fprotect-from-bird-poop-bugs-and-grime-with-graphene%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":5255,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2026%2F04%2F22%2Fprotect-from-bird-poop-bugs-and-grime-with-graphene%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

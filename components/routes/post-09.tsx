@@ -22,7 +22,7 @@ export default function Post09Page() {
                         {"\n"}
                         <div className="post_image">
                           {"\n"}
-                          <img fetchPriority="high" width="4500" height="3000" src="/img/img-deea503864.png" className="attachment-full size-full wp-post-image" alt="sonar-enabled technology drives lumen car wash smart wash systems" decoding="async" srcSet="/img/img-42516c36e1.png 4500w, /img/img-08c8459b29.png 300w, /img/img-3c3f4f6ca5.png 1024w, /img/img-d20222fa0a.png 768w, /img/img-4b37772ae8.png 1536w, /img/img-42650187ae.png 2048w, /img/img-a33348dade.png 1200w, /img/img-de98a60731.png 700w, /img/img-7b3489fe53.png 600w, /img/img-ee5fd9e82f.png 2120w, /img/img-471b88fcf6.png 3180w" sizes="(max-width: 4500px) 100vw, 4500px" data-attachment-id="1709" data-permalink="https://lumenwash.com/istock-105944443_transparent/" data-orig-file="/img/img-deea503864.png" data-orig-size="4500,3000" data-comments-opened="1" data-image-title="iStock-105944443_transparent" data-image-description="" data-image-caption="" data-large-file="/img/img-cdd56ddf77.png" />
+                          <img fetchPriority="high" width="4500" height="3000" src="/img/img-deea503864.png" className="attachment-full size-full wp-post-image" alt="sonar-enabled technology drives glinting bay car wash smart wash systems" decoding="async" srcSet="/img/img-42516c36e1.png 4500w, /img/img-08c8459b29.png 300w, /img/img-3c3f4f6ca5.png 1024w, /img/img-d20222fa0a.png 768w, /img/img-4b37772ae8.png 1536w, /img/img-42650187ae.png 2048w, /img/img-a33348dade.png 1200w, /img/img-de98a60731.png 700w, /img/img-7b3489fe53.png 600w, /img/img-ee5fd9e82f.png 2120w, /img/img-471b88fcf6.png 3180w" sizes="(max-width: 4500px) 100vw, 4500px" data-attachment-id="1709" data-permalink="https://glintingbaywash.com/istock-105944443_transparent/" data-orig-file="/img/img-deea503864.png" data-orig-size="4500,3000" data-comments-opened="1" data-image-title="iStock-105944443_transparent" data-image-description="" data-image-caption="" data-large-file="/img/img-cdd56ddf77.png" />
                           {" "}
                         </div>
                         {"\n"}
@@ -110,16 +110,16 @@ export default function Post09Page() {
                                         <div className="elementor-widget-container">
                                           {"\n"}
                                           <p>
-                                            Experience the Revolution of Intelligent Automatic Car Washes, at Lumen Car Wash.
+                                            Experience the Revolution of Intelligent Automatic Car Washes, at Glinting Bay Car Wash.
                                           </p>
                                           <p>
-                                            A revolution is happening at Lumen Car Wash. We’re raising the bar by incorporating cutting-edge technology and evolving our own best practices to provide a customized car wash experience for every vehicle.
+                                            A revolution is happening at Glinting Bay Car Wash. We’re raising the bar by incorporating cutting-edge technology and evolving our own best practices to provide a customized car wash experience for every vehicle.
                                           </p>
                                           <p>
                                             Revolutionizing the car wash process, we utilize a unique combination of ultrasonic and infrared photoelectric sensors, managed by advanced software with a specialized algorithm. Before applying any chemicals, our system maps out each vehicle in three dimensions, increasing efficiency while still maintaining a high level of service.
                                           </p>
                                           <p>
-                                            {"When you step into Lumen Car Wash, get ready for a truly "}
+                                            {"When you step into Glinting Bay Car Wash, get ready for a truly "}
                                             <a href="/2023/10/18/experience-the-revolution-of-intelligent-automatic-car-washes/">
                                               revolutionary experience
                                             </a>
@@ -168,7 +168,7 @@ export default function Post09Page() {
                                             <a href="https://www.carwash.com/high-tech-carwash-systems/">
                                               car wash technology
                                             </a>
-                                            {" at Lumen Car Wash. Experience efficiency, eco-friendliness, and unparalleled results today."}
+                                            {" at Glinting Bay Car Wash. Experience efficiency, eco-friendliness, and unparalleled results today."}
                                           </p>
                                           {" "}
                                         </div>
@@ -181,13 +181,13 @@ export default function Post09Page() {
                                           {"\n"}
                                           <h5>
                                             <strong>
-                                              Lumen Car Wash – Who we are and what we stand for.
+                                              Glinting Bay Car Wash – Who we are and what we stand for.
                                             </strong>
                                           </h5>
                                           <p>
                                             {"We guarantee the Best Car Wash Experience at "}
                                             <a href="/">
-                                              Lumen Car Wash
+                                              Glinting Bay Car Wash
                                             </a>
                                             {" or your money back! – Join our "}
                                             <a href="/#pricing">
@@ -202,7 +202,7 @@ export default function Post09Page() {
                                             Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                           </p>
                                           <p>
-                                            {"At Lumen Car Wash, we hold ourselves to the "}
+                                            {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                             <a href="/operating-agreement/">
                                               highest standards of ethical conduct and social responsibility
                                             </a>
@@ -217,7 +217,7 @@ export default function Post09Page() {
                                           <p>
                                             {"Try the rest but then come to the best car wash in town – "}
                                             <a href="/">
-                                              Lumen Car Wash
+                                              Glinting Bay Car Wash
                                             </a>
                                             . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                           </p>
@@ -430,7 +430,7 @@ export default function Post09Page() {
                         </small>
                       </h3>
                       <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":65,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2023%2F10%2F18%2Fexperience-the-revolution-of-intelligent-automatic-car-washes%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":65,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2023%2F10%2F18%2Fexperience-the-revolution-of-intelligent-automatic-car-washes%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                           <div className="jetpack-comments__plain">
                             <p className="comment-form-author">
                               <label htmlFor="author">
@@ -503,7 +503,7 @@ export default function Post09Page() {
                         <li>
                           {"\n"}
                           <a href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                            October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                            October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                           </a>
                           {"\n"}
                         </li>
@@ -518,8 +518,8 @@ export default function Post09Page() {
                         {"\n"}
                         <li>
                           {"\n"}
-                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                            More Power for the Vacuum Stations at Lumen Car Wash
+                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                            More Power for the Vacuum Stations at Glinting Bay Car Wash
                           </a>
                           {"\n"}
                         </li>

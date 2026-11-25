@@ -16,7 +16,7 @@ export default function Post23Page() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <img fetchPriority="high" width="2122" height="1412" src="/img/img-dfcf032b20.jpg" className="attachment-full size-full wp-post-image" alt="professional towel dry service at lumen car wash" decoding="async" srcSet="/img/img-1a1ced00a1.jpg 2122w, /img/img-ec7a91fa87.jpg 600w, /img/img-9b0ac6815d.jpg 300w, /img/img-904261a5b4.jpg 1024w, /img/img-7d0d5c6be0.jpg 768w, /img/img-b1c23e23c4.jpg 1536w, /img/img-e2465a92a9.jpg 2048w, /img/img-60a6814748.jpg 1200w, /img/img-8a4cfc3882.jpg 700w" sizes="(max-width: 2122px) 100vw, 2122px" data-attachment-id="491" data-permalink="https://lumenwash.com/car-washing/" data-orig-file="/img/img-dfcf032b20.jpg" data-orig-size="2122,1412" data-comments-opened="1" data-image-meta={"{\"aperture\":\"2.8\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"NIKON D700\",\"caption\":\"waterless car wash\",\"created_timestamp\":\"1379607645\",\"copyright\":\"baranozdemir\",\"focal_length\":\"70\",\"iso\":\"200\",\"shutter_speed\":\"0.1\",\"title\":\"car washing\",\"orientation\":\"1\"}"} data-image-title="car washing" data-image-description="" data-image-caption="" data-large-file="/img/img-f6593d4b96.jpg" />
+                    <img fetchPriority="high" width="2122" height="1412" src="/img/img-dfcf032b20.jpg" className="attachment-full size-full wp-post-image" alt="professional towel dry service at glinting bay car wash" decoding="async" srcSet="/img/img-1a1ced00a1.jpg 2122w, /img/img-ec7a91fa87.jpg 600w, /img/img-9b0ac6815d.jpg 300w, /img/img-904261a5b4.jpg 1024w, /img/img-7d0d5c6be0.jpg 768w, /img/img-b1c23e23c4.jpg 1536w, /img/img-e2465a92a9.jpg 2048w, /img/img-60a6814748.jpg 1200w, /img/img-8a4cfc3882.jpg 700w" sizes="(max-width: 2122px) 100vw, 2122px" data-attachment-id="491" data-permalink="https://glintingbaywash.com/car-washing/" data-orig-file="/img/img-dfcf032b20.jpg" data-orig-size="2122,1412" data-comments-opened="1" data-image-meta={"{\"aperture\":\"2.8\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"NIKON D700\",\"caption\":\"waterless car wash\",\"created_timestamp\":\"1379607645\",\"copyright\":\"baranozdemir\",\"focal_length\":\"70\",\"iso\":\"200\",\"shutter_speed\":\"0.1\",\"title\":\"car washing\",\"orientation\":\"1\"}"} data-image-title="car washing" data-image-description="" data-image-caption="" data-large-file="/img/img-f6593d4b96.jpg" />
                     {" "}
                   </div>
                   {"\n"}
@@ -110,7 +110,7 @@ export default function Post23Page() {
                               <div className="elementor-widget-container">
                                 {"\n"}
                                 <p data-start="48" data-end="613">
-                                  {"“After months of choosing the graphene option at Lumen, I finally saw the proof during a deep freeze. Ice clung to my windshield, but it "}
+                                  {"“After months of choosing the graphene option at Glinting Bay, I finally saw the proof during a deep freeze. Ice clung to my windshield, but it "}
                                   <em data-start="191" data-end="204">
                                     pecked away
                                   </em>
@@ -121,7 +121,7 @@ export default function Post23Page() {
                                   {" another protective layer doing its job. I was impressed.”"}
                                 </p>
                                 <p data-start="48" data-end="613">
-                                  <img decoding="async" data-attachment-id="4886" data-permalink="https://lumenwash.com/2026/02/03/customer-story-winter-proof-with-graphene/graphene-2/" data-orig-file="/img/img-6be62a49b7.jpg" data-orig-size="3472,4624" data-comments-opened="1" data-image-meta={"{\"aperture\":\"1.89\",\"camera\":\"Pixel 8a\",\"created_timestamp\":\"1770026499\",\"focal_length\":\"5.43\",\"iso\":\"81\",\"shutter_speed\":\"0.001252\",\"orientation\":\"1\"}"} data-image-title="graphene" data-image-description="" data-image-caption="" data-large-file="/img/img-926c5a7b32.jpg" data-recalc-dims="1" className="wp-image-4886 alignright" src="/img/img-065096c962.jpg" alt="graphene protection - lumen car wash" width="416" height="555" srcSet="/img/img-ac1e722783.jpg 3472w, /img/img-77e9af7928.jpg 225w, /img/img-f7ec77acdb.jpg 769w, /img/img-b52abb9675.jpg 768w, /img/img-9f6e2cf466.jpg 1153w, /img/img-82871c28c4.jpg 1538w, /img/img-3d6075b52b.jpg 600w, /img/img-0eb7862ec1.jpg 700w, /img/img-ceb79f2401.jpg 2120w, /img/img-58177e6e1e.jpg 3180w" sizes="(max-width: 416px) 100vw, 416px" />
+                                  <img decoding="async" data-attachment-id="4886" data-permalink="https://glintingbaywash.com/2026/02/03/customer-story-winter-proof-with-graphene/graphene-2/" data-orig-file="/img/img-6be62a49b7.jpg" data-orig-size="3472,4624" data-comments-opened="1" data-image-meta={"{\"aperture\":\"1.89\",\"camera\":\"Pixel 8a\",\"created_timestamp\":\"1770026499\",\"focal_length\":\"5.43\",\"iso\":\"81\",\"shutter_speed\":\"0.001252\",\"orientation\":\"1\"}"} data-image-title="graphene" data-image-description="" data-image-caption="" data-large-file="/img/img-926c5a7b32.jpg" data-recalc-dims="1" className="wp-image-4886 alignright" src="/img/img-065096c962.jpg" alt="graphene protection - glinting bay car wash" width="416" height="555" srcSet="/img/img-ac1e722783.jpg 3472w, /img/img-77e9af7928.jpg 225w, /img/img-f7ec77acdb.jpg 769w, /img/img-b52abb9675.jpg 768w, /img/img-9f6e2cf466.jpg 1153w, /img/img-82871c28c4.jpg 1538w, /img/img-3d6075b52b.jpg 600w, /img/img-0eb7862ec1.jpg 700w, /img/img-ceb79f2401.jpg 2120w, /img/img-58177e6e1e.jpg 3180w" sizes="(max-width: 416px) 100vw, 416px" />
                                 </p>
                                 <h4 data-start="615" data-end="759">
                                   <strong data-start="615" data-end="759" data-is-last-node="">
@@ -131,17 +131,17 @@ export default function Post23Page() {
                                 <p data-start="74" data-end="105">
                                   <strong data-start="74" data-end="105">
                                     <br />
-                                    About Lumen Car Wash
+                                    About Glinting Bay Car Wash
                                   </strong>
                                 </p>
                                 <p data-start="107" data-end="395">
-                                  Lumen Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
+                                  Glinting Bay Car Wash delivers the best car wash experience in the Pittsburgh South Hills—guaranteed, or your money back. As the area’s only independently owned and operated car wash, we combine advanced wash technology with unmatched care, including our signature hand towel dry service.
                                 </p>
                                 <p data-start="397" data-end="649">
                                   In just 3 minutes, you’ll enjoy a thorough clean plus FREE wheel cleaner, wax, and vacuuming. Whether you choose a single wash or join our membership, we’re committed to excellence, integrity, and doing what’s right for our customers and our community.
                                 </p>
                                 <p data-start="651" data-end="709" data-is-last-node="" data-is-only-node="">
-                                  Try the rest—then come to the best. Lumen Car Wash.
+                                  Try the rest—then come to the best. Glinting Bay Car Wash.
                                 </p>
                                 {" "}
                               </div>
@@ -346,7 +346,7 @@ export default function Post23Page() {
                     </small>
                   </h3>
                   <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4885,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2026%2F02%2F03%2Fcustomer-story-winter-proof-with-graphene%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                    <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":4885,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2026%2F02%2F03%2Fcustomer-story-winter-proof-with-graphene%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                       <div className="jetpack-comments__plain">
                         <p className="comment-form-author">
                           <label htmlFor="author">

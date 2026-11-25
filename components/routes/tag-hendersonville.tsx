@@ -18,9 +18,9 @@ export default function TagHendersonvillePage() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <a itemProp="url" href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/" title="October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen">
+                    <a itemProp="url" href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/" title="October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining">
                       {"\n"}
-                      <img width="1774" height="887" src="/img/img-b14fe24c06.png" className="attachment-full size-full wp-post-image" alt="October 2026 at Lumen Car Wash" decoding="async" srcSet="/img/img-7b36c1fb74.png 1774w, /img/img-7c833fb78e.png 300w, /img/img-67fb5ed454.png 1024w, /img/img-794ed79fba.png 768w, /img/img-8730ca5309.png 1536w, /img/img-c4c6ab0f6b.png 1000w, /img/img-83ed7c6abf.png 700w, /img/img-82337c3972.png 1300w" sizes="(max-width: 1774px) 100vw, 1774px" data-attachment-id="5618" data-permalink="https://lumenwash.com/2026/09/28/breast-cancer-awareness-month-free-car-wash/october-2026-at-lumen-car-wash/" data-orig-file="/img/img-b14fe24c06.png" data-orig-size="1774,887" data-comments-opened="1" data-image-title="October 2026 at Lumen Car Wash" data-image-description="" data-image-caption="" data-large-file="/img/img-c837a1fa00.png" />
+                      <img width="1774" height="887" src="/img/img-b14fe24c06.png" className="attachment-full size-full wp-post-image" alt="October 2026 at Glinting Bay Car Wash" decoding="async" srcSet="/img/img-7b36c1fb74.png 1774w, /img/img-7c833fb78e.png 300w, /img/img-67fb5ed454.png 1024w, /img/img-794ed79fba.png 768w, /img/img-8730ca5309.png 1536w, /img/img-c4c6ab0f6b.png 1000w, /img/img-83ed7c6abf.png 700w, /img/img-82337c3972.png 1300w" sizes="(max-width: 1774px) 100vw, 1774px" data-attachment-id="5618" data-permalink="https://glintingbaywash.com/2026/09/28/breast-cancer-awareness-month-free-car-wash/october-2026-at-glinting-bay-car-wash/" data-orig-file="/img/img-b14fe24c06.png" data-orig-size="1774,887" data-comments-opened="1" data-image-title="October 2026 at Glinting Bay Car Wash" data-image-description="" data-image-caption="" data-large-file="/img/img-c837a1fa00.png" />
                       {" "}
                     </a>
                     {"\n"}
@@ -35,8 +35,8 @@ export default function TagHendersonvillePage() {
                           28 Sep
                         </span>
                         {" "}
-                        <a itemProp="url" href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/" title="October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen">
-                          October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                        <a itemProp="url" href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/" title="October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining">
+                          October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                         </a>
                       </h2>
                       {"\n"}
@@ -129,7 +129,7 @@ export default function TagHendersonvillePage() {
                     {"\n"}
                     <a itemProp="url" href="/2026/07/22/how-we-shine-against-your-other-car-wash-options/" title="How We Shine Against Your Other Car Wash Options!">
                       {"\n"}
-                      <img width="3892" height="2340" src="/img/img-73e5546386.png" className="attachment-full size-full wp-post-image" alt="Lumen Car Wash Towel Dry Hero 1" decoding="async" srcSet="/img/img-a6c48359dc.png 3892w, /img/img-7e4759ed7f.png 300w, /img/img-8dbd0000b9.png 1024w, /img/img-05c4133d87.png 768w, /img/img-9d47ea90e2.png 1536w, /img/img-0e5319cddb.png 2048w, /img/img-6847e2e31c.png 700w, /img/img-d54fc29e93.png 2120w, /img/img-fd3914075e.png 3180w" sizes="(max-width: 3892px) 100vw, 3892px" data-attachment-id="5138" data-permalink="https://lumenwash.com/smart/car_2/" data-orig-file="/img/img-73e5546386.png" data-orig-size="3892,2340" data-comments-opened="1" data-image-title="Lumen Car Wash Towel Dry Hero 1" data-image-description="" data-image-caption="" data-large-file="/img/img-1d36d87ba9.png" />
+                      <img width="3892" height="2340" src="/img/img-73e5546386.png" className="attachment-full size-full wp-post-image" alt="Glinting Bay Car Wash Towel Dry Hero 1" decoding="async" srcSet="/img/img-a6c48359dc.png 3892w, /img/img-7e4759ed7f.png 300w, /img/img-8dbd0000b9.png 1024w, /img/img-05c4133d87.png 768w, /img/img-9d47ea90e2.png 1536w, /img/img-0e5319cddb.png 2048w, /img/img-6847e2e31c.png 700w, /img/img-d54fc29e93.png 2120w, /img/img-fd3914075e.png 3180w" sizes="(max-width: 3892px) 100vw, 3892px" data-attachment-id="5138" data-permalink="https://glintingbaywash.com/smart/car_2/" data-orig-file="/img/img-73e5546386.png" data-orig-size="3892,2340" data-comments-opened="1" data-image-title="Glinting Bay Car Wash Towel Dry Hero 1" data-image-description="" data-image-caption="" data-large-file="/img/img-1d36d87ba9.png" />
                       {" "}
                     </a>
                     {"\n"}
@@ -219,7 +219,7 @@ export default function TagHendersonvillePage() {
                       </div>
                       {"\n"}
                       <p itemProp="description" className="post_excerpt">
-                        Compare Lumen with other South Hills car washes and see why Smart Wash technology, green chemistry and hand towel drying deliver a better finish....
+                        Compare Glinting Bay with other South Hills car washes and see why Smart Wash technology, green chemistry and hand towel drying deliver a better finish....
                       </p>
                       {" "}
                       <div className="post_more">
@@ -244,9 +244,9 @@ export default function TagHendersonvillePage() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <a itemProp="url" href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/" title="More Power for the Vacuum Stations at Lumen Car Wash">
+                    <a itemProp="url" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/" title="More Power for the Vacuum Stations at Glinting Bay Car Wash">
                       {"\n"}
-                      <img loading="lazy" width="1254" height="1254" src="/img/img-066c4239db.png" className="attachment-full size-full wp-post-image" alt="more vacuum power happy 4th 2026 - lumen car wash south hills pittsburgh pa" decoding="async" srcSet="/img/img-621240f554.png 1254w, /img/img-45ca08ff19.png 300w, /img/img-65c80050b1.png 1024w, /img/img-752feb7933.png 150w, /img/img-3af640f9b3.png 768w, /img/img-f8f55a27d1.png 570w, /img/img-9af400da84.png 500w, /img/img-d6ecb5f3d3.png 1000w, /img/img-dc04e65620.png 700w, /img/img-b0c4b7eb2e.png 650w" sizes="(max-width: 1254px) 100vw, 1254px" data-attachment-id="5301" data-permalink="https://lumenwash.com/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/more-vacuum-power-happy-4th-2026/" data-orig-file="/img/img-066c4239db.png" data-orig-size="1254,1254" data-comments-opened="1" data-image-title="more vacuum power happy 4th 2026" data-image-description="" data-image-caption="" data-large-file="/img/img-1b12e12d92.png" />
+                      <img loading="lazy" width="1254" height="1254" src="/img/img-066c4239db.png" className="attachment-full size-full wp-post-image" alt="more vacuum power happy 4th 2026 - glinting bay car wash south hills pittsburgh pa" decoding="async" srcSet="/img/img-621240f554.png 1254w, /img/img-45ca08ff19.png 300w, /img/img-65c80050b1.png 1024w, /img/img-752feb7933.png 150w, /img/img-3af640f9b3.png 768w, /img/img-f8f55a27d1.png 570w, /img/img-9af400da84.png 500w, /img/img-d6ecb5f3d3.png 1000w, /img/img-dc04e65620.png 700w, /img/img-b0c4b7eb2e.png 650w" sizes="(max-width: 1254px) 100vw, 1254px" data-attachment-id="5301" data-permalink="https://glintingbaywash.com/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/more-vacuum-power-happy-4th-2026/" data-orig-file="/img/img-066c4239db.png" data-orig-size="1254,1254" data-comments-opened="1" data-image-title="more vacuum power happy 4th 2026" data-image-description="" data-image-caption="" data-large-file="/img/img-1b12e12d92.png" />
                       {" "}
                     </a>
                     {"\n"}
@@ -261,8 +261,8 @@ export default function TagHendersonvillePage() {
                           25 Jun
                         </span>
                         {" "}
-                        <a itemProp="url" href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/" title="More Power for the Vacuum Stations at Lumen Car Wash">
-                          More Power for the Vacuum Stations at Lumen Car Wash
+                        <a itemProp="url" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/" title="More Power for the Vacuum Stations at Glinting Bay Car Wash">
+                          More Power for the Vacuum Stations at Glinting Bay Car Wash
                         </a>
                       </h2>
                       {"\n"}
@@ -299,7 +299,7 @@ export default function TagHendersonvillePage() {
                         <span className="dots">
                           <i className="fa fa-square"></i>
                         </span>
-                        <a itemProp="url" className="post_comments" href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/#respond" target="_self">
+                        <a itemProp="url" className="post_comments" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/#respond" target="_self">
                           0 Comments
                         </a>
                         {"\n"}
@@ -325,7 +325,7 @@ export default function TagHendersonvillePage() {
                       {" "}
                       <div className="post_more">
                         {"\n"}
-                        <a itemProp="url" href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/" className="qbutton small">
+                        <a itemProp="url" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/" className="qbutton small">
                           Read More
                         </a>
                         {"\n"}
@@ -347,7 +347,7 @@ export default function TagHendersonvillePage() {
                     {"\n"}
                     <a itemProp="url" href="/2026/05/22/best-summer-day-trips-from-pittsburgh-and-how-to-keep-your-car-looking-sharp/" title="Best Summer Day Trips from Pittsburgh — and How to Keep Your Car Looking Sharp">
                       {"\n"}
-                      <img loading="lazy" width="1672" height="941" src="/img/img-1519136aff.png" className="attachment-full size-full wp-post-image" alt="summer day trips Pittsburgh - lumen car wash in south hills" decoding="async" srcSet="/img/img-d814ffb815.png 1672w, /img/img-4c33ccc37a.png 300w, /img/img-9a33c6bb8e.png 1024w, /img/img-06796ecc24.png 768w, /img/img-ac8a1417e8.png 1536w, /img/img-d89fea07e6.png 700w, /img/img-9c47b19975.png 539w" sizes="(max-width: 1672px) 100vw, 1672px" data-attachment-id="5270" data-permalink="https://lumenwash.com/2026/05/22/best-summer-day-trips-from-pittsburgh-and-how-to-keep-your-car-looking-sharp/summer-day-trips-pittsburgh/" data-orig-file="/img/img-1519136aff.png" data-orig-size="1672,941" data-comments-opened="1" data-image-title="summer day trips Pittsburgh" data-image-description="" data-image-caption="" data-large-file="/img/img-07163e43f2.png" />
+                      <img loading="lazy" width="1672" height="941" src="/img/img-1519136aff.png" className="attachment-full size-full wp-post-image" alt="summer day trips Pittsburgh - glinting bay car wash in south hills" decoding="async" srcSet="/img/img-d814ffb815.png 1672w, /img/img-4c33ccc37a.png 300w, /img/img-9a33c6bb8e.png 1024w, /img/img-06796ecc24.png 768w, /img/img-ac8a1417e8.png 1536w, /img/img-d89fea07e6.png 700w, /img/img-9c47b19975.png 539w" sizes="(max-width: 1672px) 100vw, 1672px" data-attachment-id="5270" data-permalink="https://glintingbaywash.com/2026/05/22/best-summer-day-trips-from-pittsburgh-and-how-to-keep-your-car-looking-sharp/summer-day-trips-pittsburgh/" data-orig-file="/img/img-1519136aff.png" data-orig-size="1672,941" data-comments-opened="1" data-image-title="summer day trips Pittsburgh" data-image-description="" data-image-caption="" data-large-file="/img/img-07163e43f2.png" />
                       {" "}
                     </a>
                     {"\n"}
@@ -456,7 +456,7 @@ export default function TagHendersonvillePage() {
                     {"\n"}
                     <a itemProp="url" href="/2026/04/22/protect-from-bird-poop-bugs-and-grime-with-graphene/" title={"Bird Poop, Bugs & Spring Grime: Why Spring Can Be Tough on Your Car’s Paint"}>
                       {"\n"}
-                      <img loading="lazy" width="1621" height="970" src="/img/img-d86283bb3c.png" className="attachment-full size-full wp-post-image" alt="Cartoon creature splashes yellow slime across a car windshield, shouting 'I REGRET NOTHING!' on a highway drive-by scene" decoding="async" srcSet="/img/img-871d04a6d0.png 1621w, /img/img-e43efce42f.png 300w, /img/img-cfce6c25c6.png 1024w, /img/img-6c13406915.png 768w, /img/img-9f5199934a.png 1536w, /img/img-5f8e78ea4f.png 700w" sizes="(max-width: 1621px) 100vw, 1621px" data-attachment-id="5263" data-permalink="https://lumenwash.com/2026/04/22/protect-from-bird-poop-bugs-and-grime-with-graphene/no-regrets-bug/" data-orig-file="/img/img-d86283bb3c.png" data-orig-size="1621,970" data-comments-opened="1" data-image-title="no regrets bug" data-image-description="" data-image-caption="" data-large-file="/img/img-d3c13f869c.png" />
+                      <img loading="lazy" width="1621" height="970" src="/img/img-d86283bb3c.png" className="attachment-full size-full wp-post-image" alt="Cartoon creature splashes yellow slime across a car windshield, shouting 'I REGRET NOTHING!' on a highway drive-by scene" decoding="async" srcSet="/img/img-871d04a6d0.png 1621w, /img/img-e43efce42f.png 300w, /img/img-cfce6c25c6.png 1024w, /img/img-6c13406915.png 768w, /img/img-9f5199934a.png 1536w, /img/img-5f8e78ea4f.png 700w" sizes="(max-width: 1621px) 100vw, 1621px" data-attachment-id="5263" data-permalink="https://glintingbaywash.com/2026/04/22/protect-from-bird-poop-bugs-and-grime-with-graphene/no-regrets-bug/" data-orig-file="/img/img-d86283bb3c.png" data-orig-size="1621,970" data-comments-opened="1" data-image-title="no regrets bug" data-image-description="" data-image-caption="" data-large-file="/img/img-d3c13f869c.png" />
                       {" "}
                     </a>
                     {"\n"}
@@ -561,7 +561,7 @@ export default function TagHendersonvillePage() {
                     {"\n"}
                     <a itemProp="url" href="/2026/03/13/snow-removal-mistakes-that-can-damage-your-car/" title="Snow Removal Mistakes That Can Damage Your Car">
                       {"\n"}
-                      <img loading="lazy" width="1536" height="1024" src="/img/img-98b2e8cd21.png" className="attachment-full size-full wp-post-image" alt="ice hacks" decoding="async" srcSet="/img/img-a5edc55b2b.png 1536w, /img/img-16d99742a2.png 300w, /img/img-7cdc7dea28.png 1024w, /img/img-a39dc18650.png 768w, /img/img-6f6657d057.png 700w" sizes="(max-width: 1536px) 100vw, 1536px" data-attachment-id="4913" data-permalink="https://lumenwash.com/2026/03/13/snow-removal-mistakes-that-can-damage-your-car/ice-hacks/" data-orig-file="/img/img-98b2e8cd21.png" data-orig-size="1536,1024" data-comments-opened="1" data-image-title="ice hacks" data-image-description="" data-image-caption="" data-large-file="/img/img-4665ee18a2.png" />
+                      <img loading="lazy" width="1536" height="1024" src="/img/img-98b2e8cd21.png" className="attachment-full size-full wp-post-image" alt="ice hacks" decoding="async" srcSet="/img/img-a5edc55b2b.png 1536w, /img/img-16d99742a2.png 300w, /img/img-7cdc7dea28.png 1024w, /img/img-a39dc18650.png 768w, /img/img-6f6657d057.png 700w" sizes="(max-width: 1536px) 100vw, 1536px" data-attachment-id="4913" data-permalink="https://glintingbaywash.com/2026/03/13/snow-removal-mistakes-that-can-damage-your-car/ice-hacks/" data-orig-file="/img/img-98b2e8cd21.png" data-orig-size="1536,1024" data-comments-opened="1" data-image-title="ice hacks" data-image-description="" data-image-caption="" data-large-file="/img/img-4665ee18a2.png" />
                       {" "}
                     </a>
                     {"\n"}
@@ -658,7 +658,7 @@ export default function TagHendersonvillePage() {
                     {"\n"}
                     <a itemProp="url" href="/2026/02/03/customer-story-winter-proof-with-graphene/" title="Customer Story: Winter Proof with Graphene">
                       {"\n"}
-                      <img loading="lazy" width="2122" height="1412" src="/img/img-dfcf032b20.jpg" className="attachment-full size-full wp-post-image" alt="professional towel dry service at lumen car wash" decoding="async" srcSet="/img/img-1a1ced00a1.jpg 2122w, /img/img-ec7a91fa87.jpg 600w, /img/img-9b0ac6815d.jpg 300w, /img/img-904261a5b4.jpg 1024w, /img/img-7d0d5c6be0.jpg 768w, /img/img-b1c23e23c4.jpg 1536w, /img/img-e2465a92a9.jpg 2048w, /img/img-60a6814748.jpg 1200w, /img/img-8a4cfc3882.jpg 700w" sizes="(max-width: 2122px) 100vw, 2122px" data-attachment-id="491" data-permalink="https://lumenwash.com/car-washing/" data-orig-file="/img/img-dfcf032b20.jpg" data-orig-size="2122,1412" data-comments-opened="1" data-image-meta={"{\"aperture\":\"2.8\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"NIKON D700\",\"caption\":\"waterless car wash\",\"created_timestamp\":\"1379607645\",\"copyright\":\"baranozdemir\",\"focal_length\":\"70\",\"iso\":\"200\",\"shutter_speed\":\"0.1\",\"title\":\"car washing\",\"orientation\":\"1\"}"} data-image-title="car washing" data-image-description="" data-image-caption="" data-large-file="/img/img-f6593d4b96.jpg" />
+                      <img loading="lazy" width="2122" height="1412" src="/img/img-dfcf032b20.jpg" className="attachment-full size-full wp-post-image" alt="professional towel dry service at glinting bay car wash" decoding="async" srcSet="/img/img-1a1ced00a1.jpg 2122w, /img/img-ec7a91fa87.jpg 600w, /img/img-9b0ac6815d.jpg 300w, /img/img-904261a5b4.jpg 1024w, /img/img-7d0d5c6be0.jpg 768w, /img/img-b1c23e23c4.jpg 1536w, /img/img-e2465a92a9.jpg 2048w, /img/img-60a6814748.jpg 1200w, /img/img-8a4cfc3882.jpg 700w" sizes="(max-width: 2122px) 100vw, 2122px" data-attachment-id="491" data-permalink="https://glintingbaywash.com/car-washing/" data-orig-file="/img/img-dfcf032b20.jpg" data-orig-size="2122,1412" data-comments-opened="1" data-image-meta={"{\"aperture\":\"2.8\",\"credit\":\"Getty Images/iStockphoto\",\"camera\":\"NIKON D700\",\"caption\":\"waterless car wash\",\"created_timestamp\":\"1379607645\",\"copyright\":\"baranozdemir\",\"focal_length\":\"70\",\"iso\":\"200\",\"shutter_speed\":\"0.1\",\"title\":\"car washing\",\"orientation\":\"1\"}"} data-image-title="car washing" data-image-description="" data-image-caption="" data-large-file="/img/img-f6593d4b96.jpg" />
                       {" "}
                     </a>
                     {"\n"}
@@ -732,7 +732,7 @@ export default function TagHendersonvillePage() {
                       </div>
                       {"\n"}
                       <p itemProp="description" className="post_excerpt">
-                        After months of choosing the graphene option at Lumen, I finally saw the proof during a deep freeze....
+                        After months of choosing the graphene option at Glinting Bay, I finally saw the proof during a deep freeze....
                       </p>
                       {" "}
                       <div className="post_more">
@@ -759,7 +759,7 @@ export default function TagHendersonvillePage() {
                     {"\n"}
                     <a itemProp="url" href="/2025/12/03/the-shine-sip-holiday-100-a-thank-you-to-our-community/" title={"The Shine & Sip Holiday 100 — A Thank You to Our Community"}>
                       {"\n"}
-                      <img loading="lazy" width="744" height="473" src="/img/img-aa99805f5c.webp" className="attachment-full size-full wp-post-image" alt="lumen car wash gift card" decoding="async" srcSet="/img/img-3b8e1abc96.webp 744w, /img/img-787c0f22ae.webp 300w, /img/img-e18ad9d176.webp 700w" sizes="(max-width: 744px) 100vw, 744px" data-attachment-id="4675" data-permalink="https://lumenwash.com/2025/12/03/the-shine-sip-holiday-100-a-thank-you-to-our-community/gift-card-2/" data-orig-file="/img/img-aa99805f5c.webp" data-orig-size="744,473" data-comments-opened="1" data-image-title="gift-card" data-image-description="" data-image-caption="" data-large-file="/img/img-aa99805f5c.webp" />
+                      <img loading="lazy" width="744" height="473" src="/img/img-aa99805f5c.webp" className="attachment-full size-full wp-post-image" alt="glinting bay car wash gift card" decoding="async" srcSet="/img/img-3b8e1abc96.webp 744w, /img/img-787c0f22ae.webp 300w, /img/img-e18ad9d176.webp 700w" sizes="(max-width: 744px) 100vw, 744px" data-attachment-id="4675" data-permalink="https://glintingbaywash.com/2025/12/03/the-shine-sip-holiday-100-a-thank-you-to-our-community/gift-card-2/" data-orig-file="/img/img-aa99805f5c.webp" data-orig-size="744,473" data-comments-opened="1" data-image-title="gift-card" data-image-description="" data-image-caption="" data-large-file="/img/img-aa99805f5c.webp" />
                       {" "}
                     </a>
                     {"\n"}
@@ -845,7 +845,7 @@ export default function TagHendersonvillePage() {
                       </div>
                       {"\n"}
                       <p itemProp="description" className="post_excerpt">
-                        {" The Shine & Sip Holiday 100 — A Thank You to Our Community\r\n\r\nAt Lumen Car Wash, the holidays always remind us of something important: we wouldn’t be here without you. For over 25 years, our family-owned and operated business has had the privilege..."}
+                        {" The Shine & Sip Holiday 100 — A Thank You to Our Community\r\n\r\nAt Glinting Bay Car Wash, the holidays always remind us of something important: we wouldn’t be here without you. For over 25 years, our family-owned and operated business has had the privilege..."}
                       </p>
                       {" "}
                       <div className="post_more">
@@ -872,7 +872,7 @@ export default function TagHendersonvillePage() {
                     {"\n"}
                     <a itemProp="url" href="/2025/09/26/we-can-make-a-difference-this-october/" title="WE CAN Make A Difference This October">
                       {"\n"}
-                      <img loading="lazy" width="450" height="450" src="/img/img-eefaf56321.png" className="attachment-full size-full wp-post-image" alt="BCAM 2025 QRC Landing" decoding="async" srcSet="/img/img-df8b756717.png 450w, /img/img-b9ce2f42ca.png 300w, /img/img-13518a1dea.png 150w" sizes="(max-width: 450px) 100vw, 450px" data-attachment-id="4351" data-permalink="https://lumenwash.com/2025/09/26/we-can-make-a-difference-this-october/bcam-2025-landing/" data-orig-file="/img/img-eefaf56321.png" data-orig-size="450,450" data-comments-opened="1" data-image-title="BCAM 2025 QRC Landing" data-image-description="" data-image-caption="" data-large-file="/img/img-eefaf56321.png" />
+                      <img loading="lazy" width="450" height="450" src="/img/img-eefaf56321.png" className="attachment-full size-full wp-post-image" alt="BCAM 2025 QRC Landing" decoding="async" srcSet="/img/img-df8b756717.png 450w, /img/img-b9ce2f42ca.png 300w, /img/img-13518a1dea.png 150w" sizes="(max-width: 450px) 100vw, 450px" data-attachment-id="4351" data-permalink="https://glintingbaywash.com/2025/09/26/we-can-make-a-difference-this-october/bcam-2025-landing/" data-orig-file="/img/img-eefaf56321.png" data-orig-size="450,450" data-comments-opened="1" data-image-title="BCAM 2025 QRC Landing" data-image-description="" data-image-caption="" data-large-file="/img/img-eefaf56321.png" />
                       {" "}
                     </a>
                     {"\n"}
@@ -975,9 +975,9 @@ export default function TagHendersonvillePage() {
                   {"\n"}
                   <div className="post_image">
                     {"\n"}
-                    <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/" title="Audit Results Are In—And We’re Lumen Brighter Than Ever">
+                    <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/" title="Audit Results Are In—And We’re Shining Brighter Than Ever">
                       {"\n"}
-                      <img loading="lazy" width="600" height="314" src="/img/img-74cc4c90ce.webp" className="attachment-full size-full wp-post-image" alt="a lumen car wash exquisite shine" decoding="async" srcSet="/img/img-c6c23a2197.webp 600w, /img/img-301ccc06f8.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4692" data-permalink="https://lumenwash.com/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/web-home-page-pic/" data-orig-file="/img/img-74cc4c90ce.webp" data-orig-size="600,314" data-comments-opened="1" data-image-title="web-home-page-pic" data-image-description="" data-image-caption="" data-large-file="/img/img-74cc4c90ce.webp" />
+                      <img loading="lazy" width="600" height="314" src="/img/img-74cc4c90ce.webp" className="attachment-full size-full wp-post-image" alt="a glinting bay car wash exquisite shine" decoding="async" srcSet="/img/img-c6c23a2197.webp 600w, /img/img-301ccc06f8.webp 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="4692" data-permalink="https://glintingbaywash.com/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/web-home-page-pic/" data-orig-file="/img/img-74cc4c90ce.webp" data-orig-size="600,314" data-comments-opened="1" data-image-title="web-home-page-pic" data-image-description="" data-image-caption="" data-large-file="/img/img-74cc4c90ce.webp" />
                       {" "}
                     </a>
                     {"\n"}
@@ -992,8 +992,8 @@ export default function TagHendersonvillePage() {
                           01 Jul
                         </span>
                         {" "}
-                        <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/" title="Audit Results Are In—And We’re Lumen Brighter Than Ever">
-                          Audit Results Are In—And We’re Lumen Brighter Than Ever
+                        <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/" title="Audit Results Are In—And We’re Shining Brighter Than Ever">
+                          Audit Results Are In—And We’re Shining Brighter Than Ever
                         </a>
                       </h2>
                       {"\n"}
@@ -1038,7 +1038,7 @@ export default function TagHendersonvillePage() {
                         <span className="dots">
                           <i className="fa fa-square"></i>
                         </span>
-                        <a itemProp="url" className="post_comments" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/#respond" target="_self">
+                        <a itemProp="url" className="post_comments" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/#respond" target="_self">
                           0 Comments
                         </a>
                         {"\n"}
@@ -1064,7 +1064,7 @@ export default function TagHendersonvillePage() {
                       {" "}
                       <div className="post_more">
                         {"\n"}
-                        <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-lumen-brighter-than-ever/" className="qbutton small">
+                        <a itemProp="url" href="/2025/07/01/audit-results-are-in-and-were-shining-brighter-than-ever/" className="qbutton small">
                           Read More
                         </a>
                         {"\n"}

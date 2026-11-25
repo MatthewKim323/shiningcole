@@ -22,7 +22,7 @@ export default function Post02Page() {
                         {"\n"}
                         <div className="post_image">
                           {"\n"}
-                          <img fetchPriority="high" width="482" height="389" src="/img/img-be3482c0d7.png" className="attachment-full size-full wp-post-image" alt="All season tires versus snow tires which to purchase" decoding="async" srcSet="/img/img-90b7bea9e5.png 482w, /img/img-57f1367875.png 300w" sizes="(max-width: 482px) 100vw, 482px" data-attachment-id="2568" data-permalink="https://lumenwash.com/2022/09/20/snow-tires-vs-all-season-tires-choosing-the-right-tires-for-your-safety/edutires-below_45-degrees_as-vs-winter/" data-orig-file="/img/img-be3482c0d7.png" data-orig-size="482,389" data-comments-opened="1" data-image-title="EDUtires-below_45-degrees_AS-vs-winter" data-image-description="" data-image-caption="" data-large-file="/img/img-be3482c0d7.png" />
+                          <img fetchPriority="high" width="482" height="389" src="/img/img-be3482c0d7.png" className="attachment-full size-full wp-post-image" alt="All season tires versus snow tires which to purchase" decoding="async" srcSet="/img/img-90b7bea9e5.png 482w, /img/img-57f1367875.png 300w" sizes="(max-width: 482px) 100vw, 482px" data-attachment-id="2568" data-permalink="https://glintingbaywash.com/2022/09/20/snow-tires-vs-all-season-tires-choosing-the-right-tires-for-your-safety/edutires-below_45-degrees_as-vs-winter/" data-orig-file="/img/img-be3482c0d7.png" data-orig-size="482,389" data-comments-opened="1" data-image-title="EDUtires-below_45-degrees_AS-vs-winter" data-image-description="" data-image-caption="" data-large-file="/img/img-be3482c0d7.png" />
                           {" "}
                         </div>
                         {"\n"}
@@ -143,13 +143,13 @@ export default function Post02Page() {
                                       </p>
                                       <h5>
                                         <strong>
-                                          Lumen Car Wash – Who we are and what we stand for.
+                                          Glinting Bay Car Wash – Who we are and what we stand for.
                                         </strong>
                                       </h5>
                                       <p>
                                         {"We guarantee the Best Car Wash Experience at "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         {" or your money back! – Join our "}
                                         <a href="/#pricing">
@@ -164,7 +164,7 @@ export default function Post02Page() {
                                         Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                       </p>
                                       <p>
-                                        {"At Lumen Car Wash, we hold ourselves to the "}
+                                        {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                         <a href="/operating-agreement/">
                                           highest standards of ethical conduct and social responsibility
                                         </a>
@@ -179,7 +179,7 @@ export default function Post02Page() {
                                       <p>
                                         {"Try the rest but then come to the best car wash in town – "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                       </p>
@@ -388,7 +388,7 @@ export default function Post02Page() {
                         </small>
                       </h3>
                       <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2567,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2022%2F09%2F20%2Fsnow-tires-vs-all-season-tires-choosing-the-right-tires-for-your-safety%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2567,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2022%2F09%2F20%2Fsnow-tires-vs-all-season-tires-choosing-the-right-tires-for-your-safety%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                           <div className="jetpack-comments__plain">
                             <p className="comment-form-author">
                               <label htmlFor="author">
@@ -461,7 +461,7 @@ export default function Post02Page() {
                         <li>
                           {"\n"}
                           <a href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                            October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                            October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                           </a>
                           {"\n"}
                         </li>
@@ -476,8 +476,8 @@ export default function Post02Page() {
                         {"\n"}
                         <li>
                           {"\n"}
-                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                            More Power for the Vacuum Stations at Lumen Car Wash
+                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                            More Power for the Vacuum Stations at Glinting Bay Car Wash
                           </a>
                           {"\n"}
                         </li>

@@ -22,7 +22,7 @@ export default function Post04Page() {
                         {"\n"}
                         <div className="post_image">
                           {"\n"}
-                          <img fetchPriority="high" width="700" height="467" src="/img/img-a6b1502552.jpeg" className="attachment-full size-full wp-post-image" alt="lumen car wash smart wash technology" decoding="async" srcSet="/img/img-0ada2d88f1.jpeg 700w, /img/img-20bc0aad7d.jpeg 300w, /img/img-1ad71791f1.jpeg 600w" sizes="(max-width: 700px) 100vw, 700px" data-attachment-id="2544" data-permalink="https://lumenwash.com/2022/12/03/experience-the-future-of-car-wash-technology-at-lumen/carwash-controller/" data-orig-file="/img/img-a6b1502552.jpeg" data-orig-size="700,467" data-comments-opened="1" data-image-meta={"{\"credit\":\"Josh Snyder\\rSnyder Advertising\",\"orientation\":\"1\"}"} data-image-title="carwash-controller" data-image-description="" data-image-caption="" data-large-file="/img/img-a6b1502552.jpeg" />
+                          <img fetchPriority="high" width="700" height="467" src="/img/img-a6b1502552.jpeg" className="attachment-full size-full wp-post-image" alt="glinting bay car wash smart wash technology" decoding="async" srcSet="/img/img-0ada2d88f1.jpeg 700w, /img/img-20bc0aad7d.jpeg 300w, /img/img-1ad71791f1.jpeg 600w" sizes="(max-width: 700px) 100vw, 700px" data-attachment-id="2544" data-permalink="https://glintingbaywash.com/2022/12/03/experience-the-future-of-car-wash-technology-at-glinting-bay/carwash-controller/" data-orig-file="/img/img-a6b1502552.jpeg" data-orig-size="700,467" data-comments-opened="1" data-image-meta={"{\"credit\":\"Josh Snyder\\rSnyder Advertising\",\"orientation\":\"1\"}"} data-image-title="carwash-controller" data-image-description="" data-image-caption="" data-large-file="/img/img-a6b1502552.jpeg" />
                           {" "}
                         </div>
                         {"\n"}
@@ -34,7 +34,7 @@ export default function Post04Page() {
                               <span itemProp="dateCreated" className="date entry_date updated">
                                 03 Dec
                               </span>
-                              {" Experience the Future of Car Wash Technology at Lumen"}
+                              {" Experience the Future of Car Wash Technology at Glinting Bay"}
                             </h2>
                             {"\n"}
                             <div className="post_info">
@@ -62,7 +62,7 @@ export default function Post04Page() {
                               <span className="dots">
                                 <i className="fa fa-square"></i>
                               </span>
-                              <a itemProp="url" className="post_comments" href="/2022/12/03/experience-the-future-of-car-wash-technology-at-lumen/#respond" target="_self">
+                              <a itemProp="url" className="post_comments" href="/2022/12/03/experience-the-future-of-car-wash-technology-at-glinting-bay/#respond" target="_self">
                                 0 Comments
                               </a>
                               {"\n"}
@@ -94,12 +94,12 @@ export default function Post04Page() {
                                     <div className="elementor-widget-container">
                                       {"\n"}
                                       <p>
-                                        Experience the Future of Car Wash Technology at Lumen
+                                        Experience the Future of Car Wash Technology at Glinting Bay
                                       </p>
                                       <p>
                                         {"At "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         , we’re constantly pushing the boundaries of car wash technology to give you the best experience possible. Our state-of-the-art system combines ultrasonic and infrared photoelectric sensors with advanced software to deliver a customized and efficient car wash like no other.
                                       </p>
@@ -129,17 +129,17 @@ export default function Post04Page() {
                                         <a href="https://www.carwash.com/high-tech-carwash-systems/">
                                           future of car wash technology
                                         </a>
-                                        {" at Lumen Car Wash. We’re redefining the way cars get clean with our innovative approach and commitment to delivering exceptional results. Come and see for yourself today!"}
+                                        {" at Glinting Bay Car Wash. We’re redefining the way cars get clean with our innovative approach and commitment to delivering exceptional results. Come and see for yourself today!"}
                                       </p>
                                       <h5>
                                         <strong>
-                                          Lumen Car Wash – Who we are and what we stand for.
+                                          Glinting Bay Car Wash – Who we are and what we stand for.
                                         </strong>
                                       </h5>
                                       <p>
                                         {"We guarantee the Best Car Wash Experience at "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         {" or your money back! – Join our "}
                                         <a href="/#pricing">
@@ -154,7 +154,7 @@ export default function Post04Page() {
                                         Beyond our outstanding service and technology, we have a bigger vision. We strive to be the best not only in the world but also for the world, as we contribute to transforming the global economy for the benefit of all.
                                       </p>
                                       <p>
-                                        {"At Lumen Car Wash, we hold ourselves to the "}
+                                        {"At Glinting Bay Car Wash, we hold ourselves to the "}
                                         <a href="/operating-agreement/">
                                           highest standards of ethical conduct and social responsibility
                                         </a>
@@ -169,7 +169,7 @@ export default function Post04Page() {
                                       <p>
                                         {"Try the rest but then come to the best car wash in town – "}
                                         <a href="/">
-                                          Lumen Car Wash
+                                          Glinting Bay Car Wash
                                         </a>
                                         . Experience our exceptional service, commitment to excellence, and dedication to making a positive impact.
                                       </p>
@@ -192,7 +192,7 @@ export default function Post04Page() {
                                 <div className="sd-content">
                                   <ul>
                                     <li className="share-twitter">
-                                      <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-2543" className="share-twitter sd-button share-icon" href="/2022/12/03/experience-the-future-of-car-wash-technology-at-lumen/?share=twitter" target="_blank" aria-labelledby="sharing-twitter-2543">
+                                      <a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-2543" className="share-twitter sd-button share-icon" href="/2022/12/03/experience-the-future-of-car-wash-technology-at-glinting-bay/?share=twitter" target="_blank" aria-labelledby="sharing-twitter-2543">
                                         {"\n"}
                                         <span id="sharing-twitter-2543" hidden>
                                           Share on X (Opens in new window)
@@ -205,7 +205,7 @@ export default function Post04Page() {
                                       </a>
                                     </li>
                                     <li className="share-facebook">
-                                      <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-2543" className="share-facebook sd-button share-icon" href="/2022/12/03/experience-the-future-of-car-wash-technology-at-lumen/?share=facebook" target="_blank" aria-labelledby="sharing-facebook-2543">
+                                      <a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-2543" className="share-facebook sd-button share-icon" href="/2022/12/03/experience-the-future-of-car-wash-technology-at-glinting-bay/?share=facebook" target="_blank" aria-labelledby="sharing-facebook-2543">
                                         {"\n"}
                                         <span id="sharing-facebook-2543" hidden>
                                           Share on Facebook (Opens in new window)
@@ -372,13 +372,13 @@ export default function Post04Page() {
                         </h5>
                         {" "}
                         <small>
-                          <a rel="nofollow" id="cancel-comment-reply-link" href="/2022/12/03/experience-the-future-of-car-wash-technology-at-lumen/#respond" style={{ display: "none" }}>
+                          <a rel="nofollow" id="cancel-comment-reply-link" href="/2022/12/03/experience-the-future-of-car-wash-technology-at-glinting-bay/#respond" style={{ display: "none" }}>
                             Cancel Reply
                           </a>
                         </small>
                       </h3>
                       <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
-                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2543,\"loginUrl\":\"https://lumenwash.com/wp-login.php?redirect_to=https%3A%2F%2Flumenwash.com%2F2022%2F12%2F03%2Fexperience-the-future-of-car-wash-technology-at-lumen%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Lumen Car Wash.\",\"checked\":false}]}"}>
+                        <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2543,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2022%2F12%2F03%2Fexperience-the-future-of-car-wash-technology-at-glinting-bay%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                           <div className="jetpack-comments__plain">
                             <p className="comment-form-author">
                               <label htmlFor="author">
@@ -451,7 +451,7 @@ export default function Post04Page() {
                         <li>
                           {"\n"}
                           <a href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/">
-                            October at Lumen: We CAN Make a Difference — and Keep Your Ride Lumen
+                            October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
                           </a>
                           {"\n"}
                         </li>
@@ -466,8 +466,8 @@ export default function Post04Page() {
                         {"\n"}
                         <li>
                           {"\n"}
-                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-lumen-car-wash/">
-                            More Power for the Vacuum Stations at Lumen Car Wash
+                          <a href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/">
+                            More Power for the Vacuum Stations at Glinting Bay Car Wash
                           </a>
                           {"\n"}
                         </li>
