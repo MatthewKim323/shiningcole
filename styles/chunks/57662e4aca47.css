@@ -1,0 +1,31 @@
+.qodef-qi-testimonials-list.qodef-item-layout--side-quote .qodef-e-content{flex:1;text-align:left}
+.qodef-qi-testimonials-list.qodef-item-layout--side-quote .qodef-e-bottom-info{display:flex;align-items:center}
+.qodef-qi-testimonials-list.qodef-item-layout--side-quote .qodef-e-media-image{width:50px;margin:0 10px 0 0}
+.qodef-qi-testimonials-list.qodef-item-layout--side-quote .qodef-e-author{flex-direction:row;align-items:baseline}
+.qodef-qi-testimonials-list.qodef-item-layout--side-quote .qodef-e-author-job:before{content:"";display:inline-block;vertical-align:middle;height:1px;width:1em;background-color:currentColor;margin:0 .65em}
+.qodef-qi-testimonials-list.qodef-item-layout--side-with-image .qodef-e-inner{display:flex;align-items:flex-start}
+@media only screen and (max-width:680px){.qodef-qi-testimonials-list.qodef-item-layout--side-with-image .qodef-e-inner{flex-direction:column;align-items:flex-start}}
+.qodef-qi-testimonials-list.qodef-item-layout--side-with-image .qodef-e-side{position:relative;flex-shrink:0;width:110px;max-width:30%;margin-right:6%}
+.qodef-qi-testimonials-list.qodef-item-layout--side-with-image .qodef-e-side .qodef-e-media-image{border-radius:25%;overflow:hidden}
+@media only screen and (max-width:680px){.qodef-qi-testimonials-list.qodef-item-layout--side-with-image .qodef-e-side{max-width:100%}}
+.qodef-qi-testimonials-list.qodef-item-layout--side-with-image .qodef-e-quote{position:absolute;bottom:-.5em;right:-.5em;width:2em;height:2em;display:flex;align-items:center;justify-content:center;color:#fff;background-color:#111;border-radius:50%}
+.qodef-qi-testimonials-list.qodef-item-layout--side-with-image .qodef-e-content{flex:1;text-align:left}
+.qodef-qi-testimonials-list.qodef-item-layout--side-with-image .qodef-e-text{margin:0 0 1em}
+.qodef-qi-testimonials-list.qodef-item-layout--side-with-image .qodef-e-author{flex-direction:column}
+.qodef-qi-testimonials-list.qodef-item-layout--side-with-image .qodef-e-author-job{margin:.2em 0 0}
+.qodef-qi-testimonials-slider .qodef-e-inner{overflow:hidden}
+.qodef-qi-testimonials-slider .qodef-e-title{margin:0 0 .7em}
+.qodef-qi-testimonials-slider .qodef-e-text{margin:0}
+.qodef-qi-testimonials-slider .qodef-e-media-image{display:inline-block;vertical-align:top;line-height:0}
+.qodef-qi-testimonials-slider .qodef-e-quote{font-size:1em;line-height:0;margin:auto}
+.qodef-qi-testimonials-slider .qodef-e-quote svg{width:1em;fill:currentColor;stroke:currentColor}
+.qodef-qi-testimonials-slider .qodef-e-author{display:flex;margin:0}
+.qodef-qi-testimonials-slider .qodef-e-author-name{margin:0}
+.qodef-qi-testimonials-slider.qodef--swiper-fade .swiper-slide{opacity:0;transition:opacity .2s ease-out}
+.qodef-qi-testimonials-slider.qodef--swiper-fade .swiper-slide.swiper-slide-active,.qodef-qi-testimonials-slider.qodef--swiper-fade .swiper-slide.swiper-slide-duplicate-active{opacity:1}
+.qodef-qi-testimonials-slider.qodef-item-layout--boxed .qodef-e-media-image{margin-bottom:1em;border-radius:50%;overflow:hidden}
+.qodef-qi-testimonials-slider.qodef-item-layout--boxed .qodef-e-inner{text-align:center;padding:55px 40px;background-color:#f6f6f6}
+.qodef-qi-testimonials-slider.qodef-item-layout--boxed .qodef-e-top{position:relative;display:inline-block}
+.qodef-qi-testimonials-slider.qodef-item-layout--boxed .qodef-e-quote{position:absolute;top:0;right:0;font-size:2em}
+.qodef-qi-testimonials-slider.qodef-item-layout--boxed .qodef-e-text{margin:0 0 1.3em}
+.qodef-qi-testimonials-slider.qodef-item-layout--boxed .qodef-e-author{flex-direction:column}

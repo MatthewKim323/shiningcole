@@ -1,0 +1,45 @@
+.carousel .video .video-wrap .mejs-mediaelement{background:0 0!important;border:0!important}
+.carousel .video .video-wrap .mejs-container .mejs-poster img{max-width:none!important;width:100%!important}
+.carousel .video .video-wrap .mejs-controls button:hover,.mejs-controls .mejs-fullscreen-button:hover button{opacity:1!important}
+.carousel .video .video-wrap .mejs-controls .mejs-time-rail .mejs-time-total{background:#1f1f1f!important}
+.carousel .video .video-wrap .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current{background:0 0!important}
+.carousel .item .text .separator{margin-top:40px;margin-bottom:40px;width:68%}
+.carousel .item .left .text .separator{margin-left:0}
+.carousel .item .right .text .separator{margin-right:0}
+.flex-container a:active,.flex-container a:focus,.flexslider a:active,.flexslider a:focus,.portfolio_slider .flex-container a:active,.portfolio_slider .flex-container a:focus,.portfolio_slider .flexslider a:active,.portfolio_slider .flexslider a:focus,.qode_carousels .flex-container a:active,.qode_carousels .flex-container a:focus,.qode_carousels a:active,.qode_carousels a:focus{outline:0}
+.caroufredsel-direction-nav,.flex-control-nav,.flex-direction-nav,.portfolio_slides,.slides{margin:0;padding:0;list-style:none}
+.flexslider .slides>li{background-color:transparent;display:none;position:relative;margin:0}
+.caroufredsel_wrapper{cursor:grab!important;cursor:-moz-grab!important;cursor:-webkit-grab!important;margin:0!important}
+.portfolio_slider .portfolio_slides,.qode_carousels .slides{opacity:0}
+.portfolio_slider .portfolio_slides>li,.qode_carousels .slides>li{background-color:transparent;position:relative;margin:0;float:left}
+.qode_carousels .slides>li{margin:0 2px 0 0}
+.flexslider .slides img,.portfolio_slider .portfolio_slides img,.qode_carousels .slides img{width:100%;display:block}
+.gallery_frame{width:100%;height:100%;position:absolute;top:0;text-align:center}
+.qode-image-gallery-slides.flexslider.have_frame,.wpb_flexslider.flexslider.have_frame{width:645px;margin:0 auto;overflow:visible}
+.qode-image-gallery-slides.flexslider.have_frame{padding:34px 0 102px}
+.frame_holder>.wpb_wrapper{padding:34px 0 102px;position:relative}
+.frame_holder.frame_holder2>.wpb_wrapper{padding:48px 0 75px}
+.frame_holder.frame_holder3 .wpb_flexslider.flexslider.have_frame{width:800px}
+.frame_holder.frame_holder3>.wpb_wrapper{padding:45px 0 67px}
+.frame_holder.frame_holder4 .wpb_flexslider.flexslider.have_frame{width:795px}
+.frame_holder.frame_holder4>.wpb_wrapper{padding:42px 0 173px}
+.portfolio_slides:after,.slides:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}
+html[xmlns] .portfolio_slides,html[xmlns] .slides{display:block}
+* html .portfolio_slides,* html .slides{height:1%}
+.no-js .portfolio_slides>li:first-child,.no-js .slides>li:first-child{display:block}
+.flexslider,.portfolio_slider{margin:0 0 60px;position:relative;zoom:1}
+.wpb_flexslider.flexslider{overflow:hidden}
+.portfolio_slider{margin:0;width:100.2%}
+.boxed .portfolio_slider{margin:0 -25px 60px;overflow:hidden}
+.flex-viewport,.portfolio_slider .flex-viewport{max-height:2000px;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;transition:all 1s ease}
+.loading .flex-viewport{max-height:300px}
+.flexslider .slides,.portfolio_slider .portfolio_slides,.qode_carousels .slides{zoom:1}
+.flexslider ul{padding:0}
+.caroufredsel-direction-nav a,.flex-direction-nav a{width:42px;height:42px;line-height:42px;margin:-23px 0 0;display:block;position:absolute;top:50%;cursor:pointer;-webkit-transition:all .3s ease 0s;-moz-transition:all .3s ease 0s;-o-transition:all .3s ease 0s;color:#8a8a8a;background-color:transparent;text-align:center;z-index:200;border:2px solid #fff}
+.have_frame.flexslider .flex-next,.have_frame.flexslider .flex-prev{background-repeat:no-repeat;background-position:center center;width:25px;height:67px}
+.flex-direction-nav a{-webkit-box-sizing:initial;-moz-box-sizing:initial;box-sizing:initial}
+.blog_slider:hover .caroufredsel-direction-nav a.caroufredsel-next:hover,.blog_slider:hover .caroufredsel-direction-nav a.caroufredsel-prev:hover,.flexslider:hover .flex-direction-nav a.flex-next:hover,.flexslider:hover .flex-direction-nav a.flex-prev:hover,.portfolio_slider:hover .caroufredsel-direction-nav a.caroufredsel-next:hover,.portfolio_slider:hover .caroufredsel-direction-nav a.caroufredsel-prev:hover,.portfolio_slider:hover .flex-direction-nav a.flex-next:hover,.portfolio_slider:hover .flex-direction-nav a.flex-prev:hover{background-color:#fff}
+.blog_slider:hover .caroufredsel-direction-nav a.caroufredsel-next:hover i,.blog_slider:hover .caroufredsel-direction-nav a.caroufredsel-prev:hover i,.flexslider:hover .flex-direction-nav a.flex-next:hover i,.flexslider:hover .flex-direction-nav a.flex-prev:hover i,.portfolio_slider:hover .caroufredsel-direction-nav a.caroufredsel-next:hover i,.portfolio_slider:hover .caroufredsel-direction-nav a.caroufredsel-prev:hover i,.portfolio_slider:hover .flex-direction-nav a.flex-next:hover i,.portfolio_slider:hover .flex-direction-nav a.flex-prev:hover i{color:#8a8a8a}
+.caroufredsel-direction-nav a i,.flex-direction-nav a i{line-height:42px;color:#fff;font-size:22px}
+.have_frame .flex-direction-nav a i{display:none}
+.flexslider .flex-next,.portfolio_slider .caroufredsel-next,.portfolio_slider .flex-next{right:15px;border-radius:2em}

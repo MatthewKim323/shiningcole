@@ -1,0 +1,20 @@
+.qode-split-scrolling-section .qode-image-slider-item-inner-wrapper .qode-image-slider-item-content .qode-image-slider-item-inner.title span{display:block;margin-bottom:10px}
+.qode-split-scrolling-section .qode-prod-cat.qode-cat-with-image:nth-child(even){top:38px}
+.qode-split-scrolling-section .qode-owl-slider .owl-nav .owl-next,.qode-split-scrolling-section .qode-owl-slider .owl-nav .owl-prev{-webkit-transform:none;-moz-transform:none;transform:none;bottom:50%}
+.qode-vertical-portfolio-slider{margin:0!important;height:100vh!important;overflow:hidden}
+@media only screen and (max-width:1000px){.qode-vertical-portfolio-slider{height:calc(100vh - 70px)!important}}
+.admin-bar .qode-vertical-portfolio-slider{height:calc(100vh - 32px)!important}
+@media only screen and (max-width:1000px){.admin-bar .qode-vertical-portfolio-slider{height:calc(100vh - 70px - 32px)!important}}
+.qode-vertical-portfolio-slider .qode-vps-item{display:flex;align-items:center;justify-content:center}
+.qode-vertical-portfolio-slider .qode-vps-outer{width:100%;height:100%;display:flex;align-items:center;justify-content:center;background-size:cover}
+.qode-vertical-portfolio-slider .qode-vps-inner{width:auto;margin:0 auto;text-align:center;position:relative;height:100%}
+.qode-vertical-portfolio-slider .qode-vps-image{display:flex;align-items:center;justify-content:center;height:100%;margin:0 auto}
+.qode-vertical-portfolio-slider .qode-vps-image img{display:block}
+.qode-vertical-portfolio-slider .qode-vps-title-one,.qode-vertical-portfolio-slider .qode-vps-title-two{font-size:145px;line-height:1.11em;letter-spacing:.1em}
+.qode-vertical-portfolio-slider .qode-vps-title-one{position:absolute;top:22%;left:12%;z-index:9999}
+.qode-vertical-portfolio-slider .qode-vps-title-one:before{content:'';position:absolute;height:1px;width:425px;background-color:currentColor;left:-60px;top:84px;transform:rotate(14.5deg)}
+.qode-vertical-portfolio-slider .qode-vps-title-one .qode-vps-to-first{clip-path:polygon(0 0,100% 0,100% 100%,116% 100%,0 32%)}
+.qode-vertical-portfolio-slider .qode-vps-title-one .qode-vps-to-second{position:absolute;left:8px;top:0;clip-path:polygon(0 29%,0 100%,84% 88%)}
+.qode-vertical-portfolio-slider .qode-vps-title-two{position:relative}
+.qode-vertical-portfolio-slider .qode-vps-title-two:before{content:'';position:absolute;left:74px;top:100px;width:428px;height:1px;background-color:currentColor;transform:rotate(-28.5deg)}
+.qode-vertical-portfolio-slider .qode-vps-title-two:after{content:'';position:absolute;right:-8px;top:103px;width:270px;height:1px;background-color:currentColor;transform:rotate(-49deg)}

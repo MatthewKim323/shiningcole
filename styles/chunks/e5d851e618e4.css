@@ -1,0 +1,23 @@
+.qodef-qi-preview-slider .qodef-preview-slider-device-holder{position:absolute;top:0;left:50%;transform:translateX(-50%);z-index:10}
+.qodef-qi-preview-slider .qodef-preview-slider-device{position:absolute;margin:auto;width:214px;bottom:-50px;right:50px}
+.qodef-qi-preview-slider .qodef-preview-slider-device .qodef-preview-slider-device-image{position:relative;pointer-events:none;z-index:10}
+.qodef-qi-preview-slider .qodef-preview-slider-device .qodef-preview-slider-device-image img{width:100%;filter:drop-shadow(0 6px 16.8px rgba(0, 0, 0, .07))}
+.qodef-qi-preview-slider .qodef-preview-slider-device .qodef-m-items{position:absolute;top:0;left:0;bottom:0;right:0;z-index:5}
+.qodef-qi-preview-slider .qodef-preview-slider-device .qodef-qi-swiper-container{overflow:hidden;height:100%;padding:0!important}
+.qodef-qi-preview-slider .qodef-preview-slider-device .qodef-m-item{height:100%}
+.qodef-qi-preview-slider .qodef-preview-slider-device .qodef-m-item img{height:100%;object-fit:cover}
+.qodef-qi-pricing-list{position:relative;display:inline-block;width:100%;vertical-align:top}
+.qodef-qi-pricing-list .qodef-m-item:not(:last-child){margin-bottom:35px}
+.qodef-qi-pricing-list .qodef-m-item.qodef-has-discount .qodef-e-heading-price{text-decoration:line-through;margin-right:.25em}
+.qodef-qi-pricing-list .qodef-e-heading{display:flex;align-items:baseline}
+.qodef-qi-pricing-list .qodef-e-heading .qodef-e-image{max-width:20%}
+.qodef-qi-pricing-list .qodef-e-heading .qodef-e-image img{margin-left:10px}
+.qodef-qi-pricing-list .qodef-e-heading-title{margin:0}
+.qodef-qi-pricing-list .qodef-e-heading-line{flex-grow:1;margin:0 8px;border-bottom:1px solid #ebebeb}
+.qodef-qi-pricing-list .qodef-e-heading-discount-price,.qodef-qi-pricing-list .qodef-e-heading-price{margin:0;color:#111}
+.qodef-qi-pricing-list .qodef-e-description{margin:.5em 0 0;color:#9c9c9c}
+.qodef-qi-pricing-list .qodef-m-button{margin-top:30px}
+.qodef-qi-pricing-list.qodef-pricing-line--pattern .qodef-e-heading-line{height:5px;background-repeat:repeat;border:none}
+.qodef-qi-pricing-list.qodef-pricing-line--dashed .qodef-e-heading-line{border-bottom-style:dashed}
+.qodef-qi-pricing-list.qodef-pricing-line--dotted .qodef-e-heading-line{border-bottom-style:dotted}
+.qodef-qi-pricing-list.qodef-with-separator .qodef-m-item:not(:last-child){border-bottom:1px solid #ebebeb}

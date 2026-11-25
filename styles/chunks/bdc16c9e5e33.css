@@ -1,0 +1,23 @@
+#qode-multi-device-showcase.qode-mds-appear-effect .qode-mds-device-holder:nth-child(8) .qode-mds-device-holder-inner{-webkit-transition:-webkit-transform 1.2s cubic-bezier(.09,.67,.22,.94) .48s,opacity 1s .48s;transition:transform 1.2s cubic-bezier(.09,.67,.22,.94) .48s,opacity 1s .48s}
+#qode-multi-device-showcase.qode-mds-appear-effect .qode-mds-device-holder:nth-child(9) .qode-mds-device-holder-inner{-webkit-transition:-webkit-transform 1.2s cubic-bezier(.09,.67,.22,.94) .54s,opacity 1s .54s;transition:transform 1.2s cubic-bezier(.09,.67,.22,.94) .54s,opacity 1s .54s}
+#qode-multi-device-showcase.qode-mds-appear-effect .qode-mds-device-holder:nth-child(10) .qode-mds-device-holder-inner{-webkit-transition:-webkit-transform 1.2s cubic-bezier(.09,.67,.22,.94) .6s,opacity 1s .6s;transition:transform 1.2s cubic-bezier(.09,.67,.22,.94) .6s,opacity 1s .6s}
+#qode-multi-device-showcase.qode-mds-appear-effect .qode-mds-content-holder{visibility:hidden}
+#qode-multi-device-showcase.qode-mds-appear-effect.qode-mds-loading .qode-mds-content-holder,#qode-multi-device-showcase.qode-mds-appear-effect.qode-mds-loading .qode-mds-device-holder,.touchevents #qode-multi-device-showcase.qode-mds-appear-effect .qode-mds-content-holder,.touchevents #qode-multi-device-showcase.qode-mds-appear-effect .qode-mds-device-holder{visibility:visible}
+#qode-multi-device-showcase.qode-mds-appear-effect .qode-mds-content-holder>div{opacity:0;-webkit-transition:opacity .6s cubic-bezier(.694,0,.335,1);-moz-transition:opacity .6s cubic-bezier(.694,0,.335,1);transition:opacity .6s cubic-bezier(.694,0,.335,1);will-change:opacity}
+#qode-multi-device-showcase.qode-mds-appear-effect .qode-mds-subtitle-holder .qode-mds-subtitle-holder-inner{-webkit-transition-delay:.3s;transition-delay:.3s}
+#qode-multi-device-showcase.qode-mds-appear-effect .qode-mds-button-holder .qode-mds-button-holder-inner{-webkit-transition-delay:.6s;transition-delay:.6s}
+.touchevents #qode-multi-device-showcase.qode-mds-appear-effect .qode-mds-content-holder>div{opacity:1;-webkit-transition:none;-moz-transition:none;transition:none}
+.touchevents #qode-multi-device-showcase.qode-mds-appear-effect .qode-mds-device-holder .qode-mds-device-holder-inner{opacity:1;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0);-webkit-transition:none;-moz-transition:none;transition:none}
+#qode-multi-device-showcase.qode-mds-appear-effect #qode-mds-spinner{position:absolute;top:50vh;left:50vw;display:flex;align-items:center;justify-content:center}
+#qode-multi-device-showcase.qode-mds-appear-effect #qode-mds-spinner .qode-mds-pulse{width:32px;height:32px;margin:-16px 0 0 -16px;background-color:#1abc9c;border-radius:16px;-webkit-animation:scaleout 1s infinite cubic-bezier(.09,.67,.22,.94);-moz-animation:scaleout 1s infinite cubic-bezier(.09,.67,.22,.94);animation:scaleout 1s infinite cubic-bezier(.09,.67,.22,.94)}
+#qode-multi-device-showcase.qode-mds-appear-effect.qode-mds-loading .qode-mds-content-holder.qode-show-item>div{opacity:1}
+#qode-multi-device-showcase.qode-mds-appear-effect.qode-mds-loading .qode-mds-device-holder.qode-show-device .qode-mds-device-holder-inner{opacity:1;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+.qode-simple-quote-holder{position:relative;margin-top:50px}
+.qode-simple-quote-holder .qode-simple-quote-triangle{width:0;height:0;border-bottom:50px solid #fff;border-right:50px solid transparent;z-index:10;position:absolute;left:8%;top:-50px}
+.qode-simple-quote-holder .qode-simple-quote-holder-inner{display:table;width:100%;position:relative;background-color:#fff;box-sizing:border-box;padding:35px 45px;border-radius:5px}
+.qode-simple-quote-holder .qode-simple-quote-holder-inner .qode-simple-quote-icon-holder{display:table-cell;width:165px;vertical-align:middle;fill:#1abc9c}
+.qode-simple-quote-holder .qode-simple-quote-holder-inner .qode-simple-quote-icon-holder svg g{fill:inherit}
+.qode-simple-quote-holder .qode-simple-quote-holder-inner .qode-simple-quote-content-holder{display:table-cell;vertical-align:middle}
+.qode-simple-quote-holder .qode-simple-quote-holder-inner .qode-simple-quote-content-holder .qode-simple-quote-text-holder{margin-bottom:10px}
+.qode-simple-quote-holder.qode-simple-quote-enabled-shadow .qode-simple-quote-triangle-shadow{width:0;height:0;border-bottom:50px solid rgba(0,0,0,.05);border-right:50px solid transparent;filter:blur(19px);position:absolute;left:8%;top:-50px}
+.qode-simple-quote-holder.qode-simple-quote-enabled-shadow .qode-simple-quote-holder-inner{-webkit-box-shadow:0 0 25px 10px rgba(0,0,0,.02);-moz-box-shadow:0 0 25px 10px rgba(0,0,0,.02);box-shadow:0 0 25px 10px rgba(0,0,0,.02)}

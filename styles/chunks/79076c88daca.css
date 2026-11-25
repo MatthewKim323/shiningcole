@@ -1,0 +1,60 @@
+.qodef-qi-grid .qodef-grid-item{float:none!important}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner{display:flex}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item{width:100%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--12{width:100%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--11{width:91.6666666667%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--10{width:83.3333333333%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--9{width:75%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--8{width:66.6666666667%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--7{width:58.3333333333%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--6{width:50%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--5{width:41.6666666667%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--4{width:33.3333333333%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--3{width:25%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--2{width:16.6666666667%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--1{width:8.3333333333%}
+.qodef-qi-grid.qodef-layout--qi-template>.qodef-grid-inner>.qodef-grid-item.qodef-col--auto{width:auto}
+.qodef-qi-grid.qodef-layout--qi-columns>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-num--1>.qodef-grid-inner{grid-template-columns:repeat(1,minmax(0,1fr))}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-num--2>.qodef-grid-inner{grid-template-columns:repeat(2,minmax(0,1fr))}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-num--3>.qodef-grid-inner{grid-template-columns:repeat(3,minmax(0,1fr))}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-num--4>.qodef-grid-inner{grid-template-columns:repeat(4,minmax(0,1fr))}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-num--5>.qodef-grid-inner{grid-template-columns:repeat(5,minmax(0,1fr))}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-num--6>.qodef-grid-inner{grid-template-columns:repeat(6,minmax(0,1fr))}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-num--7>.qodef-grid-inner{grid-template-columns:repeat(7,minmax(0,1fr))}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-num--8>.qodef-grid-inner{grid-template-columns:repeat(8,minmax(0,1fr))}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--1-11>.qodef-grid-inner{grid-template-columns:minmax(0,1fr) minmax(0,11fr)}
+@media only screen and (max-width:1024px){.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--1-11>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--2-10>.qodef-grid-inner{grid-template-columns:minmax(0,2fr) minmax(0,10fr)}
+@media only screen and (max-width:1024px){.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--2-10>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--3-9>.qodef-grid-inner{grid-template-columns:minmax(0,3fr) minmax(0,9fr)}
+@media only screen and (max-width:1024px){.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--3-9>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--4-8>.qodef-grid-inner{grid-template-columns:minmax(0,4fr) minmax(0,8fr)}
+@media only screen and (max-width:1024px){.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--4-8>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--5-7>.qodef-grid-inner{grid-template-columns:minmax(0,5fr) minmax(0,7fr)}
+@media only screen and (max-width:1024px){.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--5-7>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--6-6>.qodef-grid-inner{grid-template-columns:minmax(0,6fr) minmax(0,6fr)}
+@media only screen and (max-width:1024px){.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--6-6>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--7-5>.qodef-grid-inner{grid-template-columns:minmax(0,7fr) minmax(0,5fr)}
+@media only screen and (max-width:1024px){.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--7-5>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--8-4>.qodef-grid-inner{grid-template-columns:minmax(0,8fr) minmax(0,4fr)}
+@media only screen and (max-width:1024px){.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--8-4>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--9-3>.qodef-grid-inner{grid-template-columns:minmax(0,9fr) minmax(0,3fr)}
+@media only screen and (max-width:1024px){.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--9-3>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--10-2>.qodef-grid-inner{grid-template-columns:minmax(0,10fr) minmax(0,2fr)}
+@media only screen and (max-width:1024px){.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--10-2>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}}
+.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--11-1>.qodef-grid-inner{grid-template-columns:minmax(0,11fr) minmax(0,1fr)}
+@media only screen and (max-width:1024px){.qodef-qi-grid.qodef-layout--qi-columns.qodef-col-split--11-1>.qodef-grid-inner{grid-template-columns:minmax(0,1fr)}}
+.qodef-qi-grid.qodef-layout--qi-masonry.qodef-items--fixed .qodef-grid-item .qodef-e-inner{height:100%;overflow:hidden}
+.qodef-qi-grid.qodef-layout--qi-masonry.qodef-items--fixed .qodef-grid-item img{height:100%;width:100%;object-fit:cover}
+.qodef-qi-grid.qodef-layout--qi-masonry>.qodef-grid-inner{visibility:hidden}
+.qodef-qi-grid.qodef-layout--qi-masonry>.qodef-grid-inner.qodef--masonry-init{visibility:visible}
+.qodef-qi-grid.qodef-layout--qi-masonry.qodef-col-num--1>.qodef-grid-inner{grid-template-columns:repeat(1,1fr)}
+.qodef-qi-grid.qodef-layout--qi-masonry.qodef-col-num--2>.qodef-grid-inner{grid-template-columns:repeat(2,1fr)}
+.qodef-qi-grid.qodef-layout--qi-masonry.qodef-col-num--3>.qodef-grid-inner{grid-template-columns:repeat(3,1fr)}
+.qodef-qi-grid.qodef-layout--qi-masonry.qodef-col-num--4>.qodef-grid-inner{grid-template-columns:repeat(4,1fr)}
+.qodef-qi-grid.qodef-layout--qi-masonry.qodef-col-num--5>.qodef-grid-inner{grid-template-columns:repeat(5,1fr)}
+.qodef-qi-grid.qodef-layout--qi-masonry.qodef-col-num--6>.qodef-grid-inner{grid-template-columns:repeat(6,1fr)}
+.qodef-qi-grid.qodef-layout--qi-masonry.qodef-col-num--7>.qodef-grid-inner{grid-template-columns:repeat(7,1fr)}
+.qodef-qi-grid.qodef-layout--qi-masonry.qodef-col-num--8>.qodef-grid-inner{grid-template-columns:repeat(8,1fr)}
+.qodef-qi-grid.qodef-gutter--no>.qodef-grid-inner{gap:0}

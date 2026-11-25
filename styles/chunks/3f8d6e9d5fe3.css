@@ -1,0 +1,27 @@
+.items-justified-center{justify-content:center}
+.items-justified-right{justify-content:flex-end}
+.items-justified-space-between{justify-content:space-between}
+.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}
+.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}
+html :where(.has-border-color){border-style:solid}
+html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}
+html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}
+html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}
+html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}
+html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}
+html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}
+html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}
+html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}
+html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}
+html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}
+html :where(img[class*=wp-image-]){height:auto;max-width:100%}
+:where(figure){margin:0 0 1em}
+html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}
+@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode{align-items:flex-start;background-color:#fff;border:1px solid #e0e0e0;border-radius:6px;display:flex;gap:16px;padding:16px}
+@media(max-width:600px){.wp-block-jetpack-podcast-episode .jetpack-podcast-episode{flex-direction:column}}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__poster{flex:0 0 auto;inline-size:160px;margin:0;max-inline-size:40%}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__poster img{aspect-ratio:1;border-radius:4px;display:block;inline-size:100%;object-fit:cover}
+@media(max-width:600px){.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__poster{inline-size:100%;max-inline-size:100%}}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__body{display:flex;flex:1 1 auto;flex-direction:column;gap:8px;min-inline-size:0}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__meta-line{color:#757575;display:flex;flex-wrap:wrap;font-size:.85em;gap:8px;letter-spacing:.03em;margin:0;text-transform:uppercase}

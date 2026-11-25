@@ -1,0 +1,22 @@
+@media(max-width:767px){.wp-block-aioseo-product .aioseo-product-reviews,.aioseo-product-block .aioseo-product-reviews{margin-top:3rem}}
+.wp-block-aioseo-product .aioseo-product-reviews .review,.aioseo-product-block .aioseo-product-reviews .review{margin:10px 0}
+.wp-block-aioseo-product .aioseo-product-reviews .review .content,.aioseo-product-block .aioseo-product-reviews .review .content{color:#434960}
+.wp-block-aioseo-product .aioseo-product-reviews .review .content .headline,.aioseo-product-block .aioseo-product-reviews .review .content .headline{font-size:16px;font-weight:700;margin:0 0 10px}
+.wp-block-aioseo-product .aioseo-product-reviews .review .content .description,.aioseo-product-block .aioseo-product-reviews .review .content .description{font-size:14px;margin:0 0 10px}
+.wp-block-aioseo-product .aioseo-product-reviews .review .author-rating,.aioseo-product-block .aioseo-product-reviews .review .author-rating{color:#434960;font-size:14px;display:flex;justify-content:space-between;gap:8px}
+@media(max-width:767px){.wp-block-aioseo-product .aioseo-product-reviews .review .author-rating,.aioseo-product-block .aioseo-product-reviews .review .author-rating{flex-direction:column}}
+.wp-block-aioseo-product .aioseo-product-reviews .review .author-rating .rating,.aioseo-product-block .aioseo-product-reviews .review .author-rating .rating{font-size:20px}
+.wp-block-aioseo-product .aioseo-product-reviews .review .author-rating .rating .filled,.aioseo-product-block .aioseo-product-reviews .review .author-rating .rating .filled{color:#ffc107}
+.wp-block-aioseo-product .aioseo-product-reviews .review .author-rating .rating .empty,.aioseo-product-block .aioseo-product-reviews .review .author-rating .rating .empty{color:#d0d1d7}
+.widget.widget_text{word-wrap:break-word}
+.widget.widget_text ul,.widget.widget_text ol{margin-bottom:1em;margin-left:.875em;padding-left:.875em}
+.widget.widget_text li ul,.widget.widget_text li ol{margin-top:0;margin-bottom:0;padding-bottom:0;padding-top:0}
+.widget.widget_text ul{list-style:disc outside none}
+.widget.widget_text ol{list-style:decimal outside none}
+.widget.widget_text ul li,.widget.widget_text ol li{border:0;list-style:inherit;margin:0;padding:0;text-align:left}
+.widget.widget_text ul li:before{content:""}
+.widget.widget_text p{margin-bottom:1em}
+.wpcf7 .screen-reader-response{position:absolute;overflow:hidden;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;width:1px;margin:-1px;padding:0;border:0;word-wrap:normal!important;word-break:normal!important}
+.wpcf7 .hidden-fields-container{display:none}
+.wpcf7 form .wpcf7-response-output{margin:2em .5em 1em;padding:.2em 1em;border:2px solid #00a0d2}
+.wpcf7 form.init .wpcf7-response-output,.wpcf7 form.resetting .wpcf7-response-output,.wpcf7 form.submitting .wpcf7-response-output{display:none}

@@ -1,0 +1,35 @@
+.elementor-4885 .elementor-element.elementor-element-df0a5fb{--spacer-size:50px}
+.elementor-widget-text-editor{font-family:var(--e-global-typography-text-font-family),Sans-serif;font-weight:var(--e-global-typography-text-font-weight);color:var(--e-global-color-text)}
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var(--e-global-color-primary)}
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap,.elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var(--e-global-color-primary);border-color:var(--e-global-color-primary)}
+#jp-post-flair{padding-top:.5em}
+div.sharedaddy,#content div.sharedaddy,#main div.sharedaddy{clear:both}
+div.sharedaddy h3.sd-title{margin:0 0 1em 0;display:inline-block;line-height:1.2;font-size:9pt;font-weight:700}
+body.highlander-light h3.sd-title::before{border-top:1px solid rgb(0 0 0 / .2)}
+body.highlander-dark h3.sd-title::before{border-top:1px solid rgb(255 255 255 / .4)}
+.sd-sharing{margin-bottom:1em}
+.sd-content ul{padding:0!important;margin:0!important;list-style:none!important}
+.sd-content ul li{display:inline-block;margin:0 8px 12px 0;padding:0}
+.sd-content ul li.share-deprecated{opacity:.5}
+.sd-content ul li.share-deprecated a span{text-decoration:line-through}
+.sd-block.sd-gplus{margin:0 0 .5em 0}
+.sd-gplus .sd-content{font-size:12px}
+.sd-content .share-email-error .share-email-error-title{margin:.5em 0}
+.sd-content .share-email-error .share-email-error-text{font-family:"Open Sans",sans-serif;font-size:12px;margin:.5em 0}
+.sd-social-icon .sd-content ul li a.sd-button,.sd-social-text .sd-content ul li a.sd-button,.sd-content ul li a.sd-button,.sd-content ul li .option a.share-ustom,.sd-content ul li.preview-item div.option.option-smart-off a,.sd-content ul li.advanced a.share-more,.sd-social-icon-text .sd-content ul li a.sd-button,.sd-social-official .sd-content>ul>li>a.sd-button,#sharing_email .sharing_send,.sd-social-official .sd-content>ul>li .digg_button>a{text-decoration:none!important;display:inline-block;font-size:13px;font-family:"Open Sans",sans-serif;font-weight:500;border-radius:4px;color:#2c3338!important;background:#fff;box-shadow:0 1px 2px rgb(0 0 0 / .12),0 0 0 1px rgb(0 0 0 / .12);text-shadow:none;line-height:23px;padding:4px 11px 3px 9px}
+.sd-social-official .sd-content ul li a.sd-button,.sd-social-official .sd-content ul li.preview-item div.option.option-smart-off a{align-items:center;display:flex;font-size:12px;line-height:12px;padding:1px 6px 0 5px;min-height:20px}
+.sd-social-official .sd-content ul.preview li a.sd-button,.sd-social-official .sd-content ul.preview li.preview-item div.option.option-smart-off a{position:relative;top:2px}
+.sd-content ul li a.sd-button>span,.sd-content ul li .option a.share-ustom span,.sd-content ul li.preview-item div.option.option-smart-off a span,.sd-content ul li.advanced a.share-more span,.sd-social-icon-text .sd-content ul li a.sd-button>span,.sd-social-official .sd-content>ul>li>a.sd-button span,.sd-social-official .sd-content>ul>li .digg_button>a span{line-height:23px;margin-left:6px}
+.sd-social-icon .sd-content ul li a.sd-button>span{margin-left:0}
+body .sd-social-icon .sd-content ul li[class*="share-"] a.sd-button.share-icon.no-text span:not(.custom-sharing-span){display:none}
+.sd-social-text .sd-content ul li a.sd-button span{margin-left:3px}
+.sd-social-official .sd-content ul li a.sd-button>span,.sd-social-official .sd-content ul li.preview-item div.option.option-smart-off a span{line-height:12px;margin-left:3px}
+.sd-social-official .sd-content>ul>li>a.sd-button::before,.sd-social-official .sd-content>ul>li .digg_button>a::before,.sd-social-official .sd-content .sharing-hidden .inner>ul>li>a.sd-button::before,.sd-social-official .sd-content .sharing-hidden .inner>ul>li .digg_button>a::before{margin-bottom:-1px}
+.sd-social-icon .sd-content ul li a.sd-button:hover,.sd-social-icon .sd-content ul li a.sd-button:active,.sd-social-text .sd-content ul li a.sd-button:hover,.sd-social-text .sd-content ul li a.sd-button:active,.sd-social-icon-text .sd-content ul li a.sd-button:hover,.sd-social-icon-text .sd-content ul li a.sd-button:active,.sd-social-official .sd-content>ul>li>a.sd-button:hover,.sd-social-official .sd-content>ul>li>a.sd-button:active,.sd-social-official .sd-content>ul>li .digg_button>a:hover,.sd-social-official .sd-content>ul>li .digg_button>a:active{box-shadow:0 1px 2px rgb(0 0 0 / .22),0 0 0 1px rgb(0 0 0 / .22)}
+.sd-social-icon .sd-content ul li a.sd-button:active,.sd-social-text .sd-content ul li a.sd-button:active,.sd-social-icon-text .sd-content ul li a.sd-button:active,.sd-social-official .sd-content>ul>li>a.sd-button:active,.sd-social-official .sd-content>ul>li .digg_button>a:active{box-shadow:inset 0 1px 0 rgb(0 0 0 / .16)}
+.sd-content ul li a.sd-button::before{display:inline-block;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font:400 18px/1 social-logos;vertical-align:top;text-align:center}
+.sd-social-icon-text ul li a.sd-button::before{position:relative;top:2px}
+@media screen and (-webkit-min-device-pixel-ratio:0){.sd-content ul li a.sd-button::before{position:relative;top:2px}}
+.sd-social-official ul li a.sd-button::before{position:relative;top:-2px}
+@media screen and (-webkit-min-device-pixel-ratio:0){.sd-social-official ul li a.sd-button::before{top:0}}
+.jp-sharing-input-touch .sd-content ul li{padding-left:10px}

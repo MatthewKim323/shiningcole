@@ -1,0 +1,63 @@
+.qode-btn-shadow-hover:hover{-webkit-box-shadow:4px 8px 16px #dedede;-moz-box-shadow:4px 8px 16px #dedede;box-shadow:4px 8px 16px #dedede}
+.qode-image-with-icon-and-text{text-align:center}
+.qode-image-with-icon-and-text .qode-iwiat-image img{vertical-align:middle}
+.qode-image-with-icon-and-text .qode-iwiat-image-icon-holder{position:relative;margin-bottom:63px}
+.qode-image-with-icon-and-text .qode-iwiat-image-icon-holder .qode-iwiat-icon-holder{position:absolute;text-align:center;left:0;bottom:0;-webkit-transform:translateY(50%);-moz-transform:translateY(50%);transform:translateY(50%);width:100%}
+.qode-image-with-icon-and-text .qode-iwiat-text{margin-top:10px}
+.qode-info-card-with-icon{text-align:center}
+.qode-info-card-with-icon .qode-icwi-image img{vertical-align:middle}
+.qode-info-card-with-icon .qode-icwi-image-icon-holder{position:relative}
+.qode-info-card-with-icon .qode-icwi-image-icon-holder .qode-icwi-icon-holder{position:absolute;text-align:center;left:0;top:50%;-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);transform:translateY(-50%);width:100%}
+.qode-info-card-with-icon .qode-icwi-text-holder{padding:32px 20px 37px;background-color:#fff}
+.qode-info-card-with-icon .qode-icwi-text{margin-top:20px}
+.qode-info-card .qode-info-card-text,.qode-int-icon-showcase .qode-showcase-content .qode-showcase-content-inner{margin-top:18px}
+.qode-info-card{text-align:center}
+.qode-info-card .qode-info-card-image{background-color:#fff}
+.qode-info-card .qode-info-card-image img{vertical-align:middle}
+.qode-info-card .qode-info-card-text-holder{padding:32px 40px 59px;background-color:#fff}
+.qode-elliptical-slider .qode-elliptical-slide{position:relative;display:inline-block;background-size:cover;background-position:center;width:100%;vertical-align:middle}
+.qode-elliptical-slider .qode-elliptical-slide .qode-elliptical-slide-image-holder-wrapper{line-height:0}
+.qode-elliptical-slider .qode-elliptical-slide .qode-elliptical-slide-image-holder{display:block}
+.qode-elliptical-slider .qode-elliptical-slide .qode-elliptical-slide-image-holder img{width:100%;height:auto;max-height:900px}
+.qode-elliptical-slider .qode-elliptical-slide .qode-elliptical-slide-content-holder{position:absolute;width:100%;height:100%;top:0;left:0;background:-webkit-linear-gradient(left,#292929 50%,transparent 50%);background:linear-gradient(90deg,#292929 50%,transparent 50%)}
+.qode-elliptical-slider .qode-elliptical-slide .qode-elliptical-slide-content-holder-inner{width:100%;height:100%;display:inline-block}
+.qode-elliptical-slider .qode-elliptical-slide .qode-elliptical-slide-content-wrapper{height:100%}
+.qode-elliptical-slider .qode-elliptical-slide .qode-elliptical-slide-content-wrapper .qode-elliptical-slide-wrapper-inner{width:50%;height:100%;box-sizing:border-box;display:table;position:relative}
+.qode-elliptical-slider .qode-elliptical-slide .qode-elliptical-slide-content-wrapper .qode-elliptical-slide-elements-holder{display:table-cell;vertical-align:middle;padding-right:50px}
+.qode-elliptical-slider .qode-elliptical-slide .qode-elliptical-slide-svg-holder{position:absolute;height:100%;right:0;top:0}
+.qode-elliptical-slider .qode-elliptical-slide .qode-elliptical-slide-svg-holder svg{width:auto;height:100%;vertical-align:middle;position:relative;left:100%;left:calc(100% - 2px)}
+.qode-elliptical-slider .qode-elliptical-slide .qode-elliptical-slide-svg-holder svg path{fill:#000}
+.qode-elliptical-slider .flex-control-nav.flex-control-paging{position:absolute;left:50px;top:50%;z-index:100;-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);transform:translateY(-50%)}
+.qode-elliptical-slider .flex-control-nav.flex-control-paging li{padding:3px 0}
+.qode-elliptical-slider .flex-control-nav.flex-control-paging li a{background-color:rgba(255,255,255,.4);border-radius:100%;display:block;width:10px;height:10px;text-indent:-9999px}
+.qode-elliptical-slider .flex-control-nav.flex-control-paging li a.flex-active{background-color:#fff}
+.qode-pricing-calculator{display:table;table-layout:fixed;width:100%;box-sizing:border-box;border:1px solid #e6e6e6}
+.qode-pricing-calculator .qode-pricing-calculator-items,.qode-pricing-calculator .qode-pricing-calculator-text-holder{display:table-cell;vertical-align:middle}
+.qode-pricing-calculator .qode-pricing-calculator-items{width:62%;box-sizing:border-box;border-right:1px solid;border-color:inherit}
+.qode-pricing-calculator .qode-pricing-calculator-text-holder{width:38%;text-align:center;padding:0 20px;box-sizing:border-box}
+.qode-pricing-calculator .qode-pricing-calculator-item{display:table;width:100%;padding:19px 15px;box-sizing:border-box;border-bottom:1px solid;border-color:inherit}
+@media only screen and (min-width:600px){.qode-pricing-calculator .qode-pricing-calculator-item:last-child{border-bottom:none}}
+.qode-pricing-calculator .qode-pricing-calculator-switcher-holder,.qode-pricing-calculator .qode-pricing-calculator-title-holder{display:table-cell;vertical-align:middle}
+.qode-pricing-calculator .qode-pricing-calculator-switcher-holder{width:1%}
+.qode-pricing-calculator .qode-pricing-calculator-title-holder{padding-left:22px}
+.qode-pricing-calculator .qode-pricing-calculator-total-price-holder{font-size:45px;color:#303030}
+.qode-pricing-calculator .qode-pricing-calculator-text{margin-bottom:0;padding:0;margin-top:32px}
+.qode-pricing-calculator .qode-pricing-calculator-subtitle{margin-top:10px;margin-bottom:0}
+.qode-pricing-calculator .qode-pricing-calculator-button-holder{display:block;margin-top:52px}
+.qode-pricing-calculator .qode-pricing-calculator-button-holder .qode-qbutton-full-width{padding-left:0!important;padding-right:0!important;box-sizing:initial!important}
+.qode-pricing-calculator .qode-pricing-calculator-switch{position:relative;display:inline-block;vertical-align:middle;width:77px;height:40px}
+.qode-pricing-calculator .qode-pricing-calculator-switch input{display:none}
+.qode-pricing-calculator .qode-pricing-calculator-switch .qode-pricing-calculator-slider{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background-color:#eae8e8;box-shadow:inset 0 0 3px 1px rgba(0,0,0,.1);-webkit-transition:.4s;-moz-transition:.4s;transition:.4s;border-radius:34px}
+.qode-pricing-calculator .qode-pricing-calculator-switch .qode-pricing-calculator-slider:before{position:absolute;content:"";height:34px;width:34px;left:3px;bottom:3px;background-color:#fff;box-shadow:0 0 3px 1px rgba(0,0,0,.1);border-radius:50%;-webkit-transition:.4s;-moz-transition:.4s;transition:.4s}
+.qode-pricing-calculator .qode-pricing-calculator-switch input:checked+.qode-pricing-calculator-slider{background-color:#1abc9c}
+.qode-advanced-pricing-table .qode-apt-row:nth-child(odd),.qode-comparative-features-table .qode-cft-row:nth-child(odd),.qode-specification-list{background-color:#fff}
+.qode-pricing-calculator .qode-pricing-calculator-switch input:checked+.qode-pricing-calculator-slider:before{-webkit-transform:translateX(37px);-moz-transform:translateX(37px);transform:translateX(37px)}
+.qode-specification-list .qode-specification-list-image img{vertical-align:middle}
+.qode-specification-list .qode-specification-list-text-holder{padding:28px 34px 34px}
+.qode-specification-list .qode-specification-list-items{margin-top:34px}
+.qode-specification-list .qode-specification-list-item{display:table;width:100%;table-layout:fixed;border-bottom:1px solid #e6e6e6;padding:4px 0}
+.qode-specification-list .qode-specification-list-item:last-child{border-bottom:none}
+.qode-specification-list .qode-specification-list-item .qode-specification-list-item-label,.qode-specification-list .qode-specification-list-item .qode-specification-list-item-value{width:50%;display:table-cell;vertical-align:middle}
+.qode-specification-list .qode-specification-list-item .qode-specification-list-item-value{text-align:right}
+.qode-comparative-features-table{border-collapse:collapse;box-sizing:border-box;border:1px solid #e3e3e3}
+.qode-comparative-features-table .qode-cft-row{display:table;width:100%;table-layout:fixed;border-bottom:1px dashed #e3e3e3;border-collapse:initial}

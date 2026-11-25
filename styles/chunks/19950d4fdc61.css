@@ -1,0 +1,202 @@
+.portfolio_slider .image_holder .separator.small{margin:10px auto;background-color:#fff}
+.projects_holder article .hover_feature_holder_title .separator.small,.projects_masonry_holder article .hover_feature_holder_title .separator.small{background-color:#fff;margin-top:10px;margin-bottom:10px}
+.projects_holder article .portfolio_description .separator.small{margin-top:10px;margin-bottom:10px}
+.wpb_column>.wpb_wrapper .portfolio_slider .image_holder .separator.small{background-color:#fff}
+.portfolio_slider .image_holder .separator.small.transparent{background-color:transparent!important}
+.projects_holder.hover_text article .hover_feature_holder_title .separator,.projects_holder.justified-gallery article .hover_feature_holder_title .separator{background-color:#fff}
+.projects_holder.hover_text article .hover_feature_holder_title .portfolio_title a,.projects_holder.hover_text article span.text_holder span.text_inner .hover_feature_holder_title .project_category,.projects_holder.justified-gallery article .hover_feature_holder_title .portfolio_title a,.projects_holder.justified-gallery article span.text_holder span.text_inner .hover_feature_holder_title .project_category{color:#fff}
+.projects_holder.hover_text article span.text_holder span.text_inner .hover_feature_holder_title .project_category,.projects_holder.justified-gallery article span.text_holder span.text_inner .hover_feature_holder_title .project_category{font-weight:500}
+.projects_holder.hover_text article .hover_feature_holder_title .portfolio_title,.projects_holder.justified-gallery article .hover_feature_holder_title .portfolio_title{margin:0 0 7px}
+.projects_holder article .portfolio_description .project_category,.projects_holder.hover_text article .project_category,.projects_holder.justified-gallery article .project_category{line-height:22px;display:block;font-size:13px;font-weight:500}
+article .qode-portfolio-new-badge{position:absolute;top:6px;right:5px;width:40px;height:40px;line-height:40px;text-align:center;font-size:9px;text-transform:uppercase;color:#fff;background-color:#303030;z-index:1000;border-radius:100%;font-weight:700;letter-spacing:1px}
+.portfolio_single .portfolio_like{position:relative;display:inline-block;cursor:pointer;padding:0}
+.portfolio_single .dots{padding:0 7px 0 4px}
+.portfolio_single .dots i{font-size:3px;vertical-align:middle}
+.portfolio_single .portfolio_like a{display:block;font-size:13px;line-height:13px;text-align:center}
+.portfolio_single .portfolio_like span{line-height:19px}
+.portfolio_slider .portfolio_like a:hover i,.portfolio_slider .portfolio_like span{color:#e0e0e0}
+.projects_holder article .portfolio_like a,.projects_holder article .portfolio_like:hover a{color:#fff}
+.projects_holder article span.text_holder{background-color:#000;background-color:rgba(21,21,21,.78);bottom:0;display:inline-block;height:100%;left:0;opacity:0;position:absolute;transition:opacity .4s ease-in-out;-webkit-transition:opacity .4s ease-in-out;-moz-transition:opacity .4s ease-in-out;-o-transition:opacity .4s ease-in-out;-ms-transition:opacity .4s ease-in-out;visibility:visible;overflow:hidden;width:100%;z-index:200}
+.touchevents .projects_holder article span.text_holder{display:none!important;height:0!important;width:0!important;opacity:0!important;visibility:hidden!important}
+.projects_holder article:hover span.text_holder{height:100%!important}
+.projects_holder article .image_holder:hover span.text_holder,.projects_holder article:hover .image_holder.portfolio_jg_image_link+span.text_holder{opacity:1;filter:alpha(opacity=100)}
+.projects_holder.hover_text.with_mask article .image_holder:hover .image_hover{opacity:0;filter:alpha(opacity=0)}
+.projects_holder article span.text_holder span.text_outer{display:table;text-align:center;vertical-align:middle;width:100%;height:100%;overflow:hidden}
+.projects_holder article span.text_holder span span.text_inner{display:table-cell;text-align:center;vertical-align:middle;width:100%;height:100%;margin:0;padding:0}
+.projects_holder article span.text_holder span span.text_inner .project_category{color:#A6A6A6;display:block;font-size:13px;line-height:22px}
+.projects_holder article .feature_holder,.projects_holder article .feature_holder .feature_holder_icons{display:inline-block}
+.projects_holder.hover_text article .feature_holder,.projects_holder.justified-gallery article .feature_holder{width:100%}
+.projects_holder.hover_text article .feature_holder .feature_holder_icons,.projects_holder.justified-gallery article .feature_holder .feature_holder_icons{margin:20px 0 0}
+.portfolio_slider,.portfolio_slides .image_holder{position:relative;display:block;-webkit-backface-visibility:hidden}
+.portfolio_slides .image_pixel_hover{position:absolute;height:100%;width:100%;display:block;background-color:transparent;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out;z-index:100}
+.touchevents .portfolio_slides .image_pixel_hover{display:none!important}
+.portfolio_slides li:hover .image_pixel_hover{background-color:#000;background-color:rgba(21,21,21,.78)}
+.portfolio_slides .image_holder .image{position:relative;display:block;overflow:hidden;width:100%;-webkit-transition:-webkit-transform .4s;-moz-transition:-moz-transform .4s;transition:transform .4s;-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden}
+.portfolio_slides .hover_feature_holder{position:absolute;display:block;top:0;left:0;width:100%;height:100%;z-index:101}
+.touchevents .portfolio_slides .hover_feature_holder{display:none!important}
+.portfolio_slides .hover_feature_holder_icons{position:relative;opacity:0;text-align:center;width:100%;margin:0 0 30px;-webkit-transition:opacity .4s ease-in-out .1s;-moz-transition:opacity .4s ease-in-out .1s;-o-transition:opacity .4s ease-in-out .1s;-ms-transition:opacity .4s ease-in-out .1s;transition:opacity .4s ease-in-out .1s;display:none}
+.gallery_holder ul li img,.portfolio_slides .hover_feature_holder_inner{-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out}
+.portfolio_slides li:hover .hover_feature_holder_icons{opacity:1}
+.portfolio_slides .hover_feature_holder_icons_inner{display:inline-block;position:relative}
+.portfolio_slides .hover_feature_holder_outer{position:relative;opacity:1!important;top:0;height:100%;display:table;width:100%}
+.portfolio_slides .hover_feature_holder_inner{height:100%;width:100%;top:0;-webkit-box-sizing:border-box;box-sizing:border-box;opacity:0;display:table-cell;vertical-align:middle;padding:0 5%;text-align:center;color:#fff;transition:all .3s ease-in-out;-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden}
+.portfolio_slides .hover_feature_holder_inner .portfolio_title{text-transform:uppercase;letter-spacing:1px}
+.portfolio_slides .hover_feature_holder_inner .portfolio_title a{color:#fff}
+.portfolio_slides .hover_feature_holder_inner .qbutton{margin-top:24px;margin-left:5px;margin-right:5px}
+.portfolio_slides .hover_feature_holder_inner .qbutton:hover{border-color:#1abc9c}
+.portfolio_slides li:hover .hover_feature_holder_inner{opacity:1}
+.projects_holder.hover_text article .image_holder{overflow:hidden}
+.projects_holder.hover_text.no_space article .image_holder{margin:0 -1px}
+.portfolio_slider .portfolio_like,.portfolio_slider a.lightbox,.portfolio_slider a.preview,.projects_holder article .portfolio_like,.projects_holder article a.lightbox,.projects_holder article a.preview{position:relative;display:inline-block;margin:0 0 5px;-webkit-backface-visibility:hidden}
+.portfolio_like .qode-like-count span,.portfolio_paging_loading{display:none}
+.portfolio_slider a.lightbox,.projects_holder article a.lightbox{margin:0 10px 0 0}
+.portfolio_slider .portfolio_like,.projects_holder article .portfolio_like{margin:0 0 0 10px}
+.portfolio_slider .portfolio_like i,.projects_holder article .portfolio_like i{line-height:20px;margin:4px 0 0}
+.portfolio_slider article .portfolio_like .qode-like-count,.projects_holder article .portfolio_like .qode-like-count{font-size:13px;line-height:13px;color:#fff}
+.filter_holder ul li.active span,.filter_holder ul li:hover span,.latest_post_two_holder .latest_post_two_text a:hover{color:#1abc9c!important}
+.projects_holder .filler{display:inline-block;height:0;vertical-align:middle}
+.projects_holder.hover_text.no_space .mix{float:left}
+.projects_holder.v6 .mix,.projects_holder.v6.hover_text .mix{width:15.7%;margin:0 0 1.2%}
+.projects_holder.v6.hover_text .mix{margin:0 0 1.7%}
+.projects_holder.v6 .filler,.projects_holder.v6.hover_text .filler{width:15.7%}
+.projects_holder.v6.hover_text.no_space .mix,.projects_holder.v6.standard_no_space .mix{width:16.66%;margin:0}
+.projects_holder.v6.standard_no_space .mix{margin:0}
+.projects_holder.v6.hover_text.no_space .filler,.projects_holder.v6.standard_no_space .filler{width:16.66%}
+.qode-safari .projects_holder.v6.hover_text.no_space .filler,.qode-safari .projects_holder.v6.hover_text.no_space .mix,.qode-safari .projects_holder.v6.standard_no_space .filler,.qode-safari .projects_holder.v6.standard_no_space .mix{width:16.6%}
+.projects_holder.v5 .mix,.projects_holder.v5.hover_text .mix{width:18%;margin:0 0 2.9%}
+.projects_holder.v5.hover_text .mix{margin:0 0 2%}
+.projects_holder.v5 .filler,.projects_holder.v5.hover_text .filler{width:18.5%}
+.projects_holder.v5.hover_text.no_space .mix,.projects_holder.v5.standard_no_space .mix{width:19.99%;margin:0}
+.projects_holder.v5.standard_no_space .mix{margin:0}
+.projects_holder.v5.hover_text.no_space .filler,.projects_holder.v5.standard_no_space .filler{width:19.99%}
+.qode-safari .projects_holder.v5.hover_text.no_space .filler,.qode-safari .projects_holder.v5.hover_text.no_space .mix,.qode-safari .projects_holder.v5.standard_no_space .filler,.qode-safari .projects_holder.v5.standard_no_space .mix{width:19.93%}
+.projects_holder.v4 .mix,.projects_holder.v4.hover_text .mix{width:23.5%;margin:0 0 2.5%}
+.projects_holder.v4.hover_text .mix{margin:0 0 2.2%}
+.projects_holder.v4 .filler,.projects_holder.v4.hover_text .filler{width:23.5%}
+.projects_holder.v4.hover_text.no_space .mix,.projects_holder.v4.standard_no_space .mix{width:24.99%;margin:0}
+.projects_holder.v4.standard_no_space .mix{margin:0}
+.projects_holder.v4.hover_text.no_space .filler,.projects_holder.v4.standard_no_space .filler{width:24.99%}
+.projects_holder.v3 .mix,.projects_holder.v3.hover_text .mix{width:32%;margin:0 0 2.4%}
+.projects_holder.v3.hover_text .mix{margin:0 0 2.2%}
+.projects_holder.v3 .filler,.projects_holder.v3.hover_text .filler{width:32%}
+.projects_holder.v3.hover_text.no_space .mix,.projects_holder.v3.standard_no_space .mix{width:33.32%;margin:0}
+.projects_holder.v3.standard_no_space .mix{margin:0}
+.projects_holder.v3.hover_text.no_space .filler,.projects_holder.v3.standard_no_space .filler{width:33.32%}
+.qode-safari .projects_holder.v3.hover_text.no_space .filler,.qode-safari .projects_holder.v3.hover_text.no_space .mix,.qode-safari .projects_holder.v3.standard_no_space .filler,.qode-safari .projects_holder.v3.standard_no_space .mix{width:33.3%}
+.projects_holder.v1 .mix,.projects_holder.v1.hover_text .mix{width:100%;margin:0 0 2.4%}
+.projects_holder.v1.hover_text .mix{margin:0 0 2.1%}
+.projects_holder.v1 .filler,.projects_holder.v1.hover_text .filler{width:100%}
+.projects_holder.v1.hover_text.no_space .mix,.projects_holder.v1.standard_no_space .mix{width:100%;margin:0}
+.projects_holder.v1.standard_no_space .mix{margin:0}
+.projects_holder.v1.hover_text.no_space .filler,.projects_holder.v1.standard_no_space .filler{width:100%}
+.projects_holder.v2 .mix,.projects_holder.v2.hover_text .mix{width:49%;margin:0 0 2.4%}
+.projects_holder.v2.hover_text .mix{margin:0 0 2.1%}
+.projects_holder.v2 .filler,.projects_holder.v2.hover_text .filler{width:49%}
+.projects_holder.v2.hover_text.no_space .mix,.projects_holder.v2.standard_no_space .mix{width:49.99%;margin:0}
+.projects_holder.v2.standard_no_space .mix{margin:0}
+.projects_holder.v2.hover_text.no_space .filler,.projects_holder.v2.standard_no_space .filler{width:49.99%}
+.portfolio_paging,.portfolio_paging_loading{text-align:center;margin:40px 0 0}
+.portfolio_with_space .portfolio_paging,.portfolio_with_space .portfolio_paging_loading{margin:15px 0 0}
+.filter_outer{display:table;width:100%;position:relative;height:37px;margin:-30px 0 40px;text-align:center}
+.vertical_menu_enabled .full_width .filter_outer{margin:0 0 40px}
+.filter_holder{display:table-cell;vertical-align:middle}
+.filter_holder ul{display:inline-block;list-style:none}
+.portfolio_holder_fwn .filter_holder ul li{opacity:0}
+.filter_holder ul li{cursor:pointer;display:block;margin:0;float:left;text-align:center}
+.filter_holder ul li span{display:inline-block;padding:0 22px;position:relative;letter-spacing:1px;text-transform:uppercase;font-weight:600}
+.filter_holder ul li span.filter_number_of_items{display:block;font-size:26px;line-height:1em;height:1em;margin-bottom:12px}
+.projects_masonry_holder{opacity:0}
+.projects_masonry_holder .portfolio_masonry_item,.projects_masonry_holder .qode-portfolio-masonry-gallery-grid-sizer{width:33.33%}
+.projects_masonry_holder .portfolio_masonry_item.large_width,.projects_masonry_holder .portfolio_masonry_item.large_width_height,.projects_masonry_holder .qode-portfolio-masonry-gallery-grid-sizer.large_width,.projects_masonry_holder .qode-portfolio-masonry-gallery-grid-sizer.large_width_height{width:66.66%}
+.full_width .projects_masonry_holder .portfolio_masonry_item,.full_width .projects_masonry_holder .qode-portfolio-masonry-gallery-grid-sizer{width:20%}
+.full_width .projects_masonry_holder .portfolio_masonry_item.large_width,.full_width .projects_masonry_holder .portfolio_masonry_item.large_width_height,.full_width .projects_masonry_holder .qode-portfolio-masonry-gallery-grid-sizer.large_width,.full_width .projects_masonry_holder .qode-portfolio-masonry-gallery-grid-sizer.large_width_height{width:40%}
+.full_width .projects_masonry_holder.gs4 .portfolio_masonry_item,.full_width .projects_masonry_holder.gs4 .qode-portfolio-masonry-gallery-grid-sizer{width:25%}
+.full_width .projects_masonry_holder.gs4 .portfolio_masonry_item.large_width,.full_width .projects_masonry_holder.gs4 .portfolio_masonry_item.large_width_height,.full_width .projects_masonry_holder.gs4 .qode-portfolio-masonry-gallery-grid-sizer.large_width,.full_width .projects_masonry_holder.gs4 .qode-portfolio-masonry-gallery-grid-sizer.large_width_height{width:50%}
+.full_width .projects_masonry_holder.gs3 .portfolio_masonry_item,.full_width .projects_masonry_holder.gs3 .qode-portfolio-masonry-gallery-grid-sizer{width:33.33%}
+.full_width .projects_masonry_holder.gs3 .portfolio_masonry_item.large_width,.full_width .projects_masonry_holder.gs3 .portfolio_masonry_item.large_width_height,.full_width .projects_masonry_holder.gs3 .qode-portfolio-masonry-gallery-grid-sizer.large_width,.full_width .projects_masonry_holder.gs3 .qode-portfolio-masonry-gallery-grid-sizer.large_width_height{width:66.66%}
+.projects_masonry_holder .portfolio_masonry_item:after,.projects_masonry_holder:after{clear:both;content:"";display:block;height:0;visibility:hidden}
+.projects_masonry_holder .image_holder img{vertical-align:top;width:100%;height:auto}
+.projects_masonry_holder .text_holder{position:absolute;top:0;left:0;width:100.1%;height:100%;background-color:rgba(0,0,0,.8);text-align:center;transition:opacity .4s ease-in-out;-webkit-transition:opacity .4s ease-in-out;-moz-transition:opacity .4s ease-in-out;-o-transition:opacity .4s ease-in-out;-ms-transition:opacity .4s ease-in-out;visibility:visible;overflow:hidden;z-index:200;opacity:0;filter:alpha(opacity=0)}
+.projects_masonry_holder .text_holder .text_outer{display:table;text-align:center;vertical-align:middle;width:100%;height:100%;overflow:hidden}
+.projects_masonry_holder .text_holder .text_inner{display:table-cell;text-align:center;vertical-align:middle;width:100%;height:100%;margin:0;padding:0}
+.projects_masonry_holder article.portfolio_masonry_item:hover .text_holder{opacity:1;filter:alpha(opacity=100)}
+.projects_masonry_holder .portfolio_title{margin:0 0 7px}
+.projects_masonry_holder .portfolio_title a{color:#fff}
+.masonry_with_space_only_image .project_category,.projects_masonry_holder .project_category{font-weight:500}
+.masonry_with_space_only_image .separator,.projects_masonry_holder .separator{background-color:#fff}
+.projects_masonry_holder .feature_holder_icons{margin:20px 0 0;display:inline-block}
+.projects_masonry_holder .feature_holder{width:100%;display:inline-block}
+.projects_masonry_holder a.lightbox{margin:0 10px 0 0}
+.projects_masonry_holder .portfolio_like{margin:0 0 0 10px}
+.projects_masonry_holder .portfolio_like a,.projects_masonry_holder .portfolio_like:hover a{color:#fff}
+.projects_masonry_holder.portfolio_masonry_gallery_with_space{margin:0 -15px}
+.projects_masonry_holder.portfolio_masonry_gallery_with_space .portfolio_masonry_item{box-sizing:border-box;padding:15px}
+.projects_masonry_holder.portfolio_masonry_gallery_with_space .portfolio_masonry_item .image_holder{position:relative;width:100%;height:100%}
+.projects_masonry_holder.portfolio_masonry_gallery_with_space .portfolio_masonry_item .image_holder img{max-height:100%}
+.projects_masonry_holder.portfolio_masonry_gallery_with_space .portfolio_masonry_item.large_height .image_holder{overflow:hidden}
+.projects_masonry_holder.portfolio_masonry_gallery_with_space .portfolio_masonry_item.large_height .image_holder img{height:100%;max-width:inherit;width:auto}
+.masonry_with_space .projects_holder{position:relative;opacity:0}
+.masonry_with_space .projects_holder .mix{display:block;padding:0 7px;margin:0 0 14px!important;-webkit-transition:none;-moz-transition:none;-o-transition:none;transition:none;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;visibility:visible}
+.masonry_with_space .projects_holder.v6 .mix,.masonry_with_space .projects_holder.v6 .qode-portfolio-masonry-gallery-grid-sizer{width:16.66%}
+.masonry_with_space .projects_holder.v5 .mix,.masonry_with_space .projects_holder.v5 .qode-portfolio-masonry-gallery-grid-sizer{width:20%}
+.masonry_with_space .projects_holder.v4 .mix,.masonry_with_space .projects_holder.v4 .qode-portfolio-masonry-gallery-grid-sizer{width:25%}
+.masonry_with_space .projects_holder.v3 .mix,.masonry_with_space .projects_holder.v3 .qode-portfolio-masonry-gallery-grid-sizer{width:33.33%}
+.masonry_with_space .projects_holder.v2 .mix,.masonry_with_space .projects_holder.v2 .qode-portfolio-masonry-gallery-grid-sizer{width:49.99%}
+.masonry_with_space .projects_holder.v1 .mix,.masonry_with_space .projects_holder.v1 .qode-portfolio-masonry-gallery-grid-sizer{width:100%}
+.projects_holder_outer:not(.masonry_with_space) .projects_holder.portfolio_one_by_one article{opacity:0!important;-moz-transition:opacity .4s ease-in-out;-webkit-transition:opacity .4s ease-in-out;transition:opacity .4s ease-in-out}
+.projects_holder_outer:not(.masonry_with_space) .projects_holder.portfolio_one_by_one article.show{opacity:1!important}
+.projects_holder_outer:not(.masonry_with_space) .projects_holder.portfolio_one_by_one article.qode-mix-hidden,.projects_holder_outer:not(.masonry_with_space) .projects_holder.portfolio_one_by_one article.show.qode-mix-hidden{opacity:0!important;visibility:hidden!important}
+.projects_holder_outer.masonry_with_space .projects_holder.portfolio_one_by_one article,.projects_masonry_holder.portfolio_one_by_one article{opacity:0;-moz-transition:opacity .4s ease-in-out;-webkit-transition:opacity .4s ease-in-out;transition:opacity .4s ease-in-out}
+.projects_holder_outer.masonry_with_space .projects_holder.portfolio_one_by_one article.show,.projects_masonry_holder.portfolio_one_by_one article.show{opacity:1}
+.projects_holder.slide_from_top article{overflow:hidden}
+.projects_holder.slide_from_top article .image_holder,.projects_holder.slide_from_top article .portfolio_description{opacity:0!important;-webkit-transform:translateY(-70%);transform:translateY(-70%);-moz-transition:-moz-transform .4s cubic-bezier(.4,0,.2,1),opacity .4s cubic-bezier(.4,0,.2,1);-webkit-transition:-webkit-transform .4s cubic-bezier(.4,0,.2,1),opacity .4s cubic-bezier(.4,0,.2,1);transition:transform .4s cubic-bezier(.4,0,.2,1),opacity .4s cubic-bezier(.4,0,.2,1)}
+.projects_holder.slide_from_top article.show .image_holder,.projects_holder.slide_from_top article.show .portfolio_description{opacity:1!important;-webkit-transform:translateY(0);transform:translateY(0)}
+.projects_holder.diagonal_fade article{opacity:0!important;-moz-transition:opacity .4s ease-in-out,-moz-transform .4s ease-in-out;-webkit-transition:opacity .4s ease-in-out,-webkit-transform .4s ease-in-out;transition:opacity .4s ease-in-out,transform .4s ease-in-out;-webkit-transform:scale(.8);-moz-transform:scale(.8);transform:scale(.8)}
+.projects_holder.diagonal_fade article.show{opacity:1!important;-webkit-transform:scale(1);transform:scale(1)}
+.projects_holder.slide_from_left article{overflow:hidden}
+.projects_holder.slide_from_left article .image_holder,.projects_holder.slide_from_left article .portfolio_description{opacity:0!important;-webkit-transform:translateX(-100%);transform:translateX(-100%);-moz-transition:-moz-transform .3s cubic-bezier(.4,0,.2,1),opacity .3s cubic-bezier(.4,0,.2,1);-webkit-transition:-webkit-transform .3s cubic-bezier(.4,0,.2,1),opacity .3s cubic-bezier(.4,0,.2,1);transition:transform .3s cubic-bezier(.4,0,.2,1),opacity .3s cubic-bezier(.4,0,.2,1)}
+.projects_holder.slide_from_left article.show .image_holder,.projects_holder.slide_from_left article.show .portfolio_description{opacity:1!important;-webkit-transform:translateX(0);transform:translateX(0)}
+.projects_holder_outer.justified_gallery article{opacity:0;-ms-transition:opacity .8s ease;-webkit-transition:opacity .8s ease;transition:opacity .8s ease}
+.projects_holder_outer.justified_gallery article.show{opacity:1}
+.masonry_with_space_only_image .hover_feature_holder_title_inner .portfolio_title,.masonry_with_space_only_image .hover_feature_holder_title_inner .portfolio_title a,.masonry_with_space_only_image .projects_holder article span.text_holder span span.text_inner .project_category{color:#fff}
+.projects_holder.standard article .item_holder.image_text_zoom_hover .project_category{margin-bottom:10px}
+.masonry_with_space_only_image .feature_holder{margin-top:30px}
+.projects_holder.alternating_sizes .mix{margin-bottom:3%;box-shadow:0 7px 20px rgba(0,0,0,.15)}
+.projects_holder.alternating_sizes .mix:nth-child(2n){-webkit-transform:scale(.75);-moz-transform:scale(.75);transform:scale(.75)}
+.portfolio_main_holder .item_holder{position:relative}
+.portfolio_main_holder.justified-gallery .item_holder{position:absolute;top:0;left:0;width:100%;height:100%}
+.projects_holder article a.portfolio_link_class,.projects_masonry_holder article a.portfolio_link_class{position:absolute;width:100%;height:100%;z-index:5;left:0}
+.portfolio_main_holder .item_holder .text_holder{position:absolute}
+.portfolio_main_holder .project_category{margin:0;display:block;line-height:1;font-size:12px}
+.portfolio_main_holder .item_holder .text_holder_outer{display:table;width:100%;height:100%}
+.portfolio_main_holder .item_holder .text_holder_inner{display:table-cell;vertical-align:middle;text-align:center}
+.portfolio_main_holder .item_holder .portfolio_shader{position:absolute;width:100%;height:100%;background-color:rgba(21,21,21,.78)}
+.portfolio_main_holder .item_holder .icons_holder{font-family:Raleway,sans-serif}
+.portfolio_main_holder .item_holder .icons_holder a{text-align:center}
+.portfolio_main_holder .item_holder .portfolio_title{line-height:1.25em}
+.portfolio_slider_holder.standard li .project_category,.projects_holder.standard article .project_category,.projects_holder.standard_no_space article .project_category{margin:10px 0 0}
+.portfolio_main_holder article .icons_holder a.portfolio_lightbox:before,.portfolio_slides .icons_holder a.portfolio_lightbox:before{font-family:FontAwesome;content:"\f067";line-height:inherit}
+.portfolio_main_holder article .icons_holder a.qode-like:before,.portfolio_slides .icons_holder a.qode-like:before{font-family:FontAwesome;content:"\f08a";line-height:inherit}
+.portfolio_main_holder article .icons_holder a.qode-like.liked:before,.portfolio_slides .icons_holder a.qode-like.liked:before{font-family:FontAwesome;content:"\f004";line-height:inherit}
+.portfolio_main_holder article .icons_holder a.preview:before,.portfolio_slides .icons_holder a.preview:before{content:"\f0c1";font-family:FontAwesome;line-height:inherit}
+.portfolio_main_holder .item_holder .portfolio_title a,.portfolio_main_holder .item_holder .project_category{color:#fff}
+.portfolio_main_holder .item_holder .portfolio_title{margin-bottom:15px}
+.projects_holder article .item_holder.subtle_vertical_hover a.portfolio_link_class,.projects_masonry_holder article .item_holder.subtle_vertical_hover a.portfolio_link_class{z-index:5}
+.portfolio_main_holder .item_holder.subtle_vertical_hover .image_holder{z-index:2}
+.portfolio_main_holder .item_holder.subtle_vertical_hover .text_holder{font-size:14px;width:100%;position:absolute;left:0;height:100%;background-color:transparent;top:0;text-align:center;box-sizing:border-box;z-index:4;opacity:0}
+.portfolio_main_holder article .item_holder.subtle_vertical_hover:hover .text_holder,.portfolio_slider li.item:hover .item_holder.subtle_vertical_hover .text_holder{opacity:1}
+.portfolio_main_holder .item_holder.subtle_vertical_hover .text_holder_inner{padding:5px}
+.portfolio_main_holder .item_holder.subtle_vertical_hover .portfolio_title{text-transform:uppercase;opacity:0;padding:0 20px;-ms-transform:translateY(0);-moz-transform:translateY(0);-o-transform:translateY(0);transform:translateY(0);-webkit-transform:translateY(0);transition:all .3s ease-out;-webkit-transition:all .3s ease-out}
+.portfolio_main_holder article:hover .item_holder.subtle_vertical_hover .portfolio_title,.portfolio_slider li.item:hover .item_holder.subtle_vertical_hover .portfolio_title{opacity:1;text-shadow:none;-ms-transform:translateY(4px);-moz-transform:translateY(4px);-o-transform:translateY(4px);transform:translateY(4px);-webkit-transform:translateY(4px);transition:all .3s ease-out;-webkit-transition:all .3s ease-out}
+.portfolio_main_holder .item_holder.subtle_vertical_hover .text_holder .separator{display:inline-block;background-color:#fff;margin-top:20px}
+.portfolio_main_holder .item_holder.subtle_vertical_hover .project_category{opacity:0;-ms-transform:translateY(4px);-moz-transform:translateY(4px);-o-transform:translateY(4px);transform:translateY(4px);-webkit-transform:translateY(4px);transition:all .4s ease-out;-webkit-transition:all .4s ease-out;margin-bottom:10px}
+.portfolio_main_holder article:hover .item_holder.subtle_vertical_hover .project_category,.portfolio_slider li.item:hover .item_holder.subtle_vertical_hover .project_category{opacity:1;text-shadow:none;-ms-transform:translateY(0);-moz-transform:translateY(0);-o-transform:translateY(0);transform:translateY(0);-webkit-transform:translateY(0)}
+.portfolio_main_holder .item_holder.subtle_vertical_hover .icons_holder{-ms-transform:translateY(4px);-moz-transform:translateY(4px);-o-transform:translateY(4px);transform:translateY(4px);-webkit-transform:translateY(4px);transition:all .4s ease-out;-webkit-transition:all .4s ease-out}
+.portfolio_main_holder article .item_holder.subtle_vertical_hover:hover .icons_holder,.portfolio_slider li.item:hover .item_holder.subtle_vertical_hover .icons_holder{-ms-transform:translateY(0);-moz-transform:translateY(0);-o-transform:translateY(0);transform:translateY(0);-webkit-transform:translateY(0)}
+.portfolio_main_holder .item_holder.subtle_vertical_hover .icons_holder a{display:inline-block;width:40px;height:40px;line-height:40px;background-color:#1abc9c;border-radius:100px;margin:0 3px;color:#fff;transition:.2s ease-out;-webkit-transition:.2s ease-out}
+.portfolio_main_holder .item_holder.subtle_vertical_hover .portfolio_shader{z-index:3;-webkit-transition:opacity .3s cubic-bezier(.785,.135,.15,.86);transition:opacity .3s cubic-bezier(.785,.135,.15,.86);opacity:0}
+.portfolio_main_holder article .item_holder.image_subtle_rotate_zoom_hover a.portfolio_link_class,.portfolio_main_holder article .item_holder.image_text_zoom_hover a.portfolio_link_class{z-index:5}
+.portfolio_main_holder article .item_holder.subtle_vertical_hover:hover .portfolio_shader,.portfolio_slider li.item:hover .item_holder.subtle_vertical_hover .portfolio_shader{opacity:1}
+.portfolio_main_holder .item_holder.image_subtle_rotate_zoom_hover .image_holder{z-index:2;overflow:hidden}
+.portfolio_main_holder .item_holder.image_subtle_rotate_zoom_hover .text_holder{padding:30px;font-size:14px;width:100%;position:absolute;left:0;height:100%;background-color:transparent;top:0;box-sizing:border-box;z-index:4;opacity:1}
+.portfolio_with_hover_text .portfolio_main_holder .item_holder.image_subtle_rotate_zoom_hover .separator{background-color:#fff;opacity:0;-webkit-transition:opacity .4s ease-out;-moz-transition:opacity .4s ease-out;-ms-transition:opacity .4s ease-out;-o-transition:opacity .4s ease-out;transition:opacity .4s ease-out}

@@ -1,0 +1,15 @@
+body.e--ua-safari .qodef-qi-dropcaps.qodef-letter-clip-effect .qodef-m-letter{display:block}
+.qodef-qi-dropcaps .qodef-m-letter{float:left;font-size:60px;line-height:1em;width:1em;height:1em;display:inline-flex;align-items:center;justify-content:center}
+.qodef-qi-dropcaps .qodef-m-text{margin:0}
+.qodef-qi-dual-image-with-content{position:relative;display:flex}
+.qodef-qi-dual-image-with-content.qodef--content-right{flex-direction:row-reverse}
+.qodef-qi-dual-image-with-content .qodef-dual-content{display:flex;width:50%;flex-direction:column;align-items:flex-start;justify-content:space-between;padding:100px;background-color:#f6f6f6}
+.qodef-qi-dual-image-with-content .qodef-m-inner-content>.qodef-m-title{margin:0 0 .5em}
+.qodef-qi-dual-image-with-content .qodef-m-inner-content>.qodef-m-text{margin:0 0 .5em}
+.qodef-qi-dual-image-with-content .qodef-m-inner-bottom{width:100%}
+.qodef-qi-dual-image-with-content .qodef-m-content-shortcode{position:relative}
+.qodef-qi-dual-image-with-content .qodef-image-holder{--holder_height:auto;position:relative;flex:1;height:var(--holder_height)}
+.qodef-qi-dual-image-with-content .qodef-m-main-image{width:100%;height:100%}
+.qodef-qi-dual-image-with-content .qodef-m-main-image img{height:100%;object-fit:cover}
+.qodef-qi-dual-image-with-content .qodef-m-second-image{position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center}
+.qodef-qi-dual-image-with-content.qodef-decoration--underline .qodef-e-decorated{text-decoration:underline}

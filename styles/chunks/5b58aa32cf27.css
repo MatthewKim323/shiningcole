@@ -1,0 +1,13 @@
+.qodef-qi-grid>.qodef-grid-inner{position:relative;display:grid;gap:30px}
+.qodef-qi-grid>.qodef-grid-inner>.qodef-grid-item.qodef-order--1{order:1}
+.qodef-qi-grid>.qodef-grid-inner>.qodef-grid-item.qodef-order--2{order:2}
+.qodef-qi-grid>.qodef-grid-inner>.qodef-grid-item.qodef-order--3{order:3}
+.qodef-qi-grid>.qodef-grid-inner>.qodef-grid-item.qodef-order--4{order:4}
+.qodef-qi-grid>.qodef-grid-inner>.qodef-grid-item.qodef-order--5{order:5}
+.qodef-qi-grid>.qodef-grid-inner>.qodef-grid-item.qodef-order--6{order:6}
+.qodef-qi-grid>.qodef-grid-inner>.qodef-grid-item.qodef-order--7{order:7}
+.qodef-qi-grid>.qodef-grid-inner>.qodef-grid-item.qodef-order--8{order:8}
+.qodef-qi-grid>.qodef-grid-inner>.qodef-grid-item.qodef-order--9{order:9}
+.qodef-qi-grid>.qodef-grid-inner>.qodef-grid-item.qodef-order--10{order:10}
+.qodef-qi-grid>.qodef-grid-inner>.qodef-grid-item.qodef-order--11{order:11}
+.qodef-qi-grid>.qodef-grid-inner.qodef-qi-clear:after,.qodef-qi-grid>.qodef-grid-inner.qodef-qi-clear:before{display:none!important}

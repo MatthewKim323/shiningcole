@@ -1,0 +1,6 @@
+:root .has-text-align-left{text-align:left}
+:root .has-text-align-right{text-align:right}
+.has-fit-text{white-space:nowrap!important}
+#end-resizable-editor-section{display:none}
+.aligncenter{clear:both}
+.items-justified-left{justify-content:flex-start}

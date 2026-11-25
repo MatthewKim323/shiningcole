@@ -1,0 +1,10 @@
+.qodef-qi-device-slider .qodef-m-item{height:100%}
+.qodef-qi-device-slider .qodef-m-item a{height:100%}
+.qodef-qi-device-slider .qodef-m-item img{height:100%;object-fit:cover}
+@media only screen and (max-width:1024px){.qodef-device-slider-holder{margin-bottom:96px}.qodef-device-slider-holder .swiper-pagination-bullets{bottom:-96px!important}}
+@media only screen and (max-width:768px){.qodef-device-slider-holder{margin-bottom:86px}.qodef-device-slider-holder .swiper-pagination-bullets{bottom:-86px!important}}
+@media only screen and (max-width:680px){.qodef-device-slider-holder{margin-bottom:76px}.qodef-device-slider-holder .swiper-pagination-bullets{bottom:-76px!important}}
+@media only screen and (max-width:480px){.qodef-device-slider-holder{margin-bottom:46px}.qodef-device-slider-holder .swiper-pagination-bullets{bottom:-46px!important}}
+.qodef-qi-dropcaps{position:relative}
+.qodef-qi-dropcaps.qodef-letter-stroke-effect .qodef-m-letter{color:transparent!important;-webkit-text-stroke-width:1px;-webkit-text-stroke-color:#333;text-shadow:none}
+.qodef-qi-dropcaps.qodef-letter-clip-effect .qodef-m-letter{-webkit-background-clip:text;-webkit-text-fill-color:transparent}

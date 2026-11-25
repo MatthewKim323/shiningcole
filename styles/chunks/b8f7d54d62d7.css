@@ -1,0 +1,34 @@
+.qodef-qi-timeline.qodef-timeline-layout--vertical-side .qodef-e-side-holder{width:250px;flex-shrink:0;margin:0 0 0 10%}
+@media only screen and (max-width:1024px){.qodef-qi-timeline.qodef-timeline-layout--vertical-side .qodef-e-side-holder{margin:0 0 10%}}
+.qodef-qi-timeline.qodef-timeline-layout--vertical-side .qodef-e-image{border-radius:50%}
+.qodef-qi-typeout-text .qodef-m-text{margin:0}
+.qodef-qi-advanced-timeline{position:relative;display:inline-block;width:100%;vertical-align:top;opacity:0;transition:opacity .2s}
+.qodef-qi-advanced-timeline:before{content:"desktop";display:none}
+@media only screen and (max-width:1024px){.qodef-qi-advanced-timeline:before{content:"mobile"}}
+.qodef-qi-advanced-timeline.qodef-loaded{opacity:1}
+.qodef-qi-advanced-timeline *,.qodef-qi-advanced-timeline :after,.qodef-qi-advanced-timeline :before{box-sizing:border-box}
+.qodef-qi-advanced-timeline ol,.qodef-qi-advanced-timeline ul{margin:0!important;padding:0;list-style-type:none}
+.qodef-qi-advanced-timeline .qodef-at-nav{position:relative;display:inline-block;width:100%;vertical-align:top}
+.qodef-qi-advanced-timeline .qodef-at-nav-wrapper{position:relative;display:inline-block;vertical-align:top;width:calc(100% - 12px);height:62px;margin:0 6px;overflow:hidden;cursor:grab}
+.qodef-qi-advanced-timeline .qodef-at-nav-inner{position:absolute;bottom:25px;left:0;height:4px;background-color:#ebebeb;transition:transform .4s}
+.qodef-qi-advanced-timeline .qodef-at-nav-inner a{position:absolute;bottom:0;text-align:center;z-index:2}
+.qodef-qi-advanced-timeline .qodef-at-nav-inner a span{display:block;color:#111;font-size:16px;line-height:24px;font-weight:500}
+.qodef-qi-advanced-timeline .qodef-at-nav-inner a.qodef-selected{pointer-events:none}
+.qodef-qi-advanced-timeline .qodef-at-nav-inner a.qodef-selected:after{background-color:#000}
+.qodef-qi-advanced-timeline .qodef-at-nav-inner a.qodef-older-event:after{background-color:#000}
+.qodef-qi-advanced-timeline .qodef-at-nav-inner a:after{content:"";position:relative;display:block;bottom:-5px;left:calc(50% - 7px);height:15px;width:15px;background-color:#000;box-sizing:border-box;transition:background-color .3s;border-radius:50%}
+.qodef-qi-advanced-timeline.qodef-qi-advanced-timeline-has-icon-points .qodef-at-nav-inner a:after{display:none}
+.qodef-qi-advanced-timeline.qodef-qi-advanced-timeline-has-icon-points .qodef-at-nav-inner a .qodef-e-icon-holder{position:relative;display:inline-block;bottom:-2px;height:27px;width:27px;line-height:27px;border-radius:50%}
+.qodef-qi-advanced-timeline .qodef-at-nav-filling-line{position:absolute;top:0;left:0;height:100%;width:100%;background-color:#000;z-index:1;transition:transform .3s;transform-origin:left center;transform:scaleX(0)}
+.qodef-qi-advanced-timeline .qodef-at-nav-navigation a{position:absolute;bottom:13px;line-height:1;box-sizing:border-box;z-index:2}
+.qodef-qi-advanced-timeline .qodef-at-nav-navigation a .qodef-m-nav-icon{display:block;text-align:center;transition:background-color .2s ease-out}
+.qodef-qi-advanced-timeline .qodef-at-nav-navigation a svg{width:15px;height:24px;fill:currentColor;transition:color .2s ease;vertical-align:middle;position:relative;top:-1px}
+.qodef-qi-advanced-timeline .qodef-at-nav-navigation a.qodef-prev{left:0}
+.qodef-qi-advanced-timeline .qodef-at-nav-navigation a.qodef-next{right:0}
+.qodef-qi-advanced-timeline .qodef-at-nav-navigation a.qodef-inactive{cursor:not-allowed}
+.qodef-qi-advanced-timeline .qodef-at-content{position:relative;display:inline-block;width:100%;vertical-align:top;margin-top:47px;overflow:hidden;transition:height .4s;cursor:grab;-webkit-user-select:none;-ms-user-select:none;user-select:none}
+@media only screen and (max-width:1024px){.qodef-qi-advanced-timeline .qodef-at-content{margin-top:40px}}
+.qodef-qi-advanced-timeline .qodef-at-content .qodef-at-content-inner{display:flex;column-gap:52px;row-gap:40px}
+@media only screen and (max-width:1024px){.qodef-qi-advanced-timeline .qodef-at-content .qodef-at-content-inner{flex-wrap:wrap}}
+.qodef-qi-advanced-timeline .qodef-at-content .qodef-at-content-inner.qodef-advanced-timeline-has-image img{-webkit-user-select:none;-ms-user-select:none;user-select:none;pointer-events:none}
+.qodef-qi-advanced-timeline .qodef-at-content .qodef-at-content-inner.qodef-advanced-timeline-has-image>*{width:50%}

@@ -1,0 +1,126 @@
+.fa5.fa-get-pocket:before{content:"\f265"}
+.fa5.fa-perbyte:before{content:"\e083"}
+.fa5.fa-grunt:before{content:"\f3ad"}
+.fa5.fa-weebly:before{content:"\f5cc"}
+.fa5.fa-connectdevelop:before{content:"\f20e"}
+.fa5.fa-leanpub:before{content:"\f212"}
+.fa5.fa-black-tie:before{content:"\f27e"}
+.fa5.fa-themeco:before{content:"\f5c6"}
+.fa5.fa-python:before{content:"\f3e2"}
+.fa5.fa-android:before{content:"\f17b"}
+.fa5.fa-bots:before{content:"\e340"}
+.fa5.fa-free-code-camp:before{content:"\f2c5"}
+.fa5.fa-hornbill:before{content:"\f592"}
+.fa5.fa-js:before{content:"\f3b8"}
+.fa5.fa-ideal:before{content:"\e013"}
+.fa5.fa-git:before{content:"\f1d3"}
+.fa5.fa-dev:before{content:"\f6cc"}
+.fa5.fa-sketch:before{content:"\f7c6"}
+.fa5.fa-yandex-international:before{content:"\f414"}
+.fa5.fa-cc-amex:before{content:"\f1f3"}
+.fa5.fa-uber:before{content:"\f402"}
+.fa5.fa-github:before{content:"\f09b"}
+.fa5.fa-php:before{content:"\f457"}
+.fa5.fa-alipay:before{content:"\f642"}
+.fa5.fa-youtube:before{content:"\f167"}
+.fa5.fa-skyatlas:before{content:"\f216"}
+.fa5.fa-firefox-browser:before{content:"\e007"}
+.fa5.fa-replyd:before{content:"\f3e6"}
+.fa5.fa-suse:before{content:"\f7d6"}
+.fa5.fa-jenkins:before{content:"\f3b6"}
+.fa5.fa-twitter:before{content:"\f099"}
+.fa5.fa-rockrms:before{content:"\f3e9"}
+.fa5.fa-pinterest:before{content:"\f0d2"}
+.fa5.fa-buffer:before{content:"\f837"}
+.fa5.fa-npm:before{content:"\f3d4"}
+.fa5.fa-yammer:before{content:"\f840"}
+.fa5.fa-btc:before{content:"\f15a"}
+.fa5.fa-dribbble:before{content:"\f17d"}
+.fa5.fa-stumbleupon-circle:before{content:"\f1a3"}
+.fa5.fa-internet-explorer:before{content:"\f26b"}
+.fa5.fa-stubber:before{content:"\e5c7"}
+.fa5.fa-telegram-plane:before,.fa5.fa-telegram:before{content:"\f2c6"}
+.fa5.fa-old-republic:before{content:"\f510"}
+.fa5.fa-odysee:before{content:"\e5c6"}
+.fa5.fa-square-whatsapp:before,.fa5.fa-whatsapp-square:before{content:"\f40c"}
+.fa5.fa-node-js:before{content:"\f3d3"}
+.fa5.fa-edge-legacy:before{content:"\e078"}
+.fa5.fa-slack-hash:before,.fa5.fa-slack:before{content:"\f198"}
+.fa5.fa-medrt:before{content:"\f3c8"}
+.fa5.fa-usb:before{content:"\f287"}
+.fa5.fa-tumblr:before{content:"\f173"}
+.fa5.fa-vaadin:before{content:"\f408"}
+.fa5.fa-quora:before{content:"\f2c4"}
+.fa5.fa-square-x-twitter:before{content:"\e61a"}
+.fa5.fa-reacteurope:before{content:"\f75d"}
+.fa5.fa-medium-m:before,.fa5.fa-medium:before{content:"\f23a"}
+.fa5.fa-amilia:before{content:"\f36d"}
+.fa5.fa-mixcloud:before{content:"\f289"}
+.fa5.fa-flipboard:before{content:"\f44d"}
+.fa5.fa-viacoin:before{content:"\f237"}
+.fa5.fa-critical-role:before{content:"\f6c9"}
+.fa5.fa-sitrox:before{content:"\e44a"}
+.fa5.fa-discourse:before{content:"\f393"}
+.fa5.fa-joomla:before{content:"\f1aa"}
+.fa5.fa-mastodon:before{content:"\f4f6"}
+.fa5.fa-airbnb:before{content:"\f834"}
+.fa5.fa-wolf-pack-battalion:before{content:"\f514"}
+.fa5.fa-buy-n-large:before{content:"\f8a6"}
+.fa5.fa-gulp:before{content:"\f3ae"}
+.fa5.fa-creative-commons-sampling-plus:before{content:"\f4f1"}
+.fa5.fa-strava:before{content:"\f428"}
+.fa5.fa-ember:before{content:"\f423"}
+.fa5.fa-canadian-maple-leaf:before{content:"\f785"}
+.fa5.fa-teamspeak:before{content:"\f4f9"}
+.fa5.fa-pushed:before{content:"\f3e1"}
+.fa5.fa-wordpress-simple:before{content:"\f411"}
+.fa5.fa-nutritionix:before{content:"\f3d6"}
+.fa5.fa-wodu:before{content:"\e088"}
+.fa5.fa-google-pay:before{content:"\e079"}
+.fa5.fa-intercom:before{content:"\f7af"}
+.fa5.fa-zhihu:before{content:"\f63f"}
+.fa5.fa-korvue:before{content:"\f42f"}
+.fa5.fa-pix:before{content:"\e43a"}
+.fa5.fa-steam-symbol:before{content:"\f3f6"}
+.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}
+.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}
+@font-face{font-family:'Font Awesome 5 Free';font-style:normal;font-weight:400;font-display:auto;src:url(/fonts/font-0e29105c17.woff2) format("woff2"),url(/fonts/font-5f6255a724.ttf) format("truetype")}
+.fa5.far{font-weight:400}
+@font-face{font-family:'Font Awesome 5 Free';font-style:normal;font-weight:900;font-display:auto;src:url(/fonts/font-f659129778.woff2) format("woff2"),url(/fonts/font-b312b5eb07.ttf) format("truetype")}
+.fa5.fa,.fa5.fas{font-weight:900}
+@font-face{font-family:'Font Awesome 5 Brands';font-style:normal;font-weight:400;font-display:auto;src:url(/fonts/font-70fd5e48ff.woff2) format("woff2"),url(/fonts/font-a2ffc46db0.ttf) format("truetype")}
+.fa5.fab{font-family:'Font Awesome 5 Brands'!important}
+.drop_down .second .inner ul.right li a,.drop_down .second .inner ul.right li h5,.text-align-right{text-align:right}
+.bypostauthor,.gallery-caption,.sticky,.wp-caption,.wp-caption-text{opacity:1}
+.clearfix:after,.clearfix:before{content:" ";display:table}
+.aligncenter,.clear:after,article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block}
+.clearfix:after{clear:both}
+.clear:after{clear:both;content:""}
+::selection{background:#1abc9c;color:#fff}
+::-moz-selection{background:#1abc9c;color:#fff}
+.alignleft{float:left;margin:0 20px 20px 0}
+.alignright{float:right;margin:0 0 20px 20px}
+.aligncenter{margin:10px auto}
+.header_top .aligncenter{margin:8px auto}
+.text-align-left{text-align:left}
+.ajax_loader .stripes,.ajax_loader .two_rotating_circles,.ajax_loader .wave,.text-align-center,header.centered_logo,table td,table th{text-align:center}
+.content ol ol,.content ul ul{padding:0 0 0 15px}
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{background:0 0;border:0;margin:0;padding:0;vertical-align:baseline;outline:0}
+a img,table{border:none}
+blockquote:after,blockquote:before{content:'';content:none}
+sup{font-size:.5em;vertical-align:super}
+del{text-decoration:line-through}
+table{border-collapse:collapse;border-spacing:0;vertical-align:middle}
+table th{border:0;padding:5px 7px}
+table td{padding:5px 10px}
+img{max-width:100%;height:auto;image-rendering:optimizeQuality;vertical-align:middle}
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{color:#303030}
+body:not([class*=bridge-core]) .h1,body:not([class*=bridge-core]) .h2,body:not([class*=bridge-core]) .h3,body:not([class*=bridge-core]) .h4,body:not([class*=bridge-core]) .h5,body:not([class*=bridge-core]) .h6,body:not([class*=bridge-core]) h1,body:not([class*=bridge-core]) h2,body:not([class*=bridge-core]) h3,body:not([class*=bridge-core]) h4,body:not([class*=bridge-core]) h5,body:not([class*=bridge-core]) h6{margin:20px 0}
+.h1,body.qode-overridden-elementors-fonts .elementor-widget-heading h1.elementor-heading-title,h1{font-size:30px;line-height:1.25em}
+.h2,body.qode-overridden-elementors-fonts .elementor-widget-heading h2.elementor-heading-title,h2{font-size:24px;line-height:1.384615384615385em;text-transform:uppercase;letter-spacing:1px;font-weight:600}
+.h3,body.qode-overridden-elementors-fonts .elementor-widget-heading h3.elementor-heading-title,h3{font-size:17px;line-height:1.304347826086957em;text-transform:uppercase;letter-spacing:1px;font-weight:600}
+.h4,body.qode-overridden-elementors-fonts .elementor-widget-heading h4.elementor-heading-title,h4{font-size:19px;line-height:1.375em;font-weight:400}
+.h5,body.qode-overridden-elementors-fonts .elementor-widget-heading h5.elementor-heading-title,h5{font-size:15px;line-height:1.571428571428571em;text-transform:uppercase;letter-spacing:1px;font-weight:600}
+.h6,body.qode-overridden-elementors-fonts .elementor-widget-heading h6.elementor-heading-title,h6{font-size:13px;line-height:1.538461538461538em;text-transform:uppercase;letter-spacing:1px;font-weight:600}
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:#303030;-webkit-transition:color .1s linear;-moz-transition:color .1s linear;transition:color .1s linear}
+h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover{color:#1abc9c}

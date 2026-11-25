@@ -1,0 +1,7 @@
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode{align-items:flex-start;background-color:#fff;border:1px solid #e0e0e0;border-radius:6px;display:flex;gap:16px;padding:16px}
+@media(max-width:600px){.wp-block-jetpack-podcast-episode .jetpack-podcast-episode{flex-direction:column}}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__poster{flex:0 0 auto;inline-size:160px;margin:0;max-inline-size:40%}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__poster img{aspect-ratio:1;border-radius:4px;display:block;inline-size:100%;object-fit:cover}
+@media(max-width:600px){.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__poster{inline-size:100%;max-inline-size:100%}}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__body{display:flex;flex:1 1 auto;flex-direction:column;gap:8px;min-inline-size:0}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__meta-line{color:#757575;display:flex;flex-wrap:wrap;font-size:.85em;gap:8px;letter-spacing:.03em;margin:0;text-transform:uppercase}

@@ -1,0 +1,32 @@
+.qode-vertical-portfolio-slider .qode-vps-title-two .qode-vps-tt-one{clip-path:polygon(0 0,69% 0,21% 100%,0 100%)}
+.qode-vertical-portfolio-slider .qode-vps-title-two .qode-vps-tt-two{position:absolute;left:-12px;top:5px;clip-path:polygon(66% 0,96% 0,77% 100%,25% 100%)}
+.qode-vertical-portfolio-slider .qode-vps-title-two .qode-vps-tt-three{position:absolute;left:-6px;top:-3px;clip-path:polygon(96% 0,100% 0,100% 100%,77% 100%)}
+.qode-vertical-portfolio-slider .qode-vps-bottom{display:flex;align-items:center;position:absolute;bottom:30px;left:26.2%;white-space:nowrap}
+.qode-vertical-portfolio-slider .qode-read-more{font-size:13px;text-transform:uppercase;letter-spacing:.3em;margin-top:20px}
+.qode-vertical-portfolio-slider .qode-read-more a{display:flex;align-items:center;white-space:nowrap}
+.qode-vertical-portfolio-slider .qode-read-more .qode-read-more-icon{margin-right:18px;display:inline-flex;align-items:center;justify-content:center;width:72px;height:72px;border-radius:50%;border:1px solid #000;position:relative}
+.qode-vertical-portfolio-slider .qode-read-more .qode-read-more-icon:after,.qode-vertical-portfolio-slider .qode-read-more .qode-read-more-icon:before{background-color:#000;position:absolute;left:50%;top:50%}
+.qode-vertical-portfolio-slider .qode-read-more .qode-read-more-icon:before{content:'';width:25px;height:1px;transform:translateX(-50%)}
+.qode-vertical-portfolio-slider .qode-read-more .qode-read-more-icon:after{content:'';width:1px;height:25px;transform:translateY(-50%)}
+.qode-vertical-portfolio-slider.swiper-container-vertical>.swiper-pagination-bullets{right:110px}
+.qode-vertical-portfolio-slider.swiper-container-vertical>.swiper-pagination-bullets .swiper-pagination-bullet{margin:36px 0;width:auto;height:auto;display:block;position:relative;border-radius:0;background:0 0;opacity:1}
+.qode-vertical-portfolio-slider.swiper-container-vertical>.swiper-pagination-bullets .swiper-pagination-bullet:after{content:'';position:absolute;bottom:10px;left:-23px;width:53px;height:1px;background-color:currentColor;display:block;transform:rotate(-27deg);opacity:0;transition:opacity .3s ease-in-out}
+.qode-vertical-portfolio-slider.swiper-container-vertical>.swiper-pagination-bullets .swiper-pagination-bullet.swiper-pagination-bullet-active:after{opacity:1}
+.qode-vertical-portfolio-slider.qode-vps-light .qode-read-more .qode-read-more-icon{border-color:#fff}
+.qode-vertical-portfolio-slider.qode-vps-light .qode-read-more .qode-read-more-icon:after,.qode-vertical-portfolio-slider.qode-vps-light .qode-read-more .qode-read-more-icon:before{background-color:#fff}
+@media screen and (min-width:1025px){.qode-vertical-portfolio-slider .qodef-e-content{position:absolute;left:4.5%;bottom:64px;margin:0}.qode-vertical-portfolio-slider.qodef-swiper-container.swiper-container-vertical .swiper-pagination-bullets{right:calc(4.5% - 6px)!important}}
+@media screen and (min-width:681px){.qode-vertical-portfolio-slider .qodef-e-content{display:flex;flex-direction:column-reverse}.qode-vertical-portfolio-slider .qodef-e-content .qodef-e-title{font-size:75px}}
+@media only screen and (max-width:1024px){.qode-vertical-portfolio-slider .qodef-e-content,.qode-vertical-portfolio-slider .qodef-e-image{margin-left:auto;margin-right:auto}.qode-vertical-portfolio-slider .qodef-e-inner{width:100%}.qode-vertical-portfolio-slider .qodef-e-image{text-align:center}}
+.wp-block-button .wp-block-button__link,.wp-block-button.is-style-outline .wp-block-button__link{position:relative;border:2px solid #303030;text-align:left;font-style:normal;text-transform:uppercase;letter-spacing:1px;-webkit-box-sizing:initial!important;-moz-box-sizing:initial!important;font-family:inherit;font-size:13px}
+@media only screen and (max-width:768px){.qode-vertical-portfolio-slider.qodef-swiper-container.swiper-container-vertical .swiper-pagination-bullets{right:45px!important}}
+@media only screen and (max-width:480px){.qode-vertical-portfolio-slider.qodef-swiper-container.swiper-container-vertical .swiper-pagination-bullets{display:none}}
+.qode-vertical-portfolio-slider .swiper-slide .entry-title,.qode-vertical-portfolio-slider .swiper-slide .qodef-e-info-category{transform-origin:top left;transform:translateY(30px) translateZ(0) skewY(3deg) scaleY(1.2);opacity:0;transition:transform 1s cubic-bezier(.16,.09,0,1.02) .15s,opacity .3s .15s}
+.qode-vertical-portfolio-slider .swiper-slide .qodef-e-info-category{transition:transform 1s cubic-bezier(.16,.09,0,1.02) .25s,opacity .3s .25s}
+.qode-vertical-portfolio-slider .swiper-slide .qodef-e-image{transform-origin:top left;transform:translateY(30px) translateZ(0) skewY(3deg) scaleY(1.2);opacity:0;transition:transform 1.2s cubic-bezier(.16,.09,0,1.02) .35s,opacity .3s .35s}
+.qode-vertical-portfolio-slider .swiper-slide.swiper-slide-active .entry-title,.qode-vertical-portfolio-slider .swiper-slide.swiper-slide-active .qodef-e-image,.qode-vertical-portfolio-slider .swiper-slide.swiper-slide-active .qodef-e-info-category{transform:translateY(0) translateZ(0) skewY(0) scaleY(1);opacity:1}
+.qode-vertical-portfolio-slider .swiper-slide.swiper-slide-prev .entry-title,.qode-vertical-portfolio-slider .swiper-slide.swiper-slide-prev .qodef-e-info-category{transform:translateY(-30px) translateZ(0) skewY(0) scaleY(1);opacity:0;transition:transform .35s cubic-bezier(.16,.09,0,1.02) 0s,opacity .35s 0s}
+.qode-vertical-portfolio-slider .swiper-slide.swiper-slide-prev .qodef-e-image{transform:translateY(-60px) translateZ(0) skewY(3deg) scaleY(.9);opacity:0;transition:transform .4s cubic-bezier(.16,.09,0,1.02) 0s,opacity .4s 0s}
+p.has-background{padding:20px 30px}
+.wp-block-audio{width:100%}
+.wp-block-audio audio{width:auto}
+.wp-block-quote,.wp-block-video video,blockquote.wp-block-pullquote.aligncenter{width:100%}

@@ -1,0 +1,6 @@
+@-webkit-keyframes title-from-right{0%{filter:alpha(opacity=0);opacity:0;-webkit-transform:translate(50%,0)}100%{filter:alpha(opacity=100);opacity:1;-webkit-transform:translate(0,0)}}
+@-moz-keyframes title-from-right{0%{filter:alpha(opacity=0);opacity:0;-moz-transform:translate(50%,0)}100%{filter:alpha(opacity=100);opacity:1;-moz-transform:translate(0,0)}}
+@-o-keyframes title-from-right{0%{filter:alpha(opacity=0);opacity:0;-o-transform:translate(50%,0)}100%{filter:alpha(opacity=100);opacity:1;-o-transform:translate(0,0)}}
+@keyframes title-from-right{0%{filter:alpha(opacity=0);opacity:0;transform:translate(50%,0)}100%{filter:alpha(opacity=100);opacity:1;transform:translate(0,0)}}
+.portfolio_gallery a,.portfolio_slides .hover_feature_holder_icons,.projects_holder .mix .image,.q_accordion_holder.accordion .ui-accordion-header{-moz-transform:translateZ(0);-webkit-transform:translateZ(0)}
+.position_center.title .title_subtitle_holder{text-align:center}

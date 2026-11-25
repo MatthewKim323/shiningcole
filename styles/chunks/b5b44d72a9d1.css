@@ -1,0 +1,40 @@
+.qode-pl-holder .qode-pl-categories ul{list-style:none;display:inline-block;width:100%;margin:0}
+.qode-pl-holder .qode-pl-categories ul li{display:inline-block;float:left;position:relative;padding:0 13px}
+.qode-pl-holder .qode-pl-categories ul li:first-child{padding-left:0}
+.qode-pl-holder .qode-pl-categories ul li a{color:#818181;font-weight:400;font-size:13px;letter-spacing:1.5px;text-transform:uppercase;-webkit-transform:color .3s ease;-moz-transform:color .3s ease;transform:color .3s ease}
+.qode-pl-holder .qode-pl-categories ul li a.active,.qode-pl-holder .qode-pl-categories ul li a:hover{color:#1abc9c}
+.qode-pl-holder .qode-pl-ordering-outer{float:right;position:relative;padding-bottom:12px}
+.qode-pl-holder .qode-pl-ordering-outer h6{font-size:13px;letter-spacing:1.5px;text-transform:uppercase;margin:0;padding:0 0 20px;display:inline-block;vertical-align:middle;line-height:2.2em;cursor:pointer}
+.qode-pl-holder .qode-pl-ordering-outer h6:after{content:"\43";position:relative;display:inline-block;vertical-align:middle;font-family:ElegantIcons;font-size:14px;line-height:1em;margin-left:8px}
+.qode-pl-holder .qode-pl-ordering-outer .qode-pl-ordering{background-color:#212121;display:inline-block;padding:35px 20px;position:absolute;right:0;top:46px;width:365px;z-index:100;opacity:0;visibility:hidden;-webkit-transition:visibility 0s ease .3s,opacity .3s ease;-moz-transition:visibility 0s ease .3s,opacity .3s ease;transition:visibility 0s ease .3s,opacity .3s ease}
+.qode-pl-holder .qode-pl-ordering-outer .qode-pl-ordering div{display:inline-block;width:140px;margin:0 20px}
+.qode-pl-holder .qode-pl-ordering-outer .qode-pl-ordering div h5{color:#fff;text-transform:uppercase;margin:0 0 15px;letter-spacing:1.5px;font-size:13px}
+.qode-pl-holder .qode-pl-ordering-outer .qode-pl-ordering div ul{list-style:none}
+.qode-pl-holder .qode-pl-ordering-outer .qode-pl-ordering div ul li{position:relative;padding:2px 0}
+.qode-pl-holder .qode-pl-ordering-outer .qode-pl-ordering div ul li a{color:#818181;font-size:15px;-webkit-transform:color .3s ease;-moz-transform:color .3s ease;transform:color .3s ease}
+.qode-pl-holder .qode-pl-ordering-outer .qode-pl-ordering div ul li a.active,.qode-pl-holder .qode-pl-ordering-outer .qode-pl-ordering div ul li a:hover{color:#fff}
+.qode-pl-holder .qode-pl-ordering-outer:hover .qode-pl-ordering{visibility:visible;opacity:1;transition-delay:0s;transition-duration:.3s}
+.qode-pl-holder .qode-pl-outer{position:relative;z-index:1;clear:both}
+.qode-pl-holder .qode-pl-outer .qode-no-posts{margin:20px 15px 40px}
+.qode-pl-holder .qode-pli{position:relative;display:inline-block;vertical-align:top;width:100%;padding:0;z-index:100;box-sizing:border-box}
+.qode-pl-holder .qode-pli .qode-pli-title{margin:0}
+.qode-pl-holder .qode-pli .qode-pli-category{margin:0 0 3px}
+.qode-pl-holder .qode-pli .qode-pli-category a{font-size:14px}
+.qode-pl-holder .qode-pli .qode-pli-excerpt{color:#353535;line-height:1.7em;margin:3px 0 5px}
+.qode-pl-holder .qode-pli .qode-pli-rating-holder{position:relative;display:inline-block;width:100%;vertical-align:middle;margin:0 0 3px}
+.qode-pl-holder .qode-pli .qode-pli-rating{position:relative;display:inline-block;vertical-align:middle;font-family:ElegantIcons;font-size:12px;line-height:1.1em;letter-spacing:6px;color:#1abc9c;overflow:hidden;-webkit-font-smoothing:antialiased}
+.qode-pl-holder .qode-pli .qode-pli-rating:before{content:"\e031\e031\e031\e031\e031"}
+.qode-pl-holder .qode-pli .qode-pli-rating span{position:absolute;top:0;left:0;overflow:hidden}
+.qode-pl-holder .qode-pli .qode-pli-rating span:before{content:"\e033\e033\e033\e033\e033"}
+.qode-pl-holder .qode-pli .qode-pli-price{color:#818181;font-size:14px;opacity:1;-webkit-transition:all .3s ease;-moz-transition:all .3s ease;transition:all .3s ease;will-change:transform}
+.qode-pl-holder .qode-pli .qode-pli-price *{font-size:inherit;line-height:inherit}
+.qode-pl-holder .qode-pli .qode-pli-price del{margin:0 5px 0 0}
+.qode-pl-holder .qode-pli .qode-pli-price ins{text-decoration:none}
+.qode-pl-holder .qode-pli .qode-pli-add-to-cart{font-size:12px;font-weight:600;text-transform:uppercase;position:absolute;bottom:0;left:50%;-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);transform:translateX(-50%);letter-spacing:2px;opacity:0;-webkit-transition:opacity .3s ease;-moz-transition:opacity .3s ease;transition:opacity .3s ease}
+.qode-pl-holder .qode-pli .qode-pli-add-to-cart a{color:#818181;-webkit-transition:color .3s ease;-moz-transition:color .3s ease;transition:color .3s ease;white-space:nowrap}
+.qode-pl-holder .qode-pli .qode-pli-add-to-cart a.qode-read-more-button{position:relative;display:block}
+.qode-pl-holder .qode-pli .qode-pli-add-to-cart .added_to_cart,.qode-pl-holder .qode-pli .qode-pli-add-to-cart .button{margin:16px 0 0}
+.qode-pl-holder .qode-pli .qode-pli-add-to-cart .added{display:none}
+.qode-pl-holder .qode-pli:hover .qode-pli-text{-webkit-transition:all .6s cubic-bezier(.12,.68,.43,.95);-moz-transition:all .6s cubic-bezier(.12,.68,.43,.95);transition:all .6s cubic-bezier(.12,.68,.43,.95);opacity:1}
+.qode-pl-holder .qode-pli:hover .qode-pli-price{-webkit-transform:translateX(60px);-moz-transform:translateX(60px);transform:translateX(60px);opacity:0}
+.qode-pl-holder .qode-pli:hover .qode-pli-add-to-cart{opacity:1}

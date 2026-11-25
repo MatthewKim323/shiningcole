@@ -1,0 +1,16 @@
+.q_pie_chart_holder .separator.small{background-color:#eaeaea;margin:10px auto 12px}
+.image_with_text{display:inline-block;width:100%;position:relative}
+.image_with_text img{display:block;margin:0 0 22px}
+.image_with_text .image-with-text-link-overlay{position:absolute;display:block;width:100%;height:100%;top:0;left:0;z-index:11}
+.call_to_action,.call_to_action .text_wrapper,.call_to_action .two_columns_75_25{position:relative}
+.call_to_action{display:block;padding:51px 21px;background-color:#1abc9c}
+.content .container .container_inner.page_container_inner .call_to_action .container_inner{width:auto}
+.call_to_action .text_wrapper .call_to_action_text{color:#fff;letter-spacing:1px;font-size:22px;font-weight:500}
+.call_to_action .text_wrapper .call_to_action_text.font_size_inherit p{font-size:inherit}
+.call_to_action .text_wrapper .call_to_action_text.color_inherit p{color:inherit}
+.call_to_action .text_wrapper .call_to_action_text.font_weight_inherit p{font-weight:inherit}
+.call_to_action .text_wrapper .call_to_action_text.letter_spacing_inherit p{letter-spacing:inherit}
+.call_to_action.with_icon .text_wrapper .call_to_action_text{padding:0 0 0 54px;line-height:1em}
+.call_to_action .text_wrapper .call_to_action_icon_holder{position:absolute;height:100%}
+.call_to_action .text_wrapper .call_to_action_icon{display:table;height:100%}
+.call_to_action .text_wrapper .call_to_action_icon_inner{display:table-cell;height:100%;vertical-align:middle}

@@ -1,0 +1,26 @@
+.qodef-qi-image-gallery-masonry.qodef-image--hover-gradient .qodef-e-gradient-holder .qodef-e-gradient-dot-1{color:var(--qi-gradient-color-1);animation-delay:-4s;box-shadow:currentColor 0 0 90px 120px;z-index:1}
+.qodef-qi-image-gallery-masonry.qodef-image--hover-gradient .qodef-e-gradient-holder .qodef-e-gradient-dot-2{color:var(--qi-gradient-color-3);box-shadow:currentColor 0 0 90px 90px;z-index:2}
+.qodef-qi-image-gallery-masonry.qodef-image--hover-gradient .qodef-image-wrapper:hover .qodef-e-gradient-holder{opacity:1}
+.qodef-qi-image-gallery-masonry.qodef-image--hover-gradient .qodef-image-wrapper:hover .qodef-e-gradient-holder .qodef-e-gradient{animation-play-state:running}
+.qodef-qi-image-gallery-masonry.qodef-image--hover-gradient .qodef-image-wrapper:hover .qodef-e-gradient-holder .qodef-e-gradient-dot-1,.qodef-qi-image-gallery-masonry.qodef-image--hover-gradient .qodef-image-wrapper:hover .qodef-e-gradient-holder .qodef-e-gradient-dot-2{animation-play-state:running}
+.elementor-widget-qi_addons_for_elementor_premium_news_ticker:has(.elementor-widget-container) .elementor-widget-container,.elementor-widget-qi_addons_for_elementor_premium_news_ticker:not(:has(.elementor-widget-container)){background-color:#f7f5f5}
+.qodef-qi-news-ticker{position:relative;display:flex;justify-content:space-between;align-items:center}
+@media only screen and (max-width:680px){.qodef-qi-news-ticker{display:block}}
+.qodef-qi-news-ticker .qodef-title{white-space:nowrap;padding:0 15px;background-color:#3c3c3c;border:0 solid transparent;display:flex;align-items:center}
+.qodef-qi-news-ticker .qodef-title .qodef-e-icon-holder{margin-right:10px}
+.qodef-qi-news-ticker .qodef-title .qodef-e-icon-holder svg{width:1em;height:auto;vertical-align:top;fill:currentColor;stroke:currentColor;overflow:visible}
+.qodef-icon-boxed.qodef-qi-news-ticker .qodef-title .qodef-e-icon-holder{display:inline-flex;align-items:center;justify-content:center;width:2em;height:2em;background-color:#c4c4c4;border:1px solid transparent}
+.qodef-qi-news-ticker .qodef-title .qodef-e-title{color:#fff;margin:0}
+.qodef-qi-news-ticker .qodef-m-swiper{height:100%;overflow:hidden;margin:0 15px}
+.qodef-qi-news-ticker .qodef-m-item{display:flex;align-items:center}
+.qodef-qi-news-ticker .qodef-m-item .qodef-m-slide-content{position:relative;width:100%}
+.qodef-qi-news-ticker .qodef-m-item .qodef-m-slide-content .qodef-e-title{margin:0;display:flex;align-items:center}
+.qodef-qi-news-ticker .qodef-m-item .qodef-m-slide-content .qodef-e-title img{width:40px;margin-right:10px}
+.qodef-qi-news-ticker .qodef-controls{min-width:max-content;display:flex;align-items:center;height:100%}
+@media only screen and (max-width:680px){.qodef-qi-news-ticker .qodef-controls{display:none}}
+.qodef-qi-news-ticker .qodef-swiper-together-nav .qodef-swiper-together-inner{display:flex;align-items:center;justify-content:center}
+.qodef-qi-news-ticker .qodef-swiper-together-nav .swiper-button-next,.qodef-qi-news-ticker .qodef-swiper-together-nav .swiper-button-prev{background-image:none!important;width:auto;height:auto;margin:0;color:#111;font-size:26px;transition:color .2s ease-out,background-color .2s ease-out,opacity .2s ease-out;position:relative;top:0;left:auto;right:auto;line-height:0}
+.qodef-qi-news-ticker .qodef-swiper-together-nav .swiper-button-next:hover,.qodef-qi-news-ticker .qodef-swiper-together-nav .swiper-button-prev:hover{opacity:.8}
+.qodef-qi-news-ticker .qodef-swiper-together-nav .swiper-button-next svg,.qodef-qi-news-ticker .qodef-swiper-together-nav .swiper-button-prev svg{width:1em;height:auto;vertical-align:top;fill:currentColor;stroke:currentColor;overflow:visible}
+.qodef-qi-news-ticker .qodef-swiper-together-nav .swiper-button-next:after,.qodef-qi-news-ticker .qodef-swiper-together-nav .swiper-button-next:before,.qodef-qi-news-ticker .qodef-swiper-together-nav .swiper-button-prev:after,.qodef-qi-news-ticker .qodef-swiper-together-nav .swiper-button-prev:before{display:none}
+.qodef-qi-news-ticker .qodef-swiper-together-nav .swiper-button-prev{margin-right:9px}

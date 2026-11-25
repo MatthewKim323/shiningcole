@@ -1,0 +1,39 @@
+@media only screen and (max-width:680px){.qodef-qi-comments-template #qodef-comments-form .comment-reply-title small{float:none;display:block}}
+.qodef-qi-comments-template button[type=submit],.qodef-qi-comments-template input[type=submit]{position:relative;display:inline-block;vertical-align:middle;width:auto;margin:0;font-family:inherit;font-size:16px;line-height:2em;font-weight:500;text-decoration:none;text-transform:none;border-radius:4px;outline:0;transition:color .25s ease-in-out,background-color .25s ease-in-out,border-color .25s ease-in-out;padding:11px 28px;color:#111;background-color:#f4f4f4;border:0;cursor:pointer;text-decoration:none}
+.qodef-qi-comments-template button[type=submit] span,.qodef-qi-comments-template input[type=submit] span{display:block;line-height:inherit}
+.qodef-qi-comments-template button[type=submit] span:before,.qodef-qi-comments-template input[type=submit] span:before{display:block;line-height:inherit}
+.qodef-qi-comments-template button[type=submit]:focus,.qodef-qi-comments-template button[type=submit]:hover,.qodef-qi-comments-template input[type=submit]:focus,.qodef-qi-comments-template input[type=submit]:hover{color:#fff;background-color:#111}
+.qodef-qi-comments-template button[type=submit].qodef--with-icon,.qodef-qi-comments-template input[type=submit].qodef--with-icon{display:inline-flex;align-items:center}
+.qodef-qi-comments-template button[type=submit].qodef--with-icon .qodef-m-icon,.qodef-qi-comments-template input[type=submit].qodef--with-icon .qodef-m-icon{flex-shrink:0;margin-left:10px}
+.qodef-qi-comments-template button[type=submit].qodef--with-icon .qodef-m-icon svg,.qodef-qi-comments-template input[type=submit].qodef--with-icon .qodef-m-icon svg{display:block;width:1em;height:1em;fill:currentColor}
+.qodef-qi-comparative-tables{overflow:auto}
+.qodef-qi-comparative-tables .qodef-m-table{position:relative;display:table;width:100%;border-collapse:collapse}
+.qodef-qi-comparative-tables .qodef-e-row{display:table-row}
+.qodef-qi-comparative-tables .qodef-e-cell{display:table-cell;border:1px solid #ebebeb;padding:30px 40px;vertical-align:middle}
+.qodef-qi-comparative-tables .qodef-e-content-column{text-align:center}
+.qodef-qi-comparative-tables .qodef-e-title{margin:0}
+.qodef-qi-comparative-tables .qodef-table-button{padding:0!important}
+.qodef-qi-comparative-tables .qodef-table-button .qodef-qi-button{width:100%;padding:30px 0!important}
+.qodef-qi-comparative-tables .qodef-sign{vertical-align:middle}
+.qodef-qi-comparative-tables .qodef-sign svg{fill:currentColor;stroke:currentColor;width:1em;height:auto}
+.qodef-qi-comparative-tables.qodef-border--inside .qodef-e-cell{border-top:transparent!important;border-left:transparent!important}
+.qodef-qi-comparative-tables.qodef-border--inside .qodef-e-cell:last-child{border-right:transparent!important}
+.qodef-qi-comparative-tables.qodef-border--inside .qodef-e-row:last-child .qodef-e-cell{border-bottom:transparent!important}
+.qodef-qi-content-menu{position:relative}
+.qodef-qi-content-menu nav ul{display:flex;padding:0;margin:0}
+.qodef-qi-content-menu nav ul li{display:block;padding:0 25px;margin:0}
+.qodef-qi-content-menu nav ul li a{position:relative;display:flex;align-items:center;justify-content:flex-start;text-transform:uppercase;font-size:16px;transition:color .27s ease-out,background-color .27s ease-out}
+.qodef-qi-content-menu nav ul li a .qodef-m-active-icon,.qodef-qi-content-menu nav ul li a .qodef-m-icon{position:relative}
+.qodef-qi-content-menu nav ul li a .qodef-m-svg-icon{display:block;left:0;position:absolute;top:0;z-index:1;width:100%}
+.qodef-qi-content-menu nav ul li a .qodef-m-svg-icon svg{max-height:100%;max-width:100%}
+.qodef-qi-content-menu.qodef-layout--vertical nav ul{flex-direction:column}
+.qodef-qi-content-menu.qodef-layout--vertical nav ul li{padding:10px 0}
+.qodef-qi-content-menu.qodef-layout--vertical.qodef-menu-item-icon-structure--apart nav ul li a{justify-content:space-between}
+.qodef-qi-content-menu.qodef-layout--vertical.qodef-border-between nav ul li{border-bottom:1px solid #ebebeb}
+.qodef-qi-content-menu.qodef-layout--vertical.qodef-border-between nav ul li:last-child{border:none}
+.qodef-qi-content-menu.qodef-layout--horizontal.qodef-border-between nav ul li{border-right:1px solid #ebebeb}
+.qodef-qi-content-menu.qodef-layout--horizontal.qodef-border-between nav ul li:last-child{border:none}
+.qodef-qi-content-menu.qodef-alignment--right nav ul{justify-content:flex-end}
+.qodef-qi-content-menu.qodef-alignment--right nav ul li a{justify-content:end}
+.qodef-qi-content-menu.qodef-alignment--center nav ul{justify-content:center}
+.qodef-qi-content-menu.qodef-alignment--center nav ul li a{justify-content:center;text-align:center}

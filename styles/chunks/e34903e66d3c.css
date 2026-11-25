@@ -1,0 +1,14 @@
+.qode-portfolio-project-slider.swiper-container .swiper-pagination-bullets .swiper-pagination-bullet{position:relative;margin:0 8px;width:auto;height:auto;background:0 0;opacity:1}
+.qode-portfolio-project-slider.swiper-container .swiper-pagination-bullets .swiper-pagination-bullet:after{content:'';width:100px;height:2px;position:absolute;top:50%;left:calc(100% + 15px);transform:translateY(-50%);background-color:rgba(0,0,0,.3);opacity:0}
+.qode-portfolio-project-slider.swiper-container .swiper-pagination-bullets .swiper-pagination-bullet.swiper-pagination-bullet-active{margin-right:115px}
+.qode-portfolio-project-slider.swiper-container .swiper-pagination-bullets .swiper-pagination-bullet.swiper-pagination-bullet-active:after{opacity:1}
+.qode-portfolio-project-slider.swiper-container .qode-pps-widget-area{position:absolute;left:0;bottom:6.2vh;z-index:50}
+.qode-portfolio-project-slider.swiper-container .qode-pps-widget-area .widget{margin:0}
+.qode-portfolio-project-slider.swiper-container.qode-pps-light .qode-pps-bottom-content *,.qode-portfolio-project-slider.swiper-container.qode-pps-light .qode-pps-widget-area *,.qode-portfolio-project-slider.swiper-container.qode-pps-light .qodef-pps-title a,.qode-portfolio-project-slider.swiper-container.qode-pps-light .swiper-pagination-bullet{color:#fff}
+.qode-portfolio-project-slider.swiper-container.qode-pps-light .swiper-pagination-bullets .swiper-pagination-bullet:after{background-color:rgba(255,255,255,.3)}
+.qode-pl-holder{position:relative;display:inline-block;width:100%;vertical-align:middle}
+.qode-pl-holder .qode-prl-loading{position:absolute;top:0;left:0;width:100%;height:100%;z-index:2;background-color:#fff;display:none;margin-top:45px;box-sizing:border-box;text-align:center;padding:120px}
+.qode-pl-holder .qode-prl-loading .qode-prl-loading-msg{font-weight:600;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#1abc9c}
+.qode-pl-holder .qode-pl-categories{float:left;position:relative;padding-bottom:12px}
+.qode-pl-holder .qode-pl-categories h6.qode-pl-categories-label{margin:0;display:none;font-size:13px}
+.qode-pl-holder .qode-pl-categories h6.qode-pl-categories-label:after{content:"\43";position:relative;display:inline-block;vertical-align:middle;font-family:ElegantIcons;font-size:14px;line-height:1em;margin-left:8px;top:-1px}

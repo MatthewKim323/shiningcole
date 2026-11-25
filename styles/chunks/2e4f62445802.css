@@ -1,0 +1,45 @@
+.kiko-linkedin:before{content:'\f353'}
+.kiko-naver:before{content:'\f354'}
+.kiko-stumbleupon:before{content:'\f355'}
+.kiko-viber:before{content:'\f356'}
+.kiko-snapchat:before{content:'\f357'}
+.kiko-yammer:before{content:'\f358'}
+.kiko-digg:before{content:'\f359'}
+.kiko-messenger:before{content:'\f360'}
+.kiko-live-journal:before{content:'\f361'}
+.kiko-newsvine:before{content:'\f362'}
+.kiko-qzone:before{content:'\f363'}
+.kiko-telegram:before{content:'\f364'}
+.kiko-yummly:before{content:'\f365'}
+.kiko-douban:before{content:'\f366'}
+.kiko-flattr:before{content:'\f367'}
+.kiko-hatena:before{content:'\f368'}
+.kiko-reddit:before{content:'\f369'}
+.kiko-tumblr:before{content:'\f370'}
+.kiko-weibo:before{content:'\f371'}
+.kiko-google:before{content:'\f372'}
+.kiko-yandex:before{content:'\f373'}
+.kiko-share:before{content:'\f374'}
+.kiko-yandex-aura:before{content:'\f375'}
+.kiko-wechat:before{content:'\f376'}
+.kiko-baidu:before{content:'\f377'}
+.kiko-bing:before{content:'\f378'}
+.kiko-like:before{content:'\f379'}
+.kiko-unlike:before{content:'\f380'}
+@font-face{font-family:'Kiko';src:url(/fonts/font-3ad39f7afd.eot) format("embedded-opentype"),url(/fonts/font-1ae2770b63.woff) format("woff"),url(/fonts/font-9863fd0a5d.woff2) format("woff2"),url(/fonts/font-5519a4226f.otf) format("opentype"),url(/img/img-10775bd1ee.svg) format("svg");font-weight:300;font-style:light}
+.kikol{font-family:'Kiko';font-weight:300}
+@font-face{font-family:'Kiko';src:url(/fonts/font-528b491150.eot) format("embedded-opentype"),url(/fonts/font-7255fb1b93.woff) format("woff"),url(/fonts/font-e0671bb464.woff2) format("woff2"),url(/fonts/font-98d1ccd6b8.otf) format("opentype"),url(/img/img-44ee9547b1.svg) format("svg");font-weight:400;font-style:normal}
+.kikor{font-family:'Kiko';font-weight:400}
+@font-face{font-family:'Kiko';src:url(/fonts/font-00323a218f.eot) format("embedded-opentype"),url(/fonts/font-94726b0597.woff) format("woff"),url(/fonts/font-71b9827333.woff2) format("woff2"),url(/fonts/font-3a7af91e73.otf) format("opentype"),url(/img/img-6795bf863b.svg) format("svg");font-weight:600;font-style:bold}
+.kikos{font-family:'Kiko';font-weight:600}
+.fa5.fa,.fa5.far,.fa5.fas{font-family:'Font Awesome 5 Free'!important}
+.fa5.fa,.fa5.fab,.fa5.fad,.fa5.fal,.fa5.far,.fa5.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}
+.fa5.fa-lg{font-size:1.33333em;line-height:.75em;vertical-align:-.0667em}
+.fa5.fa-xs{font-size:.75em}
+.fa5.fa-sm{font-size:.875em}
+.fa5.fa-1x{font-size:1em}
+.fa5.fa-2x,.fa5.fa-stack-2x{font-size:2em}
+.fa5.fa-3x{font-size:3em}
+.fa5.fa-4x{font-size:4em}
+.fa5.fa-5x{font-size:5em}
+.fa5.fa-6x{font-size:6em}

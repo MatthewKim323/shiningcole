@@ -1,0 +1,31 @@
+#qode-multi-device-showcase .qode-mds-slide{pointer-events:none;visibility:hidden}
+#qode-multi-device-showcase .qode-mds-slide.qode-active{pointer-events:auto;visibility:visible}
+#qode-multi-device-showcase .qode-mds-slide.qode-remove{visibility:visible}
+#qode-multi-device-showcase .qode-mds-slide-link{z-index:100}
+#qode-multi-device-showcase .qode-mds-slide-image{background-size:cover;background-repeat:no-repeat;background-position:center}
+#qode-multi-device-showcase .qode-mds-device-image{background-size:cover;background-repeat:no-repeat;background-position:center;background-color:#ccc}
+#qode-multi-device-showcase .qode-mds-slides-inner{background-color:#ccc}
+#qode-multi-device-showcase #qode-mds-laptop-slider{position:relative}
+#qode-multi-device-showcase #qode-mds-laptop-slider .qode-mds-laptop-slides{position:absolute;top:8.7%;left:16.4%;height:69.1%;width:67.7%;overflow:hidden}
+#qode-multi-device-showcase #qode-mds-tablet-slider{position:relative}
+#qode-multi-device-showcase #qode-mds-tablet-slider .qode-mds-tablet-slides{position:absolute;top:15%;left:15.5%;height:70%;width:66.5%;overflow:hidden}
+#qode-multi-device-showcase .qode-mds-phone-portrait-holder .qode-mds-device-holder-inner:before,#qode-multi-device-showcase .qode-mds-phone-slider-holder .qode-mds-device-holder-inner:before{content:'';height:12px;background-image:url(/img/img-725a6f64d6.png);background-repeat:no-repeat;background-size:cover;background-position:center;pointer-events:none}
+#qode-multi-device-showcase .qode-mds-phone-slider-holder .qode-mds-device-holder-inner{position:relative;z-index:50}
+#qode-multi-device-showcase .qode-mds-phone-slider-holder .qode-mds-device-holder-inner:before{position:absolute;width:70%;top:2.2%;left:8%;z-index:30}
+#qode-multi-device-showcase #qode-mds-phone-slider{position:relative}
+#qode-multi-device-showcase #qode-mds-phone-slider .qode-mds-phone-slides{position:absolute;top:3%;left:7.7%;height:87.3%;width:72.5%;border-radius:12px;overflow:hidden;z-index:10}
+@-webkit-keyframes qodeMDSFadeInActive{0%{opacity:0}100%{opacity:1}}
+@keyframes qodeMDSFadeInActive{0%{opacity:0}100%{opacity:1}}
+@-webkit-keyframes qodeMDSFadeOutActive{0%{opacity:1}100%{opacity:0}}
+@keyframes qodeMDSFadeOutActive{0%{opacity:1}100%{opacity:0}}
+@-webkit-keyframes qodeMDSSlideInActive{0%{-webkit-transform:translate3d(100%,0,0);-moz-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}100%{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}
+@keyframes qodeMDSSlideInActive{0%{-webkit-transform:translate3d(100%,0,0);-moz-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}100%{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}
+@-webkit-keyframes qodeMDSSlideOutActive{0%{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}100%{-webkit-transform:translate3d(-100%,0,0);-moz-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}}
+@keyframes qodeMDSSlideOutActive{0%{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}100%{-webkit-transform:translate3d(-100%,0,0);-moz-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}}
+@-webkit-keyframes qodeMDSPhoneSlideInActive{0%{-webkit-transform:translate(0,100%);-moz-transform:translate(0,100%);transform:translate(0,100%)}100%{-webkit-transform:translate(0,0);-moz-transform:translate(0,0);transform:translate(0,0)}}
+@keyframes qodeMDSPhoneSlideInActive{0%{-webkit-transform:translate(0,100%);-moz-transform:translate(0,100%);transform:translate(0,100%)}100%{-webkit-transform:translate(0,0);-moz-transform:translate(0,0);transform:translate(0,0)}}
+@-webkit-keyframes qodeMDSPhoneSlideOutActive{0%{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}100%{-webkit-transform:translate3d(0,-100%,0);-moz-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}}
+@keyframes qodeMDSPhoneSlideOutActive{0%{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}100%{-webkit-transform:translate3d(0,-100%,0);-moz-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}}
+#qode-multi-device-showcase.qode-mds-animating .qode-mds-laptop-slide.qode-active:not(.qode-mds-no-animation){-webkit-animation:qodeMDSFadeInActive 1s cubic-bezier(.694,0,.335,1) 1 forwards;-moz-animation:qodeMDSFadeInActive 1s cubic-bezier(.694,0,.335,1) 1 forwards;animation:qodeMDSFadeInActive 1s cubic-bezier(.694,0,.335,1) 1 forwards}
+#qode-multi-device-showcase.qode-mds-animating .qode-mds-laptop-slide.qode-remove{-webkit-animation:qodeMDSFadeOutActive 1s cubic-bezier(.694,0,.335,1) 1 forwards;-moz-animation:qodeMDSFadeOutActive 1s cubic-bezier(.694,0,.335,1) 1 forwards;animation:qodeMDSFadeOutActive 1s cubic-bezier(.694,0,.335,1) 1 forwards}
+#qode-multi-device-showcase.qode-mds-animating .qode-mds-tablet-slide.qode-active:not(.qode-mds-no-animation){-webkit-animation:qodeMDSSlideInActive 1s cubic-bezier(.694,0,.335,1) 1 forwards;-moz-animation:qodeMDSSlideInActive 1s cubic-bezier(.694,0,.335,1) 1 forwards;animation:qodeMDSSlideInActive 1s cubic-bezier(.694,0,.335,1) 1 forwards}

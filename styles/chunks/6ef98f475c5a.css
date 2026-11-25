@@ -1,0 +1,25 @@
+#jp-relatedposts .jp-relatedposts-items-visual .jp-relatedposts-post-nothumbs a.jp-relatedposts-post-aoverlay{position:absolute;top:0;bottom:0;left:0;right:0;display:block;border-bottom:0}
+#jp-relatedposts .jp-relatedposts-items p,#jp-relatedposts .jp-relatedposts-items time{margin-bottom:0}
+#jp-relatedposts .jp-relatedposts-items-visual h4.jp-relatedposts-post-title{text-transform:none;margin:0;font-family:inherit;display:block;max-width:100%}
+#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedposts-post-title a{font-size:inherit;font-weight:400;text-decoration:none;filter:alpha(opacity=100);-moz-opacity:1;opacity:1}
+#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedposts-post-title a:hover{text-decoration:underline}
+#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post img.jp-relatedposts-post-img,#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post span{display:block;max-width:90%;overflow:hidden;text-overflow:ellipsis}
+#jp-relatedposts .jp-relatedposts-items-visual .jp-relatedposts-post img.jp-relatedposts-post-img,#jp-relatedposts .jp-relatedposts-items-visual .jp-relatedposts-post span{height:auto;max-width:100%}
+#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedposts-post-date,#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post .jp-relatedposts-post-context{opacity:.6}
+.jp-relatedposts-items .jp-relatedposts-post .jp-relatedposts-post-date{display:none}
+#jp-relatedposts .jp-relatedposts-items-visual div.jp-relatedposts-post-thumbs p.jp-relatedposts-post-excerpt{display:none}
+#jp-relatedposts .jp-relatedposts-items-visual .jp-relatedposts-post-nothumbs p.jp-relatedposts-post-excerpt{overflow:hidden}
+#jp-relatedposts .jp-relatedposts-items-visual .jp-relatedposts-post-nothumbs span{margin-bottom:1em}
+#jp-relatedposts .jp-relatedposts-list .jp-relatedposts-post{clear:both;width:100%}
+#jp-relatedposts .jp-relatedposts-list .jp-relatedposts-post img.jp-relatedposts-post-img{float:left;overflow:hidden;max-width:33%;margin-right:3%}
+#jp-relatedposts .jp-relatedposts-list h4.jp-relatedposts-post-title{display:inline-block;max-width:63%}
+@media only screen and (max-width:640px){#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post{width:50%}#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post:nth-child(3n){clear:left}#jp-relatedposts .jp-relatedposts-items-visual{margin-right:20px}}
+@media only screen and (max-width:320px){#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post{width:100%;clear:both;margin:0 0 1em}#jp-relatedposts .jp-relatedposts-list .jp-relatedposts-post img.jp-relatedposts-post-img,#jp-relatedposts .jp-relatedposts-list h4.jp-relatedposts-post-title{float:none;max-width:100%;margin-right:0}}
+@media print{.jp-relatedposts{display:none!important}}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode{align-items:flex-start;background-color:#fff;border:1px solid #e0e0e0;border-radius:6px;display:flex;gap:16px;padding:16px}
+@media(max-width:600px){.wp-block-jetpack-podcast-episode .jetpack-podcast-episode{flex-direction:column}}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__poster{flex:0 0 auto;inline-size:160px;margin:0;max-inline-size:40%}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__poster img{aspect-ratio:1;border-radius:4px;display:block;inline-size:100%;object-fit:cover}
+@media(max-width:600px){.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__poster{inline-size:100%;max-inline-size:100%}}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__body{display:flex;flex:1 1 auto;flex-direction:column;gap:8px;min-inline-size:0}
+.wp-block-jetpack-podcast-episode .jetpack-podcast-episode__meta-line{color:#757575;display:flex;flex-wrap:wrap;font-size:.85em;gap:8px;letter-spacing:.03em;margin:0;text-transform:uppercase}

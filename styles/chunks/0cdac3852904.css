@@ -1,0 +1,56 @@
+.full_width .grid_section .q_masonry_blog .q_masonry_blog_grid_gutter,.q_masonry_blog .q_masonry_blog_grid_gutter{width:3.2%}
+.two_columns_25_75 .q_masonry_blog .q_masonry_blog_grid_sizer,.two_columns_25_75 .q_masonry_blog article,.two_columns_33_66 .q_masonry_blog .q_masonry_blog_grid_sizer,.two_columns_33_66 .q_masonry_blog article,.two_columns_66_33 .q_masonry_blog .q_masonry_blog_grid_sizer,.two_columns_66_33 .q_masonry_blog article,.two_columns_75_25 .q_masonry_blog .q_masonry_blog_grid_sizer,.two_columns_75_25 .q_masonry_blog article{width:48%}
+.two_columns_25_75 .q_masonry_blog .q_masonry_blog_grid_gutter,.two_columns_33_66 .q_masonry_blog .q_masonry_blog_grid_gutter,.two_columns_66_33 .q_masonry_blog .q_masonry_blog_grid_gutter,.two_columns_75_25 .q_masonry_blog .q_masonry_blog_grid_gutter{width:4%}
+.full_width .grid_section .q_masonry_blog article,.q_masonry_blog article{margin:0 0 20px;padding:0;text-align:left;vertical-align:top;z-index:100;border:0;background-color:#fff;float:left;display:block}
+#wp-calendar td#today,.q_masonry_blog article.format-link:hover,.q_masonry_blog article.format-quote:hover,.vc_text_separator.full div{background-color:#1abc9c}
+.full_width .q_masonry_blog article{margin-left:.5%;margin-right:.5%}
+.q_masonry_blog article.format-link .q_masonry_blog_post_title,.q_masonry_blog article.format-quote .q_masonry_blog_post_title{padding:0 0 0 60px}
+.q_masonry_blog article.format-link .q_masonry_blog_post_text i.link_mark,.q_masonry_blog article.format-quote .q_masonry_blog_post_text i.qoute_mark{margin:7px 0 0;color:silver;font-size:36px}
+.q_masonry_blog article.format-link .q_masonry_blog_post_text p,.q_masonry_blog article.format-quote .q_masonry_blog_post_text p{font-size:21px;line-height:35px;color:#303030}
+.q_masonry_blog article.format-link:hover .q_masonry_blog_post_info,.q_masonry_blog article.format-link:hover .q_masonry_blog_post_info a,.q_masonry_blog article.format-link:hover .q_masonry_blog_post_text i.link_mark,.q_masonry_blog article.format-link:hover .q_masonry_blog_post_text p a,.q_masonry_blog article.format-quote:hover .q_masonry_blog_post_info,.q_masonry_blog article.format-quote:hover .q_masonry_blog_post_info a,.q_masonry_blog article.format-quote:hover .q_masonry_blog_post_text .quote_author,.q_masonry_blog article.format-quote:hover .q_masonry_blog_post_text i.qoute_mark,.q_masonry_blog article.format-quote:hover .q_masonry_blog_post_text p a{color:#fff}
+.q_masonry_blog article:hover{z-index:200}
+.q_masonry_blog article .q_masonry_blog_post_image{margin:0;width:auto}
+.q_masonry_blog article .q_masonry_blog_post_image img{vertical-align:middle}
+.q_masonry_blog article .q_masonry_blog_post_info{margin:15px 0 0;color:#303030}
+.q_masonry_blog article .q_masonry_blog_post_info a{color:#bebebe}
+.q_masonry_blog article .q_masonry_blog_post_info a:hover{color:#1abc9c}
+.q_masonry_blog article .quote_author{font-family:inherit;font-weight:400;display:block;font-size:21px;line-height:35px;color:silver}
+.q_masonry_blog article.format-link .q_masonry_blog_post_info,.q_masonry_blog article.format-quote .q_masonry_blog_post_info{margin:0 0 20px}
+.q_masonry_blog article .q_masonry_blog_post_text{padding:20px 15px}
+.q_masonry_blog article h5{margin:0 0 10px}
+.q_masonry_blog article .mejs-controls div.mejs-horizontal-volume-slider{margin:0 10px 0 0}
+.q_masonry_blog article .flexslider{margin-bottom:0}
+.blog_holder article{display:inline-block;width:100%;margin:0 0 60px}
+.blog_holder.masonry article,.blog_holder.masonry_full_width article{display:block;float:left}
+.blog_holder.blog_large_image_simple article{margin:0 0 23px}
+.blog_holder.blog_single article{margin:0}
+.blog_holder.blog_small_image article{margin:0 0 32px}
+.single-post .blog_single p{margin-bottom:22px}
+.single-post .blog_single p:last-child{margin-bottom:0}
+.blog_single.blog_holder article .post_text .post_text_inner{padding-left:0;padding-right:0;padding-bottom:0;background-color:transparent}
+.blog_single.blog_holder article.format-link .post_text .post_text_inner,.blog_single.blog_holder article.format-quote .post_text .post_text_inner{padding:23px 23px 35px;background-color:#fff;margin:0 0 30px}
+.blog_holder article .post_content_holder{width:100%}
+.blog_holder article .post_image,.blog_holder article .post_image img,.blog_holder article .post_image>a{position:relative;width:100%;display:block}
+.blog_holder article .post_text .post_text_inner{padding:23px 23px 35px;background-color:#fff}
+.blog_holder.blog_large_image_simple article .post_text .post_text_inner{background-color:transparent;text-align:center;padding:45px 195px}
+.blog_holder.masonry article .post_text .post_text_inner,.blog_holder.masonry_full_width article .post_text .post_text_inner{padding:17px 15px 18px;background-color:#fff}
+.blog_large_image_simple .minimalist_date{padding-bottom:9px;color:#1abc9c}
+.blog_large_image_simple .separator.small{margin-top:22px}
+.blog_holder article .post_text h5{margin:0 0 10px}
+.blog_holder article .post_text h2 .date{color:#bebebe}
+.blog_holder article .post_info{display:inline-block;width:100%;margin:0 0 18px;color:#bebebe;font-weight:500}
+.blog_holder article .post_info a{color:#bebebe}
+.blog_holder article .post_info a:hover{color:#1abc9c}
+.blog_holder article.format-link .post_info,.blog_holder article.format-quote .post_info{margin:0 0 15px}
+.blog_holder article .post_info .dots{padding:0 7px 0 4px}
+.blog_holder article .post_info .dots i{font-size:3px;vertical-align:middle}
+.blog_holder article .post_more{margin:30px 0 0}
+.blog_holder article .video .mobile-video-image{background-position:center center;background-repeat:no-repeat;background-size:cover;display:none;height:100%;left:0;position:absolute;top:0;width:100%;z-index:10}
+.blog_holder article .video{position:relative}
+.blog_holder article .video .video-wrap{overflow:hidden;position:relative;width:100%;z-index:10}
+.blog_holder article .video .video-wrap .mejs-poster{background-size:cover!important;-moz-background-size:cover!important;-webkit-background-size:cover!important;-o-background-size:cover!important;width:100%!important;height:100%!important}
+.blog_holder article .video .video-wrap .mejs-container{background-color:transparent!important;background-image:none!important;height:100%!important;width:100%!important;overflow:hidden}
+.blog_holder article .video .video-wrap .mejs-mediaelement{background:0 0!important;border:0!important}
+.blog_holder article .video .video-wrap .mejs-container .mejs-poster img{max-width:none!important;width:100%!important}
+.blog_holder article .mejs-controls .mejs-volume-button .mejs-volume-slider,.blog_holder article .post_image .mejs-poster img{display:none!important}
+.blog_holder article.format-gallery .flexslider{margin:0;overflow:hidden}

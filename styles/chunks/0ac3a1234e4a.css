@@ -1,0 +1,170 @@
+.mejs-overlay-error{position:relative}
+.mejs-overlay-error>img{left:0;max-width:100%;position:absolute;top:0;z-index:-1}
+.mejs-cannotplay,.mejs-cannotplay a{color:#fff;font-size:.8em}
+.mejs-cannotplay{position:relative}
+.mejs-cannotplay a,.mejs-cannotplay p{display:inline-block;padding:0 15px;width:100%}
+.mejs-container{clear:both;max-width:100%}
+.mejs-container *{font-family:Helvetica,Arial}
+.mejs-container,.mejs-container .mejs-controls,.mejs-embed,.mejs-embed body{background:#222}
+.mejs-time{font-weight:400;word-wrap:normal}
+.mejs-controls a.mejs-horizontal-volume-slider{display:table}
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.mejs-controls .mejs-time-rail .mejs-time-loaded{background:#fff}
+.mejs-controls .mejs-time-rail .mejs-time-current{background:#0073aa}
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,.mejs-controls .mejs-time-rail .mejs-time-total{background:rgba(255,255,255,.33)}
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,.mejs-controls .mejs-time-rail span{border-radius:0}
+.mejs-overlay-loading{background:0 0}
+.mejs-controls button:hover{border:none;-webkit-box-shadow:none;box-shadow:none}
+.me-cannotplay{width:auto!important}
+.media-embed-details .wp-audio-shortcode{display:inline-block;max-width:400px}
+.audio-details .embed-media-settings{overflow:visible}
+.media-embed-details .embed-media-settings .setting span:not(.button-group){max-width:400px;width:auto}
+.media-embed-details .embed-media-settings .checkbox-setting span{display:inline-block}
+.media-embed-details .embed-media-settings{padding-top:0;top:28px}
+.media-embed-details .instructions{padding:16px 0;max-width:600px}
+.media-embed-details .setting .remove-setting,.media-embed-details .setting p{color:#a00;font-size:10px;text-transform:uppercase}
+.media-embed-details .setting .remove-setting{padding:5px 0}
+.media-embed-details .setting a:hover{color:#dc3232}
+.media-embed-details .embed-media-settings .checkbox-setting{float:none;margin:0 0 10px}
+.wp-video{max-width:100%;height:auto}
+.wp_attachment_holder .wp-audio-shortcode,.wp_attachment_holder .wp-video{margin-top:18px}
+.wp-video-shortcode video,video.wp-video-shortcode{max-width:100%;display:inline-block}
+.video-details .wp-video-holder{width:100%;max-width:640px}
+.wp-playlist{border:1px solid #ccc;padding:10px;margin:12px 0 18px;font-size:14px;line-height:1.5}
+.wp-admin .wp-playlist{margin:0 0 18px}
+.wp-playlist video{display:inline-block;max-width:100%}
+.wp-playlist audio{display:none;max-width:100%;width:400px}
+.wp-playlist .mejs-container{margin:0;max-width:100%}
+.wp-playlist .mejs-controls .mejs-button button{outline:0}
+.wp-playlist-light{background:#fff;color:#000}
+.wp-playlist-dark{color:#fff;background:#000}
+.wp-playlist-caption{display:block;max-width:88%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:14px;line-height:1.5}
+.wp-playlist-item .wp-playlist-caption{text-decoration:none;color:#000;max-width:-webkit-calc(100% - 40px);max-width:calc(100% - 40px)}
+.wp-playlist-item-meta{display:block;font-size:14px;line-height:1.5}
+.wp-playlist-item-title{font-size:14px;line-height:1.5}
+.wp-playlist-item-album{font-style:italic;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.wp-playlist-item-artist{font-size:12px;text-transform:uppercase}
+.wp-playlist-item-length{position:absolute;right:3px;top:0;font-size:14px;line-height:1.5}
+.rtl .wp-playlist-item-length{left:3px;right:auto}
+.wp-playlist-tracks{margin-top:10px}
+.wp-playlist-item{position:relative;cursor:pointer;padding:0 3px;border-bottom:1px solid #ccc}
+.wp-playlist-item:last-child{border-bottom:0}
+.wp-playlist-light .wp-playlist-caption{color:#333}
+.wp-playlist-dark .wp-playlist-caption{color:#ddd}
+.wp-playlist-playing{font-weight:700;background:#f7f7f7}
+.wp-playlist-light .wp-playlist-playing{background:#fff;color:#000}
+.wp-playlist-dark .wp-playlist-playing{background:#000;color:#fff}
+.wp-playlist-current-item{overflow:hidden;margin-bottom:10px;height:60px}
+.wp-playlist .wp-playlist-current-item img{float:left;max-width:60px;height:auto;margin-right:10px;padding:0;border:0}
+.rtl .wp-playlist .wp-playlist-current-item img{float:right;margin-left:10px;margin-right:0}
+.wp-playlist-current-item .wp-playlist-item-artist,.wp-playlist-current-item .wp-playlist-item-title{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.wp-audio-playlist .me-cannotplay span{padding:5px 15px}
+.aioseo-location-box,.aioseo-location-box .d-flex{display:flex}
+.aioseo-location-box>[class*=col]{padding:0 15px 20px}
+.aioseo-location-box .col{flex:1}
+.aioseo-location-box .col-auto{flex:none}
+.aioseo-location-box .label{opacity:.5}
+[dir=ltr] .aioseo-location-box .icon{padding-right:17px}
+[dir=rtl] .aioseo-location-box .icon{padding-left:17px}
+.aioseo-location-box .aioseo-name-details{padding-bottom:10px}
+.aioseo-location-box .aioseo-address-details{padding-bottom:26px}
+.aioseo-location-box .aioseo-contact-details>div{padding-bottom:20px}
+.aioseo-location-box.hide-label .label,.aioseo-location-box.hide-icon .icon{display:none}
+.aioseo-local-business-info-widget .aioseo-location-box{flex-direction:column}
+.aioseo-opening-hours .d-flex{display:flex}
+.aioseo-opening-hours .col{flex:1}
+.aioseo-opening-hours .col-auto{flex:none}
+.aioseo-opening-hours .aioseo-opening-hours-icon{display:inline-block}
+[dir=ltr] .aioseo-opening-hours .aioseo-opening-hours-icon{margin-right:17px}
+[dir=rtl] .aioseo-opening-hours .aioseo-opening-hours-icon{margin-left:17px}
+.aioseo-opening-hours .aioseo-opening-hours-table{border-collapse:collapse;border-spacing:0;border:#0000;width:100%;max-width:100%;margin:10px -.5em;overflow:hidden}
+.aioseo-opening-hours .aioseo-opening-hours-table th,.aioseo-opening-hours .aioseo-opening-hours-table td{border:#0000;padding:.5em}
+.aioseo-location-map .d-flex{display:flex}
+.aioseo-location-map .col{flex:1}
+.aioseo-location-map .col-auto{flex:none}
+.aioseo-location-map .aioseo-local-map .marker-info-window .name{padding-bottom:3px;font-weight:700}
+.aioseo-toc-header{width:100%;position:relative}
+.aioseo-toc-header:has(.aioseo-toc-header-area){flex-direction:column;align-items:flex-start}
+.aioseo-toc-header .aioseo-toc-header-title{align-items:center;color:#434960;display:flex;flex:1 0 auto;font-size:24px;font-weight:700;line-height:125%;max-width:100%;gap:8px}
+.aioseo-toc-header .aioseo-toc-header-title .aioseo-toc-header-collapsible{display:flex;border-radius:2px;cursor:pointer;transition:transform .3s ease;background-color:#e5f0ff;box-sizing:border-box;justify-content:center;align-items:center}
+[dir=ltr] .aioseo-toc-header .aioseo-toc-header-title .aioseo-toc-header-collapsible{padding:8px 0 8px 10px}
+[dir=rtl] .aioseo-toc-header .aioseo-toc-header-title .aioseo-toc-header-collapsible{padding:8px 10px 8px 0}
+.aioseo-toc-header .aioseo-toc-header-title .aioseo-toc-header-collapsible svg{width:14px;height:14px}
+[dir=ltr] .aioseo-toc-header .aioseo-toc-header-title .aioseo-toc-header-collapsible svg{margin-right:10px}
+[dir=rtl] .aioseo-toc-header .aioseo-toc-header-title .aioseo-toc-header-collapsible svg{margin-left:10px}
+.aioseo-toc-header .aioseo-toc-header-instructions{color:#2c324c;font-size:16px;margin-bottom:0;margin-top:16px}
+.aioseo-toc-header .aioseo-toc-header-buttons{flex:0 1 auto}
+.aioseo-toc-contents{transition:transform .3s ease,opacity .3s ease;transform-origin:top;display:block;opacity:1;transform:scaleY(1);padding-top:12px}
+.aioseo-toc-collapsed{opacity:0;transform:scaleY(0);height:0;overflow:hidden}
+.wp-block-aioseo-recipe,.aioseo-recipe-block{display:flex;flex-direction:column;gap:20px}
+.wp-block-aioseo-recipe *,.aioseo-recipe-block *{box-sizing:border-box!important}
+.wp-block-aioseo-recipe .aioseo-recipe-header-area,.aioseo-recipe-block .aioseo-recipe-header-area{display:flex;border-bottom:1px solid #8C8F9A;padding-bottom:24px;justify-content:center;gap:40px}
+@media(max-width:767px){.wp-block-aioseo-recipe .aioseo-recipe-header-area,.aioseo-recipe-block .aioseo-recipe-header-area{flex-direction:column}}
+.wp-block-aioseo-recipe .aioseo-recipe-header-area div,.aioseo-recipe-block .aioseo-recipe-header-area div{flex:1}
+.wp-block-aioseo-recipe .aioseo-recipe-header-area div h2,.aioseo-recipe-block .aioseo-recipe-header-area div h2{font-size:32px;color:#2c324c;line-height:125%;padding-bottom:0;margin-bottom:12px;font-weight:700}
+.wp-block-aioseo-recipe .aioseo-recipe-header-area div.aioseo-recipe-description p,.aioseo-recipe-block .aioseo-recipe-header-area div.aioseo-recipe-description p{white-space:pre-wrap;margin-block-start:0;margin-block-end:0;margin-inline-start:0;margin-inline-end:0;font-size:16px;font-weight:400;color:#434960;line-height:125%}
+.wp-block-aioseo-recipe .aioseo-recipe-header-area div.aioseo-recipe-description p:before,.wp-block-aioseo-recipe .aioseo-recipe-header-area div.aioseo-recipe-description p:after,.aioseo-recipe-block .aioseo-recipe-header-area div.aioseo-recipe-description p:before,.aioseo-recipe-block .aioseo-recipe-header-area div.aioseo-recipe-description p:after{font-size:24px;color:#333}
+.wp-block-aioseo-recipe .aioseo-recipe-header-area div.aioseo-recipe-description p:before,.aioseo-recipe-block .aioseo-recipe-header-area div.aioseo-recipe-description p:before{content:"“"}
+[dir=ltr] .wp-block-aioseo-recipe .aioseo-recipe-header-area div.aioseo-recipe-description p:before,[dir=ltr] .aioseo-recipe-block .aioseo-recipe-header-area div.aioseo-recipe-description p:before{margin-right:4px}
+[dir=rtl] .wp-block-aioseo-recipe .aioseo-recipe-header-area div.aioseo-recipe-description p:before,[dir=rtl] .aioseo-recipe-block .aioseo-recipe-header-area div.aioseo-recipe-description p:before{margin-left:4px}
+.wp-block-aioseo-recipe .aioseo-recipe-header-area div.aioseo-recipe-description p:after,.aioseo-recipe-block .aioseo-recipe-header-area div.aioseo-recipe-description p:after{content:"”"}
+[dir=ltr] .wp-block-aioseo-recipe .aioseo-recipe-header-area div.aioseo-recipe-description p:after,[dir=ltr] .aioseo-recipe-block .aioseo-recipe-header-area div.aioseo-recipe-description p:after{margin-left:4px}
+[dir=rtl] .wp-block-aioseo-recipe .aioseo-recipe-header-area div.aioseo-recipe-description p:after,[dir=rtl] .aioseo-recipe-block .aioseo-recipe-header-area div.aioseo-recipe-description p:after{margin-right:4px}
+.wp-block-aioseo-recipe .aioseo-recipe-header-area img,.aioseo-recipe-block .aioseo-recipe-header-area img{flex:1;max-width:100%}
+.wp-block-aioseo-recipe .aioseo-recipe-general-info,.aioseo-recipe-block .aioseo-recipe-general-info{border-bottom:1px solid #8C8F9A;display:flex;flex-direction:row;flex-wrap:wrap;font-size:12px;gap:16px;padding:16px 0;text-transform:uppercase}
+.wp-block-aioseo-recipe .aioseo-recipe-general-info__row,.aioseo-recipe-block .aioseo-recipe-general-info__row{display:flex;gap:32px}
+.wp-block-aioseo-recipe .aioseo-recipe-general-info__row-item,.aioseo-recipe-block .aioseo-recipe-general-info__row-item{font-weight:700}
+.wp-block-aioseo-recipe .aioseo-recipe-general-info__row-item span,.aioseo-recipe-block .aioseo-recipe-general-info__row-item span{color:#000}
+.wp-block-aioseo-recipe .aioseo-recipe-general-info__row-item span.value,.aioseo-recipe-block .aioseo-recipe-general-info__row-item span.value{color:#434960}
+[dir=ltr] .wp-block-aioseo-recipe .aioseo-recipe-general-info__row-item span.value,[dir=ltr] .aioseo-recipe-block .aioseo-recipe-general-info__row-item span.value{margin-left:8px}
+[dir=rtl] .wp-block-aioseo-recipe .aioseo-recipe-general-info__row-item span.value,[dir=rtl] .aioseo-recipe-block .aioseo-recipe-general-info__row-item span.value{margin-right:8px}
+.wp-block-aioseo-recipe .aioseo-recipe-tags,.aioseo-recipe-block .aioseo-recipe-tags{display:flex;flex-wrap:wrap;gap:10px}
+.wp-block-aioseo-recipe .aioseo-recipe-tags span,.aioseo-recipe-block .aioseo-recipe-tags span{background-color:#d0d1d7;border-radius:4px;padding:8px 12px;font-size:12px;font-weight:700}
+.wp-block-aioseo-recipe .aioseo-recipe-instructions,.wp-block-aioseo-recipe .aioseo-recipe-ingredients,.aioseo-recipe-block .aioseo-recipe-instructions,.aioseo-recipe-block .aioseo-recipe-ingredients{display:flex;flex-direction:column}
+.wp-block-aioseo-recipe .aioseo-recipe-instructions h3,.wp-block-aioseo-recipe .aioseo-recipe-ingredients h3,.aioseo-recipe-block .aioseo-recipe-instructions h3,.aioseo-recipe-block .aioseo-recipe-ingredients h3{color:#2c324c;font-size:18px;font-weight:700}
+.wp-block-aioseo-recipe .aioseo-recipe-instructions ul,.wp-block-aioseo-recipe .aioseo-recipe-ingredients ul,.aioseo-recipe-block .aioseo-recipe-instructions ul,.aioseo-recipe-block .aioseo-recipe-ingredients ul{display:flex;flex-wrap:wrap;padding:0;margin-bottom:0}
+[dir=ltr] .wp-block-aioseo-recipe .aioseo-recipe-instructions ul,[dir=ltr] .wp-block-aioseo-recipe .aioseo-recipe-ingredients ul,[dir=ltr] .aioseo-recipe-block .aioseo-recipe-instructions ul,[dir=ltr] .aioseo-recipe-block .aioseo-recipe-ingredients ul{margin-left:16px}
+[dir=rtl] .wp-block-aioseo-recipe .aioseo-recipe-instructions ul,[dir=rtl] .wp-block-aioseo-recipe .aioseo-recipe-ingredients ul,[dir=rtl] .aioseo-recipe-block .aioseo-recipe-instructions ul,[dir=rtl] .aioseo-recipe-block .aioseo-recipe-ingredients ul{margin-right:16px}
+.wp-block-aioseo-recipe .aioseo-recipe-instructions ul li,.wp-block-aioseo-recipe .aioseo-recipe-ingredients ul li,.aioseo-recipe-block .aioseo-recipe-instructions ul li,.aioseo-recipe-block .aioseo-recipe-ingredients ul li{width:100%;font-size:16px;font-weight:400}
+@media(min-width:768px){.wp-block-aioseo-recipe .aioseo-recipe-instructions ul li,.wp-block-aioseo-recipe .aioseo-recipe-ingredients ul li,.aioseo-recipe-block .aioseo-recipe-instructions ul li,.aioseo-recipe-block .aioseo-recipe-ingredients ul li{width:50%}}
+.wp-block-aioseo-recipe .aioseo-recipe-instructions ol,.wp-block-aioseo-recipe .aioseo-recipe-ingredients ol,.aioseo-recipe-block .aioseo-recipe-instructions ol,.aioseo-recipe-block .aioseo-recipe-ingredients ol{padding:0;margin-bottom:0}
+[dir=ltr] .wp-block-aioseo-recipe .aioseo-recipe-instructions ol,[dir=ltr] .wp-block-aioseo-recipe .aioseo-recipe-ingredients ol,[dir=ltr] .aioseo-recipe-block .aioseo-recipe-instructions ol,[dir=ltr] .aioseo-recipe-block .aioseo-recipe-ingredients ol{margin-left:16px}
+[dir=rtl] .wp-block-aioseo-recipe .aioseo-recipe-instructions ol,[dir=rtl] .wp-block-aioseo-recipe .aioseo-recipe-ingredients ol,[dir=rtl] .aioseo-recipe-block .aioseo-recipe-instructions ol,[dir=rtl] .aioseo-recipe-block .aioseo-recipe-ingredients ol{margin-right:16px}
+.wp-block-aioseo-recipe .aioseo-recipe-instructions ol li,.wp-block-aioseo-recipe .aioseo-recipe-ingredients ol li,.aioseo-recipe-block .aioseo-recipe-instructions ol li,.aioseo-recipe-block .aioseo-recipe-ingredients ol li{font-size:16px;font-weight:400}
+.wp-block-aioseo-recipe .aioseo-recipe-instructions ol li:not(:last-of-type),.wp-block-aioseo-recipe .aioseo-recipe-ingredients ol li:not(:last-of-type),.aioseo-recipe-block .aioseo-recipe-instructions ol li:not(:last-of-type),.aioseo-recipe-block .aioseo-recipe-ingredients ol li:not(:last-of-type){margin-bottom:20px}
+.wp-block-aioseo-recipe .aioseo-recipe-instructions ol li h4,.wp-block-aioseo-recipe .aioseo-recipe-ingredients ol li h4,.aioseo-recipe-block .aioseo-recipe-instructions ol li h4,.aioseo-recipe-block .aioseo-recipe-ingredients ol li h4{font-size:16px;font-weight:700;margin-bottom:0}
+.wp-block-aioseo-recipe .aioseo-recipe-instructions ol li p,.wp-block-aioseo-recipe .aioseo-recipe-ingredients ol li p,.aioseo-recipe-block .aioseo-recipe-instructions ol li p,.aioseo-recipe-block .aioseo-recipe-ingredients ol li p{margin-top:0}
+.wp-block-aioseo-recipe .aioseo-recipe-instructions ol li .instruction-title,.wp-block-aioseo-recipe .aioseo-recipe-ingredients ol li .instruction-title,.aioseo-recipe-block .aioseo-recipe-instructions ol li .instruction-title,.aioseo-recipe-block .aioseo-recipe-ingredients ol li .instruction-title{font-weight:700;display:block}
+.wp-block-aioseo-recipe .aioseo-recipe-instructions ol li img,.wp-block-aioseo-recipe .aioseo-recipe-ingredients ol li img,.aioseo-recipe-block .aioseo-recipe-instructions ol li img,.aioseo-recipe-block .aioseo-recipe-ingredients ol li img{max-width:100%}
+.wp-block-aioseo-recipe .aioseo-recipe-reviews,.aioseo-recipe-block .aioseo-recipe-reviews{display:flex;flex-direction:column;gap:8px}
+@media(max-width:767px){.wp-block-aioseo-recipe .aioseo-recipe-reviews,.aioseo-recipe-block .aioseo-recipe-reviews{margin-top:3rem}}
+.wp-block-aioseo-recipe .aioseo-recipe-reviews .review,.aioseo-recipe-block .aioseo-recipe-reviews .review{margin:10px 0}
+.wp-block-aioseo-recipe .aioseo-recipe-reviews .review .content,.aioseo-recipe-block .aioseo-recipe-reviews .review .content{color:#434960}
+.wp-block-aioseo-recipe .aioseo-recipe-reviews .review .content .headline,.aioseo-recipe-block .aioseo-recipe-reviews .review .content .headline{font-size:16px;font-weight:700;margin:0 0 10px}
+.wp-block-aioseo-recipe .aioseo-recipe-reviews .review .content .description,.aioseo-recipe-block .aioseo-recipe-reviews .review .content .description{font-size:14px;margin:0 0 10px}
+.wp-block-aioseo-recipe .aioseo-recipe-reviews .review .author-rating,.aioseo-recipe-block .aioseo-recipe-reviews .review .author-rating{color:#434960;font-size:14px;display:flex;justify-content:space-between;gap:8px}
+@media(max-width:767px){.wp-block-aioseo-recipe .aioseo-recipe-reviews .review .author-rating,.aioseo-recipe-block .aioseo-recipe-reviews .review .author-rating{flex-direction:column}}
+.wp-block-aioseo-recipe .aioseo-recipe-reviews .review .author-rating .rating,.aioseo-recipe-block .aioseo-recipe-reviews .review .author-rating .rating{font-size:20px}
+.wp-block-aioseo-recipe .aioseo-recipe-reviews .review .author-rating .rating .filled,.aioseo-recipe-block .aioseo-recipe-reviews .review .author-rating .rating .filled{color:#ffc107}
+.wp-block-aioseo-recipe .aioseo-recipe-reviews .review .author-rating .rating .empty,.aioseo-recipe-block .aioseo-recipe-reviews .review .author-rating .rating .empty{color:#d0d1d7}
+.wp-block-aioseo-product *,.aioseo-product-block *{box-sizing:border-box!important}
+.wp-block-aioseo-product .aioseo-product-header,.aioseo-product-block .aioseo-product-header{display:flex;flex-wrap:wrap;gap:24px;border-bottom:1px solid #8C8F9A;padding:16px 0}
+@media(max-width:767px){.wp-block-aioseo-product .aioseo-product-header,.aioseo-product-block .aioseo-product-header{flex-direction:column}}
+.wp-block-aioseo-product .aioseo-product-header img,.aioseo-product-block .aioseo-product-header img{width:100%;max-width:100%}
+.wp-block-aioseo-product .aioseo-product-header div,.aioseo-product-block .aioseo-product-header div{flex:1;color:#434960}
+.wp-block-aioseo-product .aioseo-product-header p,.wp-block-aioseo-product .aioseo-product-header .product-sku,.wp-block-aioseo-product .aioseo-product-header .product-description,.aioseo-product-block .aioseo-product-header p,.aioseo-product-block .aioseo-product-header .product-sku,.aioseo-product-block .aioseo-product-header .product-description{color:#2c324c;font-size:14px;margin:0 0 16px}
+.wp-block-aioseo-product .aioseo-product-header .product-description,.aioseo-product-block .aioseo-product-header .product-description{white-space:pre-wrap}
+.wp-block-aioseo-product .aioseo-product-header .product-description>div,.aioseo-product-block .aioseo-product-header .product-description>div{white-space:pre-wrap}
+.wp-block-aioseo-product .aioseo-product-header .brand-name,.aioseo-product-block .aioseo-product-header .brand-name{font-size:12px;font-weight:700;padding:0;margin:0 0 16px}
+.wp-block-aioseo-product .aioseo-product-header .product-name,.aioseo-product-block .aioseo-product-header .product-name{font-size:24px;font-weight:700;padding:0;margin:0 0 8px}
+.wp-block-aioseo-product .aioseo-product-header .offer-price,.aioseo-product-block .aioseo-product-header .offer-price{margin:16px 0}
+.wp-block-aioseo-product .aioseo-product-header .offer-price .price,.aioseo-product-block .aioseo-product-header .offer-price .price{font-size:18px;font-weight:700;margin-bottom:6px}
+.wp-block-aioseo-product .aioseo-product-header .offer-price .price.has-sale-price,.aioseo-product-block .aioseo-product-header .offer-price .price.has-sale-price{font-size:16px;text-decoration:line-through;opacity:.7}
+.wp-block-aioseo-product .aioseo-product-header .offer-price .sale-price,.aioseo-product-block .aioseo-product-header .offer-price .sale-price{font-size:20px;font-weight:700;margin-bottom:6px}
+.wp-block-aioseo-product .aioseo-product-header .offer-price .availability,.aioseo-product-block .aioseo-product-header .offer-price .availability{display:flex;color:#434960;gap:12px;justify-content:start;align-items:center}
+.wp-block-aioseo-product .aioseo-product-header .offer-price .availability .color,.aioseo-product-block .aioseo-product-header .offer-price .availability .color{width:11px;height:11px;border-radius:50%}
+.wp-block-aioseo-product .aioseo-product-header .offer-price .availability .text,.aioseo-product-block .aioseo-product-header .offer-price .availability .text{font-size:14px}
+.wp-block-aioseo-product .aioseo-product-header .offer-price .availability .LimitedAvailability,.aioseo-product-block .aioseo-product-header .offer-price .availability .LimitedAvailability{background-color:#df2a4a}
+.wp-block-aioseo-product .aioseo-product-header .offer-price .availability .OutOfStock,.wp-block-aioseo-product .aioseo-product-header .offer-price .availability .Discontinued,.wp-block-aioseo-product .aioseo-product-header .offer-price .availability .SoldOut,.aioseo-product-block .aioseo-product-header .offer-price .availability .OutOfStock,.aioseo-product-block .aioseo-product-header .offer-price .availability .Discontinued,.aioseo-product-block .aioseo-product-header .offer-price .availability .SoldOut{background-color:red}
+.wp-block-aioseo-product .aioseo-product-header .offer-price .availability .InStock,.wp-block-aioseo-product .aioseo-product-header .offer-price .availability .InStoreOnly,.wp-block-aioseo-product .aioseo-product-header .offer-price .availability .OnlineOnly,.aioseo-product-block .aioseo-product-header .offer-price .availability .InStock,.aioseo-product-block .aioseo-product-header .offer-price .availability .InStoreOnly,.aioseo-product-block .aioseo-product-header .offer-price .availability .OnlineOnly{background-color:#4caf50}
+.wp-block-aioseo-product .aioseo-product-header .offer-price .availability .PreOrder,.aioseo-product-block .aioseo-product-header .offer-price .availability .PreOrder{background-color:#ffc107}
+.wp-block-aioseo-product .aioseo-product-reviews,.aioseo-product-block .aioseo-product-reviews{display:flex;flex-direction:column;gap:8px;margin:20px 0}

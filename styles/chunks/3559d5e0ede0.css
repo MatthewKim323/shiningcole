@@ -1,0 +1,8 @@
+.qodef-qi-flip-box.qodef-qi-animation-type-flip.qodef-qi-animation-direction-down.qodef-show .qodef-qi-flip-box-back{transform:none}
+.qodef-qi-flip-box.qodef-qi-animation-type-flip.qodef-qi-animation-direction-up .qodef-qi-flip-box-back{transform:rotateX(-180deg)}
+.qodef-qi-flip-box.qodef-qi-animation-type-flip.qodef-qi-animation-direction-up.qodef-show .qodef-qi-flip-box-front{transform:rotateX(180deg)}
+.qodef-qi-flip-box.qodef-qi-animation-type-flip.qodef-qi-animation-direction-up.qodef-show .qodef-qi-flip-box-back{transform:none}
+.qodef-qi-flip-box.qodef-qi-animation-type-flip-whole.qodef-qi-animation-direction-left .qodef-qi-flip-box-front{transform:none;transform-origin:100% 50%}
+.qodef-qi-flip-box.qodef-qi-animation-type-flip-whole.qodef-qi-animation-direction-left .qodef-qi-flip-box-back{transform:translateX(100%) rotateY(180deg);transform-origin:0 50%}
+.qodef-qi-flip-box.qodef-qi-animation-type-flip-whole.qodef-qi-animation-direction-left.qodef-show .qodef-qi-flip-box-front{transform:translateX(100%) rotateY(-180deg);transform-origin:0 50%}
+.qodef-qi-flip-box.qodef-qi-animation-type-flip-whole.qodef-qi-animation-direction-left.qodef-show .qodef-qi-flip-box-back{transform:none;transform-origin:100% 50%}

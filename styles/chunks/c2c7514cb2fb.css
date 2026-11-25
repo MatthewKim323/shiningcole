@@ -1,0 +1,8 @@
+.q_tabs.vertical.left .tab-content{padding-left:17px;border-left:2px solid #e3e3e3;left:-2px}
+.q_tabs.vertical.right .tab-content{padding-right:17px;border-right:2px solid #e3e3e3;right:-2px}
+.q_tabs.boxed{text-align:left}
+.q_tabs.boxed .tabs-nav{display:block}
+.q_tabs.boxed .tabs-nav li a{border-bottom:none;position:relative;z-index:200}
+.q_tabs.boxed .tabs-nav li.active a{position:relative;z-index:100;line-height:40px;height:40px;padding:0 12px;border:2px solid #e3e3e3;border-bottom-color:#fff;border-top-left-radius:3px;border-top-right-radius:3px}
+.q_tabs.boxed .tabs-container{overflow:hidden;text-align:left;padding:19px 0 0;border-top:2px solid #e3e3e3;position:relative;top:-2px;z-index:50}
+.q_accordion_holder{position:relative;display:block;visibility:hidden;margin:0 0 30px}

@@ -1,0 +1,9 @@
+.sd-content ul li.preview-item.no-icon a.sd-button span{margin-left:0}
+.sd-social-text .sd-content ul li a::before,.sd-content ul li.no-icon a::before{display:none}
+body .sd-social-text .sd-content ul li.share-custom a span,body .sd-content ul li.share-custom.no-icon a span{background-image:none;background-position:-500px -500px!important;background-repeat:no-repeat!important;padding-left:0;height:0;line-height:inherit}
+.sd-social-icon .sd-content ul li a.share-more{position:relative;top:-4px}
+@media screen and (-webkit-min-device-pixel-ratio:0){.sd-social-icon .sd-content ul li a.share-more{top:2px}}
+@-moz-document url-prefix(){.sd-social-icon .sd-content ul li a.share-more{top:2px}}
+.sd-social-icon .sd-content ul li a.share-more span{margin-left:3px}
+.sd-social-icon .sd-content ul li.share-print a::before,.sd-social-text .sd-content ul li.share-print a::before,.sd-content ul li.share-print div.option.option-smart-off a::before,.sd-social-icon-text .sd-content li.share-print a::before,.sd-social-official .sd-content li.share-print a::before{content:"\f469"}
+.sd-social-icon .sd-content ul li.share-email a::before,.sd-social-text .sd-content ul li.share-email a::before,.sd-content ul li.share-email div.option.option-smart-off a::before,.sd-social-icon-text .sd-content li.share-email a::before,.sd-social-official .sd-content li.share-email a::before{content:"\f410"}

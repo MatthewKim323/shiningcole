@@ -1,0 +1,14 @@
+.waveform-container{cursor:pointer;flex:1;min-height:60px;min-width:0;position:relative;width:100%}
+.waveform-container:focus-visible{outline:2px solid currentColor}
+.waveform-container canvas{display:block;height:100%;max-width:100%;position:relative;transition:opacity .3s ease;width:100%;z-index:1}
+.waveform-info{align-items:center;display:flex;font-size:13px;gap:8px;min-height:20px}
+.waveform-text{display:flex;flex:1;flex-direction:column;gap:2px;min-width:0}
+.waveform-title{color:var(--wfp-text-color);font-weight:500}
+.waveform-artist,.waveform-title{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.waveform-artist{color:var(--wfp-text-secondary-color);font-size:11px}
+.waveform-bpm,.waveform-time{color:var(--wfp-text-secondary-color);flex-shrink:0;font-size:11px;white-space:nowrap}
+.waveform-bpm{align-items:center;display:inline-flex;gap:4px}
+.waveform-loading{background:rgba(0,0,0,.102)}
+.waveform-error,.waveform-loading{inset:0;position:absolute;z-index:10}
+.waveform-error{align-items:center;background:rgba(0,0,0,.2);display:flex;justify-content:center}
+.waveform-error-text{font-size:12px;opacity:.7;padding:0 20px;text-align:center}

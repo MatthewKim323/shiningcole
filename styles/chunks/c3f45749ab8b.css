@@ -1,0 +1,21 @@
+.icon-basic-webpage-img-txt:before{content:"\e025"}
+.icon-basic-webpage-multiple:before{content:"\e026"}
+.icon-basic-webpage-txt:before{content:"\e027"}
+.icon-basic-world:before{content:"\e028"}
+[class^="icon-basic-elaboration-"][data-icon]:before{font-family:"linea-basic-elaboration-10"!important;content:attr(data-icon);font-style:normal!important;font-weight:normal!important;font-variant:normal!important;text-transform:none!important;speak:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+[class^="icon-basic-elaboration-"]:before,[class*=" icon-basic-elaboration-"]:before{font-family:"linea-basic-elaboration-10"!important;font-style:normal!important;font-weight:normal!important;font-variant:normal!important;text-transform:none!important;speak:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.icon-basic-elaboration-bookmark-checck:before{content:"a"}
+.icon-basic-elaboration-bookmark-minus:before{content:"b"}
+.icon-basic-elaboration-bookmark-plus:before{content:"c"}
+.icon-basic-elaboration-bookmark-remove:before{content:"d"}
+.icon-basic-elaboration-briefcase-check:before{content:"e"}
+.icon-basic-elaboration-briefcase-download:before{content:"f"}
+.icon-basic-elaboration-briefcase-flagged:before{content:"g"}
+.icon-basic-elaboration-briefcase-minus:before{content:"h"}
+.icon-basic-elaboration-briefcase-plus:before{content:"i"}
+.icon-basic-elaboration-briefcase-refresh:before{content:"j"}
+.icon-basic-elaboration-briefcase-remove:before{content:"k"}
+.icon-basic-elaboration-briefcase-search:before{content:"l"}
+.icon-basic-elaboration-briefcase-star:before{content:"m"}
+.icon-basic-elaboration-briefcase-upload:before{content:"n"}
+.icon-basic-elaboration-browser-check:before{content:"o"}

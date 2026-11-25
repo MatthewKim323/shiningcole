@@ -1,0 +1,23 @@
+.wp-block-accordion{box-sizing:border-box}
+.wp-block-accordion-item.is-open>.wp-block-accordion-heading .wp-block-accordion-heading__toggle-icon{transform:rotate(45deg)}
+@media (prefers-reduced-motion:no-preference){.wp-block-accordion-item{transition:grid-template-rows .3s ease-out}.wp-block-accordion-item>.wp-block-accordion-heading .wp-block-accordion-heading__toggle-icon{transition:transform .2s ease-in-out}}
+.wp-block-accordion-heading__toggle{align-items:center;background:none;border:none;color:inherit;cursor:pointer;display:flex;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;overflow:hidden;padding:var(--wp--preset--spacing--20,1em) 0;text-align:inherit;text-decoration:inherit;text-transform:inherit;width:100%;word-spacing:inherit}
+.wp-block-accordion-heading__toggle:not(:focus-visible){outline:none}
+.wp-block-accordion-heading__toggle:hover .wp-block-accordion-heading__toggle-title{text-decoration:underline}
+.wp-block-accordion-heading__toggle-title{flex:1}
+.wp-block-accordion-heading__toggle-icon{align-items:center;display:flex;height:1.2em;justify-content:center;width:1.2em}
+.wp-block-accordion-panel[hidden]{border:none!important;box-shadow:none!important;margin-block-start:0;padding:0!important}
+.wp-block-archives{box-sizing:border-box}
+.wp-block-archives-dropdown label{display:block}
+.wp-block-avatar{line-height:0}
+.wp-block-avatar,.wp-block-avatar img{box-sizing:border-box}
+.wp-block-avatar.aligncenter{text-align:center}
+.wp-block-audio{box-sizing:border-box}
+.wp-block-audio :where(figcaption){margin-bottom:1em;margin-top:.5em}
+.wp-block-audio audio{min-width:300px;width:100%}
+.wp-block-breadcrumbs{box-sizing:border-box}
+.wp-block-breadcrumbs ol{flex-wrap:wrap;list-style:none}
+.wp-block-breadcrumbs li,.wp-block-breadcrumbs ol{align-items:center;display:flex;margin:0;padding:0}
+.wp-block-breadcrumbs li:not(:last-child):after{content:var(--separator,"/")/"";margin:0 .5em;opacity:.7}
+.wp-block-breadcrumbs span{color:inherit}
+.wp-block-button__link{align-content:center;box-sizing:border-box;cursor:pointer;display:inline-block;height:100%;text-align:center;word-break:break-word}

@@ -1,0 +1,45 @@
+.drop_down .narrow .second .inner ul li{padding:0;width:225px}
+.drop_down .narrow .second .inner ul li a{padding-left:20px;padding-right:20px}
+.drop_down .wide .second .inner ul li h5,.drop_down .wide .second .inner ul li.sub a,.drop_down .wide .second ul li a{background:0}
+.drop_down .second i{display:none}
+.drop_down .second .inner ul li ul{position:absolute;left:100%;top:-7px;height:auto;display:none;z-index:10;overflow:visible}
+.drop_down .second .inner ul li:hover ul{z-index:20;display:block}
+.drop_down .second.right{right:0;left:auto}
+.drop_down .second .inner ul.right li ul{left:-100%}
+.drop_down .second .inner ul li.sub ul li a,.drop_down .second .inner ul.right li.sub ul li a{background:0 0}
+.drop_down .second .inner .widget{padding:0 20px}
+.drop_down .second .inner .widget p{font-size:13px;line-height:16px;padding:12px 0}
+.drop_down .second ul li{border-bottom-width:1px;border-bottom-color:#3d3d3d}
+.drop_down .wide .second ul{padding:15px 10px}
+.drop_down .wide .second ul li{float:left;width:249px;padding:0 10px;border-left:1px solid #3d3d3d;border-bottom:0}
+.drop_down .wide.full_width_wide_menu .second ul{width:100%;box-sizing:border-box}
+.drop_down .wide.full_width_wide_menu .second ul li{box-sizing:border-box}
+.drop_down .wide .second ul li a,.drop_down .wide .second>.inner>ul>li.sub>ul>li>a{padding:11px 9px}
+.drop_down ul li .qode-featured-icon{font-size:6px;position:relative;padding-left:4px;vertical-align:text-top;top:-3px}
+.drop_down .wide.right_position .second ul li:last-child,.drop_down .wide:not(.right_position) .second ul li:first-child{border-left-color:transparent}
+.drop_down .wide .second ul li:last-child{margin-right:0}
+.drop_down .wide.right_position .second ul li{float:right}
+.drop_down .wide .second ul li:hover{background-color:transparent}
+.drop_down .wide .second ul li:nth-child(4n+1){clear:both}
+.drop_down .wide.full_width_wide_menu .second ul li:nth-child(4n+1){clear:none}
+.drop_down .second .inner ul li.sub a i.q_menu_arrow{display:inline-block;float:right;position:relative;top:2px;font-size:12px;color:#888}
+.drop_down .second .inner ul li.sub ul li a i.q_menu_arrow,.drop_down .wide .second .inner ul li.sub a i.q_menu_arrow{display:none}
+.drop_down .second .inner ul.right li.sub a i.q_menu_arrow{float:left;-ms-transform:rotate(180deg);-moz-transform:rotate(180deg);-webkit-transform:rotate(180deg)}
+.drop_down .wide .second .inner>ul>li>a{color:#fff;border-bottom:0;text-transform:uppercase;letter-spacing:1px;font-weight:600;margin-bottom:7px;font-size:13px}
+.drop_down .wide .second .inner ul li h5 a,.drop_down .wide .second .inner ul li.sub h5 a{padding:0!important}
+.drop_down .wide .second ul li ul{display:block;left:0;padding:0;position:relative;top:0;visibility:visible;background-color:transparent!important}
+.drop_down .wide .second ul li ul .widget{padding:0 10px}
+.drop_down .wide.wide_background .second{background-color:#262626}
+.drop_down .wide.wide_background .second .inner ul{text-align:left}
+.drop_down .wide.wide_background .second .inner,.fixed_top_header .header_inner_center{text-align:center}
+.drop_down .wide .second ul li.show_widget_area_in_popup:hover .popup_wrapper>a{color:#fff}
+.drop_down .wide .second ul li.show_widget_area_in_popup .popup_wrapper{position:relative;display:inline-block;vertical-align:middle}
+.drop_down .wide .second ul li.show_widget_area_in_popup a{display:inline-block;vertical-align:middle}
+.drop_down .wide .second ul li.show_widget_area_in_popup .widget{height:0;width:0;overflow:hidden;opacity:0;position:absolute;left:100%;top:0;padding:5px;margin:5px 0 0 5px;background-color:#262626}
+.drop_down .wide .second ul li ul li{z-index:1;padding:0;margin:0;border:0}
+.drop_down .wide .second ul li.show_widget_area_in_popup:hover{z-index:10}
+.drop_down .wide .second ul li.show_widget_area_in_popup:hover .widget{height:auto;width:auto;opacity:1}
+.drop_down .wide .second ul li.show_widget_area_in_popup .widget img{max-width:inherit;display:block;position:relative}
+.drop_down .wide .second ul li.show_widget_area_in_popup .widget a{padding:0}
+.drop_down .wide .second ul li ul li.menu-item-has-children>a,.drop_down .wide .second ul li ul li.menu-item-has-children>a:hover{border-bottom:0 none;color:#303030;font-size:15px}
+.drop_down .wide.icons .second ul li a span{position:relative;display:block}

@@ -1,0 +1,14 @@
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(29){transition-delay:4.06s}
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(30){transition-delay:4.2s}
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(31){transition-delay:4.34s}
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(32){transition-delay:4.48s}
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(33){transition-delay:4.62s}
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(34){transition-delay:4.76s}
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(35){transition-delay:4.9s}
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(36){transition-delay:5.04s}
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(37){transition-delay:5.18s}
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(38){transition-delay:5.32s}
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(39){transition-delay:5.46s}
+.qodef-qi-animated-text.qodef--animated-by-word.qodef--appear-from-left .qodef-e-word:nth-last-child(40){transition-delay:5.6s}
+.qodef-qi-animated-text.qodef--appear-fade.qodef-qi--appeared .qodef-e-character,.qodef-qi-animated-text.qodef--appear-fade.qodef-qi--appeared .qodef-e-word,.qodef-qi-animated-text.qodef--appear-from-bottom.qodef-qi--appeared .qodef-e-character,.qodef-qi-animated-text.qodef--appear-from-bottom.qodef-qi--appeared .qodef-e-word,.qodef-qi-animated-text.qodef--appear-from-left.qodef-qi--appeared .qodef-e-character,.qodef-qi-animated-text.qodef--appear-from-left.qodef-qi--appeared .qodef-e-word,.qodef-qi-animated-text.qodef--appear-from-right.qodef-qi--appeared .qodef-e-character,.qodef-qi-animated-text.qodef--appear-from-right.qodef-qi--appeared .qodef-e-word,.qodef-qi-animated-text.qodef--appear-from-top.qodef-qi--appeared .qodef-e-character,.qodef-qi-animated-text.qodef--appear-from-top.qodef-qi--appeared .qodef-e-word{opacity:1;transform:translateX(0) translateZ(0)}
+.qodef-qi-animated-text:not(.qodef--animated-by-word):not(.qodef--animated-by-letter).qodef--appear-from-bottom .qodef-m-title{opacity:0;transform:translateY(50px);transition:opacity .4s,transform .7s cubic-bezier(.26,-.14,0,1.01)}

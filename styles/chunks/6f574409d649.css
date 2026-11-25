@@ -1,0 +1,41 @@
+.portfolio_single .flexslider{overflow:hidden}
+.blog_holder.blog_small_image article .post_image,.blog_holder.blog_small_image article .post_text{width:50%;float:left;margin:0}
+.blog_holder.blog_small_image article .post_text .post_text_inner{padding:23px}
+.grid2 .blog_holder.blog_small_image article .post_comments{margin-left:0}
+.blog_holder article .post_description{margin:2px 0 10px}
+.blog_holder.blog_large_image_with_dividers .post_text_holder{display:table;width:100%;height:100%}
+.blog_holder.blog_large_image_with_dividers article .post_text .post_text_inner{padding:35px 0}
+.blog_holder.blog_large_image_with_dividers .post_text_holder .blog_column1{display:table-cell;vertical-align:top;text-align:center;width:70px}
+.blog_holder.blog_large_image_with_dividers .post_text_holder .blog_column2{display:table-cell;padding:0 35px 0 20px}
+.blog_holder.blog_large_image_with_dividers .post_text_holder .blog_column1 .date{padding:0 20px;border-right:1px solid #ebebeb}
+.blog_holder.blog_large_image_with_dividers .post_text_holder .blog_column1 .date>span{display:block}
+.blog_holder.blog_large_image_with_dividers .post_text_holder .blog_column1 .date_day{font-size:21px;font-weight:600;color:#303030;padding-bottom:5px}
+.blog_holder.blog_large_image_with_dividers article .post_info{display:table;width:100%;border-top:1px solid #ebebeb;padding-top:15px;color:#303030;margin-bottom:0}
+.blog_holder.blog_large_image_with_dividers article:not(.format-quote):not(.format-link) .post_info{margin-top:30px}
+.blog_holder.blog_large_image_with_dividers article .post_info .post_info_left{display:table-cell}
+.blog_holder.blog_large_image_with_dividers article .post_info .post_info_right{display:table-cell;text-align:right}
+.blog_holder.blog_large_image_with_dividers article .post_info a{display:inline-block;color:#303030}
+.blog_holder.blog_large_image_with_dividers article .post_info a:hover{color:#1abc9c}
+.blog_holder.blog_large_image_with_dividers article .post_info .post_info_right>a:not(:first-child):before,.blog_holder.blog_large_image_with_dividers article .post_info .post_info_right>div:not(:first-child):before{content:'/ '}
+.blog_holder.blog_large_image_with_dividers article.format-link .post_text .post_title,.blog_holder.blog_large_image_with_dividers article.format-quote .post_text .post_title{padding:0}
+.blog_holder.blog_large_image_with_dividers article.format-link .post_text .post_title a{color:#1abc9c;text-decoration:underline}
+.blog_holder.blog_large_image_with_dividers article.format-link .post_text:hover .post_title a{color:#fff}
+.blog_holder.blog_large_image_with_dividers article.format-quote .post_text .quote_author{margin-top:30px;color:#1abc9c}
+.blog_holder.blog_large_image_with_dividers article.format-link .post_info,.blog_holder.blog_large_image_with_dividers article.format-quote .post_info{margin-top:20px}
+.blog_holder.blog_large_image_with_dividers article.format-link .post_text span.link_mark,.blog_holder.blog_large_image_with_dividers article.format-quote .post_text span.qoute_mark{font-size:28px;padding:0 18px;border-right:1px solid #ebebeb;color:#303030}
+.latest_post_inner .post_comments i{font-size:16px;color:#adadad;padding:0 8px 0 0}
+.blog_holder article .post_description .post_comments:hover,.blog_holder article .post_description a:hover,.latest_post_inner .post_comments:hover i{color:#1abc9c}
+.blog_holder article .post_info .post_info_left a.post_author_avatar{display:inline-block;float:left;padding:0 10px 0 0}
+.blog_holder article .post_info .post_info_left a.post_author{display:inline-block;line-height:64px;float:left}
+.post_author_avatar img{border-radius:60px;border:2px solid #eaeaea}
+.blog_holder.masonry article .post_description,.blog_holder.masonry_full_width article .post_description{margin:0 0 4px}
+.blog_like{display:inline-block}
+.blog_like a{display:block;line-height:14px}
+.blog_like a i{color:#adadad;font-size:16px}
+.blog_holder.blog_large_image article .blog_like a i,.blog_holder.blog_single article .blog_like a i,.blog_holder.masonry article .blog_like a i,.blog_holder.masonry_full_width article .blog_like a i{display:inline-block}
+.blog_like a.liked i,.blog_like a:hover i,.blog_like a:hover span{color:#1abc9c}
+.blog_like span{padding:0 0 0 4px}
+.blog_holder.blog_large_image article .blog_like span,.blog_holder.blog_single article .blog_like span,.blog_holder.masonry article .blog_like span,.blog_holder.masonry_full_width article .blog_like span{display:inline-block;padding:0 0 0 5px}
+.blog_holder article .post_info .qbutton.dark{text-transform:none}
+.blog_share{display:inline-block}
+.blog_holder article.format-link .post_text i.link_mark,.blog_holder article.format-quote .post_text i.qoute_mark{margin:7px 0 0;color:silver;font-size:36px}

@@ -1,0 +1,63 @@
+@keyframes fillCircle{0%{stroke-dashoffset:307.919}100%{stroke-dashoffset:0}}
+.qodef-qi-circled-slider.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet.swiper-pagination-bullet-active svg path{animation-name:fillCircle}
+@media only screen and (max-width:1600px){.qodef-qi-circled-slider .qodef-m-content{width:40%}.qodef-qi-circled-slider.swiper-container-horizontal>.swiper-pagination-bullets{right:40px}.qodef-qi-circled-slider.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet{width:100px;height:100px;line-height:100px}.qodef-qi-circled-slider.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet img{width:70px;height:70px}}
+@media only screen and (max-width:1440px){.qodef-qi-circled-slider .qodef-m-content{width:50%}}
+@media only screen and (max-width:1024px){.qodef-qi-circled-slider .qodef-m-content{width:58%}.qodef-qi-circled-slider .qodef-m-item img{width:50%}.qodef-qi-circled-slider.swiper-container-horizontal>.swiper-pagination-bullets{width:95px}.qodef-qi-circled-slider.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet{display:block;margin:10px 0!important}}
+@media only screen and (max-width:680px){.qodef-qi-circled-slider .qodef-m-content{width:65%}.qodef-qi-circled-slider .qodef-m-item img{width:60%;margin:0 20px 0 auto}.qodef-qi-circled-slider .qodef-m-content{left:20px}.qodef-qi-circled-slider.swiper-container-horizontal>.swiper-pagination-bullets{display:none}}
+.qodef-qi-comments-template{position:relative;position:relative;display:inline-block;width:100%;vertical-align:top}
+.qodef-qi-comments-template .qodef-m-comments-not-found{margin:0}
+.qodef-qi-comments-template input,.qodef-qi-comments-template textarea{margin-bottom:26px}
+.qodef-qi-comments-template #qodef-comments-list{position:relative;display:inline-block;width:100%;vertical-align:top;margin-bottom:47px;padding-bottom:60px;border-bottom:1px solid #ebebeb}
+.qodef-qi-comments-template #qodef-comments-list .qodef-m-title{margin:0 0 30px}
+.qodef-qi-comments-template #qodef-comments-list .qodef-m-comments{list-style:none;margin:0;padding:0}
+.qodef-qi-comments-template #qodef-comments-list .qodef-m-comments>.qodef-comment-item:first-child{margin-top:0;padding-top:0;border-top:0}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item{margin:45px 0 0;padding:45px 0 0;border-top:1px solid #ebebeb}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .children{list-style:none;margin:0;padding:0 0 0 55px}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-inner{display:flex;align-items:flex-start}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-image{flex-shrink:0;width:132px;margin-right:32px}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-image img{display:block;width:100%;border-radius:100%}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-content{position:relative;display:inline-block;width:100%;vertical-align:top}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-info{display:flex;align-items:center;justify-content:space-between;margin-bottom:3px}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-info>*{margin:0}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-date{font-size:15px;line-height:1;color:#9c9c9c}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-date a{font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;line-height:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-date a:focus,.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-date a:hover{color:#888}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-links{display:inline-flex;align-items:center;flex-shrink:0;line-height:1}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-links a:hover{color:#9c9c9c}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-links>*{position:relative;margin-right:30px}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-links>* svg{width:19px;height:auto;fill:currentColor;flex-shrink:0}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-links>:last-child{margin-right:0}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-title{margin:0}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-title a{font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;line-height:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-text{margin-top:11px}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-text *{font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;line-height:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-text p{margin:0}
+.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-text img{margin-top:5px;margin-bottom:5px}
+.qodef-qi-comments-template #qodef-comments-list .qodef-m-pagination{margin-top:50px}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond{margin:36px 0 0}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond .comment-reply-title{margin:0!important}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond .comment-reply-title small{font-size:60%}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond .comment-reply-title a{font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;line-height:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit;float:right}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond p{margin:0}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond .comment-notes,.qodef-qi-comments-template #qodef-comments-list .comment-respond .logged-in-as{margin:7px 0 31px}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond .comment-notes a,.qodef-qi-comments-template #qodef-comments-list .comment-respond .logged-in-as a{font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;line-height:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond .comment-form-url{margin-bottom:5px}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond .comment-form-cookies-consent{position:relative;display:flex;margin-bottom:30px;font-size:15px;color:#9c9c9c}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond .comment-form-cookies-consent>*{margin:0}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond .comment-form-cookies-consent input[type=checkbox]{flex-shrink:0;margin-top:2px;margin-right:8px}
+.qodef-qi-comments-template #qodef-comments-list .comment-respond .comment-form-cookies-consent label{color:inherit;font-weight:inherit;line-height:1.1}
+@media only screen and (max-width:1024px){.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .children{padding-left:40px}}
+@media only screen and (max-width:768px){.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .children{padding-left:20px}}
+@media only screen and (max-width:680px){.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-inner{flex-wrap:wrap}.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-content{margin-top:32px}.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-info{flex-direction:column-reverse;flex-wrap:wrap}.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-info>*{width:100%}.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .qodef-e-links{margin-bottom:19px}.qodef-qi-comments-template #qodef-comments-list .qodef-comment-item .children{padding-left:3%}.qodef-qi-comments-template #qodef-comments-list .comment-respond .comment-reply-title a{float:none;display:block}}
+.qodef-qi-comments-template #qodef-comments-form{position:relative;display:inline-block;width:100%;vertical-align:top}
+.qodef-qi-comments-template #qodef-comments-form .comment-reply-title{margin:0}
+.qodef-qi-comments-template #qodef-comments-form .comment-reply-title small{font-size:60%;float:right}
+.qodef-qi-comments-template #qodef-comments-form .comment-reply-title a{font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;line-height:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit}
+.qodef-qi-comments-template #qodef-comments-form .qodef-comment-form p{margin:0}
+.qodef-qi-comments-template #qodef-comments-form .qodef-comment-form .comment-notes,.qodef-qi-comments-template #qodef-comments-form .qodef-comment-form .logged-in-as{margin:7px 0 31px}
+.qodef-qi-comments-template #qodef-comments-form .qodef-comment-form .comment-notes a,.qodef-qi-comments-template #qodef-comments-form .qodef-comment-form .logged-in-as a{font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;line-height:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit}
+.qodef-qi-comments-template #qodef-comments-form .qodef-comment-form .comment-form-url{margin-bottom:5px}
+.qodef-qi-comments-template #qodef-comments-form .qodef-comment-form .comment-form-cookies-consent{position:relative;display:flex;margin-bottom:30px;font-size:15px;color:#9c9c9c}
+.qodef-qi-comments-template #qodef-comments-form .qodef-comment-form .comment-form-cookies-consent>*{margin:0}
+.qodef-qi-comments-template #qodef-comments-form .qodef-comment-form .comment-form-cookies-consent input[type=checkbox]{flex-shrink:0;margin-top:2px;margin-right:8px}
+.qodef-qi-comments-template #qodef-comments-form .qodef-comment-form .comment-form-cookies-consent label{color:inherit;font-weight:inherit;line-height:1.1}

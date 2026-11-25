@@ -1,0 +1,9 @@
+.qodef-qi-search-results .qodef-search-item.sticky .qodef-e-title a:after{content:"*";position:absolute;top:0;right:-.5em;font-size:1.5em}
+.qodef-qi-search-results.qodef-alignment--centered{text-align:center}
+.qodef-qi-search-results.qodef-alignment--centered .qodef-search-item .qodef-e-info{justify-content:center}
+.qodef-qi-search-results.qodef-info-no-icons .qodef-e-info .qodef-e-info-item:not(:last-child):after{content:"/";position:relative;left:12px}
+.qodef-qi-search-results.qodef-title--hover-underline .qodef-e-title-link{width:100%;background-repeat:no-repeat;background-image:linear-gradient(transparent calc(100% - 2px),currentColor 2px);transition:.9s cubic-bezier(.32,.32,.15,1.17);background-size:0 100%}
+.qodef-qi-search-results.qodef-title--hover-underline .qodef-e-title-link:hover{background-size:100% 100%}
+.qodef-qi-search-results .qodef-e-media-image a:after{content:"";position:absolute;top:0;left:0;width:100%;height:100%;background-color:transparent;transition:background-color .35s ease-out}
+.qodef-qi-search-results.qodef-image--hover-zoom .qodef-e-media-image a{display:block;width:100%;transform:scale(1.005) translateZ(0);transition:transform .35s cubic-bezier(.25,.46,.45,.94);will-change:transform}
+.qodef-qi-search-results.qodef-image--hover-zoom .qodef-e:hover .qodef-e-media-image a{transform:scale(1.03)}
