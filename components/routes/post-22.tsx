@@ -355,11 +355,11 @@ export default function Post22Page() {
                           </div>
                         </div>
                       </div>
-                      <div className="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded" id="like-post-wrapper-224766872-4631-6b063adb3c2d7" data-src="/img/img-93a0dccc96.bin" data-name="like-post-frame-224766872-4631-6b063adb3c2d7" data-title="Like or Reblog">
+                      <div className="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-loaded" id="like-post-wrapper-224766872-4631-6b063adb3c2d7" data-title="Like or Reblog">
                         <h3 className="sd-title">
                           Like this:
                         </h3>
-                        <div className="likes-widget-placeholder post-likes-widget-placeholder" style={{ height: "55px" }}>
+                        <div className="likes-widget-placeholder post-likes-widget-placeholder" style={{ height: "55px", display: "none" }}>
                           <span className="button">
                             <span>
                               Like
@@ -380,6 +380,7 @@ export default function Post22Page() {
                         </div>
                         <span className="sd-text-color"></span>
                         <a className="sd-link-color"></a>
+                        <iframe className="post-likes-widget jetpack-likes-widget" height="55px" width="100%" frameBorder="0" scrolling="no" title="Like or Reblog"></iframe>
                       </div>
                       {"\n"}
                       <div id="jp-relatedposts" className="jp-relatedposts" style={{ display: "block" }}>
