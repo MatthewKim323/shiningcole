@@ -1,6 +1,7 @@
 export default function HomePage() {
   return (
     <div className="content content_top_margin_none">
+      <style dangerouslySetInnerHTML={{ __html: ".imp-e25dae12{color: #22c55e !important}" }} />
       {"\n"}
       <div className="content_inner">
         {"\n"}
@@ -333,7 +334,7 @@ export default function HomePage() {
                 {"\n"}
                 <div className="elementor-widget-container">
                   {"\n"}
-                  <h3 style={{ color: "#22c55e !important" }}>
+                  <h3 className="imp-e25dae12">
                     <strong>
                       JOIN TODAY – FIRST MONTH $10 Cancel anytime!
                     </strong>
@@ -347,7 +348,7 @@ export default function HomePage() {
                 {"\n"}
                 <div className="elementor-widget-container">
                   {"\n"}
-                  <p style={{ color: "#22c55e !important" }}>
+                  <p className="imp-e25dae12">
                     <strong>
                       Choose THE WORKS Plan TODAY for the $10 deal. Your introductory offer will be applied automatically at checkout.
                     </strong>

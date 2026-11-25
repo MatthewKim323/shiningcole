@@ -845,7 +845,7 @@ export default function TagFamilyOwnedPage() {
                       </div>
                       {"\n"}
                       <p itemProp="description" className="post_excerpt">
-                        {" The Shine & Sip Holiday 100 — A Thank You to Our Community\r\n\r\nAt Glinting Bay Car Wash, the holidays always remind us of something important: we wouldn’t be here without you. For over 25 years, our family-owned and operated business has had the privilege..."}
+                        {" The Shine & Sip Holiday 100 — A Thank You to Our Community\n\nAt Glinting Bay Car Wash, the holidays always remind us of something important: we wouldn’t be here without you. For over 25 years, our family-owned and operated business has had the privilege..."}
                       </p>
                       {" "}
                       <div className="post_more">

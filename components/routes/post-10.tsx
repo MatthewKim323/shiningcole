@@ -1,6 +1,7 @@
 export default function Post10Page() {
   return (
     <div className="content content_top_margin_none">
+      <style dangerouslySetInnerHTML={{ __html: ".imp-22dff83b{display: none !important}" }} />
       {"\n"}
       <div className="content_inner">
         {"\n"}
@@ -491,17 +492,16 @@ export default function Post10Page() {
                     {"\n"}
                     <div id="respond" className="comment-respond">
                       {"\n"}
-                      <h3 id="reply-title" className="comment-reply-title">
-                        <h5>
-                          Post A Comment
-                        </h5>
-                        {" "}
-                        <small>
-                          <a rel="nofollow" id="cancel-comment-reply-link" href="/2023/12/12/unlock-the-power-of-graphene-coatings-for-ultimate-vehicle-protection/#respond" style={{ display: "none" }}>
-                            Cancel Reply
-                          </a>
-                        </small>
-                      </h3>
+                      <h3 id="reply-title" className="comment-reply-title"></h3>
+                      <h5>
+                        Post A Comment
+                      </h5>
+                      {" "}
+                      <small>
+                        <a rel="nofollow" id="cancel-comment-reply-link" href="/2023/12/12/unlock-the-power-of-graphene-coatings-for-ultimate-vehicle-protection/#respond" style={{ display: "none" }}>
+                          Cancel Reply
+                        </a>
+                      </small>
                       <form action="/wp-comments-post.php" method="post" id="commentform" className="comment-form">
                         <div className="jetpack-comments" data-jetpack-comments={"{\"postId\":2329,\"loginUrl\":\"https://glintingbaywash.com/wp-login.php?redirect_to=https%3A%2F%2Fshiningstarwash.com%2F2023%2F12%2F12%2Funlock-the-power-of-graphene-coatings-for-ultimate-vehicle-protection%2F\",\"logoutUrl\":\"\",\"submit\":{\"id\":\"submit_comment\",\"name\":\"submit\",\"class\":\"submit\",\"wrapClass\":\"\",\"label\":\"Submit\"},\"subscriptions\":[{\"name\":\"subscribe_comments\",\"label\":\"Notify me of new comments by email.\",\"checked\":false},{\"name\":\"subscribe_blog\",\"label\":\"Subscribe to keep up with Glinting Bay Car Wash.\",\"checked\":false}]}"}>
                           <div className="jetpack-comments__plain">
@@ -541,7 +541,7 @@ export default function Post10Page() {
                         <p style={{ display: "none" }}>
                           <input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" defaultValue="ff61e13b07" />
                         </p>
-                        <p style={{ display: "none !important" }} className="akismet-fields-container" data-prefix="ak_">
+                        <p className="akismet-fields-container imp-22dff83b" data-prefix="ak_">
                           <label>
                             Δ
                             <textarea name="ak_hp_textarea" cols={45} rows={8} maxLength={100} defaultValue={""} />

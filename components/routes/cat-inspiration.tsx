@@ -441,7 +441,7 @@ export default function CatInspirationPage() {
                       </div>
                       {"\n"}
                       <p itemProp="description" className="post_excerpt">
-                        {" The Shine & Sip Holiday 100 — A Thank You to Our Community\r\n\r\nAt Glinting Bay Car Wash, the holidays always remind us of something important: we wouldn’t be here without you. For over 25 years, our family-owned and operated business has had the privilege..."}
+                        {" The Shine & Sip Holiday 100 — A Thank You to Our Community\n\nAt Glinting Bay Car Wash, the holidays always remind us of something important: we wouldn’t be here without you. For over 25 years, our family-owned and operated business has had the privilege..."}
                       </p>
                       {" "}
                       <div className="post_more">
@@ -756,7 +756,7 @@ export default function CatInspirationPage() {
                       </div>
                       {"\n"}
                       <p itemProp="description" className="post_excerpt">
-                        {"Family-Owned Businesses Drive More Than Just Revenue\r\nFamily-owned businesses are integral to both local economies and the industries they serve. Did you know that nearly 1 in 3 small businesses in the U.S. are family-owned, contributing to 62% of national employment? Across industries, these businesses redefine..."}
+                        {"Family-Owned Businesses Drive More Than Just Revenue\nFamily-owned businesses are integral to both local economies and the industries they serve. Did you know that nearly 1 in 3 small businesses in the U.S. are family-owned, contributing to 62% of national employment? Across industries, these businesses redefine..."}
                       </p>
                       {" "}
                       <div className="post_more">

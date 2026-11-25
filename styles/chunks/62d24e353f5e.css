@@ -1,0 +1,93 @@
+.header_top.clearfix {
+    line-height: 50px;
+    height: 50px;
+}
+.qode-btn.qode-btn-icon .qode-btn-text {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.qode-btn.qode-btn-icon .qode-button-v2-icon-holder {
+    font-size: 16px;
+    padding: 0 8px;
+}
+.woocommerce div.product .cart .quantity {
+    padding-top: 0px;
+}
+.woocommerce #content .quantity .minus, .woocommerce #content .quantity .plus, .woocommerce .quantity .minus, .woocommerce .quantity .plus, .woocommerce-page #content .quantity .minus, .woocommerce-page #content .quantity .plus, .woocommerce-page .quantity .minus, .woocommerce-page .quantity .plus {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 5px;
+}
+.woocommerce div.product .summary p.price, .woocommerce div.product .summary p.price span.amount {
+    padding-bottom: 14px;
+}
+.woocommerce #content .quantity input.qty, .woocommerce .quantity input.qty, .woocommerce-page #content .quantity input.qty, .woocommerce-page .quantity input.qty {
+    font-family: Nunito sans;
+    font-size: 14px;
+}
+.two_columns_75_25.background_color_sidebar.grid2.clearfix {
+    padding: 100px 0 100px 0;
+}
+.footer_top .widget_nav_menu ul li {
+    padding: 0 0 9px;
+}
+.footer_bottom ul li a {
+    text-transform: none;
+}
+.header-widget.widget_nav_menu ul.menu li a {
+    padding: 0 15px 0 0px;
+}
+nav.main_menu ul li a span.underline_dash, nav.vertical_menu ul li a span.underline_dash {
+    bottom: -1%;
+}
+rs-module rs-mask-wrap .rs-layer, rs-module rs-mask-wrap *:last-child, .wpb_text_column rs-module rs-mask-wrap .rs-layer, .wpb_text_column rs-module rs-mask-wrap *:last-child {
+    padding-top: 3px;
+}
+header .header_top .q_social_icon_holder:last-child {
+    margin-right: -15px;
+}
+.q_icon_list .qode-ili-icon-holder, .q_icon_list i {
+    width: 7px;
+    height: 7px;
+}
+.q_icon_list p {
+    padding: 0 0 0 14px;
+}
+.q_icon_list {
+    margin-bottom: 7px;
+}
+.q_icon_with_title.tiny .icon_text_holder {
+    padding: 0 0 0 23px;
+}
+h6.icon_title {
+    font-size: 14px;
+    font-family: Fira sans;
+    padding-top: 3px;
+}
+.woocommerce .woocommerce-message {
+    font-family: Nunito sans;
+}
+.footer_bottom_columns.two_columns_50_50 .column1 .footer_bottom > *{
+display: inline-block;
+vertical-align: middle;
+}
+.header_top .header-widget.widget_nav_menu ul.menu>li>a:hover{
+color: #fff !important;
+}
+.side_menu_button>a.search_button{
+position: relative;
+top: -4px;
+}
+.woocommerce form.checkout .col2-set .form-row input[type=text], .woocommerce form.checkout .col2-set .form-row input[type=email], .woocommerce form.checkout .col2-set .form-row input[type=password], .woocommerce form.checkout .col2-set .form-row input[type=tel], .woocommerce #payment ul.payment_methods li, .woocommerce .checkout table.shop_table thead tr, .woocommerce table.cart thead tr, .woocommerce-account table.my_account_orders thead tr, .woocommerce-page .checkout table.shop_table thead tr, .woocommerce-page table.cart thead tr{
+border: 1px solid #e1e1e1;
+color: #6f6f6f;
+font-family: 'Nunito Sans', sans-serif;
+font-size: 15px;
+line-height: 24px;
+font-style: normal;
+font-weight: 400;
+}
+.woocommerce .checkout table.shop_table thead tr th, .woocommerce table.cart thead tr th, .woocommerce-account table.my_account_orders thead tr th, .woocommerce-page .checkout table.shop_table thead tr th, .woocommerce-page table.cart thead tr th, .woocommerce-page table.my_account_orders thead tr th, .myaccount_user, .woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message, .woocommerce div.message{
+font-family: 'Nunito Sans', sans-serif;
+}

@@ -1,0 +1,22 @@
+.woocommerce #payment ul.payment_methods{
+border: none;
+}
+.woocommerce #payment .place-order .woocommerce-terms-and-conditions-wrapper{
+margin: 0 0 20px;
+}
+.qode-pl-holder .qode-pli-inner .qode-pli-image .qode-pli-new-product, .qode-pl-holder .qode-pli-inner .qode-pli-image .qode-pli-onsale, .qode-pl-holder .qode-pli-inner .qode-pli-image .qode-pli-out-of-stock{
+width: 48px;
+height: 22px;
+line-height: 22px;
+border-radius: 3px;
+color: #fff;
+text-align: center;
+letter-spacing: 0;
+padding-left: 2px;
+}
+.qode-pl-holder .qode-pli-inner .qode-pli-image .qode-pli-onsale{
+background-color: #1181fb
+}
+.qode-pl-holder .qode-pli-inner .qode-pli-image .qode-pli-out-of-stock{
+background-color: #000
+}

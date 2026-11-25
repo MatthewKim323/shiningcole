@@ -191,7 +191,7 @@ export default function TagBestAutomaticCarWashPage2Page() {
                       </div>
                       {"\n"}
                       <p itemProp="description" className="post_excerpt">
-                        {"Making Your Vehicle Shine with Graphene, Ceramic or Premium Wax\r\nWhat’s the Difference Between Graphene, Ceramic, and Premium Wax Coatings?\r\nYour car is more than just a way to get around. It represents an investment and, for many, even a piece of personal identity. Preserving that sleek..."}
+                        {"Making Your Vehicle Shine with Graphene, Ceramic or Premium Wax\nWhat’s the Difference Between Graphene, Ceramic, and Premium Wax Coatings?\nYour car is more than just a way to get around. It represents an investment and, for many, even a piece of personal identity. Preserving that sleek..."}
                       </p>
                       {" "}
                       <div className="post_more">
@@ -292,7 +292,7 @@ export default function TagBestAutomaticCarWashPage2Page() {
                       </div>
                       {"\n"}
                       <p itemProp="description" className="post_excerpt">
-                        {"Family-Owned Businesses Drive More Than Just Revenue\r\nFamily-owned businesses are integral to both local economies and the industries they serve. Did you know that nearly 1 in 3 small businesses in the U.S. are family-owned, contributing to 62% of national employment? Across industries, these businesses redefine..."}
+                        {"Family-Owned Businesses Drive More Than Just Revenue\nFamily-owned businesses are integral to both local economies and the industries they serve. Did you know that nearly 1 in 3 small businesses in the U.S. are family-owned, contributing to 62% of national employment? Across industries, these businesses redefine..."}
                       </p>
                       {" "}
                       <div className="post_more">

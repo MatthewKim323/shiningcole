@@ -635,7 +635,7 @@ export default function CatIdeasPage() {
                       </div>
                       {"\n"}
                       <p itemProp="description" className="post_excerpt">
-                        {" The Shine & Sip Holiday 100 — A Thank You to Our Community\r\n\r\nAt Glinting Bay Car Wash, the holidays always remind us of something important: we wouldn’t be here without you. For over 25 years, our family-owned and operated business has had the privilege..."}
+                        {" The Shine & Sip Holiday 100 — A Thank You to Our Community\n\nAt Glinting Bay Car Wash, the holidays always remind us of something important: we wouldn’t be here without you. For over 25 years, our family-owned and operated business has had the privilege..."}
                       </p>
                       {" "}
                       <div className="post_more">
@@ -942,7 +942,7 @@ export default function CatIdeasPage() {
                       </div>
                       {"\n"}
                       <p itemProp="description" className="post_excerpt">
-                        {"Making Your Vehicle Shine with Graphene, Ceramic or Premium Wax\r\nWhat’s the Difference Between Graphene, Ceramic, and Premium Wax Coatings?\r\nYour car is more than just a way to get around. It represents an investment and, for many, even a piece of personal identity. Preserving that sleek..."}
+                        {"Making Your Vehicle Shine with Graphene, Ceramic or Premium Wax\nWhat’s the Difference Between Graphene, Ceramic, and Premium Wax Coatings?\nYour car is more than just a way to get around. It represents an investment and, for many, even a piece of personal identity. Preserving that sleek..."}
                       </p>
                       {" "}
                       <div className="post_more">

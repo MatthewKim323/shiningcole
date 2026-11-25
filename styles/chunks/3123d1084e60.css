@@ -1,0 +1,89 @@
+.qode-pl-holder .qode-pli-inner .qode-pli-image .qode-pli-new-product{
+background-color: #ff365d;
+}
+.qode-pl-holder .qode-pli-text-wrapper{
+margin-top: 13px;
+margin-bottom: 35px;
+}
+.qode-pl-holder .qode-pli .qode-pli-title a{
+font-weight: 600;
+color: #6f6f6f;
+transition: all 0.3s ease;
+}
+.qode-pl-holder .qode-pli:hover .qode-pli-title a{
+color: #000;
+}
+.qode-pl-holder .qode-pli .qode-pli-price{
+font-size: 19px;
+font-weight: 600;
+color: #000;
+margin: 12px 0 0;
+}
+.qode-pl-holder .qode-pli .qode-pli-add-to-cart a{
+font-size: 14px;
+color: #1181fb;
+text-transform: none;
+letter-spacing: 0;
+}
+.qode-pl-holder .qode-pli .qode-pli-add-to-cart a:after{
+content: '\f102';
+font-family: Kiko;
+font-size: 11px;
+font-weight: 800;
+margin-left: 4px;
+position: relative;
+top: 1px;
+}
+.qode-pl-holder.qode-info-below-image .qode-pli .qode-pli-text-wrapper{
+overflow: hidden;
+}
+.qode-pl-holder.qode-info-below-image .qode-pli .qode-pli-text-wrapper .qode-pli-add-to-cart{
+left: 0;
+transform: translateX(-50%);
+}
+.qode-pl-holder .qode-pli-inner .qode-pli-text-inner .qode-yith-wcqv-holder, .qode-plc-holder .qode-plc-item .qode-plc-text-inner .qode-yith-wcqv-holder, ul.products>.product .qode-pl-inner .qode-pl-text-inner .qode-yith-wcqv-holder{
+width: 22px;
+height: 22px;
+line-height: 22px;
+border-radius: 3px;
+margin-right: 1px;
+background-color: #000000;
+}
+.yith-wcwl-add-to-wishlist{
+width: 22px;
+height: 22px;
+line-height: 22px;
+border-radius: 3px;
+margin-left: 1px;
+background-color: #ff365d;
+}
+.yith-wcwl-add-button>a i{
+display: none;
+}
+.qode-pl-holder .qode-pli-inner .qode-pli-text{
+bottom: 8px;
+}
+#yith-quick-view-modal #yith-quick-view-close:hover, .qode-pl-holder .qode-pli-inner .qode-pli-text-inner .qode-yith-wcqv-holder .yith-wcqv-button:hover:before, .qode-plc-holder .qode-plc-item .qode-plc-text-inner .qode-yith-wcqv-holder .yith-wcqv-button:hover:before, .yith-quick-view.yith-modal #yith-quick-view-close:hover, ul.products>.product .qode-pl-inner .qode-pl-text-inner .qode-yith-wcqv-holder .yith-wcqv-button:hover:before{
+opacity: 1;
+}
+.qode-pl-holder .qode-pli-inner .qode-pli-text-inner .qode-yith-wcqv-holder .yith-wcqv-button:before, .qode-plc-holder .qode-plc-item .qode-plc-text-inner .qode-yith-wcqv-holder .yith-wcqv-button:before, ul.products>.product .qode-pl-inner .qode-pl-text-inner .qode-yith-wcqv-holder .yith-wcqv-button:before{
+content: '\f147';
+font-family: Kiko;
+font-weight: 800;
+font-size: 11px;
+}
+.yith-wcwl-add-button a:after{
+content: '\f171';
+font-family: Kiko;
+font-weight: 800;
+font-size: 11px;
+}
+.qode-pl-holder .qode-pl-categories ul li a{
+font-size: 14px;
+color: #858585;
+text-transform: none;
+letter-spacing: 0px;
+}
+.qode-pl-holder .qode-pl-categories ul li a:hover, .qode-pl-holder .qode-pl-categories ul li a.active{
+color: #000;
+}
