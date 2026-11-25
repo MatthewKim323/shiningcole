@@ -316,6 +316,51 @@ function galleries(offs: Off[]) {
   }
 }
 
+/**
+ * Elementor's lightbox for gallery links (data-elementor-open-lightbox): a full-screen dialog with a slideshow of the
+ * group, built with Elementor's own classes so its stylesheet dresses it. Arrows / keys step, Esc or the close button exits.
+ */
+function lightbox(offs: Off[]) {
+  const links = [...document.querySelectorAll<HTMLAnchorElement>('a[data-elementor-open-lightbox="yes"]')];
+  if (!links.length) return;
+  let open: HTMLElement | null = null;
+  const close = () => { open?.remove(); open = null; document.removeEventListener("keydown", onKey); };
+  const onKey = (e: KeyboardEvent) => {
+    if (!open) return;
+    if (e.key === "Escape") close();
+    if (e.key === "ArrowRight") (open.querySelector(".elementor-swiper-button-next") as HTMLElement)?.click();
+    if (e.key === "ArrowLeft") (open.querySelector(".elementor-swiper-button-prev") as HTMLElement)?.click();
+  };
+  for (const a of links) {
+    on(a, "click", (ev) => {
+      ev.preventDefault();
+      const group = links.filter((l) => l.dataset.elementorLightboxSlideshow === a.dataset.elementorLightboxSlideshow);
+      let i = group.indexOf(a);
+      const root = document.createElement("div");
+      root.id = `elementor-lightbox-slideshow-${a.dataset.elementorLightboxSlideshow ?? "single"}`;
+      root.className = "dialog-widget dialog-lightbox-widget dialog-type-buttons dialog-type-lightbox elementor-lightbox";
+      root.style.display = "block";
+      const slides = group.map((l) => `<div class="swiper-slide elementor-lightbox-item elementor-slideshow__slide"><div class="swiper-zoom-container"><img class="elementor-lightbox-image elementor-lightbox-prevent-close" src="${l.href}" alt="${(l.dataset.elementorLightboxTitle ?? "").replace(/"/g, "&quot;")}"></div></div>`).join("");
+      root.innerHTML = `<div class="dialog-widget-content dialog-lightbox-widget-content"><div class="dialog-message dialog-lightbox-message"><div class="swiper elementor-slideshow__swiper swiper-initialized swiper-horizontal" dir="ltr"><div class="elementor-slideshow__header elementor-lightbox-prevent-close"><span class="elementor-slideshow__counter"></span></div><div class="swiper-wrapper" style="transition-duration:300ms">${slides}</div><div class="elementor-slideshow__footer elementor-lightbox-prevent-close"><div class="elementor-slideshow__title"></div></div><div class="elementor-swiper-button elementor-swiper-button-prev elementor-lightbox-prevent-close" role="button" tabindex="0" aria-label="Previous"><i aria-hidden="true" class="eicon-chevron-left"></i></div><div class="elementor-swiper-button elementor-swiper-button-next elementor-lightbox-prevent-close" role="button" tabindex="0" aria-label="Next"><i aria-hidden="true" class="eicon-chevron-right"></i></div></div></div><div class="dialog-buttons-wrapper dialog-lightbox-buttons-wrapper"></div></div><div class="dialog-close-button dialog-lightbox-close-button" role="button" tabindex="0" aria-label="Close"><i class="eicon-close"></i></div>`;
+      const wrap = root.querySelector<HTMLElement>(".swiper-wrapper")!;
+      const show = () => {
+        wrap.style.transform = `translate3d(${-i * 100}%, 0, 0)`;
+        root.querySelector(".elementor-slideshow__counter")!.textContent = `${i + 1} / ${group.length}`;
+        root.querySelector(".elementor-slideshow__title")!.textContent = group[i].dataset.elementorLightboxTitle ?? "";
+      };
+      root.querySelector(".elementor-swiper-button-prev")!.addEventListener("click", () => { i = (i - 1 + group.length) % group.length; show(); });
+      root.querySelector(".elementor-swiper-button-next")!.addEventListener("click", () => { i = (i + 1) % group.length; show(); });
+      root.querySelector(".dialog-close-button")!.addEventListener("click", close);
+      root.addEventListener("click", (e) => { if (!(e.target as HTMLElement).closest(".elementor-lightbox-prevent-close, .elementor-swiper-button, .dialog-close-button")) close(); });
+      document.body.appendChild(root);
+      open = root;
+      document.addEventListener("keydown", onKey);
+      show();
+    }, offs);
+  }
+  offs.push(close);
+}
+
 export default function Behaviors() {
   useEffect(() => {
     const offs: Off[] = [];
@@ -329,6 +374,7 @@ export default function Behaviors() {
     accordions(offs);
     masonry(offs);
     galleries(offs);
+    lightbox(offs);
     maps();
     portalShortcut(offs);
     return () => offs.forEach((f) => f());
