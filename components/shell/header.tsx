@@ -71,17 +71,17 @@ export default function Header({ path }: { path: string }) {
                     {"\n"}
                     <div className="q_logo">
                       {"\n"}
-                      <a itemProp="url" href="/">
+                      <a itemProp="url" href="/" style={{ height: "90px", visibility: "visible" }}>
                         {"\n"}
-                        <img itemProp="image" className="normal" src="/img/img-e1471714f2.webp" alt="Logo" />
+                        <img itemProp="image" className="normal" src="/img/img-e1471714f2.webp" alt="Logo" style={{ height: "100%" }} />
                         {" "}
-                        <img itemProp="image" className="light" src="/img/img-1fa1cb9b91.gif" alt="Logo" />
+                        <img itemProp="image" className="light" src="/img/img-1fa1cb9b91.gif" alt="Logo" style={{ height: "100%" }} />
                         {" "}
-                        <img itemProp="image" className="dark" src="/img/img-dfa067ba7d.webp" alt="Logo" />
+                        <img itemProp="image" className="dark" src="/img/img-dfa067ba7d.webp" alt="Logo" style={{ height: "100%" }} />
                         {" "}
-                        <img itemProp="image" className="sticky" src="/img/img-69b743b791.png" alt="Logo" />
+                        <img itemProp="image" className="sticky" src="/img/img-69b743b791.png" alt="Logo" style={{ height: "100%" }} />
                         {" "}
-                        <img itemProp="image" className="mobile" src="/img/img-e1471714f2.webp" alt="Logo" />
+                        <img itemProp="image" className="mobile" src="/img/img-e1471714f2.webp" alt="Logo" style={{ height: "100%" }} />
                         {" "}
                       </a>
                       {"\n"}

@@ -1520,7 +1520,7 @@ export default function HomePage() {
                       {"\n"}
                     </div>
                     {"\n"}
-                    <div id="aioseo-local-map-6b0638f9144b9" className="aioseo-local-map" style={{ width: "100%", height: "450px" }}>
+                    <div id="aioseo-local-map-6b0638f9144b9" className="aioseo-local-map" style={{ width: "100%", height: "450px" }} data-lat="40.2806911" data-lng="-80.1236085" data-zoom="17">
                       {"\n"}
                       <style dangerouslySetInnerHTML={{ __html: "\n.aioseo-loading-spinner {\n\twidth: 35px;\n\theight: 35px;\n\tposition: absolute;\n}\n\n.aioseo-loading-spinner .double-bounce1,\n.aioseo-loading-spinner .double-bounce2 {\n\twidth: 100%;\n\theight: 100%;\n\tborder-radius: 50%;\n\tbackground-color: #fff;\n\topacity: 0.6;\n\tposition: absolute;\n\ttop: 0;\n\tleft: 0;\n\n\t-webkit-animation: aioseo-sk-bounce 1.3s infinite ease-in-out;\n\tanimation: aioseo-sk-bounce 1.3s infinite ease-in-out;\n}\n\n.aioseo-loading-spinner.dark .double-bounce1,\n.aioseo-loading-spinner.dark .double-bounce2 {\n\tbackground-color: #8C8F9A;\n}\n\n.aioseo-loading-spinner .double-bounce2 {\n\t-webkit-animation-delay: -0.65s;\n\tanimation-delay: -0.65s;\n}\n\n.aioseo-loading-spinner {}\n.aioseo-loading-spinner {}\n\n@-webkit-keyframes aioseo-sk-bounce {\n\t0%, 100% { -webkit-transform: scale(0.0) }\n\t50% { -webkit-transform: scale(1.0) }\n}\n\n@keyframes aioseo-sk-bounce {\n\t0%, 100% {\n\t\ttransform: scale(0.0);\n\t\t-webkit-transform: scale(0.0);\n\t} 50% {\n\t\ttransform: scale(1.0);\n\t\t-webkit-transform: scale(1.0);\n\t}\n}\n" }} />
                       {"\n"}

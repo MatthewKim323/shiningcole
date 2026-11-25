@@ -333,7 +333,7 @@ export default function Post13Page() {
                         <a className="sd-link-color"></a>
                       </div>
                       {"\n"}
-                      <div id="jp-relatedposts" className="jp-relatedposts">
+                      <div id="jp-relatedposts" className="jp-relatedposts" style={{ display: "block" }}>
                         {"\n"}
                         <h3 className="jp-relatedposts-headline">
                           <em>
@@ -341,6 +341,38 @@ export default function Post13Page() {
                           </em>
                         </h3>
                         {"\n"}
+                        <div className="jp-relatedposts-items jp-relatedposts-items-minimal jp-relatedposts-grid">
+                          <p className="jp-relatedposts-post jp-relatedposts-post0" data-post-id="2329" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2023/12/12/unlock-the-power-of-graphene-coatings-for-ultimate-vehicle-protection/" title="Unlock the Power of Graphene Coatings for Ultimate Vehicle Protection" data-origin="3582" data-position="0">
+                                Unlock the Power of Graphene Coatings for Ultimate Vehicle Protection
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Fall-Winter\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post1" data-post-id="5255" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2026/04/22/protect-from-bird-poop-bugs-and-grime-with-graphene/" title={"Bird Poop, Bugs &#038; Spring Grime: Why Spring Can Be Tough on Your Car’s Paint"} data-origin="3582" data-position="1">
+                                {"Bird Poop, Bugs & Spring Grime: Why Spring Can Be Tough on Your Car’s Paint"}
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Family Ownership\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post2" data-post-id="4054" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2025/04/10/choose-your-shine-at-glinting-bay-car-wash/" title="Choose Your Shine at Glinting Bay Car Wash" data-origin="3582" data-position="2">
+                                Choose Your Shine at Glinting Bay Car Wash
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Finish\""}
+                            </span>
+                          </p>
+                        </div>
                       </div>
                       {" "}
                     </div>

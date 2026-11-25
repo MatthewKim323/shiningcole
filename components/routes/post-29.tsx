@@ -296,7 +296,7 @@ export default function Post29Page() {
                         <a className="sd-link-color"></a>
                       </div>
                       {"\n"}
-                      <div id="jp-relatedposts" className="jp-relatedposts">
+                      <div id="jp-relatedposts" className="jp-relatedposts" style={{ display: "block" }}>
                         {"\n"}
                         <h3 className="jp-relatedposts-headline">
                           <em>
@@ -304,6 +304,38 @@ export default function Post29Page() {
                           </em>
                         </h3>
                         {"\n"}
+                        <div className="jp-relatedposts-items jp-relatedposts-items-minimal jp-relatedposts-grid">
+                          <p className="jp-relatedposts-post jp-relatedposts-post0" data-post-id="4254" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2025/09/26/we-can-make-a-difference-this-october/" title="WE CAN Make A Difference This October" data-origin="5613" data-position="0">
+                                WE CAN Make A Difference This October
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Community\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post1" data-post-id="5282" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/" title="More Power for the Vacuum Stations at Glinting Bay Car Wash" data-origin="5613" data-position="1">
+                                More Power for the Vacuum Stations at Glinting Bay Car Wash
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Community\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post2" data-post-id="4885" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2026/02/03/customer-story-winter-proof-with-graphene/" title="Customer Story: Winter Proof with Graphene" data-origin="5613" data-position="2">
+                                Customer Story: Winter Proof with Graphene
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Fall-Winter\""}
+                            </span>
+                          </p>
+                        </div>
                       </div>
                       {" "}
                     </div>

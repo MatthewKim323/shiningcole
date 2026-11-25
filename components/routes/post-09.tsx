@@ -301,7 +301,7 @@ export default function Post09Page() {
                               <a className="sd-link-color"></a>
                             </div>
                             {"\n"}
-                            <div id="jp-relatedposts" className="jp-relatedposts">
+                            <div id="jp-relatedposts" className="jp-relatedposts" style={{ display: "block" }}>
                               {"\n"}
                               <h3 className="jp-relatedposts-headline">
                                 <em>
@@ -309,6 +309,38 @@ export default function Post09Page() {
                                 </em>
                               </h3>
                               {"\n"}
+                              <div className="jp-relatedposts-items jp-relatedposts-items-minimal jp-relatedposts-grid">
+                                <p className="jp-relatedposts-post jp-relatedposts-post0" data-post-id="4045" data-post-format="false">
+                                  <span className="jp-relatedposts-post-title">
+                                    <a className="jp-relatedposts-post-a" href="/2025/03/20/the-value-of-family-owned-and-operated-businesses-in-the-care-care-world/" title="The Value of Family-Owned and Operated Businesses in the Care Care World" data-origin="65" data-position="0">
+                                      The Value of Family-Owned and Operated Businesses in the Care Care World
+                                    </a>
+                                  </span>
+                                  <span className="jp-relatedposts-post-context">
+                                    {"In \"Community\""}
+                                  </span>
+                                </p>
+                                <p className="jp-relatedposts-post jp-relatedposts-post1" data-post-id="5282" data-post-format="false">
+                                  <span className="jp-relatedposts-post-title">
+                                    <a className="jp-relatedposts-post-a" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/" title="More Power for the Vacuum Stations at Glinting Bay Car Wash" data-origin="65" data-position="1">
+                                      More Power for the Vacuum Stations at Glinting Bay Car Wash
+                                    </a>
+                                  </span>
+                                  <span className="jp-relatedposts-post-context">
+                                    {"In \"Community\""}
+                                  </span>
+                                </p>
+                                <p className="jp-relatedposts-post jp-relatedposts-post2" data-post-id="4024" data-post-format="false">
+                                  <span className="jp-relatedposts-post-title">
+                                    <a className="jp-relatedposts-post-a" href="/2025/02/18/key-trends-in-automated-car-wash-technology-for-2025/" title="Key Trends in Automated Car Wash Technology for 2025" data-origin="65" data-position="2">
+                                      Key Trends in Automated Car Wash Technology for 2025
+                                    </a>
+                                  </span>
+                                  <span className="jp-relatedposts-post-context">
+                                    {"In \"Community\""}
+                                  </span>
+                                </p>
+                              </div>
                             </div>
                             {" "}
                           </div>

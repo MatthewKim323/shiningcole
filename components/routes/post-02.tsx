@@ -259,7 +259,7 @@ export default function Post02Page() {
                               <a className="sd-link-color"></a>
                             </div>
                             {"\n"}
-                            <div id="jp-relatedposts" className="jp-relatedposts">
+                            <div id="jp-relatedposts" className="jp-relatedposts" style={{ display: "block" }}>
                               {"\n"}
                               <h3 className="jp-relatedposts-headline">
                                 <em>
@@ -267,6 +267,38 @@ export default function Post02Page() {
                                 </em>
                               </h3>
                               {"\n"}
+                              <div className="jp-relatedposts-items jp-relatedposts-items-minimal jp-relatedposts-grid">
+                                <p className="jp-relatedposts-post jp-relatedposts-post0" data-post-id="3867" data-post-format="false">
+                                  <span className="jp-relatedposts-post-title">
+                                    <a className="jp-relatedposts-post-a" href="/2024/11/04/unleashing-the-power-of-a-car-wash/" title="Unleashing the Power of a Car Wash" data-origin="2567" data-position="0">
+                                      Unleashing the Power of a Car Wash
+                                    </a>
+                                  </span>
+                                  <span className="jp-relatedposts-post-context">
+                                    {"In \"Finish\""}
+                                  </span>
+                                </p>
+                                <p className="jp-relatedposts-post jp-relatedposts-post1" data-post-id="2516" data-post-format="false">
+                                  <span className="jp-relatedposts-post-title">
+                                    <a className="jp-relatedposts-post-a" href="/2023/02/13/we-welcome-and-can-accommodate-your-eco-friendly-ride/" title="We Welcome and Can Accommodate Your Eco-Friendly Ride" data-origin="2567" data-position="1">
+                                      We Welcome and Can Accommodate Your Eco-Friendly Ride
+                                    </a>
+                                  </span>
+                                  <span className="jp-relatedposts-post-context">
+                                    {"In \"Technology\""}
+                                  </span>
+                                </p>
+                                <p className="jp-relatedposts-post jp-relatedposts-post2" data-post-id="5282" data-post-format="false">
+                                  <span className="jp-relatedposts-post-title">
+                                    <a className="jp-relatedposts-post-a" href="/2026/06/25/more-power-for-the-vacuum-stations-at-glinting-bay-car-wash/" title="More Power for the Vacuum Stations at Glinting Bay Car Wash" data-origin="2567" data-position="2">
+                                      More Power for the Vacuum Stations at Glinting Bay Car Wash
+                                    </a>
+                                  </span>
+                                  <span className="jp-relatedposts-post-context">
+                                    {"In \"Community\""}
+                                  </span>
+                                </p>
+                              </div>
                             </div>
                             {" "}
                           </div>

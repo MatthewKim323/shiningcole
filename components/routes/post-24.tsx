@@ -390,7 +390,7 @@ export default function Post24Page() {
                         <a className="sd-link-color"></a>
                       </div>
                       {"\n"}
-                      <div id="jp-relatedposts" className="jp-relatedposts">
+                      <div id="jp-relatedposts" className="jp-relatedposts" style={{ display: "block" }}>
                         {"\n"}
                         <h3 className="jp-relatedposts-headline">
                           <em>
@@ -398,6 +398,38 @@ export default function Post24Page() {
                           </em>
                         </h3>
                         {"\n"}
+                        <div className="jp-relatedposts-items jp-relatedposts-items-minimal jp-relatedposts-grid">
+                          <p className="jp-relatedposts-post jp-relatedposts-post0" data-post-id="81" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2023/07/18/the-truth-about-road-salts-effects-on-your-car/" title={"The Truth About Road Salt&#8217;s Effects on Your Car"} data-origin="4911" data-position="0">
+                                The Truth About Road Salt’s Effects on Your Car
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Fall-Winter\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post1" data-post-id="2567" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2022/09/20/snow-tires-vs-all-season-tires-choosing-the-right-tires-for-your-safety/" title="Snow Tires vs. All-Season Tires: Choosing the Right Tires for Your Safety" data-origin="4911" data-position="1">
+                                Snow Tires vs. All-Season Tires: Choosing the Right Tires for Your Safety
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Fall-Winter\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post2" data-post-id="4631" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2025/12/03/the-shine-sip-holiday-100-a-thank-you-to-our-community/" title={"The Shine &#038; Sip Holiday 100 — A Thank You to Our Community"} data-origin="4911" data-position="2">
+                                {"The Shine & Sip Holiday 100 — A Thank You to Our Community"}
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Community\""}
+                            </span>
+                          </p>
+                        </div>
                       </div>
                       {" "}
                     </div>

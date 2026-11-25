@@ -342,7 +342,7 @@ export default function Post10Page() {
                               <a className="sd-link-color"></a>
                             </div>
                             {"\n"}
-                            <div id="jp-relatedposts" className="jp-relatedposts">
+                            <div id="jp-relatedposts" className="jp-relatedposts" style={{ display: "block" }}>
                               {"\n"}
                               <h3 className="jp-relatedposts-headline">
                                 <em>
@@ -350,6 +350,38 @@ export default function Post10Page() {
                                 </em>
                               </h3>
                               {"\n"}
+                              <div className="jp-relatedposts-items jp-relatedposts-items-minimal jp-relatedposts-grid">
+                                <p className="jp-relatedposts-post jp-relatedposts-post0" data-post-id="3582" data-post-format="false">
+                                  <span className="jp-relatedposts-post-title">
+                                    <a className="jp-relatedposts-post-a" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/" title={"Nothing Bugs Us: Glinting Bay&#8217;s Graphene Coating for the Ultimate Vehicle Protection"} data-origin="2329" data-position="0">
+                                      Nothing Bugs Us: Glinting Bay’s Graphene Coating for the Ultimate Vehicle Protection
+                                    </a>
+                                  </span>
+                                  <span className="jp-relatedposts-post-context">
+                                    {"In \"Finish\""}
+                                  </span>
+                                </p>
+                                <p className="jp-relatedposts-post jp-relatedposts-post1" data-post-id="4054" data-post-format="false">
+                                  <span className="jp-relatedposts-post-title">
+                                    <a className="jp-relatedposts-post-a" href="/2025/04/10/choose-your-shine-at-glinting-bay-car-wash/" title="Choose Your Shine at Glinting Bay Car Wash" data-origin="2329" data-position="1">
+                                      Choose Your Shine at Glinting Bay Car Wash
+                                    </a>
+                                  </span>
+                                  <span className="jp-relatedposts-post-context">
+                                    {"In \"Finish\""}
+                                  </span>
+                                </p>
+                                <p className="jp-relatedposts-post jp-relatedposts-post2" data-post-id="5255" data-post-format="false">
+                                  <span className="jp-relatedposts-post-title">
+                                    <a className="jp-relatedposts-post-a" href="/2026/04/22/protect-from-bird-poop-bugs-and-grime-with-graphene/" title={"Bird Poop, Bugs &#038; Spring Grime: Why Spring Can Be Tough on Your Car’s Paint"} data-origin="2329" data-position="2">
+                                      {"Bird Poop, Bugs & Spring Grime: Why Spring Can Be Tough on Your Car’s Paint"}
+                                    </a>
+                                  </span>
+                                  <span className="jp-relatedposts-post-context">
+                                    {"In \"Family Ownership\""}
+                                  </span>
+                                </p>
+                              </div>
                             </div>
                             {" "}
                           </div>

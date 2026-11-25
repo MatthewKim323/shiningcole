@@ -339,7 +339,7 @@ export default function Post21Page() {
                         <a className="sd-link-color"></a>
                       </div>
                       {"\n"}
-                      <div id="jp-relatedposts" className="jp-relatedposts">
+                      <div id="jp-relatedposts" className="jp-relatedposts" style={{ display: "block" }}>
                         {"\n"}
                         <h3 className="jp-relatedposts-headline">
                           <em>
@@ -347,6 +347,38 @@ export default function Post21Page() {
                           </em>
                         </h3>
                         {"\n"}
+                        <div className="jp-relatedposts-items jp-relatedposts-items-minimal jp-relatedposts-grid">
+                          <p className="jp-relatedposts-post jp-relatedposts-post0" data-post-id="5613" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2026/09/28/breast-cancer-awareness-month-free-car-wash/" title="October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining" data-origin="4254" data-position="0">
+                                October at Glinting Bay: We CAN Make a Difference — and Keep Your Ride Shining
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Community\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post1" data-post-id="4045" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2025/03/20/the-value-of-family-owned-and-operated-businesses-in-the-care-care-world/" title="The Value of Family-Owned and Operated Businesses in the Care Care World" data-origin="4254" data-position="1">
+                                The Value of Family-Owned and Operated Businesses in the Care Care World
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Community\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post2" data-post-id="2759" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2022/08/14/family-serviced-businesses-create-community-benefits/" title="Family-Serviced Businesses Create Community Benefits" data-origin="4254" data-position="2">
+                                Family-Serviced Businesses Create Community Benefits
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Community\""}
+                            </span>
+                          </p>
+                        </div>
                       </div>
                       {" "}
                     </div>

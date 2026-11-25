@@ -280,7 +280,7 @@ export default function Post12Page() {
                         <a className="sd-link-color"></a>
                       </div>
                       {"\n"}
-                      <div id="jp-relatedposts" className="jp-relatedposts">
+                      <div id="jp-relatedposts" className="jp-relatedposts" style={{ display: "block" }}>
                         {"\n"}
                         <h3 className="jp-relatedposts-headline">
                           <em>
@@ -288,6 +288,38 @@ export default function Post12Page() {
                           </em>
                         </h3>
                         {"\n"}
+                        <div className="jp-relatedposts-items jp-relatedposts-items-minimal jp-relatedposts-grid">
+                          <p className="jp-relatedposts-post jp-relatedposts-post0" data-post-id="4087" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2025/05/25/safeguard-your-vehicle-from-acid-rain-and-uv-rays/" title="Safeguard Your Vehicle from Acid Rain and UV Rays" data-origin="3570" data-position="0">
+                                Safeguard Your Vehicle from Acid Rain and UV Rays
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Finish\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post1" data-post-id="3867" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2024/11/04/unleashing-the-power-of-a-car-wash/" title="Unleashing the Power of a Car Wash" data-origin="3570" data-position="1">
+                                Unleashing the Power of a Car Wash
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Finish\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post2" data-post-id="5255" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2026/04/22/protect-from-bird-poop-bugs-and-grime-with-graphene/" title={"Bird Poop, Bugs &#038; Spring Grime: Why Spring Can Be Tough on Your Car’s Paint"} data-origin="3570" data-position="2">
+                                {"Bird Poop, Bugs & Spring Grime: Why Spring Can Be Tough on Your Car’s Paint"}
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Family Ownership\""}
+                            </span>
+                          </p>
+                        </div>
                       </div>
                       {" "}
                     </div>

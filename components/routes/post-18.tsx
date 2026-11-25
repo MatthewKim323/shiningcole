@@ -462,7 +462,7 @@ export default function Post18Page() {
                         <a className="sd-link-color"></a>
                       </div>
                       {"\n"}
-                      <div id="jp-relatedposts" className="jp-relatedposts">
+                      <div id="jp-relatedposts" className="jp-relatedposts" style={{ display: "block" }}>
                         {"\n"}
                         <h3 className="jp-relatedposts-headline">
                           <em>
@@ -470,6 +470,38 @@ export default function Post18Page() {
                           </em>
                         </h3>
                         {"\n"}
+                        <div className="jp-relatedposts-items jp-relatedposts-items-minimal jp-relatedposts-grid">
+                          <p className="jp-relatedposts-post jp-relatedposts-post0" data-post-id="3582" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2024/07/13/nothing-bugs-us-glinting-bays-graphene-coating-for-the-ultimate-vehicle-protection/" title={"Nothing Bugs Us: Glinting Bay&#8217;s Graphene Coating for the Ultimate Vehicle Protection"} data-origin="4054" data-position="0">
+                                Nothing Bugs Us: Glinting Bay’s Graphene Coating for the Ultimate Vehicle Protection
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Finish\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post1" data-post-id="2329" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2023/12/12/unlock-the-power-of-graphene-coatings-for-ultimate-vehicle-protection/" title="Unlock the Power of Graphene Coatings for Ultimate Vehicle Protection" data-origin="4054" data-position="1">
+                                Unlock the Power of Graphene Coatings for Ultimate Vehicle Protection
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Fall-Winter\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post2" data-post-id="4087" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2025/05/25/safeguard-your-vehicle-from-acid-rain-and-uv-rays/" title="Safeguard Your Vehicle from Acid Rain and UV Rays" data-origin="4054" data-position="2">
+                                Safeguard Your Vehicle from Acid Rain and UV Rays
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Finish\""}
+                            </span>
+                          </p>
+                        </div>
                       </div>
                       {" "}
                     </div>

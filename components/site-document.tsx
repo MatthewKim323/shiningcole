@@ -3,6 +3,7 @@ import Footer from "@/components/shell/footer";
 import Behaviors from "@/components/behaviors";
 import ChatWidget from "@/components/chat-widget";
 import type { SiteRoute } from "@/lib/routes";
+import { HEAD_LINKS } from "@/lib/head-links";
 
 /** `?only=1` renders a route without the chrome, for clean per-page shots. */
 const ONLY = `if(/[?&]only=1/.test(location.search))document.documentElement.classList.add("only-1")`;
@@ -13,6 +14,9 @@ export default function SiteDocument({ route, children }: { route: SiteRoute; ch
       <head>
         <link rel="stylesheet" href={`/sitecss/${route.css}/`} />
         <link rel="stylesheet" href="/app.css" />
+        {HEAD_LINKS.map((l) => (
+          <link key={l.href + l.rel + (l.sizes ?? "")} {...l} />
+        ))}
         <script dangerouslySetInnerHTML={{ __html: ONLY }} />
       </head>
       <body className={route.bodyClass} suppressHydrationWarning>

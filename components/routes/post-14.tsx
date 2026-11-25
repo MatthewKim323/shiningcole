@@ -358,7 +358,7 @@ export default function Post14Page() {
                         <a className="sd-link-color"></a>
                       </div>
                       {"\n"}
-                      <div id="jp-relatedposts" className="jp-relatedposts">
+                      <div id="jp-relatedposts" className="jp-relatedposts" style={{ display: "block" }}>
                         {"\n"}
                         <h3 className="jp-relatedposts-headline">
                           <em>
@@ -366,6 +366,38 @@ export default function Post14Page() {
                           </em>
                         </h3>
                         {"\n"}
+                        <div className="jp-relatedposts-items jp-relatedposts-items-minimal jp-relatedposts-grid">
+                          <p className="jp-relatedposts-post jp-relatedposts-post0" data-post-id="2555" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2022/10/13/big-corporate-vehicle-washes-are-leaving-customers-disappointed-and-wet/" title="Big Corporate Vehicle Washes are Leaving Customers Disappointed and Wet" data-origin="3867" data-position="0">
+                                Big Corporate Vehicle Washes are Leaving Customers Disappointed and Wet
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Family Ownership\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post1" data-post-id="4087" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2025/05/25/safeguard-your-vehicle-from-acid-rain-and-uv-rays/" title="Safeguard Your Vehicle from Acid Rain and UV Rays" data-origin="3867" data-position="1">
+                                Safeguard Your Vehicle from Acid Rain and UV Rays
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Finish\""}
+                            </span>
+                          </p>
+                          <p className="jp-relatedposts-post jp-relatedposts-post2" data-post-id="4054" data-post-format="false">
+                            <span className="jp-relatedposts-post-title">
+                              <a className="jp-relatedposts-post-a" href="/2025/04/10/choose-your-shine-at-glinting-bay-car-wash/" title="Choose Your Shine at Glinting Bay Car Wash" data-origin="3867" data-position="2">
+                                Choose Your Shine at Glinting Bay Car Wash
+                              </a>
+                            </span>
+                            <span className="jp-relatedposts-post-context">
+                              {"In \"Finish\""}
+                            </span>
+                          </p>
+                        </div>
                       </div>
                       {" "}
                     </div>
