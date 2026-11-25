@@ -242,9 +242,44 @@ function maps() {
   }
 }
 
+
+/** The phone-shortcut page: setup steps for the visitor's platform; ?open=1 (the saved shortcut) forwards to the portal. */
+function portalShortcut(offs: Off[]) {
+  const box = document.getElementById("gbcwSetupInstructions");
+  if (!box) return;
+  const portalUrl = document.querySelector<HTMLAnchorElement>(".gbcw-portal-button")?.href ?? "/";
+  const ua = navigator.userAgent.toLowerCase();
+  const isIOS = /iphone|ipad|ipod/.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  const isAndroid = /android/.test(ua);
+  if (new URLSearchParams(location.search).get("open") === "1") {
+    box.innerHTML = "<strong>Opening portal...</strong> You are being sent to the secure Glinting Bay customer portal.";
+    const t = window.setTimeout(() => { location.href = portalUrl; }, 1000);
+    offs.push(() => clearTimeout(t));
+    return;
+  }
+  if (isAndroid) {
+    box.innerHTML = "<strong>Android setup:</strong><ol><li>Tap the Chrome <strong>3-dot menu</strong>.</li><li>Choose <strong>Install app</strong> if available.</li><li>If offered, name it <strong>Glinting Bay</strong>.</li><li>Tap <strong>Install</strong> or <strong>Add</strong>.</li><li>After saving it, use the button below to continue to the customer portal.</li></ol>";
+    return;
+  }
+  if (isIOS) {
+    box.innerHTML = "<strong>iPhone setup:</strong><ol><li>Open this page in Safari.</li><li>Tap the <strong>Share</strong> button.</li><li>Choose <strong>Add to Home Screen</strong>.</li><li>Name it <strong>Glinting Bay</strong>.</li><li>Tap <strong>Add</strong>.</li><li>After saving it, use the button below to continue to the customer portal.</li></ol>";
+    return;
+  }
+  box.innerHTML = "<strong>Setup:</strong> Use your browser menu to save or bookmark this Glinting Bay customer portal shortcut page.";
+}
+
+/** Search overlay colours follow the page: ink and surface from the body. */
+function searchColors() {
+  const c = getComputedStyle(document.body), r = document.documentElement;
+  if (c.color) r.style.setProperty("--jp-search-page-ink", c.color);
+  const bg = c.backgroundColor;
+  if (bg && bg !== c.color && bg !== "rgba(0, 0, 0, 0)" && bg !== "transparent") r.style.setProperty("--jp-search-page-surface", bg);
+}
+
 export default function Behaviors() {
   useEffect(() => {
     const offs: Off[] = [];
+    searchColors();
     backToTop(offs);
     mobileMenu(offs);
     hoverColors(offs);
@@ -254,6 +289,7 @@ export default function Behaviors() {
     accordions(offs);
     masonry(offs);
     maps();
+    portalShortcut(offs);
     return () => offs.forEach((f) => f());
   }, []);
   return null;
