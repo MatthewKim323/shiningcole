@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+.env*
+.DS_Store
+# measured ground truth stays local: only the rulebook docs are tracked
+reference/*
+!reference/*.md

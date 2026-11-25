@@ -1,0 +1,2 @@
+/* rebuild-only rules: the no-chrome shot mode */
+.only-1 header.page_header, .only-1 footer, .only-1 #back_to_top, .only-1 .lmn-chat { display: none !important; }

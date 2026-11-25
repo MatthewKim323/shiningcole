@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="style.css?ver=2026100602" />
+</head>
+
+<body>
+	<div id="target"></div>
+</body>
+
+</html>

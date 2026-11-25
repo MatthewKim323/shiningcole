@@ -1,0 +1,24 @@
+{
+  "name": "lumen",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3777",
+    "build": "next build",
+    "start": "next start -p 3777"
+  },
+  "dependencies": {
+    "motion": "^14.1.0",
+    "next": "16.4.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  },
+  "packageManager": "bun@1.3.12",
+  "trustedDependencies": ["sharp", "unrs-resolver"]
+}
