@@ -15,7 +15,8 @@ bun run build
 - `app/[[...slug]]/` is the only page route. The root layout reads the route from `lib/routes.ts` (path, title, description, body class, stylesheet key) and renders `components/site-document.tsx`.
 - `components/routes/*.tsx` holds each route's content, one file per route. `components/shell/` holds the header and footer, shared by every route. Menu items take their current-page classes from `lib/menu-state.ts`.
 - Each route has its own exact stylesheet. The statements live once each in `styles/chunks/`, and `app/sitecss/[key]/route.ts` stitches a route's sequence back together at build time (43 distinct cascades from 3.7 MB of chunks).
-- `components/behaviors.tsx` has every scripted behaviour: back-to-top, the mobile menu, button and social-icon hover colours, entrance animations, lazy backgrounds, parallax, FAQ accordions, the masonry news grid and the map. `components/chat-widget.tsx` is the floating offer card and chat launcher.
+- `components/behaviors.tsx` has every scripted behaviour: back-to-top, the mobile menu, button and social-icon hover colours, entrance animations, lazy backgrounds, parallax, FAQ accordions, the masonry news grid, the photo gallery grid and its lightbox, the phone-shortcut setup steps and the map. `components/chat-widget.tsx` is the floating offer card and chat launcher.
+- Script end states that are the same on every load (accordion first panel open, related posts, the likes frame, logo sizing) are part of the markup, so nothing shifts after load.
 - `proxy.ts` sends `?share=twitter|facebook` on to the network's share page. `next.config.ts` sends `/freewash/` to support until a sign-up form exists.
 - Assets are content addressed under `public/img`, `public/fonts` and `public/media`.
 
