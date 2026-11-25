@@ -276,6 +276,46 @@ function searchColors() {
   if (bg && bg !== c.color && bg !== "rgba(0, 0, 0, 0)" && bg !== "transparent") r.style.setProperty("--jp-search-page-surface", bg);
 }
 
+/** Elementor gallery, grid layout: the e-gallery library sets columns / gaps / ratio per device as custom properties. */
+function galleries(offs: Off[]) {
+  for (const w of document.querySelectorAll<HTMLElement>(".elementor-widget-gallery")) {
+    const box = w.querySelector<HTMLElement>(".elementor-gallery__container");
+    if (!box) continue;
+    let s: Record<string, any> = {};
+    try { s = JSON.parse(w.dataset.settings || "{}"); } catch { continue; }
+    if ((s.gallery_layout ?? "grid") !== "grid") continue;
+    const items = [...box.querySelectorAll<HTMLElement>(":scope > .e-gallery-item")];
+    const [rw, rh] = String(s.aspect_ratio || "3:2").split(":").map(Number);
+    const ratio = (rh / rw) * 100;
+    box.classList.add("e-gallery-container", "e-gallery-grid", "e-gallery--ltr");
+    for (const it of items) {
+      const img = it.querySelector<HTMLElement>(".e-gallery-image");
+      if (img?.dataset.thumbnail) img.style.backgroundImage = `url("${img.dataset.thumbnail}")`;
+    }
+    const layout = () => {
+      // e-gallery picks the first breakpoint the window is strictly narrower than (767, 1024)
+      const dev = window.innerWidth < 767 ? "_mobile" : window.innerWidth < 1024 ? "_tablet" : "";
+      const pick = (k: string) => s[k + dev] ?? (dev === "_mobile" ? s[k + "_tablet"] : undefined) ?? s[k];
+      const cols = Number(pick("columns")) || 1;
+      const gap = Number(pick("gap")?.size ?? 10);
+      const rows = Math.ceil(items.length / cols);
+      const W = box.getBoundingClientRect().width;
+      const itemW = (W - (cols - 1) * gap) / cols;
+      const H = rows * itemW * (ratio / 100) + (rows - 1) * gap;
+      box.style.setProperty("--hgap", `${gap}px`);
+      box.style.setProperty("--vgap", `${gap}px`);
+      box.style.setProperty("--animation-duration", "350ms");
+      box.style.setProperty("--columns", String(cols));
+      box.style.setProperty("--rows", String(rows));
+      box.style.setProperty("--aspect-ratio", `${ratio}%`);
+      box.style.setProperty("--container-aspect-ratio", `${W ? (H / W) * 100 : 0}%`);
+      items.forEach((it, i) => { it.style.setProperty("--column", String(i % cols)); it.style.setProperty("--row", String(Math.floor(i / cols))); });
+    };
+    layout();
+    on(window, "resize", layout, offs);
+  }
+}
+
 export default function Behaviors() {
   useEffect(() => {
     const offs: Off[] = [];
@@ -288,6 +328,7 @@ export default function Behaviors() {
     parallax(offs);
     accordions(offs);
     masonry(offs);
+    galleries(offs);
     maps();
     portalShortcut(offs);
     return () => offs.forEach((f) => f());

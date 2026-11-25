@@ -154,25 +154,25 @@ export default function Post27Page() {
                                 {"\n"}
                                 <div className="elementor-gallery__container">
                                   {"\n"}
-                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-c78646351e.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="glinting bay car wash vacuum updates 1" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NTI5MSwidXJsIjoiaHR0cHM6XC9cL3NoaW5pbmdzdGFyd2FzaC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzA2XC9zaGluaW5nLXN0YXItY2FyLXdhc2gtdmFjdXVtLXVwZGF0ZXMtMS5qcGciLCJzbGlkZXNob3ciOiJmN2Q4OTE2In0%3D">
+                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-c78646351e.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="glinting bay car wash vacuum updates 1">
                                     {"\n"}
-                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail={"https://i0.wp.com/glintingbaywash.com/wp-content/uploads/2026/06/glinting-bay-car-wash-vacuum-updates-1.jpg?fit=960%2C1280&ssl=1"} data-width="960" data-height="1280" aria-label="glinting bay car wash vacuum updates 1" role="img"></div>
-                                    {"\n"}
-                                    <div className="elementor-gallery-item__overlay"></div>
-                                    {"\n"}
-                                  </a>
-                                  {"\n"}
-                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-b00dfbfef5.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="glinting bay car wash vacuum updates 2" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NTI5MiwidXJsIjoiaHR0cHM6XC9cL3NoaW5pbmdzdGFyd2FzaC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzA2XC9zaGluaW5nLXN0YXItY2FyLXdhc2gtdmFjdXVtLXVwZGF0ZXMtMi5qcGciLCJzbGlkZXNob3ciOiJmN2Q4OTE2In0%3D">
-                                    {"\n"}
-                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail={"https://i0.wp.com/glintingbaywash.com/wp-content/uploads/2026/06/glinting-bay-car-wash-vacuum-updates-2.jpg?fit=960%2C1280&ssl=1"} data-width="960" data-height="1280" aria-label="glinting bay car wash vacuum updates 2" role="img"></div>
+                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail="/img/img-c78646351e.jpg" data-width="960" data-height="1280" aria-label="glinting bay car wash vacuum updates 1" role="img"></div>
                                     {"\n"}
                                     <div className="elementor-gallery-item__overlay"></div>
                                     {"\n"}
                                   </a>
                                   {"\n"}
-                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-3922fa2cb4.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="glinting bay car wash vacuum updates 3" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NTI5MywidXJsIjoiaHR0cHM6XC9cL3NoaW5pbmdzdGFyd2FzaC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzA2XC9zaGluaW5nLXN0YXItY2FyLXdhc2gtdmFjdXVtLXVwZGF0ZXMtMy5qcGciLCJzbGlkZXNob3ciOiJmN2Q4OTE2In0%3D">
+                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-b00dfbfef5.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="glinting bay car wash vacuum updates 2">
                                     {"\n"}
-                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail={"https://i0.wp.com/glintingbaywash.com/wp-content/uploads/2026/06/glinting-bay-car-wash-vacuum-updates-3.jpg?fit=960%2C1280&ssl=1"} data-width="960" data-height="1280" aria-label="glinting bay car wash vacuum updates 3" role="img"></div>
+                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail="/img/img-b00dfbfef5.jpg" data-width="960" data-height="1280" aria-label="glinting bay car wash vacuum updates 2" role="img"></div>
+                                    {"\n"}
+                                    <div className="elementor-gallery-item__overlay"></div>
+                                    {"\n"}
+                                  </a>
+                                  {"\n"}
+                                  <a className="e-gallery-item elementor-gallery-item elementor-animated-content" href="/img/img-3922fa2cb4.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f7d8916" data-elementor-lightbox-title="glinting bay car wash vacuum updates 3">
+                                    {"\n"}
+                                    <div className="e-gallery-image elementor-gallery-item__image" data-thumbnail="/img/img-3922fa2cb4.jpg" data-width="960" data-height="1280" aria-label="glinting bay car wash vacuum updates 3" role="img"></div>
                                     {"\n"}
                                     <div className="elementor-gallery-item__overlay"></div>
                                     {"\n"}
