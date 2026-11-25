@@ -426,7 +426,7 @@ export default function FleetPlanPage() {
                             {" or 📧 Email "}
                             <strong data-start="366" data-end="387">
                               <a className="cursor-pointer" rel="noopener" data-start="368" data-end="385">
-                                sstarcw@gmail.com
+                                clubmember@glintingbaywash.com
                               </a>
                             </strong>
                             {" to get started today!"}

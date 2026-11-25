@@ -148,7 +148,7 @@ export default function Post12Page() {
                                   Phone: (724) 941-9888
                                 </p>
                                 <p dir="ltr">
-                                  Email: sstarcw@gmail.com
+                                  Email: clubmember@glintingbaywash.com
                                 </p>
                                 <p dir="ltr">
                                   {"Website: "}

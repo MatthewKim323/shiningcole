@@ -164,7 +164,7 @@ export default function Post11Page() {
                                   Phone: (724) 941-9888
                                 </p>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
-                                  Email: sstarcw@gmail.com
+                                  Email: clubmember@glintingbaywash.com
                                 </p>
                                 <p className="text-body font-regular text-gray-800 leading-[24px] pt-[9px] pb-[2px]" dir="ltr">
                                   {"Website: "}

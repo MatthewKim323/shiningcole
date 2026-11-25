@@ -1665,8 +1665,8 @@ export default function HelpAndSupportPage() {
                               <strong>
                                 {"Yes, please email your resume to  "}
                               </strong>
-                              <a href="mailto:sstarcw@gmail.com">
-                                sstarcw@gmail.com
+                              <a href="mailto:clubmember@glintingbaywash.com">
+                                clubmember@glintingbaywash.com
                               </a>
                             </p>
                             {" "}

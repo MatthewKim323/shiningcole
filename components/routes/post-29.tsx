@@ -148,7 +148,7 @@ export default function Post29Page() {
                                 </p>
                                 <p>
                                   <strong>
-                                    <a href="https://www.nautilus-app.com/c/form/ec09677e-2be1-42b2-b180-efd7c1fdbc24?dub_id=DdctRonFmbsJYOaD">
+                                    <a href="/freewash/">
                                       SIGN UP FOR YOUR FREE WASH
                                     </a>
                                   </strong>

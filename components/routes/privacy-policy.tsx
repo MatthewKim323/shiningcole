@@ -83,7 +83,7 @@ export default function PrivacyPolicyPage() {
                         </strong>
                         <br />
                         <br />
-                        {"In order to ensure that the information we maintain is accurate, GBCW gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please contact us via email at < sstarcw at gmail dot com >. GBCW is not responsible for updating information contained in third party lists or databases.   Security   We are committed to taking reasonable steps to ensure the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put into place physical, electronic, and managerial procedures to help safeguard and secure the information we collect online. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and us or information stored on the Site or our servers, will be completely free from unauthorized access by third parties such as hackers and your use of the Site demonstrates your assumption of this risk."}
+                        {"In order to ensure that the information we maintain is accurate, GBCW gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please contact us via email at < gbaycw at gmail dot com >. GBCW is not responsible for updating information contained in third party lists or databases.   Security   We are committed to taking reasonable steps to ensure the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put into place physical, electronic, and managerial procedures to help safeguard and secure the information we collect online. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and us or information stored on the Site or our servers, will be completely free from unauthorized access by third parties such as hackers and your use of the Site demonstrates your assumption of this risk."}
                         <br />
                         <br />
                         <strong>
@@ -100,7 +100,7 @@ export default function PrivacyPolicyPage() {
                         </strong>
                         <br />
                         <br />
-                        {"If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact us via email to: < sstarcw at gmail dot com > This privacy policy was last updated on December 17, 2023."}
+                        {"If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact us via email to: < gbaycw at gmail dot com > This privacy policy was last updated on December 17, 2023."}
                       </p>
                       {"\n"}
                       <h3>
